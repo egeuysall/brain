@@ -1,0 +1,47 @@
+{
+  "name": "brain",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Ryva knowledge repository formatting tooling",
+  "scripts": {
+    "format": "prettier --write ."
+  },
+  "devDependencies": {
+    "@ianvs/prettier-plugin-sort-imports": "4.7.1",
+    "prettier": "3.8.1",
+    "prettier-plugin-tailwindcss": "0.7.2"
+  },
+  "prettier": {
+    "arrowParens": "avoid",
+    "bracketSpacing": true,
+    "endOfLine": "lf",
+    "jsxSingleQuote": false,
+    "semi": false,
+    "singleQuote": false,
+    "tabWidth": 2,
+    "trailingComma": "none",
+    "plugins": [
+      "@ianvs/prettier-plugin-sort-imports",
+      "prettier-plugin-tailwindcss"
+    ],
+    "importOrder": [
+      "^react$",
+      "",
+      "^next",
+      "",
+      "<THIRD_PARTY_MODULES>",
+      "",
+      "^@/features/(.*)$",
+      "",
+      "^@/components/(.*)$",
+      "",
+      "^@/lib/(.*)$",
+      "",
+      "^@/hooks/(.*)$",
+      "",
+      "^@/public/(.*)$",
+      "",
+      "^[./]"
+    ]
+  }
+}

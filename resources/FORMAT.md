@@ -49,12 +49,15 @@ tags: [weekly, updates]
 # Weekly Product Update #12
 
 ## Wins
+
 - ...
 
 ## Risks
+
 - ...
 
 ## Next Week
+
 - ...
 ```
 

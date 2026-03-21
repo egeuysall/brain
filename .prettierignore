@@ -1,0 +1,3 @@
+tooling/shortcuts/*.shortcut
+tooling/.DS_Store
+tooling/__pycache__/

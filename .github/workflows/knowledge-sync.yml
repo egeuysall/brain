@@ -3,8 +3,8 @@ name: Knowledge Sync
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 11 * * *'
-    - cron: '0 12 * * *'
+    - cron: "0 11 * * *"
+    - cron: "0 12 * * *"
 
 concurrency:
   group: knowledge-sync
@@ -25,7 +25,7 @@ jobs:
       - name: Setup Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.12'
+          python-version: "3.12"
 
       - name: Guard scheduled runs to 06:00 America/Chicago
         id: guard

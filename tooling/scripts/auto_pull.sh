@@ -3,7 +3,7 @@
 set -euo pipefail
 
 REPO="/Users/egeuysal/Developer/brain"
-LOCK_DIR="${HOME}/.cache/brain-autopull.lockdir"
+LOCK_DIR="${HOME}/.cache/brain-git-sync.lockdir"
 
 mkdir -p "${HOME}/.cache"
 

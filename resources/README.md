@@ -3,6 +3,7 @@
 Place manual context files here so Ryva can index them with the automated feeds.
 
 Recommended categories:
+
 - `notes/`
 - `docs/`
 - `articles/`
@@ -11,6 +12,7 @@ Recommended categories:
 - `transcripts/`
 
 Guidelines:
+
 - Keep files in stable folders and use descriptive filenames.
 - Prefer one topic per file.
 - Add dates in filenames for time-sensitive content (for example `2026-03-21-weekly-update.md`).
