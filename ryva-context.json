@@ -1,0 +1,17 @@
+{
+  "schemaVersion": 3,
+  "description": "Canonical context configuration for Ryva",
+  "defaultSources": [
+    "context/latest/knowledge.json",
+    "resources/**"
+  ],
+  "expandableSources": [
+    "context/latest/diary/*.json",
+    "context/latest/blog/*.json"
+  ],
+  "defaultPolicy": {
+    "preferLatestSync": true,
+    "expandEntryFilesOnDemand": true,
+    "excludeLegacyByDefault": true
+  }
+}

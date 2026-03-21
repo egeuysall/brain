@@ -1,0 +1,60 @@
+name: Knowledge Sync
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '0 11 * * *'
+    - cron: '0 12 * * *'
+
+concurrency:
+  group: knowledge-sync
+  cancel-in-progress: false
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Guard scheduled runs to 06:00 America/Chicago
+        id: guard
+        run: >
+          python3 tooling/scripts/schedule_guard.py --event "${{ github.event_name }}"
+          --timezone "America/Chicago" --target-time "06:00" --write-github-output
+
+      - name: Run unit tests
+        if: steps.guard.outputs.run_sync == 'true'
+        run: python3 -m unittest discover -s tooling/tests -p 'test_*.py'
+
+      - name: Sync knowledge feeds
+        if: steps.guard.outputs.run_sync == 'true'
+        run: python3 tooling/scripts/sync_knowledge.py
+
+      - name: Commit and push changes
+        if: steps.guard.outputs.run_sync == 'true' && env.ACT != 'true'
+        env:
+          GIT_AUTHOR_NAME: github-actions[bot]
+          GIT_AUTHOR_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+          GIT_COMMITTER_NAME: github-actions[bot]
+          GIT_COMMITTER_EMAIL: 41898282+github-actions[bot]@users.noreply.github.com
+        run: |
+          git add -A
+
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+
+          git commit -m "chore(sync): refresh latest knowledge context"
+          git push
