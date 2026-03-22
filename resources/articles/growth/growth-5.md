@@ -37,6 +37,7 @@ P.S. Want to share your success? [Feature request link]
 ```
 
 **Test Variables:**
+
 - Milestone selection: Usage vs. time vs. achievement
 - Tone: Celebratory vs. encouraging vs. neutral
 - Next step suggestion: Yes vs. no
@@ -82,6 +83,7 @@ P.S. You're [positive framing of progress]
 ```
 
 **Test Variables:**
+
 - Frequency: Monthly vs. weekly vs. quarterly
 - Metric selection: 3 vs. 5 vs. 7
 - Comparison: vs. others vs. vs. self only
@@ -124,6 +126,7 @@ P.S. Members have [specific benefit example]
 ```
 
 **Test Variables:**
+
 - Criteria: Usage-based vs. tenure vs. advocacy
 - Exclusivity emphasis: High vs. moderate
 - Platform: Slack vs. Discord vs. private forum
@@ -169,6 +172,7 @@ P.S. Limited to first [X] members
 ```
 
 **Test Variables:**
+
 - Platform: Slack vs. Discord vs. Circle vs. forum
 - Open vs. application-only
 - Moderation: Heavy vs. light

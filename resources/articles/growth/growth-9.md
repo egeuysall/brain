@@ -40,6 +40,7 @@
 ```
 
 **Test Variables:**
+
 - Frequency: Monthly vs. weekly
 - Distribution: Email vs. dashboard vs. meeting
 - Metric selection: Which KPIs to track

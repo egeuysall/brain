@@ -17,6 +17,7 @@ Example: "See Your Custom ROI in 5 Minutes"
 ```
 
 **Test Variables:**
+
 - Outcome-focused vs. feature-focused headline
 - With vs. without pain point mention
 - Social proof number: Customers vs. users
@@ -47,6 +48,7 @@ Objection Handler: "Works with [existing tools]. Set up in [timeframe]. No [comm
 ```
 
 **Test Variables:**
+
 - Agitation intensity: Mild vs. strong
 - Number of pain points: 3 vs. 5
 - Proof format: Quote vs. stat
@@ -71,6 +73,7 @@ Level 6 - Case Study Link: "See how [Similar Company] achieved [result]"
 ```
 
 **Test Variables:**
+
 - Number of proof levels included
 - Placement on page (above fold vs. throughout)
 - Logo quantity and size
@@ -97,6 +100,7 @@ Use: Action verbs + Benefit + Urgency/Ease
 ```
 
 **Test Variables:**
+
 - Outcome-based vs. action-based
 - Button color and size
 - First-person (“Start My Trial”) vs. second-person (“Start Your Trial”)
@@ -129,6 +133,7 @@ Trust: [6-8 company logos]
 ```
 
 **Test Variables:**
+
 - Image type: Product vs. people vs. results
 - CTA placement: Center vs. right vs. left
 - Trust indicator type: Logos vs. stat vs. rating

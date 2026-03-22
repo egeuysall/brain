@@ -49,7 +49,7 @@ Feedback welcome!
 
 **Realistic results:** Top 10 = 20-80 signups
 
-**Reality variance:** In 2025, ProductHunt is saturated. Top 10 might get 10-30 *actual activated users*. Top 20 might only get 5-15. Some launches flop completely despite good products. Don't put all eggs in this basket.
+**Reality variance:** In 2025, ProductHunt is saturated. Top 10 might get 10-30 _actual activated users_. Top 20 might only get 5-15. Some launches flop completely despite good products. Don't put all eggs in this basket.
 
 ---
 

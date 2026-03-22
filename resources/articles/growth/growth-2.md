@@ -40,6 +40,7 @@ P.S. Previous workshop feedback: "[Quote]"
 ```
 
 **Test Variables:**
+
 - Title: “Webinar” vs. “Workshop” vs. “Masterclass”
 - Registration page: Simple vs. detailed
 - Limit: Real vs. none
@@ -107,6 +108,7 @@ Code: [CODE]
 ```
 
 **Test Variables:**
+
 - Email timing: Immediate vs. next day
 - Offer size: 10% vs. 20% vs. extended trial
 - Sequence length: 2 vs. 3 vs. 4 emails
@@ -162,6 +164,7 @@ Let's continue - [next step suggestion]
 ```
 
 **Test Variables:**
+
 - Pre-event timing: 1 week vs. 2 days
 - Meeting location: Specific vs. flexible
 - Post-event timing: Same day vs. next day

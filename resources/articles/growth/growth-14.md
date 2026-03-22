@@ -56,6 +56,7 @@ What would bring you back?
 ```
 
 **Test Variables:**
+
 - Timing: 30/60/90 days inactive
 - Tone: Concerned vs. neutral vs. promotional
 - Incentive: Discount vs. new features vs. none
@@ -88,6 +89,7 @@ What's stopping you?
 ```
 
 **Test Variables:**
+
 - Retarget window: 7 days vs. 30 days vs. 90 days
 - Creative: Static vs. video vs. carousel
 - Offer: Discount vs. trial extension vs. none

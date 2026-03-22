@@ -31,6 +31,7 @@ P.S. [Number] mutual customers who've requested: [Examples]
 ```
 
 **Test Variables:**
+
 - Timing: Before building vs. after MVP
 - Customer proof: List vs. count only
 - Ask: Call vs. email discussion
@@ -71,6 +72,7 @@ Value for audience:
 ```
 
 **Test Variables:**
+
 - Asset type: Webinar vs. ebook vs. video series
 - Lead split: 50/50 vs. each keeps own
 - Investment: Time only vs. also budget

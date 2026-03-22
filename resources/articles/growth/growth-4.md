@@ -26,6 +26,7 @@ Content Types:
 ```
 
 **Test Variables:**
+
 - Product mention timing: End only vs. throughout
 - Format: Written vs. video vs. interactive
 - Depth: Quick tips vs. comprehensive guide
@@ -73,6 +74,7 @@ P.S. Top referrers have earned [achievement example]
 ```
 
 **Test Variables:**
+
 - Incentive type: Credit vs. cash vs. upgrade
 - Reward structure: Fixed vs. percentage vs. tiered
 - Timing: After X days/months vs. immediate
@@ -142,6 +144,7 @@ Questions? Just reply.
 ```
 
 **Test Variables:**
+
 - Trigger: Usage-based vs. time-based
 - Discount: Yes vs. trial vs. none
 - Touch count: 2 vs. 3 vs. 4
@@ -236,6 +239,7 @@ P.S. Found something better? Would love to know what worked: [Reply]
 ```
 
 **Test Variables:**
+
 - Survey placement: Email vs. cancellation flow
 - Incentive timing: Immediate vs. delayed
 - Offer size: 20% vs. 50% vs. free months
@@ -292,6 +296,7 @@ Choose [Your Product] if:
 ```
 
 **Test Variables:**
+
 - Honesty level: Completely objective vs. slightly favorable
 - Competitor selection: Top 1 vs. top 3
 - Switching emphasis: High vs. low
@@ -333,6 +338,7 @@ P.S. Offer valid for [timeframe]
 ```
 
 **Test Variables:**
+
 - Discount amount: 10% vs. 20% vs. 2 months free
 - Timing: After 3 months vs. 6 months vs. anytime
 - Additional perks: Yes vs. savings only

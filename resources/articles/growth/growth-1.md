@@ -23,6 +23,7 @@ CTA: "Send Me The [Asset Name]"
 ```
 
 **Test Variables:**
+
 - Title format: How-to vs. list vs. toolkit
 - Specificity: General vs. niche
 - Form fields: Email only vs. +name vs. +company

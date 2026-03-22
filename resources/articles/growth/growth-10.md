@@ -32,6 +32,7 @@ P.S. [Link to case study] might be good prep
 ```
 
 **Test Variables:**
+
 - Prep questions: 2 vs. 3 vs. form
 - Agenda sharing: Yes vs. no
 - Resources: Include vs. omit
@@ -71,6 +72,7 @@ Book follow-up or send proposal.
 ```
 
 **Test Variables:**
+
 - Time allocation: Shorter discovery vs. longer
 - Demo customization: Tailored vs. standard
 - Question order: Logical vs. impact-based

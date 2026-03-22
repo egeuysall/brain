@@ -22,6 +22,7 @@ Structure:
 ```
 
 **Test Variables:**
+
 - Hook type: Question vs. story vs. stat
 - Length: 150 words vs. 300 words
 - Line breaks: Frequent vs. paragraph format
@@ -50,6 +51,7 @@ Format Tips:
 ```
 
 **Test Variables:**
+
 - Thread length: 5 vs. 8 vs. 10 tweets
 - Numbering: Yes vs. no
 - Images: Every 3rd tweet vs. first only

@@ -30,6 +30,7 @@ P.S. We built [Product] because [personal story in one line]
 ```
 
 **Test Variables:**
+
 - From name: Founder vs. team member vs. company
 - Step count: 3 vs. 5 vs. single action
 - Emoji usage: Present vs. absent
@@ -65,6 +66,7 @@ Stuck? [Link to 60-sec video walkthrough]
 ```
 
 **Test Variables:**
+
 - Send timing: Day 1 vs. 12 hours vs. 48 hours
 - Urgency level: Strong vs. gentle
 - Video vs. text instructions
@@ -103,6 +105,7 @@ Questions? Just reply to this email.
 ```
 
 **Test Variables:**
+
 - Behavior-triggered vs. time-triggered
 - Single feature vs. multiple features
 - GIF vs. screenshot vs. video
@@ -143,6 +146,7 @@ Or [Link to Full Case Study]
 ```
 
 **Test Variables:**
+
 - Company similarity: Same industry vs. same size vs. same challenge
 - Story length: Brief vs. detailed
 - CTA: Call vs. resource vs. both
@@ -182,6 +186,7 @@ P.S. No pressure to respond if you're all set. Just want to make sure you're get
 ```
 
 **Test Variables:**
+
 - Timing: Mid-trial vs. Day 7 specifically
 - Question format: Open-ended vs. multiple choice
 - Incentive for response: Yes vs. no
@@ -251,6 +256,7 @@ Your feedback helps us improve.
 ```
 
 **Test Variables:**
+
 - Email count: 2 vs. 3 vs. 4
 - Extension offer: Proactive vs. on request
 - Discount timing: Never vs. last email only

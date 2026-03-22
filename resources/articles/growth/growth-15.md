@@ -40,6 +40,7 @@ P.S. Available on [plans]. [Upgrade link if needed]
 ```
 
 **Test Variables:**
+
 - Announcement timing: Everyone vs. segmented rollout
 - Visual: GIF vs. video vs. screenshot
 - Call-to-action: Try now vs. learn more
@@ -88,6 +89,7 @@ What would make [Product] perfect for you?
 ```
 
 **Test Variables:**
+
 - Frequency: Quarterly vs. monthly
 - Detail level: High-level vs. specific
 - Voting mechanism: Public board vs. survey

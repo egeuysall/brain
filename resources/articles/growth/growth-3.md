@@ -28,6 +28,7 @@
 ```
 
 **Test Variables:**
+
 - Hook type: Question vs. stat vs. story
 - Demo style: Screen recording vs. animation vs. live action
 - Proof format: Testimonial vs. stat vs. logo
@@ -74,6 +75,7 @@ Would love your feedback on [specific question]!
 ```
 
 **Test Variables:**
+
 - Launch day: Tuesday vs. Wednesday
 - Tagline style: Benefit vs. feature
 - Special offer: Discount vs. lifetime deal vs. extended trial

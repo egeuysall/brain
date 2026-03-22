@@ -57,6 +57,7 @@ ENTERPRISE - Custom
 ```
 
 **Test Variables:**
+
 - Tier count: 2 vs. 3 vs. 4
 - Anchor pricing: Show annual vs. monthly
 - Feature list: Comprehensive vs. highlights only
@@ -111,6 +112,7 @@ Other savings: $[D]
 ```
 
 **Test Variables:**
+
 - Input count: 3 vs. 5 vs. 7
 - Input type: Slider vs. dropdown vs. text
 - Results display: Simple vs. detailed

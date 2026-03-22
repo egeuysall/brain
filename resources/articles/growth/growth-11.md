@@ -25,6 +25,7 @@ P.S. No pressure if timing isn't right - happy to send over the case study eithe
 ```
 
 **Test Variables:**
+
 - Subject line: Question vs. statement vs. benefit
 - Opening: Trigger event vs. direct problem statement
 - Length: This version vs. 2-sentence version
@@ -57,6 +58,7 @@ Best,
 ```
 
 **Test Variables:**
+
 - Mutual connection in subject vs. body
 - Permission-based ask vs. direct CTA
 - Length of context provided
@@ -88,6 +90,7 @@ If it's helpful and you want to chat about how we're helping companies like [Sim
 ```
 
 **Test Variables:**
+
 - Resource type: PDF vs. video vs. tool
 - Immediate link vs. “reply for access”
 - Explicit “no pitch” statement vs. implied
@@ -119,6 +122,7 @@ Would a 15-min call to walk through it be useful?
 ```
 
 **Test Variables:**
+
 - Question in subject vs. body only
 - Seasonal timing reference vs. general
 - Framework offer vs. case study offer
@@ -154,6 +158,7 @@ Want to see if we could do something similar for [Their Company]?
 ```
 
 **Test Variables:**
+
 - Story length: Brief vs. detailed
 - Timeline specificity: Exact dates vs. general timeframe
 - CTA options: One vs. multiple choices

@@ -24,6 +24,7 @@ Targeting: Title + Industry + Company Size
 ```
 
 **Test Variables:**
+
 - Headline: Question vs. statement vs. command
 - Social proof: Company names vs. count only
 - Image type: Product vs. customer vs. data viz
@@ -58,6 +59,7 @@ Tap link → [action]
 ```
 
 **Test Variables:**
+
 - Video vs. carousel vs. static image
 - Hook: Problem vs. benefit vs. curiosity
 - Length: 30 sec vs. 60 sec vs. 15 sec

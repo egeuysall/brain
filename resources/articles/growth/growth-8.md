@@ -22,6 +22,7 @@ Hi [Name], saw your post on [topic] - would love to connect and follow your insi
 ```
 
 **Test Variables:**
+
 - Blank vs. personalized note
 - Note length: 1 sentence vs. 2-3 sentences
 - Targeting: Broad vs. highly specific
@@ -51,6 +52,7 @@ No pitch - genuinely looking for insights.
 ```
 
 **Test Variables:**
+
 - Timing: Immediately vs. 24 hours later
 - Ask type: Feedback vs. share resource vs. question
 - Length: Brief vs. contextual
@@ -78,6 +80,7 @@ Mind if I ask - how are you thinking about [related area]?
 ```
 
 **Test Variables:**
+
 - Trigger type: Job change vs. company news vs. content engagement
 - Timing: Same day vs. next day
 - Question vs. insight statement
@@ -112,6 +115,7 @@ Good luck with [specific project/goal]!
 ```
 
 **Test Variables:**
+
 - Touch count: 2 vs. 3 vs. 4
 - Spacing: 3 days vs. 5 days vs. 7 days
 - Value inclusion: Each message vs. final only
@@ -141,6 +145,7 @@ Also happy to share [relevant insight/resource] if useful.
 ```
 
 **Test Variables:**
+
 - Permission to mention: Ask mutual connection first vs. general mention
 - Context specificity: Vague vs. detailed
 - Offer inclusion: Yes vs. no
