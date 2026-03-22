@@ -1,0 +1,149 @@
+# 💼 LINKEDIN OUTREACH FRAMEWORKS
+
+### 17. Connection Request Strategy
+
+**Context**: Connection acceptance rates vary by approach
+**Why Test This**: Getting connected is step one
+
+**Framework**:
+
+```
+BLANK REQUEST:
+Send to:
+- Members of same LinkedIn groups
+- People who engaged with relevant posts
+- Event attendees
+- 2nd-degree connections through customers
+
+WITH NOTE:
+Hi [Name], saw your post on [topic] - would love to connect and follow your insights on [area].
+
+[Your Name]
+```
+
+**Test Variables:**
+- Blank vs. personalized note
+- Note length: 1 sentence vs. 2-3 sentences
+- Targeting: Broad vs. highly specific
+- Timing: Immediate vs. after profile visit
+
+---
+
+### 18. Post-Connection Value Message
+
+**Context**: First message sets relationship tone
+**Why Test This**: Immediate value beats immediate pitch
+
+**Framework**:
+
+```
+Hi [Name],
+
+Thanks for connecting. I noticed [specific observation about their work/company].
+
+I'm working on [project/resource] around [relevant topic] and looking for feedback from people with your background in [their experience].
+
+Would you be open to sharing your thoughts? Happy to send over what I have.
+
+No pitch - genuinely looking for insights.
+
+[Your Name]
+```
+
+**Test Variables:**
+- Timing: Immediately vs. 24 hours later
+- Ask type: Feedback vs. share resource vs. question
+- Length: Brief vs. contextual
+- “No pitch” disclaimer: Include vs. omit
+
+---
+
+### 19. The Trigger-Based Message
+
+**Context**: Timely relevance increases response rates
+**Why Test This**: Shows you’re paying attention
+
+**Framework**:
+
+```
+[Name], congrats on [recent promotion/funding/product launch]!
+
+Quick thought: Now that [company] is [specific change], you'll likely face [related challenge].
+
+Most [similar role/company] find [specific pain point] becomes critical at this stage.
+
+Mind if I ask - how are you thinking about [related area]?
+
+[Your Name]
+```
+
+**Test Variables:**
+- Trigger type: Job change vs. company news vs. content engagement
+- Timing: Same day vs. next day
+- Question vs. insight statement
+- Length: 3 sentences vs. 5 sentences
+
+---
+
+### 20. The Multi-Touch Sequence
+
+**Context**: Persistence with value increases response
+**Why Test This**: Most conversions happen after multiple touches
+
+**Framework**:
+
+```
+[Touch 1 - Day 0]:
+Thanks for connecting, [Name]!
+
+Noticed [specific observation]. Impressive work on [thing].
+
+[Touch 2 - Day 4]:
+[Name], quick question - are you dealing with [challenge] at [Company]?
+
+Been helping [similar companies] solve this. Would a quick exchange of ideas be useful?
+
+[Touch 3 - Day 9]:
+[Name], totally understand you're busy.
+
+Last thing: Here's a [resource] on [topic] - thought it might be useful regardless of whether we chat.
+
+Good luck with [specific project/goal]!
+```
+
+**Test Variables:**
+- Touch count: 2 vs. 3 vs. 4
+- Spacing: 3 days vs. 5 days vs. 7 days
+- Value inclusion: Each message vs. final only
+- Exit message tone: Friendly vs. final ask
+
+---
+
+### 21. The Mutual Connection Bridge
+
+**Context**: Shared connections transfer trust
+**Why Test This**: Reduces stranger barrier
+
+**Framework**:
+
+```
+Hi [Name],
+
+I see we're both connected to [Mutual Connection].
+
+I was talking to [them] about [topic] and your work at [Company] came up in context of [specific thing].
+
+Would love to connect and learn more about [relevant project/challenge].
+
+Also happy to share [relevant insight/resource] if useful.
+
+[Your Name]
+```
+
+**Test Variables:**
+- Permission to mention: Ask mutual connection first vs. general mention
+- Context specificity: Vague vs. detailed
+- Offer inclusion: Yes vs. no
+- Follow-up if no response: Yes vs. no
+
+---

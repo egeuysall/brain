@@ -1,0 +1,96 @@
+# 🔔 PRODUCT COMMUNICATION FRAMEWORKS
+
+### 47. Feature Launch Announcement
+
+**Context**: New features can reactivate dormant users
+**Why Test This**: Shows progress and value expansion
+
+**Framework**:
+
+```
+Subject: [New Feature] is live 🎉
+
+Hi [Name],
+
+Just shipped: [Feature Name]
+
+**What it does:**
+[One-sentence description]
+
+**Why we built it:**
+[X]% of you asked for [capability]. We listened.
+
+**How to use:**
+1. [Step]
+2. [Step]
+3. [Step]
+
+[GIF showing feature]
+
+**Early results:**
+[Beta user] used it to [outcome].
+
+Try it: [Direct link]
+
+Questions? [Docs link] or reply
+
+[Your Name]
+
+P.S. Available on [plans]. [Upgrade link if needed]
+```
+
+**Test Variables:**
+- Announcement timing: Everyone vs. segmented rollout
+- Visual: GIF vs. video vs. screenshot
+- Call-to-action: Try now vs. learn more
+- Availability: All users vs. paid only
+
+---
+
+### 48. Product Roadmap Communication
+
+**Context**: Transparency builds trust and reduces churn
+**Why Test This**: Shows you’re listening and improving
+
+**Framework**:
+
+```
+Subject: What we're building next (your input welcome)
+
+[Name],
+
+Behind-the-scenes look at [Product] roadmap for Q[X]:
+
+**Just Shipped** 🚀
+✅ [Feature]
+✅ [Feature]
+
+**In Progress** 🔨
+→ [Feature] - [timeframe]
+→ [Feature] - [timeframe]
+
+**Coming Soon** 🗺️
+→ [Feature] - Q[X]
+→ [Feature] - Q[X]
+
+**Why these?**
+Based on [X] customer surveys + usage data showing [insight].
+
+**Not Building:**
+[Requested feature] - here's why: [honest reason]
+
+**Influence the roadmap:**
+[Beta program link] or [voting board link]
+
+What would make [Product] perfect for you?
+
+[Your Name]
+```
+
+**Test Variables:**
+- Frequency: Quarterly vs. monthly
+- Detail level: High-level vs. specific
+- Voting mechanism: Public board vs. survey
+- Transparency: Full roadmap vs. highlights only
+
+---

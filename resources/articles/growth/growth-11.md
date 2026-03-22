@@ -1,0 +1,162 @@
+# 📧 COLD OUTREACH EMAIL FRAMEWORKS
+
+### 1. The AIDA Problem-First Email
+
+**Context**: Pattern used by B2B SaaS companies focusing on specific pain points
+**Why Test This**: Opens with observation rather than pitch, reduces defensive reactions
+
+**Framework**:
+
+```
+Subject: Quick question about [specific pain point at Company]
+
+Hi [Name],
+
+Noticed [Company] recently [specific trigger: hired 12 reps/raised funding/launched feature].
+
+Most [similar companies] I work with face [specific challenge] when they hit this stage.
+
+We helped [Similar Company] solve this by [one specific outcome in X timeframe].
+
+Worth a 10-min chat to see if we can do something similar for you?
+
+[Your Name]
+P.S. No pressure if timing isn't right - happy to send over the case study either way.
+```
+
+**Test Variables:**
+- Subject line: Question vs. statement vs. benefit
+- Opening: Trigger event vs. direct problem statement
+- Length: This version vs. 2-sentence version
+- P.S. inclusion vs. exclusion
+
+---
+
+### 2. The “Mutual Problem” Cold Email
+
+**Context**: Leverages social proof from mutual connections
+**Why Test This**: Warm intro increases trust and response likelihood
+
+**Framework**:
+
+```
+Subject: [Mutual Connection] mentioned you're dealing with [problem]
+
+[Name],
+
+[Mutual connection] mentioned you're exploring ways to [goal].
+
+Quick context: We just wrapped a project with [Similar Company] where they were struggling with [same problem].
+
+The solution we built helped them [specific metric improvement] in [timeframe].
+
+Would it make sense to share what we learned? I can send over a 3-min breakdown.
+
+Best,
+[Your Name]
+```
+
+**Test Variables:**
+- Mutual connection in subject vs. body
+- Permission-based ask vs. direct CTA
+- Length of context provided
+- Offering resource vs. call first
+
+---
+
+### 3. The Value-First Email
+
+**Context**: Gives resources before asking for anything
+**Why Test This**: Reciprocity principle - giving increases likelihood of engagement
+
+**Framework**:
+
+```
+Subject: Saw your post on [topic] - thought you'd want this
+
+Hi [Name],
+
+Your recent post about [specific topic] resonated with me, especially the part about [specific detail].
+
+I recently compiled [resource/data/insight] on this exact challenge that I think you'd find valuable - no strings attached.
+
+[Link to resource]
+
+If it's helpful and you want to chat about how we're helping companies like [Similar Company] tackle this, happy to connect. If not, hope the resource helps regardless.
+
+[Your Name]
+```
+
+**Test Variables:**
+- Resource type: PDF vs. video vs. tool
+- Immediate link vs. “reply for access”
+- Explicit “no pitch” statement vs. implied
+- Follow-up timing if no response
+
+---
+
+### 4. The “Question Hook” Opener
+
+**Context**: Questions create cognitive loops that brains want to close
+**Why Test This**: Higher open rates reported for question-based subjects
+
+**Framework**:
+
+```
+Subject: Quick question about [Company's] Q4 strategy
+
+[Name],
+
+Are you planning to [specific goal based on their industry/hiring/funding news] in Q4?
+
+Asking because we're seeing a pattern with [industry] companies at your stage - they're all hitting the same bottleneck around [specific challenge].
+
+We've got a framework that helped [Company] go from [before state] to [after state] in [timeframe].
+
+Would a 15-min call to walk through it be useful?
+
+[Your Name]
+```
+
+**Test Variables:**
+- Question in subject vs. body only
+- Seasonal timing reference vs. general
+- Framework offer vs. case study offer
+- Call length (15 min vs. 10 min vs. 20 min)
+
+---
+
+### 5. The Case Study Mini-Story
+
+**Context**: Story format increases engagement and memorability
+**Why Test This**: Narratives are processed differently than facts
+
+**Framework**:
+
+```
+Subject: How [Similar Company] solved [specific problem]
+
+[Name],
+
+Quick story that might resonate:
+
+[Similar Company] was dealing with [problem]. Their team was spending [X hours/dollars] on [task].
+
+We implemented [solution] in 2 weeks. Now they're [specific outcome].
+
+The best part? The whole setup took less time than their old [manual process].
+
+Want to see if we could do something similar for [Their Company]?
+
+[Book time] or just reply with "yes" and I'll send details.
+
+[Your Name]
+```
+
+**Test Variables:**
+- Story length: Brief vs. detailed
+- Timeline specificity: Exact dates vs. general timeframe
+- CTA options: One vs. multiple choices
+- Industry similarity in case study company
+
+---

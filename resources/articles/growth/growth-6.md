@@ -1,0 +1,66 @@
+# 🎯 PAID AD FRAMEWORKS
+
+### 24. LinkedIn Sponsored Content
+
+**Context**: Highly targeted B2B advertising
+**Why Test This**: Direct access to decision makers
+
+**Framework**:
+
+```
+Headline: [Specific ICP], Stop [Doing Old Way]
+
+Body:
+[Challenge] holding you back?
+
+[Number] companies like [Names] switched to [Approach].
+
+Result: [Specific outcome] in [timeframe].
+
+[CTA: See How]
+
+Image: Show outcome/result, not just product
+Targeting: Title + Industry + Company Size
+```
+
+**Test Variables:**
+- Headline: Question vs. statement vs. command
+- Social proof: Company names vs. count only
+- Image type: Product vs. customer vs. data viz
+- CTA: Demo vs. resource vs. case study
+
+---
+
+### 25. Facebook/Instagram Ad Framework
+
+**Context**: Visual platforms need strong creative
+**Why Test This**: Lower CPMs than LinkedIn for some audiences
+
+**Framework**:
+
+```
+Video Hook (First 3 seconds):
+"If you're a [ICP] struggling with [problem], watch this"
+
+Body (Next 27 seconds):
+- Show problem
+- Introduce solution
+- Show result
+
+CTA: "Get [outcome]. Link in bio."
+
+Caption:
+[Emoji] [Outcome] without [Pain]
+
+[Brief value prop]
+
+Tap link → [action]
+```
+
+**Test Variables:**
+- Video vs. carousel vs. static image
+- Hook: Problem vs. benefit vs. curiosity
+- Length: 30 sec vs. 60 sec vs. 15 sec
+- CTA timing: End only vs. throughout
+
+---

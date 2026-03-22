@@ -1,0 +1,96 @@
+# 🔄 RE-ENGAGEMENT FRAMEWORKS
+
+### 26. Dormant User Email Sequence
+
+**Context**: Win-back campaigns can reactivate 10-20% of dormant users
+**Why Test This**: Cheaper than acquiring new users
+
+**Framework - 3-Email Revival**:
+
+```
+EMAIL 1: Check-In
+Subject: We miss you, [Name]
+
+Quick check-in: Everything okay with [Product]?
+
+Noticed you haven't been active. Did you:
+→ Run into an issue?
+→ Find what you needed?
+→ Need a refresher?
+
+Reply and let me know how I can help.
+
+---
+
+EMAIL 2: What's New
+Subject: Here's what you've missed
+
+[Name], we've shipped some updates since you last logged in:
+
+→ [New feature relevant to them]
+→ [Improvement to existing feature]
+→ [New integration/capability]
+
+[Customer] came back after [timeframe] and immediately got [result] with [new feature].
+
+Worth another look?
+
+---
+
+EMAIL 3: Last Call
+Subject: Should we close your account?
+
+[Name],
+
+We haven't seen activity in [timeframe].
+
+Before closing your account on [date]:
+
+→ Stay: [Reactivate button]
+→ Talk: [Book call]
+→ Export data: [Get your data]
+
+What would bring you back?
+
+[Your Name]
+```
+
+**Test Variables:**
+- Timing: 30/60/90 days inactive
+- Tone: Concerned vs. neutral vs. promotional
+- Incentive: Discount vs. new features vs. none
+- Sender: Founder vs. support vs. account manager
+
+---
+
+### 27. Website Retargeting Ad
+
+**Context**: Visitors who don’t convert first visit
+**Why Test This**: Already showed interest
+
+**Framework**:
+
+```
+Headline: "Still thinking about [outcome]?"
+
+Body:
+You checked out [Product] but didn't [convert].
+
+What's stopping you?
+
+→ Questions? [FAQ link]
+→ See pricing → [Link]
+→ Watch demo → [Link]
+
+[Social proof line]
+
+[Offer if applicable]
+```
+
+**Test Variables:**
+- Retarget window: 7 days vs. 30 days vs. 90 days
+- Creative: Static vs. video vs. carousel
+- Offer: Discount vs. trial extension vs. none
+- Audience segment: Page visited, time spent, etc.
+
+---
