@@ -1,0 +1,242 @@
+---
+type: note
+date: 2026-03-21
+tags: [ryva, gtm, context, founder]
+---
+
+# Ryva GTM Agent Context
+
+## Founder
+
+- Ege Uysal, 15 years old, sophomore at Adlai E. Stevenson High School in Lincolnshire, IL, graduating in 2028
+- Moved from Turkey around 2 years ago
+- Trains 6 days/week (PPL split)
+- Passionate about macro/wildlife photography (`@snapuree`)
+- Best friend and gym partner is Sai
+- Favorite film is Blade Runner 2049
+- Plays Minecraft occasionally
+- Runs Aegean Labs LLC
+- Long-term goals:
+  - Build a billion-dollar company
+  - Attend Harvard, Stanford, or MIT
+  - Do wildlife photography with professional gear
+- Favorite word: "beyond"
+
+## Ryva Product
+
+- B2B SaaS, `$79/month`
+- Target: 3-15 person developer teams
+- Inputs: GitHub + Slack
+- Output focus:
+  - Decisions made
+  - Missing decisions
+  - Blockers
+  - Next actions
+- Positioning: not a summarizer, a decision layer
+- Core capabilities:
+  - Recency weighting
+  - Priority scoring (`0-100`)
+  - Archive system
+  - Memory system with confidence-weighted lessons
+  - Graph view (React Flow)
+  - Subagent architecture:
+    - Claude Sonnet 4.6 for main agent
+    - Haiku 4.5 for summarization
+- Run cost: `$0.20-$0.30` per run
+- Block types: `agent_run`, `decision`, `context`, `note`, `github_snapshot`
+- Decision states: `open`, `in progress`, `archived`
+- Decision domains: `product`, `ops`, `frontend`, `backend`, `design`, `marketing`
+- Web search provider: Exa
+- Public demo: [ryva.dev/demo](https://ryva.dev/demo) (real Supabase repo, no signup required)
+- Docs: [ryva.dev/docs](https://ryva.dev/docs) (signed-in users)
+- Built on Shipr (Ege's open-source SaaS template)
+- Stack: Next.js, Convex, Clerk, Vercel, Posthog, Sentry, React Flow, Tailark
+
+## Current Numbers (Day 16)
+
+- 1 signup
+- 0 paying customers
+- 0 confirmed daily users
+- 100k+ Reddit impressions total
+- 300+ LinkedIn connections
+- 4 waitlist signups (unresponsive)
+- `ryva.dev/demo` live, no signup required
+
+## What Has Been Tried
+
+- Reddit posts across:
+  - `r/startups` (36k reach)
+  - `r/SaaS`
+  - `r/ExperiencedDevs`
+  - `r/EngineeringManagers`
+  - `r/webdev`
+  - `r/Entrepreneur`
+  - `r/programming` attempts
+- LinkedIn outreach to 300+ ICP connections
+- Cold DMs to founders and engineering managers on Reddit, LinkedIn, and X
+- Email to waitlist
+- YouTube videos
+- Blog posts
+- Public demo on Supabase repo
+- Communities:
+  - Accepted into Rands Leadership Slack
+  - Accepted into CTO Craft
+  - Actively engaging in both
+- Dad outreach to engineer contacts in Turkish
+- LinkedIn personalized outreach to 10-15 founders with curiosity-first opener
+
+## Warmest Leads
+
+- CyberMinds nonprofit:
+  - Ege is coding director
+  - Ran Ryva on their GitHub repo
+  - Found Docker socket security vulnerability + 6 missing decisions
+  - Founder has not yet been messaged about using Ryva daily
+- Daksh Guard:
+  - Stevenson alumni
+  - Building Orcho
+  - Call scheduled via Calendly
+- Reddit user from `r/EngineeringManagers` who said "sure that sounds interesting" to a demo offer
+- Shlok (LinkedIn):
+  - Data science at Purdue
+  - YC-backed startup experience
+  - Visited demo
+- Balajied (LinkedIn):
+  - Founder of Onlybees
+  - 6-person team
+  - Engaged warmly
+- Dad's engineer contacts (message sent in Turkish)
+- Omer Kaya:
+  - Turkish founder
+  - Pivoting to AI employee/COO space
+  - Exchanged WhatsApp numbers
+
+## Current GTM Strategy
+
+- Lead with insight before demo
+- Demo is step 3, not step 1
+- Flow:
+  1. Mirror pain
+  2. Drop micro-output
+  3. Let them say "this is us"
+  4. Send demo
+- Never send demo before they feel understood
+- Run Ryva for people instead of asking them to set it up
+- Offer to run it on their repo and send output directly
+
+### Reply Flow
+
+1. Mirror: "yeah teams just reconstruct state from Slack and PRs"
+2. Insight: "decisions and blockers are never explicitly written down"
+3. Micro-output: simulate their situation with a specific example
+4. Pull: "want me to run this on one of your PRs?"
+
+Only send demo after they say "that's accurate" or "interesting."
+
+## Channels (Priority Order)
+
+1. Rands Leadership Slack (daily comments, building presence, no pitching yet)
+2. CTO Craft (same play)
+3. Reddit (post every 2-3 days in new subreddits, reply to active threads daily)
+4. LinkedIn (one post per day, DM relevant connections with curiosity opener)
+5. X (replies only on engineering manager accounts, no original posts until 500+ followers)
+
+## Content Strategy
+
+- No em dashes ever
+- Plain founder tone
+- DMs under 150 words
+- Never pitch first
+- Never repeat explanation already given
+- Trial ask last, one clean sentence
+- Reddit style: conversational
+- LinkedIn style: reflective
+- X style: sharp, under 200 words
+- No bullet points in posts
+- Human and imperfect beats polished AI copy
+- Hooks that work:
+  - Specific numbers
+  - Controversial opinion
+  - Curiosity question
+  - Struggle story
+
+## ICP Signals (Strong)
+
+- Founders, engineering managers, and CTOs saying:
+  - Standups are theater
+  - Context is buried in Slack
+  - Jira is never updated
+  - Meetings reconstruct project state
+  - Already experimenting with async or AI standups
+  - Manually copying Slack into Notion
+  - Emoji workflows that died
+  - ADR folders nobody updates
+
+## ICP Signals (Weak)
+
+- Scrum defenders
+- People who like standups socially
+- Highly automated, disciplined large teams
+
+## Key Messaging That Works
+
+- "Standups exist because the project state isn't visible anywhere else"
+- "Decisions made, missing decisions, next actions from GitHub and Slack"
+- "Your standup will never tell you what nobody is working on"
+- "Status tells you what happened. State tells you where you are."
+- Missing decisions angle is the sharpest differentiator
+
+## Voice Rules
+
+- No em dashes
+- No "genuinely", "honestly", or "straightforward"
+- Plain founder tone
+- Warm but direct
+- Never pitch first
+- Never salesy
+- Never automated sounding
+- Personalize every outreach with one real observation before asking anything
+- In Turkish conversations:
+  - Casual tone
+  - No awkward English mix-ins
+  - Says "canim" not "baba"
+
+## Blog Posts Published
+
+- How Ryva works under the hood (technical transparency)
+- I ran an AI on a $2B repo. Here is what it found.
+- I Stopped Pitching. Replies Tripled.
+- Status is not state. Most teams only have one. (just written)
+- The Meeting That Didn't Need to Happen
+
+## Strategic Decisions Made
+
+- Stay B2B, no pivot to B2C
+- No SOC2 until `$10k MRR`
+- No Product Hunt until real user reviews
+- No Omer cofounder until first paying customer
+- Demo is step 3, not step 1
+- Current singular goal: one team using Ryva daily
+
+## Competitors Encountered
+
+- `agentcontrol.team` (multi-agent coordination, different wedge)
+- `agently.dev` (all-in-one workspace, different wedge)
+- `Siit.io` (Slack-native documentation capture)
+- `Orcho` (context integrity layer, adjacent rather than direct competitor)
+
+## Spring Break Plan
+
+Trip with dad:
+
+- Chicago universities
+- Niagara Falls
+- Cornell
+- Cherry Springs State Park (aurora borealis + Milky Way, lifelong dream)
+- NYC
+
+Accepted into Vercel x DeepMind hackathon NYC (250 accepted out of tens of thousands), but decided not to go due to 2am flight arrival, stress, and timing.
+
+## Emotional State
+
+Day 16, no paying users, frustrated but not quitting. Understands this is normal for B2B SaaS. One real daily user is the milestone that changes everything.

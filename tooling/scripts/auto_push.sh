@@ -4,6 +4,7 @@ set -euo pipefail
 
 REPO="/Users/egeuysal/Developer/brain"
 LOCK_DIR="${HOME}/.cache/brain-git-sync.lockdir"
+DEFAULT_COMMIT_MESSAGE="chore(auto): sync local changes"
 
 mkdir -p "${HOME}/.cache"
 
@@ -34,55 +35,42 @@ if ! git rev-parse --abbrev-ref --symbolic-full-name "@{u}" >/dev/null 2>&1; the
   exit 1
 fi
 
+COMMIT_MESSAGE="${BRAIN_AUTO_COMMIT_MESSAGE:-$DEFAULT_COMMIT_MESSAGE}"
+
 if [[ -n "$(git status --porcelain)" ]]; then
-  echo "$(timestamp) [info] Working tree has uncommitted changes; only committed changes can be pushed."
+  git add -A
+
+  if git diff --cached --quiet; then
+    echo "$(timestamp) [ok] No staged changes after add."
+  else
+    if git commit -m "${COMMIT_MESSAGE}"; then
+      echo "$(timestamp) [ok] Created auto-commit."
+    else
+      echo "$(timestamp) [error] Auto-commit failed."
+      exit 1
+    fi
+  fi
 fi
 
-git fetch --prune origin
-
-LOCAL="$(git rev-parse @)"
-REMOTE="$(git rev-parse @{u})"
-BASE="$(git merge-base @ @{u})"
-
-if [[ "${LOCAL}" == "${REMOTE}" ]]; then
-  echo "$(timestamp) [ok] Nothing to push."
+if git push origin HEAD; then
+  echo "$(timestamp) [ok] Pushed local commits."
   exit 0
 fi
 
-if [[ "${REMOTE}" == "${BASE}" ]]; then
-  if git push origin HEAD; then
-    echo "$(timestamp) [ok] Pushed local commits."
-    exit 0
+echo "$(timestamp) [warn] Push failed; attempting pull --rebase --autostash."
+
+if ! git pull --rebase --autostash --prune; then
+  if [[ -d .git/rebase-merge || -d .git/rebase-apply ]]; then
+    git rebase --abort >/dev/null 2>&1 || true
   fi
-  echo "$(timestamp) [error] Push failed."
+  echo "$(timestamp) [error] Pull/rebase failed after push failure."
   exit 1
 fi
 
-if [[ "${LOCAL}" == "${BASE}" ]]; then
-  echo "$(timestamp) [skip] Branch is behind upstream; wait for pull sync."
+if git push origin HEAD; then
+  echo "$(timestamp) [ok] Pulled then pushed successfully."
   exit 0
 fi
 
-# Diverged: rebase local commits onto upstream, then push if ahead.
-if git pull --rebase --autostash --prune; then
-  LOCAL="$(git rev-parse @)"
-  REMOTE="$(git rev-parse @{u})"
-  BASE="$(git merge-base @ @{u})"
-  if [[ "${REMOTE}" == "${BASE}" && "${LOCAL}" != "${REMOTE}" ]]; then
-    if git push origin HEAD; then
-      echo "$(timestamp) [ok] Rebased and pushed local commits."
-      exit 0
-    fi
-    echo "$(timestamp) [error] Push failed after rebase."
-    exit 1
-  fi
-  echo "$(timestamp) [ok] Rebased; nothing to push."
-  exit 0
-fi
-
-if [[ -d .git/rebase-merge || -d .git/rebase-apply ]]; then
-  git rebase --abort >/dev/null 2>&1 || true
-fi
-
-echo "$(timestamp) [error] Rebase failed during push sync."
+echo "$(timestamp) [error] Push failed after pull/rebase retry."
 exit 1
