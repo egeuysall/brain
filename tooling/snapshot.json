@@ -1,0 +1,270 @@
+{
+  "_id": "j97ftgr3pvynxnqfe35095m9zh83fp9v",
+  "_creationTime": 1774285473764.7957,
+  "createdAt": 1774285473764,
+  "type": "github_snapshot",
+  "isAgentOutput": false,
+  "orgId": "org_3AIoHC6mtFMJPdZ6DRa2k76Qgj2",
+  "projectId": "jh714jzvcwrggzzgpmsnv77qvx820w4t",
+  "priorityLevel": "critical",
+  "priorityScore": 100,
+  "prioritySource": "integration",
+  "priorityUpdatedAt": 1774285473764,
+  "priorityReason": "GitHub repository signal; Critical risk keywords; Execution blocker keywords; Decision/ship keywords",
+  "content": {
+    "repo": "egeuysall/ryva",
+    "description": "Kill your standups",
+    "defaultBranch": "master",
+    "recentCommits": [
+      {
+        "message": "fix(share): prevent mobile header overflow and button wrapping",
+        "author": "Ege Uysal",
+        "date": "2026-03-23T04:01:17Z"
+      },
+      {
+        "message": "feat(share): add public run links with revoke and share page",
+        "author": "Ege Uysal",
+        "date": "2026-03-23T00:43:13Z"
+      },
+      {
+        "message": "Strengthen landing analysis with action-first blocker guidance",
+        "author": "Ege Uysal",
+        "date": "2026-03-22T18:35:10Z"
+      },
+      {
+        "message": "refactor: simplify UI motion and clarify repo analysis copy",
+        "author": "Ege Uysal",
+        "date": "2026-03-22T00:22:28Z"
+      },
+      {
+        "message": "feat: add one-time landing repo analysis with richer output",
+        "author": "Ege Uysal",
+        "date": "2026-03-22T00:12:23Z"
+      },
+      {
+        "message": "chore(security): update packages to latest",
+        "author": "Ege Uysal",
+        "date": "2026-03-21T23:24:30Z"
+      },
+      {
+        "message": "feat(encryption): improve security for slack",
+        "author": "Ege Uysal",
+        "date": "2026-03-19T18:20:54Z"
+      },
+      {
+        "message": "Remove class from Interactive Walkthrough section",
+        "author": "Ege Uysal",
+        "date": "2026-03-17T12:09:41Z"
+      },
+      {
+        "message": "Simplify Interactive Walkthrough section structure",
+        "author": "Ege Uysal",
+        "date": "2026-03-17T12:07:01Z"
+      },
+      {
+        "message": "Delete LICENSE",
+        "author": "Ege Uysal",
+        "date": "2026-03-17T12:05:19Z"
+      },
+      {
+        "message": "Update iframe title for arcade embed",
+        "author": "Ege Uysal",
+        "date": "2026-03-17T12:01:09Z"
+      },
+      {
+        "message": "Improve dashboard docs cards",
+        "author": "Ege Uysal",
+        "date": "2026-03-17T02:10:01Z"
+      },
+      {
+        "message": "feat(copy): improve landing copy",
+        "author": "Ege Uysal",
+        "date": "2026-03-13T22:36:48Z"
+      },
+      {
+        "message": "feat(demo): add demo page",
+        "author": "Ege Uysal",
+        "date": "2026-03-11T03:08:36Z"
+      },
+      {
+        "message": "Fix user sync empty email handling",
+        "author": "Ege Uysal",
+        "date": "2026-03-09T01:17:50Z"
+      },
+      {
+        "message": "feat(billing): fix the billing period",
+        "author": "Ege Uysal",
+        "date": "2026-03-09T01:08:41Z"
+      },
+      {
+        "message": "feat(billing): fix the billing period",
+        "author": "Ege Uysal",
+        "date": "2026-03-09T01:08:18Z"
+      },
+      {
+        "message": "feat(waitlist): remove waitlist and ensure downgrade works",
+        "author": "Ege Uysal",
+        "date": "2026-03-09T00:57:01Z"
+      },
+      {
+        "message": "feat(seo): change seo to standups for wedge",
+        "author": "Ege Uysal",
+        "date": "2026-03-04T01:37:53Z"
+      },
+      {
+        "message": "Update hero and CTA interactions",
+        "author": "Ege Uysal",
+        "date": "2026-03-01T15:54:13Z"
+      }
+    ],
+    "openIssues": [],
+    "openPRs": [],
+    "codeContext": {
+      "languages": ["TypeScript", "JavaScript", "CSS"],
+      "topLevelFiles": [
+        ".env.example",
+        ".gitattributes",
+        ".github",
+        ".gitignore",
+        "README.md",
+        "components.json",
+        "convex",
+        "eslint.config.mjs",
+        "next-env.d.ts",
+        "next.config.ts",
+        "package.json",
+        "pnpm-lock.yaml",
+        "postcss.config.mjs",
+        "public",
+        "sentry.edge.config.ts",
+        "sentry.server.config.ts",
+        "src",
+        "tsconfig.json"
+      ],
+      "readmeExcerpt": "# Ryva\n\nModern SaaS platform built with Next.js 16, React 19, and Go.",
+      "indexedFileCount": 228,
+      "indexedPathSample": [
+        "README.md",
+        "convex/tsconfig.json",
+        "next.config.ts",
+        "package.json",
+        "tsconfig.json",
+        "src/lib/demo/schema.ts",
+        "src/app/api/email/route.ts",
+        "src/app/api/health/route.ts",
+        "src/app/api/integrations/slack/callback/route.ts",
+        "src/app/api/integrations/slack/start/route.ts",
+        "src/app/api/landing-analyze/route.ts",
+        "src/app/api/runs/share/[shareId]/route.ts",
+        "src/app/api/runs/share/route.ts",
+        "convex/lib/auth.ts",
+        "convex/lib/decision_agent/actions.ts",
+        "convex/lib/decision_agent/actionsRuntime.ts",
+        "convex/lib/decision_agent/constants.ts",
+        "convex/lib/decision_agent/githubSnapshotSignals.ts",
+        "convex/lib/github/autoContext.ts",
+        "convex/lib/github/client.ts",
+        "convex/lib/github/snapshot.ts",
+        "convex/lib/github/types.ts",
+        "convex/lib/limits.ts",
+        "convex/lib/priority.ts",
+        "convex/lib/slack/client.ts",
+        "convex/lib/slack/tokenEncryption.ts",
+        "convex/lib/slack/types.ts",
+        "convex/schema.ts",
+        "src/lib/ai/exa-client.ts",
+        "src/lib/ai/style-rules.ts",
+        "src/lib/auth/github-oauth.ts",
+        "src/lib/auth/rbac.ts",
+        "src/lib/auth/slack-install.ts",
+        "src/lib/auth/slack-oauth.ts",
+        "src/lib/blog.ts",
+        "src/lib/constants.ts",
+        "src/lib/convex-client-provider.tsx",
+        "src/lib/convex-server-bridge.ts",
+        "src/lib/demo/generated/demo-project-payload.json",
+        "src/lib/demo/snapshot.ts",
+        "src/lib/emails/client.ts",
+        "src/lib/emails/escape.ts",
+        "src/lib/emails/index.ts",
+        "src/lib/emails/plan-changed.ts",
+        "src/lib/emails/send.ts",
+        "src/lib/emails/welcome.ts",
+        "src/lib/font-awesome-icons.ts",
+        "src/lib/landing-analyze.ts",
+        "src/lib/rate-limit.ts",
+        "src/lib/security/request.ts",
+        "src/lib/sentry.ts",
+        "src/lib/structured-data.tsx",
+        "src/lib/utils.ts",
+        "src/lib/validation/integrations.ts",
+        "src/lib/validation/project-agent.ts",
+        "src/components/ai-elements/chain-of-thought.tsx",
+        "src/components/ai-elements/commit.tsx",
+        "src/components/ai-elements/confirmation.tsx",
+        "src/components/ai-elements/inline-citation.tsx",
+        "src/components/ai-elements/queue.tsx",
+        "src/components/ai-elements/shimmer.tsx",
+        "src/components/app-sidebar.tsx",
+        "src/components/call-to-action-1.tsx",
+        "src/components/clerk-provider-wrapper.tsx",
+        "src/components/content-2.tsx",
+        "src/components/dashboard/dashboard-shell.tsx",
+        "src/components/dashboard/recent-activity-section.tsx",
+        "src/components/dashboard/sidebar.tsx",
+        "src/components/dashboard/top-nav.tsx",
+        "src/components/demo-showcase-1.tsx",
+        "src/components/docs/arcade-embed.tsx",
+        "src/components/faqs-2.tsx",
+        "src/components/features-1.tsx",
+        "src/components/footer-1.tsx",
+        "src/components/github-connection-button.tsx",
+        "src/components/header.tsx",
+        "src/components/hero-section-1.tsx",
+        "src/components/integrations-1.tsx",
+        "src/components/integrations-connection-group.tsx",
+        "src/components/landing-repo-wedge.tsx",
+        "src/components/landing-theme-lock.tsx",
+        "src/components/landing-theme-script.tsx",
+        "src/components/logo-cloud-2.tsx",
+        "src/components/logo.tsx",
+        "src/components/nav-main.tsx",
+        "src/components/nav-secondary.tsx",
+        "src/components/nav-user.tsx",
+        "src/components/posthog-identify.tsx",
+        "src/components/posthog-pageview.tsx",
+        "src/components/posthog-provider.tsx",
+        "src/components/pricing-3.tsx",
+        "src/components/pricing-table.tsx",
+        "src/components/project/agent-v2/agent-citations.tsx",
+        "src/components/project/agent-v2/agent-panel.tsx",
+        "src/components/project/agent-v2/agent-reasoning.tsx",
+        "src/components/project/agent-v2/types.ts",
+        "src/components/project/project-context-priority.ts",
+        "src/components/project/project-demo-page-container.tsx",
+        "src/components/project/project-graph-view.tsx",
+        "src/components/project/project-page-container.tsx",
+        "src/components/project/project-page-content-helpers.tsx",
+        "src/components/project/project-page-content-sections.tsx",
+        "src/components/project/project-page-content-types.ts",
+        "src/components/project/project-page-content.tsx",
+        "src/components/project/project-page-schemas.ts",
+        "src/components/project/project-page-shared.tsx",
+        "src/components/project/project-page-sidebar.tsx",
+        "src/components/project/project-page.tsx",
+        "src/components/project/project-run-config-dialog.tsx",
+        "src/components/project/run-share-view.tsx",
+        "src/components/query-client-provider.tsx",
+        "src/components/reliability-demo-1.tsx",
+        "src/components/slack-connection-button.tsx",
+        "src/components/stats-1.tsx",
+        "src/components/stats-2.tsx",
+        "src/components/testimonials-3.tsx",
+        "src/components/theme-provider.tsx",
+        "src/components/theme-toggle.tsx",
+        "src/components/ui/accordion.tsx",
+        "src/components/ui/alert-dialog.tsx"
+      ]
+    }
+  }
+}

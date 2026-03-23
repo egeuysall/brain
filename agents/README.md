@@ -1,0 +1,41 @@
+---
+type: doc
+date: 2026-03-23
+author: Ryva
+tags: [agents, orchestration, playbook]
+---
+
+# Agent System Overview
+
+This folder breaks agent behavior into focused modules.
+
+## Mission
+
+Turn noisy GitHub + Slack activity into decision-grade outputs:
+
+- What happened
+- What is missing
+- What is risky
+- What should happen next
+
+## Required Inputs
+
+- `resources/threads/RESEARCH_PLAYBOOK.md` for sourcing workflow and quality controls
+- `tooling/snapshot.json` as static architecture context for how Ryva functions
+- `context/latest/knowledge.json` for recency-aware state and baseline memory
+
+## Standard Run Order
+
+1. Load `tooling/snapshot.json`.
+2. Use it as architecture baseline for product behavior and codebase structure.
+3. Run research workflow from `07-research-playbook-usage.md` for fresh external signal.
+4. Apply output style from `02-output-principles.md`.
+5. Apply GTM/outbound filters from `03`, `04`, `05`, and `06`.
+6. Produce artifact with one clear action, two missing decisions, and one risk.
+
+## Guardrails
+
+- Do not send raw model dumps.
+- Do not lead with product pitch.
+- Do not publish unsupported claims without source links.
+- Do not auto-refresh or mutate `tooling/snapshot.json` unless explicitly asked.

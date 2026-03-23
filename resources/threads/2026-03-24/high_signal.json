@@ -1,0 +1,55 @@
+{
+  "generated_at": "2026-03-24T12:00:00+00:00",
+  "window": {
+    "min_hours": 48,
+    "max_hours": 72
+  },
+  "count": 5,
+  "items": [
+    {
+      "rank": 1,
+      "title": "What tools and techniques are you using to verify AI-generated code before it hits production?",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1rzq738/what_tools_and_techniques_are_you_using_to_verify/",
+      "subreddit": "ExperiencedDevs",
+      "created_at": "2026-03-21T12:27:27+00:00",
+      "age_hours": 71.54,
+      "high_signal_reason": "First-person production pain with explicit integration-gap failures after formal verification."
+    },
+    {
+      "rank": 2,
+      "title": "How to measure failure rate for retryable jobs without noisy jobs skewing the metric?",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1rztutg/how_to_measure_failure_rate_for_retryable_jobs/",
+      "subreddit": "ExperiencedDevs",
+      "created_at": "2026-03-21T15:09:47+00:00",
+      "age_hours": 68.84,
+      "high_signal_reason": "Concrete operational tradeoff that directly impacts reliability prioritization and planning."
+    },
+    {
+      "rank": 3,
+      "title": "Multi-tenant fair queue implementation",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s02qp3/multitenant_fair_queue_implementation/",
+      "subreddit": "ExperiencedDevs",
+      "created_at": "2026-03-21T21:04:28+00:00",
+      "age_hours": 62.93,
+      "high_signal_reason": "First-person fairness bottleneck with clear architecture and customer-impact implications."
+    },
+    {
+      "rank": 4,
+      "title": "How to deal with a coworker who thinks he can make all the software decisions",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0768f/how_to_deal_with_a_coworker_who_thinks_he_can/",
+      "subreddit": "ExperiencedDevs",
+      "created_at": "2026-03-22T00:16:32+00:00",
+      "age_hours": 59.72,
+      "high_signal_reason": "Decision-rights conflict with failed escalation and repeated production impact risk."
+    },
+    {
+      "rank": 5,
+      "title": "Former team lead just tried to give away my project -- quite possibly by accident. How do I stop this from happening again?",
+      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0a1gt/former_team_lead_just_tried_to_give_away_my/",
+      "subreddit": "ExperiencedDevs",
+      "created_at": "2026-03-22T02:31:10+00:00",
+      "age_hours": 57.48,
+      "high_signal_reason": "Detailed first-person outage story exposing cross-team ownership and visibility breakdown."
+    }
+  ]
+}
