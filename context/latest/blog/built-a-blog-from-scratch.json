@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "built-a-blog-from-scratch",
-  "generatedAt": "2026-03-21",
+  "generatedAt": "2026-03-23",
   "entry": {
     "id": "built-a-blog-from-scratch",
     "url": "https://egeuysal.com/blog/built-a-blog-from-scratch/",
@@ -11,7 +11,11 @@
     "description": "Building my own blog wasn't just a coding project—it was a chance to create a space I fully control. No templates, no bloated CMS, just clean design and...",
     "publishedAt": "2025-08-01",
     "updatedAt": null,
-    "tags": ["coding", "productivity", "release"],
+    "tags": [
+      "coding",
+      "productivity",
+      "release"
+    ],
     "image": "https://images.pexels.com/photos/3584969/pexels-photo-3584969.jpeg",
     "readingTime": 2,
     "body": "Building my own blog wasn't just a coding project—it was a chance to create a space I fully control. No templates, no bloated CMS, just clean design and fast performance. Here's how I did it, step by step.\n\n---\n\n### 🔧 Tech Stack\n\nI chose a lightweight but modern stack that fits my minimal style and scales easily:\n\n- **Next.js 15** – for fast rendering and routing with the App Router\n- **Tailwind CSS** – to keep styling utility-first and consistent\n- **TypeScript** – for better code quality and maintainability\n- **Golang** – powers a custom backend API for blog posts, auth, and data handling\n- **Supabase** – used as the PostgreSQL database\n- **Vercel** – for seamless deployments and domain handling\n\nGo made the backend clean, fast, and reliable. I exposed a REST API that the frontend consumes to create and fetch blog posts.\n\n---\n\n### ✍️ Writing Experience\n\nI didn’t want a clunky editor or dashboard. I write all posts in **Markdown**, directly in my codebase or synced via GitHub. That keeps the writing distraction-free and version-controlled.\n\n---\n\n### 🗂️ Structure & Content\n\nEach blog post is a simple `.mdx` or `.ts` file with:\n\n- A **title**\n- **Slug**\n- **Tags**\n- A **cover image URL**\n- And of course, the **content**\n\nI designed a clean layout using Tailwind and made sure it looks great on mobile too.\n\n---\n\n### 🧠 Why I Didn’t Use Notion or WordPress\n\nWhile Notion is flexible and WordPress is easy, I wanted:\n\n- **Full control** over design and performance\n- **No external dependencies**\n- **Custom SEO**, analytics, and tracking\n\nPlus, building it myself was a better learning experience.\n\n---\n\n### 🚀 Hosting & Deployment\n\n- **Frontend**: hosted on **Vercel** — every push to `main` deploys instantly\n- **Backend**: self-hosted Golang API on a VPS\n- **Database**: Supabase PostgreSQL, connected through `pgxpool` in Go\n\nIt’s fast, secure, and cost-effective.\n\n---\n\n### 🧩 Features I Plan to Add\n\n- Post reactions and comments\n- Email subscriptions\n- Tags and filtering\n- Light/dark mode toggle\n\nThis blog will evolve over time—but it’s already my favorite corner of the internet.\n\n---\n\n### 💭 Final Thoughts\n\nIf you're 15 like me and thinking of building your own blog: do it. You’ll learn more than you expect, and you'll own every part of the process. No algorithm. No ads. Just your voice, published your way.\n\nFeel free to reach out or fork the repo—happy to help."
