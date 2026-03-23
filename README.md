@@ -19,7 +19,7 @@ This repository is the canonical knowledge source for Ryva.
 - `context/latest/blog/*.json` one file per blog post (latest state)
 - `resources/` manual files (`notes`, `docs`, `articles`, `newsletters`, `decision-logs`, `transcripts`)
 - `tooling/scripts/sync_knowledge.py` feed sync + normalization
-- `tooling/scripts/schedule_guard.py` strict 6:00 AM America/Chicago guard
+- `tooling/scripts/schedule_guard.py` 6:00 AM America/Chicago hour guard (delay-tolerant)
 - `tooling/tests/` unit tests
 
 ## Default Ryva Retrieval Policy

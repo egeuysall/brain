@@ -17,6 +17,10 @@ class ScheduleGuardTests(unittest.TestCase):
         now = datetime(2026, 3, 20, 11, 0, tzinfo=timezone.utc)
         self.assertTrue(should_run("schedule", now, "America/Chicago", 6, 0))
 
+    def test_schedule_runs_when_trigger_delayed_within_target_hour(self) -> None:
+        now = datetime(2026, 3, 20, 11, 41, tzinfo=timezone.utc)
+        self.assertTrue(should_run("schedule", now, "America/Chicago", 6, 0))
+
     def test_schedule_skips_wrong_local_time(self) -> None:
         now = datetime(2026, 3, 20, 12, 0, tzinfo=timezone.utc)
         self.assertFalse(should_run("schedule", now, "America/Chicago", 6, 0))

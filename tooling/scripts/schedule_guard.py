@@ -61,7 +61,10 @@ def should_run(event: str, now_utc: datetime, tz_name: str, target_hour: int, ta
     if event != "schedule":
         return True
     local = now_utc.astimezone(ZoneInfo(tz_name))
-    return local.hour == target_hour and local.minute == target_minute
+    # GitHub scheduled workflows can start late. Accept runs that land in the
+    # target local hour (and not before the configured minute) so 06:xx still
+    # executes when the cron trigger is delayed.
+    return local.hour == target_hour and local.minute >= target_minute
 
 
 def write_github_output(run_sync: bool) -> None:
