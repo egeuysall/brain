@@ -17,13 +17,13 @@ source: internal-research
 
 ## Quick Access
 
-| # | Thread | Reddit Link | Local Notes |
-| --- | --- | --- | --- |
-| 1 | Coordinator overloaded by fragmented state | [Open](https://www.reddit.com/r/projectmanagement/comments/1s024ma/experienced_coordinators_where_are_you/) | [Open local](./2026-03-24-thread-1-fragmented-context-coordinator-overload.md) |
-| 2 | New exec role with boundary/political conflict | [Open](https://www.reddit.com/r/Leadership/comments/1rzur3c/new_executive_role_unclear_boundaries_political/) | [Open local](./2026-03-24-thread-2-exec-boundary-politics-scope-creep.md) |
-| 3 | Reorg-driven stress and workload spillover | [Open](https://www.reddit.com/r/projectmanagement/comments/1s00qd1/work_stress_creeping_into_life/) | [Open local](./2026-03-24-thread-3-reorg-stress-and-workload-overflow.md) |
-| 4 | Decisions degrade when operations look stable | [Open](https://www.reddit.com/r/Entrepreneur/comments/1rzro51/i_think_some_business_decisions_get_worse_right/) | [Open local](./2026-03-24-thread-4-false-stability-bad-decisions.md) |
-| 5 | Team direction overridden without governance | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1s0768f/how_to_deal_with_a_coworker_who_thinks_he_can/) | [Open local](./2026-03-24-thread-5-unowned-technical-direction-conflict.md) |
+| #   | Thread                                         | Reddit Link                                                                                                      | Local Notes                                                                    |
+| --- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| 1   | Coordinator overloaded by fragmented state     | [Open](https://www.reddit.com/r/projectmanagement/comments/1s024ma/experienced_coordinators_where_are_you/)      | [Open local](./2026-03-24-thread-1-fragmented-context-coordinator-overload.md) |
+| 2   | New exec role with boundary/political conflict | [Open](https://www.reddit.com/r/Leadership/comments/1rzur3c/new_executive_role_unclear_boundaries_political/)    | [Open local](./2026-03-24-thread-2-exec-boundary-politics-scope-creep.md)      |
+| 3   | Reorg-driven stress and workload spillover     | [Open](https://www.reddit.com/r/projectmanagement/comments/1s00qd1/work_stress_creeping_into_life/)              | [Open local](./2026-03-24-thread-3-reorg-stress-and-workload-overflow.md)      |
+| 4   | Decisions degrade when operations look stable  | [Open](https://www.reddit.com/r/Entrepreneur/comments/1rzro51/i_think_some_business_decisions_get_worse_right/)  | [Open local](./2026-03-24-thread-4-false-stability-bad-decisions.md)           |
+| 5   | Team direction overridden without governance   | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1s0768f/how_to_deal_with_a_coworker_who_thinks_he_can/) | [Open local](./2026-03-24-thread-5-unowned-technical-direction-conflict.md)    |
 
 ## Thread 1 - Coordinator overloaded by fragmented state
 
