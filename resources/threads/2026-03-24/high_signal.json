@@ -8,48 +8,48 @@
   "items": [
     {
       "rank": 1,
-      "title": "What tools and techniques are you using to verify AI-generated code before it hits production?",
-      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1rzq738/what_tools_and_techniques_are_you_using_to_verify/",
-      "subreddit": "ExperiencedDevs",
-      "created_at": "2026-03-21T12:27:27+00:00",
-      "age_hours": 71.54,
-      "high_signal_reason": "First-person production pain with explicit integration-gap failures after formal verification."
+      "title": "Experienced coordinators, where are you?",
+      "url": "https://www.reddit.com/r/projectmanagement/comments/1s024ma/experienced_coordinators_where_are_you/",
+      "subreddit": "projectmanagement",
+      "created_at": "2026-03-21T20:39:28+00:00",
+      "age_hours": 63.34,
+      "high_signal_reason": "Direct first-person context fragmentation with no system of record."
     },
     {
       "rank": 2,
-      "title": "How to measure failure rate for retryable jobs without noisy jobs skewing the metric?",
-      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1rztutg/how_to_measure_failure_rate_for_retryable_jobs/",
-      "subreddit": "ExperiencedDevs",
-      "created_at": "2026-03-21T15:09:47+00:00",
-      "age_hours": 68.84,
-      "high_signal_reason": "Concrete operational tradeoff that directly impacts reliability prioritization and planning."
+      "title": "New executive role, unclear boundaries, political dynamics ...how do you lead in this without getting undermined?",
+      "url": "https://www.reddit.com/r/Leadership/comments/1rzur3c/new_executive_role_unclear_boundaries_political/",
+      "subreddit": "Leadership",
+      "created_at": "2026-03-21T15:46:27+00:00",
+      "age_hours": 68.23,
+      "high_signal_reason": "Leadership-level scope ambiguity and decision-rights conflict under real stakes."
     },
     {
       "rank": 3,
-      "title": "Multi-tenant fair queue implementation",
-      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s02qp3/multitenant_fair_queue_implementation/",
-      "subreddit": "ExperiencedDevs",
-      "created_at": "2026-03-21T21:04:28+00:00",
-      "age_hours": 62.93,
-      "high_signal_reason": "First-person fairness bottleneck with clear architecture and customer-impact implications."
+      "title": "Work stress creeping into life",
+      "url": "https://www.reddit.com/r/projectmanagement/comments/1s00qd1/work_stress_creeping_into_life/",
+      "subreddit": "projectmanagement",
+      "created_at": "2026-03-21T19:42:40+00:00",
+      "age_hours": 64.29,
+      "high_signal_reason": "Repeated reorg and capacity instability causing sustained operational stress."
     },
     {
       "rank": 4,
+      "title": "I think some business decisions get worse right after things stop looking obviously broken",
+      "url": "https://www.reddit.com/r/Entrepreneur/comments/1rzro51/i_think_some_business_decisions_get_worse_right/",
+      "subreddit": "Entrepreneur",
+      "created_at": "2026-03-21T13:36:30+00:00",
+      "age_hours": 70.39,
+      "high_signal_reason": "Clear signal of status-vs-state confusion and fragile decision confidence."
+    },
+    {
+      "rank": 5,
       "title": "How to deal with a coworker who thinks he can make all the software decisions",
       "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0768f/how_to_deal_with_a_coworker_who_thinks_he_can/",
       "subreddit": "ExperiencedDevs",
       "created_at": "2026-03-22T00:16:32+00:00",
       "age_hours": 59.72,
-      "high_signal_reason": "Decision-rights conflict with failed escalation and repeated production impact risk."
-    },
-    {
-      "rank": 5,
-      "title": "Former team lead just tried to give away my project -- quite possibly by accident. How do I stop this from happening again?",
-      "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1s0a1gt/former_team_lead_just_tried_to_give_away_my/",
-      "subreddit": "ExperiencedDevs",
-      "created_at": "2026-03-22T02:31:10+00:00",
-      "age_hours": 57.48,
-      "high_signal_reason": "Detailed first-person outage story exposing cross-team ownership and visibility breakdown."
+      "high_signal_reason": "Team-level governance failure where escalation does not resolve decision conflict."
     }
   ]
 }
