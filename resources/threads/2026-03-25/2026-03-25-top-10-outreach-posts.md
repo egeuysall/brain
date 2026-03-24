@@ -2,30 +2,23 @@
 type: note
 date: 2026-03-25
 author: Codex
-tags: [outreach, icp, standups, github, slack]
+tags: [outreach, icp, reddit, standups, slack, jira]
 source: internal-research
 ---
 
-# Top 10 High-Signal Outreach Posts (Ryva ICP)
+# Top 10 Outreach Posts (Non-Colliding, Recency-Checked)
 
-## Action First
+| # | Platform | Post | Age (days) | Link | Local File |
+|---|---|---|---:|---|---|
+| 1 | Reddit | Why do ci pipeline failures keep blocking deployments when nobody can agree on who owns the fix | 0.13 | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1s28box/why_do_ci_pipeline_failures_keep_blocking/) | [Open local](./2026-03-25-thread-1-ci-failures-ownership-gap.md) |
+| 2 | Reddit | Dev team action items from standups never actually get done, is this normal? | 6.95 | [Open](https://www.reddit.com/r/webdev/comments/1rw65cw/dev_team_action_items_from_standups_never/) | [Open local](./2026-03-25-thread-2-standup-action-items-fall-through.md) |
+| 3 | Reddit | been at this place for 8 weeks and their "agile" approach is confusing me | 3.95 | [Open](https://www.reddit.com/r/agile/comments/1ryvtiz/been_at_this_place_for_8_weeks_and_their_agile/) | [Open local](./2026-03-25-thread-3-agile-standups-status-theater.md) |
+| 4 | Reddit | Why does everything take longer than it should? | 5.87 | [Open](https://www.reddit.com/r/ProductManagement/comments/1rx6kvh/why_does_everything_take_longer_than_it_should/) | [Open local](./2026-03-25-thread-4-delivery-latency-decision-friction.md) |
+| 5 | Reddit | How are your teams documenting decision made? Especially to feed as context for AI | 6.65 | [Open](https://www.reddit.com/r/ProductManagement/comments/1rwi4nr/how_are_your_teams_documenting_decision_made/) | [Open local](./2026-03-25-thread-5-meeting-decisions-not-captured.md) |
+| 6 | Reddit | Team is doing agile on paper but not actually improving, how do you break that cycle? | 6.02 | [Open](https://www.reddit.com/r/agile/comments/1rx1h8j/team_is_doing_agile_on_paper_but_not_actually/) | [Open local](./2026-03-25-thread-6-agile-on-paper-no-improvement.md) |
+| 7 | Reddit | How much of your (and your team's) time goes to answering the same questions over and over? | 5.78 | [Open](https://www.reddit.com/r/EngineeringManagers/comments/1rx9yli/how_much_of_your_and_your_teams_time_goes_to/) | [Open local](./2026-03-25-thread-7-repeat-questions-slack-context-loss.md) |
+| 8 | Reddit | Velocity charts look healthy… right up until the sprint fails. Why? | 0.52 | [Open](https://www.reddit.com/r/EngineeringManagers/comments/1s1x9cd/velocity_charts_look_healthy_right_up_until_the/) | [Open local](./2026-03-25-thread-8-sprint-looks-healthy-then-fails.md) |
+| 9 | Reddit | How do you handle “done” when a release can still break reporting? | 5.07 | [Open](https://www.reddit.com/r/agile/comments/1rxwi79/how_do_you_handle_done_when_a_release_can_still/) | [Open local](./2026-03-25-thread-9-done-definition-reporting-breaks.md) |
+| 10 | Reddit | Does anyone else get status update fatigue? How do I make it less fatiguing? | 10.82 | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1rsrnew/does_anyone_else_get_status_update_fatigue_how_do/) | [Open local](./2026-03-25-thread-10-status-update-fatigue-multi-project.md) |
 
-- Clear action: Start outreach on threads with explicit ownership confusion, standup theater, and fragmented GitHub/Slack/Jira context.
-- Missing decision 1: Who owns project-state synthesis when team size grows beyond direct visibility?
-- Missing decision 2: Which decisions must be made explicit (owner + next step) to avoid gray-zone drift?
-- Risk: Teams keep reconstructing state in meetings, causing blocker latency and delivery slippage.
-
-## Quick Access
-
-| #   | Thread                                              | Source Link                                                                                                                              | Local Notes                                                                 |
-| --- | --------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------- |
-| 1   | Standup removal exposed buried context              | [Open](https://www.reddit.com/r/webdev/comments/1rkalv5/if_daily_standups_disappeared_what_would_replace/)                               | [Open local](./2026-03-25-thread-1-standups-replacement-context-buried.md)  |
-| 2   | Standups became status theater                      | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1nbfh94/are_daily_standups_ever_actually_about_unblocking/)                     | [Open local](./2026-03-25-thread-2-standup-status-report-theater.md)        |
-| 3   | 11-person standup overload with Slack/Jira fallback | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1lvo7fd/is_this_your_situation_too_with_daily_standups_do/)                     | [Open local](./2026-03-25-thread-3-long-standups-async-slack-jira.md)       |
-| 4   | Jira overhead replacing delivery clarity            | [Open](https://www.reddit.com/r/cscareerquestions/comments/1b9nvta/jira_is_killing_me/)                                                  | [Open local](./2026-03-25-thread-4-jira-bureaucracy-delivery-friction.md)   |
-| 5   | Incomplete work marked done                         | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1kg7vgf/how_do_you_deal_with_devs_who_dont_take_ownership/)                     | [Open local](./2026-03-25-thread-5-incomplete-work-ownership-gap.md)        |
-| 6   | Known problems with no owner                        | [Open](https://www.reddit.com/r/ExperiencedDevs/comments/1rrfcki/what_does_your_team_do_with_problems_that_have_no/)                     | [Open local](./2026-03-25-thread-6-unowned-problems-gray-zone.md)           |
-| 7   | Founder visibility drops at 5-10 engineers          | [Open](https://www.reddit.com/r/SaaS/comments/1rm361k/how_do_founders_actually_know_what_their_dev_team/)                                | [Open local](./2026-03-25-thread-7-founder-visibility-loss-at-5-10-devs.md) |
-| 8   | EM replaced standup theater with Slack updates      | [Open](https://www.linkedin.com/posts/poojasalot-2712_engineeringmanagement-agile-softwaredevelopment-activity-7438823216669691904-QfSI) | [Open local](./2026-03-25-thread-8-agile-theater-slack-blocker-huddles.md)  |
-| 9   | Ask HN: Async standups and signal loss              | [Open](https://news.ycombinator.com/item?id=29677684)                                                                                    | [Open local](./2026-03-25-thread-9-ask-hn-async-standups-signal-loss.md)    |
-| 10  | Jira stale status and PM chasing loop               | [Open](https://news.ycombinator.com/item?id=47110071)                                                                                    | [Open local](./2026-03-25-thread-10-jira-stale-status-chasing-slack.md)     |
+All links above were re-selected to avoid collisions with earlier thread folders and to stay within 14 days (favoring past-week posts where available).

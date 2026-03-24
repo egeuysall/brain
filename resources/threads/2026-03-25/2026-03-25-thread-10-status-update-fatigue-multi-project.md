@@ -1,0 +1,52 @@
+---
+type: note
+date: 2026-03-25
+author: Codex
+tags: [outreach, reddit, icp, dev-coordination]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1rsrnew/does_anyone_else_get_status_update_fatigue_how_do/
+---
+
+# Thread 10 - status update fatigue multi project
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/ExperiencedDevs/comments/1rsrnew/does_anyone_else_get_status_update_fatigue_how_do/
+
+## Post Text (Key Excerpt)
+
+```text
+Does anyone else get status update fatigue? How do I make it less fatiguing?
+
+I'm working on two concurrent but very different projects at work for one of our customers as a software engineering contributor at a consulting company. Both projects have the same customer stakeholders, both projects are tracked in our issue tracker and require a lot of meta-work just to make sure it's visible (and at the behest of my managers/leaders). Here's what I mean: - Complete some rando...
+```
+
+## Why It Matches Ryva ICP
+
+The author details heavy meta-work across two projects: constant tracker updates, stakeholder visibility work, and status fatigue. This is high-intensity coordination overhead in day-to-day delivery.
+
+## Underlying Problem
+
+Status-maintenance work is overwhelming execution, because visibility is fragmented and manually reconstructed.
+
+## Suggested Public Response (Copy)
+
+```text
+This is what happens when visibility is treated as manual labor. Engineers spend energy proving progress across tools instead of moving work, and everyone still feels under-informed.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your “status update fatigue” description is exactly the pain pattern many teams hit at scale. I can share a simple way to reduce status churn while keeping stakeholders informed.
+```
+
+## Snapshot
+
+- Subreddit: r/ExperiencedDevs
+- Author: u/baezizbae
+- Age: 10.82 days (within 2-week fallback window)
+- Comments: 69
