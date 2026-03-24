@@ -10,9 +10,11 @@ tags: [agents, output, writing]
 Every output should:
 
 1. Lead with action
+
 - "You should do X because Y"
 
 2. Support with context
+
 - Decisions made
 - Missing decisions
 - Risks
