@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-26
+author: Codex
+tags: [outreach, reddit, icp, engineering-management]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1rqpk77/how_do_you_actually_track_where_your_engineering/
+---
+
+# Thread 1 - bottleneck visibility without status meetings
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/EngineeringManagers/comments/1rqpk77/how_do_you_actually_track_where_your_engineering/
+
+## Post Text (Key Excerpt)
+
+```text
+How do you actually track where your engineering team is getting stuck — without it becoming another meeting or status update?
+
+By the time a bottleneck is visible, it's already costed 2 weeks.
+Do you rely on Jira data? Team leads flagging things? Retros?
+```
+
+## Why It Matches Ryva ICP
+
+This is a direct engineering-manager visibility pain: blockers surface late, and the team does not want more status theater. It maps to Ryva's core problem of delayed signal across Jira, standups, and async updates.
+
+## Underlying Problem
+
+The team lacks early, shared visibility of delivery blockers before they become expensive.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the exact “too-late visibility” trap: by the time Jira reflects the blocker, the cost is already paid. Teams usually need one shared decision+blocker trail tied to work items, not more meetings.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your “bottleneck is visible 2 weeks late” line is painfully real. If useful, I can share a simple template for surfacing blocker + owner + next decision directly from PR/ticket activity so drift shows up earlier.
+```
+
+## Snapshot
+
+- Subreddit: r/EngineeringManagers
+- Author: u/curiousguy482
+- Posted: 2026-03-11 (within 14 days)
+

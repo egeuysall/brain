@@ -1,0 +1,51 @@
+---
+type: note
+date: 2026-03-26
+author: Codex
+tags: [outreach, reddit, icp, project-management]
+source: https://www.reddit.com/r/projectmanagement/comments/1rqoyly/the_pm_stack_my_team_stuck_with_after_trying_jira/
+---
+
+# Thread 2 - tool sprawl team state fragmentation
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/projectmanagement/comments/1rqoyly/the_pm_stack_my_team_stuck_with_after_trying_jira/
+
+## Post Text (Key Excerpt)
+
+```text
+I’m a PM at a software company with a team of 12. We tried Jira, ClickUp, Notion and then mixed tools.
+None of these solved visibility. Every week we still had to run standup summaries because status wasn't clear from the system.
+```
+
+## Why It Matches Ryva ICP
+
+The post is from a small software team explicitly running GitHub + Slack + board tools and still relying on meetings for basic project state. It directly reflects scattered context and stale tracker trust.
+
+## Underlying Problem
+
+Execution context is fragmented across tools, so teams reconstruct status manually every week.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the classic split-brain stack: code in GitHub, discussion in Slack, status in PM tools, and truth in people’s heads. When that happens, standup summaries become manual glue instead of optional.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your team-of-12 example is exactly the pain pattern we track. If useful, I can share a compact format that links owner + decision + blocker to work items so weekly summaries become generated, not recreated.
+```
+
+## Snapshot
+
+- Subreddit: r/projectmanagement
+- Author: u/Mountain_Sentence646
+- Posted: 2026-03-11 (within 14 days)
+

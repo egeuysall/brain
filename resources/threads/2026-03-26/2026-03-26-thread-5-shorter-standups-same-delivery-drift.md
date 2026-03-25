@@ -1,0 +1,52 @@
+---
+type: note
+date: 2026-03-26
+author: Codex
+tags: [outreach, reddit, icp, agile]
+source: https://www.reddit.com/r/agile/comments/1rzv9wv/our_team_standups_got_shorter_but_were_still_not/
+---
+
+# Thread 5 - shorter standups same delivery drift
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/agile/comments/1rzv9wv/our_team_standups_got_shorter_but_were_still_not/
+
+## Post Text (Key Excerpt)
+
+```text
+Our team standups got shorter, but we’re still not moving faster.
+Work keeps spilling and nobody knows who owns the blocker once things get ambiguous.
+We probably need fewer rituals and more clarity.
+```
+
+## Why It Matches Ryva ICP
+
+This is explicit standup-theater pain: ceremony efficiency improved, but operational clarity did not. It strongly matches Ryva's ICP around missing ownership and hidden blockers.
+
+## Underlying Problem
+
+Rituals optimize meeting time while ownership and blocker resolution remain undefined.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the key distinction: fast standups are not the same as fast delivery. If blocker ownership is fuzzy, work will spill no matter how efficient the ritual feels.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your “shorter standups, same drift” line is a strong signal. If useful, I can share a compact blocker-ownership rubric that surfaces who owns unblock decisions before sprint-end surprises.
+```
+
+## Snapshot
+
+- Subreddit: r/agile
+- Author: u/Alternative_Archer293
+- Posted: 2026-03-21 (within 7 days)
+
