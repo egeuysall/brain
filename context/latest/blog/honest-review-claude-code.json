@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "honest-review-claude-code",
-  "generatedAt": "2026-03-24",
+  "generatedAt": "2026-03-25",
   "entry": {
     "id": "honest-review-claude-code",
     "url": "https://egeuysal.com/blog/honest-review-claude-code/",
@@ -11,7 +11,11 @@
     "description": "I've been using Claude Code for a while now, and here's the thing it's genuinely amazing, but not in the way you might think.",
     "publishedAt": "2025-10-19",
     "updatedAt": null,
-    "tags": ["technology", "review", "coding"],
+    "tags": [
+      "technology",
+      "review",
+      "coding"
+    ],
     "image": "https://images.pexels.com/photos/3861951/pexels-photo-3861951.jpeg",
     "readingTime": 2,
     "body": "I've been using Claude Code for a while now, and here's the thing - it's genuinely amazing, but not in the way you might think.\n\n### What Claude Code Actually Is\n\nClaude Code isn't your typical \"vibe coding\" tool. If you're looking for something to quickly prototype UI or generate a full app from a prompt, go use v0. That's not what this is for.\n\nClaude Code shines at **agentic coding** - collaboratively writing code with AI. It's designed for actual development work where you're building alongside an AI that understands context and can handle complex tasks.\n\n### What Works Really Well\n\n**Integration is seamless.** I connected it with Zed (my code editor of choice), and it works perfectly. No friction, just smooth collaboration.\n\n**GitHub integration is killer.** It can work with pull requests directly, which makes code reviews and collaboration so much better.\n\n**The MCP server fix.** Sometimes Claude Code would generate errors because it was referencing outdated docs. I solved this by introducing the Claude Code Context7 MCP server, which gives it access to all recent documentation. Game changer.\n\n### The One Big Problem\n\n**Usage limits hit fast.** Like, really fast. You'll be working on something, hit your stride, and then boom - you're rate limited. I've heard OpenAI's Codex handles usage limits better, so that might be worth checking out if this becomes a blocker for you.\n\n### Bottom Line\n\nClaude Code is incredible for **real development work** where you need an AI partner that can understand your codebase and collaborate meaningfully. Just don't expect it to be a quick prototype tool, and be prepared for those usage limits.\n\nIf you're doing serious coding and want AI assistance that actually gets it? Claude Code is worth it."
