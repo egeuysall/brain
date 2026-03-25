@@ -27,9 +27,11 @@ source: internal-research
 ## Strategy Shift: Value First (Before Pitch)
 
 Previous tendency:
+
 - Ask for demo/run too early.
 
 Updated approach:
+
 - Start by naming the exact coordination failure in their language.
 - Give one useful diagnosis or framing they can apply immediately.
 - Offer a lightweight next step only after resonance (not upfront).

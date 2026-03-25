@@ -2,7 +2,15 @@
 type: note
 date: 2026-03-24
 author: Codex
-tags: [linkedin, outreach, value-first, engineering-management, standups, project-state]
+tags:
+  [
+    linkedin,
+    outreach,
+    value-first,
+    engineering-management,
+    standups,
+    project-state
+  ]
 source: internal-research
 ---
 
