@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-27
+author: Codex
+tags: [outreach, reddit, icp, project-management, slack, jira]
+source: https://www.reddit.com/r/projectmanagement/comments/1rqs6nj/using_slack_for_project_management_what_are_the/
+---
+
+# Thread 9 - slack native pm chaos vs adoption
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/projectmanagement/comments/1rqs6nj/using_slack_for_project_management_what_are_the/
+
+## Post Text (Key Excerpt)
+
+```text
+Slack-native PM is attractive because adoption is high and context stays attached to tasks.
+
+But Slack is noisy, threads get buried, and formal PM tool adoption died twice for this team.
+
+How do you use Slack as coordination without it becoming chaos?
+```
+
+## Why It Matches Ryva ICP
+
+This is the exact GitHub/Slack coordination pain Ryva targets: high conversation activity with low durable project state. It includes explicit concern about buried threads and system-of-record failure.
+
+## Underlying Problem
+
+Teams optimize for communication adoption at the cost of reliable execution tracking and accountability.
+
+## Suggested Public Response (Copy)
+
+```text
+You’re naming the real tradeoff: adoption vs durability. Slack is a great coordination surface, but without structured capture of outcomes and owners, project state drifts and threads become archaeology.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your post describes the exact “Slack is where work happens, but not where state survives” problem. If useful, I can share a lightweight weekly capture loop teams use to prevent decision/task loss without forcing heavy tool behavior.
+```
+
+## Snapshot
+
+- Subreddit: r/projectmanagement
+- Author: u/Acrobatic-Bake3344
+- Posted: 2026-03-21 (5d ago at capture; within 14 days)
