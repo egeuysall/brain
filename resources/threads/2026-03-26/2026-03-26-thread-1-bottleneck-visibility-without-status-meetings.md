@@ -50,4 +50,3 @@ Your “bottleneck is visible 2 weeks late” line is painfully real. If useful,
 - Subreddit: r/EngineeringManagers
 - Author: u/curiousguy482
 - Posted: 2026-03-11 (within 14 days)
-

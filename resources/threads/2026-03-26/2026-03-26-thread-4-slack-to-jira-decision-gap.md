@@ -49,4 +49,3 @@ Your Slack->Jira gap is one of the highest-cost coordination leaks. If useful, I
 - Subreddit: r/projectmanagement
 - Author: u/GTFrankieFrazer
 - Posted: 2026-03-13 (within 14 days)
-

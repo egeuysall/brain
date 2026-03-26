@@ -49,4 +49,3 @@ Your “shorter standups, same drift” line is a strong signal. If useful, I ca
 - Subreddit: r/agile
 - Author: u/Alternative_Archer293
 - Posted: 2026-03-21 (within 7 days)
-

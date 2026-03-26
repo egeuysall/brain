@@ -49,4 +49,3 @@ Your dependency blindspot note is very real for new EMs. If useful, I can share 
 - Subreddit: r/EngineeringManagers
 - Author: u/Illustrious-Coyote1
 - Posted: 2026-03-17 (within 14 days)
-

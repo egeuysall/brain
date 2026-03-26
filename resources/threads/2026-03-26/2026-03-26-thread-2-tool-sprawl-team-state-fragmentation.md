@@ -48,4 +48,3 @@ Your team-of-12 example is exactly the pain pattern we track. If useful, I can s
 - Subreddit: r/projectmanagement
 - Author: u/Mountain_Sentence646
 - Posted: 2026-03-11 (within 14 days)
-

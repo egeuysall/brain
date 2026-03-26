@@ -49,4 +49,3 @@ Your “looks fine on paper, misaligned day-to-day” description is exactly the
 - Subreddit: r/projectmanagement
 - Author: u/Hour-Two-3104
 - Posted: 2026-03-18 (within 7 days)
-

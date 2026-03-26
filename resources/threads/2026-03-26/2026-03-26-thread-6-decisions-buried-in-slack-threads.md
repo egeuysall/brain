@@ -48,4 +48,3 @@ Your Slack decision-loss point is exactly what causes repeat debates and rework.
 - Subreddit: r/AIAssisted
 - Author: u/TannerTot69
 - Posted: 2026-03-17 (within 14 days)
-
