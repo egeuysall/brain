@@ -3,14 +3,16 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-03-06",
-  "generatedAt": "2026-03-25",
+  "generatedAt": "2026-03-26",
   "entry": {
     "id": "2026-03-06",
     "url": "https://egeuysal.com/diary/2026-03-06/",
     "day": 1,
     "date": "2026-03-06",
     "summary": "Rebuilt personal website and blog.",
-    "tags": ["build"],
+    "tags": [
+      "build"
+    ],
     "body": "Rebuilt my personal website and blog with a cleaner minimal layout.\n\nFinished SEO and OG setup, and cleaned the repo for production.\n\nAlso added slug-based diary pages and linked entries from home."
   }
 }
