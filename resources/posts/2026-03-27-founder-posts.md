@@ -19,6 +19,7 @@ If your team spends $10k-$20k/month on tools and still needs "quick calls" to an
 You have an ownership handoff problem.
 
 One pattern I keep seeing:
+
 - work is visible
 - responsibility is not
 - the unblock path lives in someone’s head
@@ -42,11 +43,13 @@ Different contexts, same failure mode.
 We added systems, but we did not make ownership transitions explicit.
 
 So the team still pays a tax in manual sync:
+
 - who owns this now?
 - what changed since yesterday?
 - what is the exact next unblock?
 
 This connects directly to what I wrote in yesterday’s diary:
+
 - show-close loops over generic activity
 - one useful insight plus one clear question
 - first-screen clarity: 1 decision, 1 reason, 1 next action
@@ -64,6 +67,7 @@ That hit close to home.
 
 In my experience, the hidden cost is not only tool overlap. It is ownership drift between steps.
 Everything looks documented, but when something slips, people still jump on a call to reconstruct:
+
 - who owns it now
 - whether the blocker is real
 - what the immediate next action is
