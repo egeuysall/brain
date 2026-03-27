@@ -49,6 +49,6 @@ Your poll nails a common failure mode: teams have updates everywhere but no sing
 
 ## Snapshot
 
-- Author: @syedsibtain_
+- Author: @syedsibtain\_
 - Captured date label: Mar 25
 - Recency window: within past 14 days

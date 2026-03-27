@@ -18,6 +18,7 @@ PR velocity up and standups still saying “still working on X” for day 3 is f
 You are measuring motion, not state.
 
 The signal that matters is state change:
+
 - what changed since yesterday
 - what is blocked now
 - who owns unblock
@@ -36,11 +37,13 @@ I saw posts from engineering managers saying PR velocity is up but quality ROI i
 That is the same root issue.
 
 We optimize for motion metrics:
+
 - faster standups
 - more PRs
 - more updates
 
 But delivery reliability comes from state-change clarity:
+
 - what decision changed
 - what blocker appeared
 - who owns the next unblock
