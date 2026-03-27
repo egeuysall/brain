@@ -1,0 +1,52 @@
+---
+type: note
+date: 2026-03-25
+author: Codex
+tags: [outreach, reddit, icp, dev-coordination]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1rx9yli/how_much_of_your_and_your_teams_time_goes_to/
+---
+
+# Thread 7 - repeat questions slack context loss
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/EngineeringManagers/comments/1rx9yli/how_much_of_your_and_your_teams_time_goes_to/
+
+## Post Text (Key Excerpt)
+
+```text
+How much of your (and your team's) time goes to answering the same questions over and over?
+
+I worked in a tech company for years, starting as a developer when we were 8, growing into an Engineering Manager position when we were 60+. One of my pain points at the time was repeating myself almost every-day, because no one actually trusted our documentation. Every week, we saw the same questions come over and over on Slack, wasting "brain-time" of our most efficient people to just answer re...
+```
+
+## Why It Matches Ryva ICP
+
+The post describes repeated Slack questions because documentation isn't trusted, creating constant context reconstruction. This maps directly to buried context and recurring coordination cost.
+
+## Underlying Problem
+
+No trusted project memory exists, so teams repeatedly reconstruct answers via chat instead of execution artifacts.
+
+## Suggested Public Response (Copy)
+
+```text
+When teams don't trust docs, Slack becomes the real system of record by default. That creates recurring interruptions and makes project state dependent on who remembers context that day.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+The repeated-question loop is a real tax on senior engineers. If helpful, I can share a practical approach to turn recurring Slack Q&A into a trusted, living decision/state layer.
+```
+
+## Snapshot
+
+- Subreddit: r/EngineeringManagers
+- Author: u/crow_thib
+- Age: 5.78 days (past week)
+- Comments: 37

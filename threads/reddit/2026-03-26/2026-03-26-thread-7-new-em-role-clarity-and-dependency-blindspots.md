@@ -1,0 +1,51 @@
+---
+type: note
+date: 2026-03-26
+author: Codex
+tags: [outreach, reddit, icp, engineering-management]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1rw0f5o/new_engineering_manager_seeking_help/
+---
+
+# Thread 7 - new em role clarity and dependency blindspots
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/EngineeringManagers/comments/1rw0f5o/new_engineering_manager_seeking_help/
+
+## Post Text (Key Excerpt)
+
+```text
+I recently got promoted from senior engineer to engineering manager.
+I don’t have a good idea of what product milestones mean for deliverables.
+I oversimplify work and miss dependencies enough that it keeps causing problems.
+```
+
+## Why It Matches Ryva ICP
+
+This is small-team EM execution pain with weak visibility of dependencies and unclear ownership boundaries. It ties directly to frequent project-state ambiguity and missed planning assumptions.
+
+## Underlying Problem
+
+Delivery decisions lack an explicit structure for milestones, owners, and dependency risk.
+
+## Suggested Public Response (Copy)
+
+```text
+This is a common EM transition failure mode: you inherit roadmap accountability without a clear decision map. A practical first move is making owner + dependency + definition-of-done explicit for each milestone.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your dependency blindspot note is very real for new EMs. If useful, I can share a lightweight milestone brief template that makes ownership, risk, and decision points visible before execution drifts.
+```
+
+## Snapshot
+
+- Subreddit: r/EngineeringManagers
+- Author: u/Illustrious-Coyote1
+- Posted: 2026-03-17 (within 14 days)
