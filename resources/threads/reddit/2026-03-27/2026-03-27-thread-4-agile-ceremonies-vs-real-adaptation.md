@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-27
+author: Codex
+tags: [outreach, reddit, icp, agile, standups, delivery]
+source: https://www.reddit.com/r/agile/comments/1s43111/after_working_in_agile_teams_for_years_im_not/
+---
+
+# Thread 4 - agile ceremonies vs real adaptation
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/agile/comments/1s43111/after_working_in_agile_teams_for_years_im_not/
+
+## Post Text (Key Excerpt)
+
+```text
+Sprints happen, standups happen, retros happen… but a lot of it starts to feel like routine.
+
+Agile talks about adapting but in reality there’s a strong push to look predictable and under control, even when things clearly aren’t.
+
+At this point it feels like companies just package planning in shorter cycles.
+```
+
+## Why It Matches Ryva ICP
+
+The post names ritual-heavy process without real situational awareness, which is core Ryva pain. It signals recurring mismatch between reported progress and actual delivery state.
+
+## Underlying Problem
+
+Teams run ceremonies, but decision/risk visibility is too weak to drive real adaptation.
+
+## Suggested Public Response (Copy)
+
+```text
+Strong take, and accurate in many orgs: ceremony compliance is not the same as execution clarity. If uncertainty is not captured as decisions + risks + ownership in-flight, “agile” becomes reporting theater.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your point about “predictable optics over adaptation” resonated. I can share a compact operating pattern teams use to track risk/decision deltas between ceremonies so the rituals become useful again.
+```
+
+## Snapshot
+
+- Subreddit: r/agile
+- Author: u/Hour-Two-3104
+- Posted: 2026-03-26 (12h ago at capture; within 14 days)

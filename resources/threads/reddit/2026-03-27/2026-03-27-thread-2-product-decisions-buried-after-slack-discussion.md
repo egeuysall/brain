@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-27
+author: Codex
+tags: [outreach, reddit, icp, agile, slack, decisions]
+source: https://www.reddit.com/r/agile/comments/1s31bvr/where_do_your_product_decisions_actually_live/
+---
+
+# Thread 2 - product decisions buried after slack discussion
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/agile/comments/1s31bvr/where_do_your_product_decisions_actually_live/
+
+## Post Text (Key Excerpt)
+
+```text
+Most product decisions in our team happen pretty casually. Someone posts an idea in Slack, a thread starts, people share opinions, and eventually someone says “yeah let’s do it”.
+
+A few months later the same idea pops up again and everyone starts digging through Slack trying to find the original thread and reasoning.
+
+The discussion happens clearly, but the outcome doesn’t end up stored anywhere reliable.
+```
+
+## Why It Matches Ryva ICP
+
+This is a direct statement of decision history being trapped in Slack and resurfacing as repeated confusion. It maps to missing institutional memory and stale planning artifacts.
+
+## Underlying Problem
+
+The team has no consistent mechanism to capture decision outcomes and rationale at execution time.
+
+## Suggested Public Response (Copy)
+
+```text
+You framed the exact failure mode: decisions are made, but decision outcomes are not operationalized. Without a lightweight log tied to actual work, teams keep re-litigating the same calls.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+The “we keep digging old Slack threads” pain is very real. I can send a minimal template we’ve seen work for small teams: decision, owner, rationale, and linked ticket/PR in one place.
+```
+
+## Snapshot
+
+- Subreddit: r/agile
+- Author: u/Conscious_Search_185
+- Posted: 2026-03-24 (2d ago at capture; within 14 days)

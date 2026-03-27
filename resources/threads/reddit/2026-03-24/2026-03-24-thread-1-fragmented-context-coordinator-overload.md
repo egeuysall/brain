@@ -1,0 +1,48 @@
+---
+type: note
+date: 2026-03-24
+author: Codex
+tags: [reddit, project-management, coordination, context-fragmentation]
+source: https://www.reddit.com/r/projectmanagement/comments/1s024ma/experienced_coordinators_where_are_you/
+---
+
+# Thread 1 - Coordinator overloaded by fragmented state
+
+## Quick Actions
+
+- Reddit thread: [Open post](https://www.reddit.com/r/projectmanagement/comments/1s024ma/experienced_coordinators_where_are_you/)
+- Local index: [Back to top 5](./2026-03-24-top-5-team-coordination-pain.md)
+
+## Snapshot
+
+- Role signal: New ops/project coordinator
+- Time signal: 2026-03-21T20:39:28+00:00 (within 48-72h at collection)
+- Situation type: Coordination without a system of record
+
+## Pain Summary
+
+The author describes tracking roughly 50 moving items across client/vendor workflows using memory, email, ad hoc spreadsheets, and paper notes. They have no central operating system for status, ownership, and next action.
+
+## Why This Is High-Signal
+
+- Strong first-person ownership of day-to-day operations.
+- Concrete evidence of context fragmentation across tools and artifacts.
+- Explicit request for process recovery, not generic tool shopping.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is exactly what coordination collapse looks like: work exists, but state is split across too many places. You do not have a workload problem only; you have a state-tracking problem that makes prioritization and follow-through unreliable.
+```
+
+## Suggested DM (Copy)
+
+```text
+Your post maps to a common pattern: too many moving tasks, no canonical state, and memory carrying the system. If useful, I can share a simple “single state ledger” format teams use before adopting heavier tooling.
+```
+
+## Personalization Notes
+
+- Mirror their “50 jobs/week” detail to show specificity.
+- Keep tone practical and supportive, not judgmental.
+- Emphasize state model before software selection.

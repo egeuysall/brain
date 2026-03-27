@@ -1,0 +1,52 @@
+---
+type: note
+date: 2026-03-25
+author: Codex
+tags: [outreach, reddit, icp, dev-coordination]
+source: https://www.reddit.com/r/ProductManagement/comments/1rwi4nr/how_are_your_teams_documenting_decision_made/
+---
+
+# Thread 5 - meeting decisions not captured
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/ProductManagement/comments/1rwi4nr/how_are_your_teams_documenting_decision_made/
+
+## Post Text (Key Excerpt)
+
+```text
+How are your teams documenting decision made? Especially to feed as context for AI
+
+Our teams are struggling with best practices on documenting decisions coming from meetings. Easy enough to log these into meeting notes and into a decision log for the project, but how do you document this into a broader shared resource for the org? And how is that socialized and shared? We’re trying to solve for this so we can feed into the LLMs the teams are using.
+```
+
+## Why It Matches Ryva ICP
+
+The post directly states that decisions from meetings are hard to persist and socialize across the org. This is exactly context fragmentation across tools and implicit decision risk.
+
+## Underlying Problem
+
+Decisions are logged locally but not propagated into an org-wide source of truth tied to execution.
+
+## Suggested Public Response (Copy)
+
+```text
+You're pointing at the hard part: notes exist, but decision context doesn't become operational state. Without an explicit shared decision trail, teams keep rediscovering rationale in meetings and threads.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Good question. We've seen teams improve this by enforcing one shared decision record linked to tickets/PRs. Happy to send a minimal schema that works without heavy process.
+```
+
+## Snapshot
+
+- Subreddit: r/ProductManagement
+- Author: u/yeezyforsheezie
+- Age: 6.65 days (past week)
+- Comments: 19
