@@ -1,0 +1,34 @@
+---
+type: note
+date: 2026-03-28
+author: Codex
+tags: [outreach, reddit, icp, engineering-management, standups, ownership, context]
+source: https://www.reddit.com/r/webdev/comments/1s0vcmt/im_a_fe_lead_and_a_new_pm_in_the_org_wants_to/
+---
+
+# Thread 9: Pm Ai Pr Pushback Review Bottleneck
+
+## Platform
+Reddit
+
+## Link
+https://www.reddit.com/r/webdev/comments/1s0vcmt/im_a_fe_lead_and_a_new_pm_in_the_org_wants_to/
+
+## Key Excerpt
+"PM wants everybody to commit to the codebase... I'll be forced to review AI slop with no standards/security/architecture and lose real delivery time."
+
+## Why This Matches Ryva ICP
+Sharp signal of ownership confusion, decision-quality risk, and context debt introduced through uncontrolled AI-generated PRs.
+
+## Underlying Problem
+Contribution rights are expanding faster than responsibility boundaries, creating review bottlenecks and hidden quality risk.
+
+## Suggested Public Reply (Copy)
+```text
+This is a governance issue, not a tooling debate. If code ownership and operational responsibility are separated, review burden explodes and quality drops. Clean rule: anyone can propose, but the code owner approves standards/security/architecture and the submitter owns fixes before merge.
+```
+
+## Suggested DM Idea (Copy)
+```text
+Your post nails the hidden cost: AI can speed generation while slowing the team through review debt. I can share a "you push it, you own it" workflow contract that protects FE velocity.
+```

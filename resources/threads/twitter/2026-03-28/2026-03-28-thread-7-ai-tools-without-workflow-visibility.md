@@ -1,0 +1,52 @@
+---
+type: note
+date: 2026-03-28
+author: Codex
+tags: [outreach, x, icp, workflow, visibility, engineering]
+source: https://x.com/toggle/status/2037199927332208695
+---
+
+# Thread 7 - ai tools without workflow visibility
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/toggle/status/2037199927332208695
+
+## Post Text (Key Excerpt)
+
+```text
+Two things happening in parallel:
+1 — investing in AI agents and copilots
+2 — no idea how their work actually flows
+These two things are on a collision course.
+```
+
+## Why It Matches Ryva ICP
+
+This is explicit team-operations pain: tool adoption outpaces understanding of real workflow state. It aligns with teams shipping fast but lacking reliable execution visibility.
+
+## Underlying Problem
+
+Automation is layered onto unmanaged process debt, amplifying coordination failures.
+
+## Suggested Public Response (Copy)
+
+```text
+Exactly. Agent rollout without workflow clarity usually accelerates hidden bottlenecks. Teams need a live view of decision flow and ownership first, otherwise output increases while reliability drops.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+In practice, where do teams first feel this collision: PR review queues, incident triage, or cross-team handoffs?
+```
+
+## Snapshot
+
+- Author: @toggle
+- Captured date label: Mar 26
+- Recency window: within past 7 days

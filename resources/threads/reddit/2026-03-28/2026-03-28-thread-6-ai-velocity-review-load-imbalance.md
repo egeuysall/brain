@@ -1,0 +1,34 @@
+---
+type: note
+date: 2026-03-28
+author: Codex
+tags: [outreach, reddit, icp, engineering-management, standups, ownership, context]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1rxia7l/ai_usage_red_flag/
+---
+
+# Thread 6: Ai Velocity Review Load Imbalance
+
+## Platform
+Reddit
+
+## Link
+https://www.reddit.com/r/ExperiencedDevs/comments/1rxia7l/ai_usage_red_flag/
+
+## Key Excerpt
+"His velocity is the highest on the team, but I'm stuck doing reviews... He trusts Claude output without validating root cause..."
+
+## Why This Matches Ryva ICP
+Concrete dev-team pain: PR volume rises while shared ownership and validation discipline collapse.
+
+## Underlying Problem
+AI-assisted output inflates visible throughput while shifting risk and cognitive load to reviewers.
+
+## Suggested Public Reply (Copy)
+```text
+You're not overthinking it. This is a workflow design bug: generation is rewarded, validation is externalized. If one engineer can open unlimited PRs without review obligations, the team gets pseudo-velocity. Add a hard gate tying PR throughput to review contribution and evidence of validation before review.
+```
+
+## Suggested DM Idea (Copy)
+```text
+Your post describes a real anti-pattern: AI increases code volume faster than team verification capacity. If useful, I can share a review-cap policy that rebalances ownership without banning AI usage.
+```
