@@ -48,6 +48,6 @@ Which hop causes the most loss for teams you see: calls â†’ Slack notes, Slack â
 
 ## Snapshot
 
-- Author: @syedsibtain_
+- Author: @syedsibtain\_
 - Captured date label: Mar 23
 - Recency window: within past 7 days

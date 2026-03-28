@@ -46,6 +46,6 @@ After a ticket is opened, what signal do you trust most today that work is truly
 
 ## Snapshot
 
-- Author: @syedsibtain_
+- Author: @syedsibtain\_
 - Captured date label: Mar 26
 - Recency window: within past 7 days

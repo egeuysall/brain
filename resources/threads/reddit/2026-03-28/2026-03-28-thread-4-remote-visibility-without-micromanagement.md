@@ -2,33 +2,41 @@
 type: note
 date: 2026-03-28
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, standups, ownership, context]
+tags:
+  [outreach, reddit, icp, engineering-management, standups, ownership, context]
 source: https://www.reddit.com/r/managers/comments/1s17qki/how_do_you_get_any_remote_team_visibility_as_a/
 ---
 
 # Thread 4: Remote Visibility Without Micromanagement
 
 ## Platform
+
 Reddit
 
 ## Link
+
 https://www.reddit.com/r/managers/comments/1s17qki/how_do_you_get_any_remote_team_visibility_as_a/
 
 ## Key Excerpt
+
 "I'm managing 12 people fully remote... you're either trusting everyone completely or micromanaging... tools give me basically nothing on team health."
 
 ## Why This Matches Ryva ICP
+
 Explicit management pain around invisible workload distribution and team health in a remote engineering context.
 
 ## Underlying Problem
+
 Without shared operational signals, leaders must choose between blind trust and high-friction check-ins.
 
 ## Suggested Public Reply (Copy)
+
 ```text
 You're describing missing operating signals, not a people problem. When teams lack shared state on ownership, blockers, and next action, managers are forced into either guessing or nagging. A better middle: outcome-based weekly commitments plus explicit blocker ownership and stale-state alerts.
 ```
 
 ## Suggested DM Idea (Copy)
+
 ```text
 The trust-vs-micromanagement trap usually means system signals are weak. I can share a simple remote visibility setup that tracks outcome movement and blocker ownership without surveillance tooling.
 ```

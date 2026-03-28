@@ -45,6 +45,6 @@ When handoff quality breaks, does it show up first as rework, unclear ownership,
 
 ## Snapshot
 
-- Author: @syedsibtain_
+- Author: @syedsibtain\_
 - Captured date label: Mar 27
 - Recency window: within past 7 days
