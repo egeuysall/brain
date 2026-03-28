@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-03-28T16:08:53.183Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "\"standup\" \"waste of time\" engineering",
+    "\"engineering manager\" slack chaos",
+    "\"PR review\" confusion team",
+    "\"who owns this bug\" engineering",
+    "\"had to jump on a call to figure it out\" bug"
+  ],
+  "results": [
+    {
+      "query": "\"standup\" \"waste of time\" engineering",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"engineering manager\" slack chaos",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"PR review\" confusion team",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"who owns this bug\" engineering",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"had to jump on a call to figure it out\" bug",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

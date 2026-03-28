@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-03-29
+author: Codex
+tags: [outreach, reddit, icp, engineering-management, governance, access-control, accountability]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1s494ys/how_are_you_handling_ai_access_and_spend/
+---
+
+# Thread 3: AI Access Spend Attribution Chaos
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/EngineeringManagers/comments/1s494ys/how_are_you_handling_ai_access_and_spend/
+
+## Key Excerpt
+
+"Different provider accounts, people using personal accounts and expensing them... I cannot tell engineering vs product spend or whether an offboarded contractor still has API access somewhere."
+
+## Why This Matches Ryva ICP
+
+Small-tech-company operator pain with classic ownership ambiguity: fragmented tool usage, unclear access control, and no shared decision record for who owns costs and keys.
+
+## Underlying Problem
+
+Access and cost ownership live across disconnected systems, so leadership cannot reconstruct who owns risk or spend.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is not a finance problem first, it is an ownership-system problem. If access paths are fragmented, attribution and offboarding will always be fuzzy. Standardize one approved access layer, then tag usage by user/team/cost center at that layer.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your "invoice-end untangling" pain is common. I can send a compact ownership model for AI access (who approves, who provisions, who offboards, who is accountable) that avoids this recurring chaos.
+```

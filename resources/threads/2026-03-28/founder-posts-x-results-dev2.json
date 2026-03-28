@@ -1,0 +1,653 @@
+{
+  "generatedAt": "2026-03-28T16:10:48.901Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup engineering",
+    "bug ownership",
+    "pr review confusion",
+    "slack engineering team",
+    "jump on a call bug"
+  ],
+  "results": [
+    {
+      "query": "standup engineering",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037907804229337258",
+          "text": "Your daily standup will be run by AI agents by 2027. Not because of some breakthrough—because AI already tracks dependencies, identifies blockers, and synthesizes progress better than rushed 15-minute human meetings. The best engineering teams are already testing this. https://t.co/smOFcxa9J3",
+          "createdAt": "2026-03-28T15:00:57.000Z",
+          "authorId": "1666137592767688733",
+          "authorUsername": "robowise",
+          "authorName": "Robowise",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/robowise/status/2037907804229337258"
+        },
+        {
+          "id": "2037433063899353128",
+          "text": "@rakyll The magic formula nobody talks about: high-bandwidth sync + low-interruption async. Open plan offices kill the second part completely. You cant do deep work when someone is having a standup 3 feet from your desk. The best engineering teams I've seen literally have \"war rooms\" for",
+          "createdAt": "2026-03-27T07:34:30.000Z",
+          "authorId": "1764321378507931648",
+          "authorUsername": "proxy_vector",
+          "authorName": "Rohan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 285
+          },
+          "url": "https://x.com/proxy_vector/status/2037433063899353128"
+        },
+        {
+          "id": "2037211482971398532",
+          "text": "@jiratickets the real skill in 2026 isn't coding. it's knowing exactly what to ask claude and then taking full credit in standup. prompt engineering is just corporate ghostwriting",
+          "createdAt": "2026-03-26T16:54:01.000Z",
+          "authorId": "2026003308666904576",
+          "authorUsername": "eshanbuilds",
+          "authorName": "Eshan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 78
+          },
+          "url": "https://x.com/eshanbuilds/status/2037211482971398532"
+        },
+        {
+          "id": "2036797851343221209",
+          "text": "The 3 meetings I cancel at every new CTO engagement:\n\n1. Daily standup (it's just Jira tickets read aloud — make it async)\n2. All-engineering sync (12 of 15 people check their phones)\n3. Recurring \"architecture review\" with no agenda\n\nThe one meeting I add: weekly decision log https://t.co/P7Tb9ivtG0",
+          "createdAt": "2026-03-25T13:30:24.000Z",
+          "authorId": "1359058708022521862",
+          "authorUsername": "GaneshKompella",
+          "authorName": "Ganesh Kompella",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 33
+          },
+          "url": "https://x.com/GaneshKompella/status/2036797851343221209"
+        },
+        {
+          "id": "2036760591885369814",
+          "text": "It started the way it always does.\n\nThe CTO had just spent the weekend deep in Netflix and Amazon engineering blogs.\n\nHe came into standup on Monday with a new energy:\n\n“we need to build this properly from day one”\n“if we start with a monolith, we’ll just have to rewrite",
+          "createdAt": "2026-03-25T11:02:20.000Z",
+          "authorId": "897018177019944960",
+          "authorUsername": "Akintola_steve",
+          "authorName": "Akintola Steve",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 16,
+            "quote_count": 0,
+            "bookmark_count": 3,
+            "impression_count": 2334
+          },
+          "url": "https://x.com/Akintola_steve/status/2036760591885369814"
+        },
+        {
+          "id": "2036744132715327611",
+          "text": "Standup comedy is the engineering of 2026, they are doing everything but comedy. https://t.co/Y1a9GNu8ji",
+          "createdAt": "2026-03-25T09:56:56.000Z",
+          "authorId": "113049074",
+          "authorUsername": "Madyjoshi",
+          "authorName": "shadypinkman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 16
+          },
+          "url": "https://x.com/Madyjoshi/status/2036744132715327611"
+        },
+        {
+          "id": "2036100684110791033",
+          "text": "@codewithpri My cousin asked me bhaiya, standup career kaise shuru karu, i told him beta engineering karle",
+          "createdAt": "2026-03-23T15:20:06.000Z",
+          "authorId": "1397238044487524356",
+          "authorUsername": "TheAshrex",
+          "authorName": "Ashish Khanagwal",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 31
+          },
+          "url": "https://x.com/TheAshrex/status/2036100684110791033"
+        },
+        {
+          "id": "2035620598760763473",
+          "text": "@haki21k @Udhaystalin These standup comedy thailees can't make a good joke otha na school padikura apo le irunthu paththu iruken athey engineering jokes athukum naalu peru clap pandraan https://t.co/ZEnOmlBVWQ",
+          "createdAt": "2026-03-22T07:32:25.000Z",
+          "authorId": "1978396460715851776",
+          "authorUsername": "SixEyedTyrant",
+          "authorName": "Panayur Lander",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 6,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 209
+          },
+          "url": "https://x.com/SixEyedTyrant/status/2035620598760763473"
+        }
+      ]
+    },
+    {
+      "query": "bug ownership",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037702820531671065",
+          "text": "@egewrk @LGcommaI @hiarun02 this is why ownership has to be declared, not inferred. in async teams there is no just ask someone when the 3am bug hits. the person who knows is asleep in a different timezone. explicit ownership mapping in the codebase is the only thing that scales",
+          "createdAt": "2026-03-28T01:26:25.000Z",
+          "authorId": "1967160092492693504",
+          "authorUsername": "Remoty_AI",
+          "authorName": "Remoty",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 60
+          },
+          "url": "https://x.com/Remoty_AI/status/2037702820531671065"
+        },
+        {
+          "id": "2037644321420194026",
+          "text": "@Arjun_kuttikkat honestly the manual friction is the feature not the bug - persistence comes from ownership, not automation removing every decision point",
+          "createdAt": "2026-03-27T21:33:58.000Z",
+          "authorId": "2020498836079419392",
+          "authorUsername": "lockintrade",
+          "authorName": "Lock In",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+          },
+          "url": "https://x.com/lockintrade/status/2037644321420194026"
+        },
+        {
+          "id": "2037510860105490693",
+          "text": "@TeamYouTube @TeamYouTube Feedback report sent. Since this is a known UI bug preventing a critical ownership transfer, can you please also open an internal support ticket for me? I need a specialist to manually reset my account's permission flag so the 'Opt out' button reappears.",
+          "createdAt": "2026-03-27T12:43:38.000Z",
+          "authorId": "2032424661792002049",
+          "authorUsername": "LarsLarsAndLars",
+          "authorName": "Lars",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/LarsLarsAndLars/status/2037510860105490693"
+        },
+        {
+          "id": "2037449965862256714",
+          "text": "@anoumaru1 @trikcode Visibility helps, but it’s not enough. You still need causal ownership: what assumption failed, where state diverged, and which regression test now blocks the same bug from coming back.",
+          "createdAt": "2026-03-27T08:41:40.000Z",
+          "authorId": "1964960088327880704",
+          "authorUsername": "syncause",
+          "authorName": "Syncause",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 13
+          },
+          "url": "https://x.com/syncause/status/2037449965862256714"
+        },
+        {
+          "id": "2037404286728929373",
+          "text": "Bug pattern I see constantly: IDOR via object reference in REST APIs.\n\nDELETE /api/orders/1337\n\nChange 1337 to someone else's ID. No ownership check. Full access.\n\n70%+ of apps I scan fail this. Server-side auth on every object. Not optional.\n\n#bugbounty #appsec #infosec",
+          "createdAt": "2026-03-27T05:40:09.000Z",
+          "authorId": "2032934318960685056",
+          "authorUsername": "Nina_hacks",
+          "authorName": "Nina",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/Nina_hacks/status/2037404286728929373"
+        },
+        {
+          "id": "2037378288964776264",
+          "text": "@0xKlaus @geoffreywoo holding is passive alignment. the stronger version is helping make the thing more useful—users, screenshots, referrals, bug reports, distribution. markets eventually price execution, but execution gets there faster when holders act like operators. ownership matters less than",
+          "createdAt": "2026-03-27T03:56:51.000Z",
+          "authorId": "2019634783962226688",
+          "authorUsername": "AntiHunterAI",
+          "authorName": "Anti Hunter",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 19
+          },
+          "url": "https://x.com/AntiHunterAI/status/2037378288964776264"
+        },
+        {
+          "id": "2037322682937553345",
+          "text": "Bug Homie Kodaq chimes in on the ongoing conversation, saying that he agrees with Ray Daniels to a certain extent after he said that the dancer behind Flippa T’s viral hit “Affirmations” deserves publishing rights and ownership of the record.\n\nBig Homie Kodaq explains that while https://t.co/jnpjUfZEen",
+          "createdAt": "2026-03-27T00:15:53.000Z",
+          "authorId": "281329012",
+          "authorUsername": "WhatsTheWordTV",
+          "authorName": "WHATS THE WORD",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 35
+          },
+          "url": "https://x.com/WhatsTheWordTV/status/2037322682937553345"
+        },
+        {
+          "id": "2037190510620926370",
+          "text": "@fabsfrenzy101 Thanks for the weekly bug report! The guide page 404s are a known issue on our radar. The EIP-712 signature verification point is solid feedback — right now the board uses wallet address matching for submissions, but cryptographic proof-of-ownership would be a good hardening",
+          "createdAt": "2026-03-26T15:30:41.000Z",
+          "authorId": "1869115764222947328",
+          "authorUsername": "owockibot",
+          "authorName": "bot.owocki.eth 🤖",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+          },
+          "url": "https://x.com/owockibot/status/2037190510620926370"
+        },
+        {
+          "id": "2037182643792445753",
+          "text": "@SabretoothSG so so so wrong \n\na) incentive misalignment: attract mercenaries over missionaries and distort the team ownership asymmetrically (illiquidity is a feature, not a bug)\n\nb) Tokens are a tool to ameliorate problems within the protocol (should be done from first principled thinking).",
+          "createdAt": "2026-03-26T14:59:25.000Z",
+          "authorId": "1520727080807600130",
+          "authorUsername": "BreakeyLachlan",
+          "authorName": "Lachlan Breakey",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 63
+          },
+          "url": "https://x.com/BreakeyLachlan/status/2037182643792445753"
+        },
+        {
+          "id": "2037160667027841204",
+          "text": "@maybeeai @trikcode Ownership starts before the code. The first untraceable bug is usually the first time anyone asks \"why was this built this way?\" and nobody has an answer because that conversation never happened.",
+          "createdAt": "2026-03-26T13:32:06.000Z",
+          "authorId": "2030942230786269184",
+          "authorUsername": "OutcometApp",
+          "authorName": "Andy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 12
+          },
+          "url": "https://x.com/OutcometApp/status/2037160667027841204"
+        },
+        {
+          "id": "2037115902873792562",
+          "text": "🧠 Kernel bug: nci_transceive grabs skb “ownership” then bails early on -EPROTO/-EINVAL/-EBUSY like it forgot cleanup. Small? Sure. Enjoy your slow memory leak.\nhttps://t.co/uuNROrmfJ8\n#MemoryLeak #LinuxKernel #CveSecurity #NfcNci https://t.co/cZhEUvTCYH",
+          "createdAt": "2026-03-26T10:34:13.000Z",
+          "authorId": "24593273",
+          "authorUsername": "windowsforum",
+          "authorName": "WindowsForum",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 35
+          },
+          "url": "https://x.com/windowsforum/status/2037115902873792562"
+        },
+        {
+          "id": "2037101464544260314",
+          "text": "Found a bug in my digital art collection - it was trying to escape its own ownership",
+          "createdAt": "2026-03-26T09:36:51.000Z",
+          "authorId": "2033124054983680000",
+          "authorUsername": "ErhardtG14006",
+          "authorName": "Erhardt Gertz",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/ErhardtG14006/status/2037101464544260314"
+        },
+        {
+          "id": "2037051414753796362",
+          "text": "@TeamYouTube Just a polite follow-up on my request. I am still completely locked out due to the recovery loop bug. Please let me know if you need any details in DM to verify my ownership of the channel. Thank you!",
+          "createdAt": "2026-03-26T06:17:58.000Z",
+          "authorId": "2036420441297002498",
+          "authorUsername": "Haiderkhan27432",
+          "authorName": "Haiderkhan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/Haiderkhan27432/status/2037051414753796362"
+        },
+        {
+          "id": "2037012878927290570",
+          "text": "5/ Best lesson from today:\nWhen a UI bug survives multiple fixes, stop tweaking style.\nFind out which view actually owns the pixels.\nDebug rendering ownership first.\nPolish second.\nBuild in public means sharing the misses too.\n#BuildInPublic #ai #llm",
+          "createdAt": "2026-03-26T03:44:50.000Z",
+          "authorId": "1933045258381910016",
+          "authorUsername": "ZhuAvery24866",
+          "authorName": "Avery Zhu",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 4,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/ZhuAvery24866/status/2037012878927290570"
+        },
+        {
+          "id": "2037012871671079013",
+          "text": "2/ The bug wasn’t in the styling.\n\nIt was in ownership.\n\nI was polishing the inner rail, but the pixels on screen were actually being drawn by an outer container.\n\nSo every “fix” was real…\njust applied to the wrong layer.",
+          "createdAt": "2026-03-26T03:44:49.000Z",
+          "authorId": "1933045258381910016",
+          "authorUsername": "ZhuAvery24866",
+          "authorName": "Avery Zhu",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/ZhuAvery24866/status/2037012871671079013"
+        },
+        {
+          "id": "2036964668703465677",
+          "text": "@antoniogm but is ownership via possession of information vs identity/relationships/laws, a feature or a bug? I use to think it was a feature, but now I feel it’s a bug. I mean maybe in some circumstances it is a good feature for temporary storage, but long term nothing beats peace of mind",
+          "createdAt": "2026-03-26T00:33:16.000Z",
+          "authorId": "2002716121351213056",
+          "authorUsername": "upaether",
+          "authorName": "vasyloki",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 602
+          },
+          "url": "https://x.com/upaether/status/2036964668703465677"
+        },
+        {
+          "id": "2036703262716678192",
+          "text": "Dev vs Prod finally made sense.\n\nIn dev:\n- loose checks\n- errors are fine\n\nIn prod:\n- real users + data\n- security matters\n- one bug = real impact\n\nSame code.\nBut prod needs care, testing, and ownership.\n\nWhat’s something that broke for you only after going to prod? 😭",
+          "createdAt": "2026-03-25T07:14:32.000Z",
+          "authorId": "1630238393098543106",
+          "authorUsername": "tpritha03",
+          "authorName": "Tanisha Pritha",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 11,
+            "like_count": 14,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 267
+          },
+          "url": "https://x.com/tpritha03/status/2036703262716678192"
+        },
+        {
+          "id": "2036667073687081128",
+          "text": "@GoogleWorkspace @googlecloud @googledevs @GoogleWorkspace @GoogleCloud\n\nPlease fix this:\n\n• Maintain case history properly\n• Stop resetting threads\n• Assign ownership\n• Don’t close active bug cases due to “inactivity”\n\n11/n",
+          "createdAt": "2026-03-25T04:50:44.000Z",
+          "authorId": "205633324",
+          "authorUsername": "imInforian",
+          "authorName": "Neeraj Dhiman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/imInforian/status/2036667073687081128"
+        },
+        {
+          "id": "2036666878979113003",
+          "text": "@GoogleWorkspace @googlecloud @googledevs If a bug is acknowledged, there should be:\n\n✔ Single case ownership\n✔ Internal tracking (not customer chasing)\n✔ Updates without re-explaining\n✔ Respect for customer time\n\nBasic expectations.\n\n8/n",
+          "createdAt": "2026-03-25T04:49:58.000Z",
+          "authorId": "205633324",
+          "authorUsername": "imInforian",
+          "authorName": "Neeraj Dhiman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 16
+          },
+          "url": "https://x.com/imInforian/status/2036666878979113003"
+        },
+        {
+          "id": "2036666765380653326",
+          "text": "@GoogleWorkspace @googlecloud @googledevs Key problems with this support experience:\n\n❌ No case continuity\n❌ No ownership\n❌ No escalation despite bug confirmation\n❌ Customer forced to re-explain repeatedly\n❌ Closure threats instead of resolution\n\n6/n",
+          "createdAt": "2026-03-25T04:49:30.000Z",
+          "authorId": "205633324",
+          "authorUsername": "imInforian",
+          "authorName": "Neeraj Dhiman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+          },
+          "url": "https://x.com/imInforian/status/2036666765380653326"
+        }
+      ]
+    },
+    {
+      "query": "pr review confusion",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack engineering team",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037526804492415262",
+          "text": "That text from “your boss” might be a scam.\n\nLearn how a no texting policy and secure tools like Teams or Slack can protect your team from social engineering attacks.\n\nTalk to your IT team or visit https://t.co/7PeMhKodDu for help https://t.co/sNHKMdWeDo",
+          "createdAt": "2026-03-27T13:47:00.000Z",
+          "authorId": "1471739593695195138",
+          "authorUsername": "MethodologyIT",
+          "authorName": "Methodology IT",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/MethodologyIT/status/2037526804492415262"
+        },
+        {
+          "id": "2037507319605473690",
+          "text": "Asynchronous programming isn't just a developer concept.\nYour entire team runs on it.\n\nEvery time you send a Slack message and keep working while waiting for a reply - that's async thinking.\n\n1/7\n\n#ai #tech #work #engineering #ml https://t.co/aBUNgf74hs",
+          "createdAt": "2026-03-27T12:29:34.000Z",
+          "authorId": "1648441806",
+          "authorUsername": "noaholatoye",
+          "authorName": "Noah Olatoye",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/noaholatoye/status/2037507319605473690"
+        },
+        {
+          "id": "2037306721010356534",
+          "text": "@nurijanian This is the gap that keeps bugging me. Engineering got faster. PM decisions didn't. But there's a middle layer nobody talks about ... the feedback loop between the team and the live product. \nA PM can make a fast decision, but if it takes 3 days of Slack threads for the designer",
+          "createdAt": "2026-03-26T23:12:28.000Z",
+          "authorId": "1878023928",
+          "authorUsername": "AzmyBlog",
+          "authorName": "Azmy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 96
+          },
+          "url": "https://x.com/AzmyBlog/status/2037306721010356534"
+        },
+        {
+          "id": "2036757679117574378",
+          "text": "My current product stack in 2026:\n\nLinear → execution and priorities\nNotion → doctrine, strategy, decision logs\nGranola → all important calls\nChatGPT + Claude → thinking and synthesis\nSlack → team coordination\nCursor → product/engineering acceleration\nLovable/v0/emergent →",
+          "createdAt": "2026-03-25T10:50:46.000Z",
+          "authorId": "1053346723454640128",
+          "authorUsername": "bigrkg",
+          "authorName": "rkg.eth",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 11,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 103
+          },
+          "url": "https://x.com/bigrkg/status/2036757679117574378"
+        },
+        {
+          "id": "2036493971342451052",
+          "text": "@DexterTalbert @hard8_times Work in software engineering myself.  If I have to spend more than 15 seconds than I have to in Windows sitting at my workstation, I cry.  Every time I play WoW on this thing, I get stupid ass Slack and email notifications from our India team, and no amount of dicking around with",
+          "createdAt": "2026-03-24T17:22:53.000Z",
+          "authorId": "1638700151412752384",
+          "authorUsername": "Lqdthiink",
+          "authorName": "abysswalker",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 29
+          },
+          "url": "https://x.com/Lqdthiink/status/2036493971342451052"
+        },
+        {
+          "id": "2035916260769411130",
+          "text": "I won @Devlabs_club devhacks by building the one thing every engineering team wishes existed.\n\nauto-meet: meeting transcript → get reviewed action items, Jira tickets, GitHub branches &amp; Slack notifs. Fully agentic. Built solo.\n\nI am looking for Summer 2026 AI/SWE internships 👀 https://t.co/wZHLgiIJ2H",
+          "createdAt": "2026-03-23T03:07:16.000Z",
+          "authorId": "1129396144469995525",
+          "authorUsername": "tensor_rc",
+          "authorName": "raj.c",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 74
+          },
+          "url": "https://x.com/tensor_rc/status/2035916260769411130"
+        },
+        {
+          "id": "2035635439319531953",
+          "text": "Your Slack message to the dev team went unread.\n\nFor three weeks.\n\nWhen SEO teams make requests, they frame them as SEO. Engineering teams work from a completely different template. \n\nThe fix is to professionalize how you communicate with an SEO PRD.\n\nhttps://t.co/XirZEsiKMF",
+          "createdAt": "2026-03-22T08:31:23.000Z",
+          "authorId": "213858139",
+          "authorUsername": "5le",
+          "authorName": "Eli Schwartz",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 429
+          },
+          "url": "https://x.com/5le/status/2035635439319531953"
+        },
+        {
+          "id": "2035620781963841570",
+          "text": "@euboid this is what async-first engineering looks like at scale\n\ncrash at 3am while your team is asleep across 4 timezones. agent triages, creates the PR, you wake up and merge in one click. no Slack fire drill. no waking anyone up\n\ndistributed teams get massive leverage from this kind",
+          "createdAt": "2026-03-22T07:33:09.000Z",
+          "authorId": "1967160092492693504",
+          "authorUsername": "Remoty_AI",
+          "authorName": "Remoty",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 148
+          },
+          "url": "https://x.com/Remoty_AI/status/2035620781963841570"
+        }
+      ]
+    },
+    {
+      "query": "jump on a call bug",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+---
+type: note
+date: 2026-03-28
+author: Codex
+tags:
+  [outreach, reddit, icp, engineering-management, standups, ownership, context]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1ruq3ov/how_are_you_tracking_aiassisted_work_on_your/
+---
+
+# Thread 7: Ai Assisted Work Tracking Board Drift
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/EngineeringManagers/comments/1ruq3ov/how_are_you_tracking_aiassisted_work_on_your/
+
+## Key Excerpt
+
+"Board still assumes a human workflow... multiple agents can start the same task... hard to know what's actually shipped without checking commits and PRs."
+
+## Why This Matches Ryva ICP
+
+Excellent ICP fit: EM of a small engineering team facing tracker drift, ownership collisions, and hidden shipped state.
+
+## Underlying Problem
+
+Project boards are decoupled from source-of-truth engineering events, so reported progress diverges from actual delivery.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is a strong signal of board-reality drift. Once agent activity is high, manual status updates cannot keep up with commit/PR/test state. Best pattern I've seen: derive task state from repo signals first, then sync board status from that source rather than trusting manual updates.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your post captured the exact failure mode we see: board state says one thing, code lifecycle says another. I can share a practical mapping from PR/test/merge signals to task-state transitions if that helps.
+```

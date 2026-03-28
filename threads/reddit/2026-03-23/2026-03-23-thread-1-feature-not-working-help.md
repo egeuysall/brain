@@ -1,0 +1,48 @@
+---
+type: note
+date: 2026-03-23
+author: Codex
+tags: [reddit, product-management, qa, release-process]
+source: https://www.reddit.com/r/ProductManagement/comments/1rzoco8/feature_not_working_help/
+---
+
+# Thread 1 - Feature not working - HELP
+
+## Quick Actions
+
+- Reddit thread: [Open post](https://www.reddit.com/r/ProductManagement/comments/1rzoco8/feature_not_working_help/)
+- Local index: [Back to top 5](./2026-03-23-top-5-team-coordination-pain.md)
+
+## Snapshot
+
+- Role signal: Product Manager
+- Time signal: 2026-03-21T10:43:45+00:00 (within 48-72h at collection)
+- Situation type: Release coordination breakdown
+
+## Pain Summary
+
+The PM describes a year-long rollout for a new payment flow with recurring failures. They explicitly call out no dedicated QA, no staging environment, and repeated regression loops where fixes break adjacent behavior.
+
+## Why This Is High-Signal
+
+- First-person ownership of a live problem, not generic advice.
+- Multiple concrete coordination gaps across dev, QA, and release workflow.
+- Clear frustration and delivery drag: repeated testing, unresolved user-facing failures, and rework.
+
+## Suggested Public Reply (Copy)
+
+```text
+That sounds brutal. You are doing QA, triage, and PM at once, and the feedback loop is broken if fixes only fail with real users. The fix-one-break-one cycle usually means missing release gates, not just bad tickets.
+```
+
+## Suggested DM (Copy)
+
+```text
+Your post resonated. I have seen the same pattern when there is no staging and QA ownership is split. If useful, I can share a lightweight rollout checklist we used to stop regression loops before user tests. No pitch, just process that helped.
+```
+
+## Personalization Notes
+
+- Acknowledge the emotional load: repeated testing plus accountability pressure.
+- Mirror one concrete detail (no staging, 75 tests, regressions) to show real understanding.
+- Keep tone practical and non-promotional.

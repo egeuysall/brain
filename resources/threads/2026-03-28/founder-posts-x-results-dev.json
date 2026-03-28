@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-03-28T16:10:38.966Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup is a waste of time",
+    "no one owns this bug",
+    "PR review takes forever",
+    "jump on a call to figure it out",
+    "slack thread engineering manager"
+  ],
+  "results": [
+    {
+      "query": "standup is a waste of time",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "no one owns this bug",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "PR review takes forever",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "jump on a call to figure it out",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack thread engineering manager",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

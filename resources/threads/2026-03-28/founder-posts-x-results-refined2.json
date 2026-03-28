@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-03-28T16:09:02.112Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup slack blocker engineering",
+    "engineering manager slack handoff chaos",
+    "PR review confusion ownership",
+    "who owns this bug deploy",
+    "had to jump on a call figure it out engineering"
+  ],
+  "results": [
+    {
+      "query": "standup slack blocker engineering",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "engineering manager slack handoff chaos",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "PR review confusion ownership",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who owns this bug deploy",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "had to jump on a call figure it out engineering",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}
