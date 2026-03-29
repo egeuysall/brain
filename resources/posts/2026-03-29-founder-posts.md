@@ -61,20 +61,16 @@ Reddit:
 Subreddit: r/startups
 Title: How do you define "delivered" between cofounders before equity conversations get messy?
 Body:
-Saw a post here today about a cofounder not delivering for 6 months, and it hit a nerve.
+I saw a post here today about a cofounder not delivering for 6 months, and it hit a nerve.
 
-In my experience, these blowups often start earlier.
-Not with effort, with ambiguous language.
+In my experience, these blowups often start earlier. Not with effort, with ambiguous language.
 
-One person hears "delivered" and means code merged.
-Another hears "delivered" and means customer outcome shipped.
-Both think alignment exists until accountability or equity gets discussed.
+One person hears "delivered" and means code merged. Another hears "delivered" and means customer outcome shipped. Both think alignment exists until accountability or equity gets discussed.
 
-I am testing a lightweight rule:
-- every weekly update must include `Decision`, `Owner`, and `Definition of done`
+I am testing a lightweight rule with these
+
+- every weekly update must include Decision, Owner, and Definition of done
 - no long status writeup
 - just those 3 lines
 
-For founders running small teams:
-Did you define this explicitly early?
-Or only after things got tense?
+For founders running small teams, did you define this explicitly early or only after things got tense?
