@@ -1,0 +1,38 @@
+{
+  "generatedAt": "2026-03-29T14:58:00.283Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "engineering standup blocked",
+    "PR review confusion",
+    "who owns bug team",
+    "had to jump on a call bug",
+    "slack thread confusion engineering"
+  ],
+  "results": [
+    {
+      "query": "engineering standup blocked",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "PR review confusion",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who owns bug team",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "had to jump on a call bug",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack thread confusion engineering",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}
