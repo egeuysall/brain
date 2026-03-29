@@ -2,7 +2,8 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, slack, ownership, visibility]
+tags:
+  [outreach, reddit, icp, engineering-management, slack, ownership, visibility]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s58rlm/sidelined_at_a_50person_startup_for_trying_to_fix/
 ---
 

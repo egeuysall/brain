@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, productivity, visibility, decision-making]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    productivity,
+    visibility,
+    decision-making
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s488hc/the_struggle_to_prove_ai_productivity_gains/
 ---
 

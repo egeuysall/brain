@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, ai-adoption, delivery-pressure, blockers]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    ai-adoption,
+    delivery-pressure,
+    blockers
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s4rbv9/what_problems_are_you_encountering_with_using_ai/
 ---
 

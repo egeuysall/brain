@@ -2,7 +2,8 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, experienced-devs, backlog, context-drift, pr-workflow]
+tags:
+  [outreach, reddit, icp, experienced-devs, backlog, context-drift, pr-workflow]
 source: https://www.reddit.com/r/ExperiencedDevs/comments/1r6kbe3/anyone_automating_the_gap_between_linear_tickets/
 ---
 

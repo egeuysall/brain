@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, software-architecture, icp, status-theater, deadlines, flow]
+tags:
+  [
+    outreach,
+    reddit,
+    software-architecture,
+    icp,
+    status-theater,
+    deadlines,
+    flow
+  ]
 source: https://www.reddit.com/r/softwarearchitecture/comments/1rm9a8o/how_are_you_guys_tracking_flow_state_versus_just/
 ---
 

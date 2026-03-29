@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, experienced-devs, icp, maintenance-load, prioritization, visibility]
+tags:
+  [
+    outreach,
+    reddit,
+    experienced-devs,
+    icp,
+    maintenance-load,
+    prioritization,
+    visibility
+  ]
 source: https://www.reddit.com/r/ExperiencedDevs/comments/1rornhi/how_to_reduce_data_pipeline_maintenance_when_your/
 ---
 

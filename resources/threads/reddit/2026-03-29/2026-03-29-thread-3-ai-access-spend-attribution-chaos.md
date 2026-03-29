@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, governance, access-control, accountability]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    governance,
+    access-control,
+    accountability
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s494ys/how_are_you_handling_ai_access_and_spend/
 ---
 

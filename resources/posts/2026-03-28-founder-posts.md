@@ -63,11 +63,13 @@ Body:
 I noticed a pattern across several threads this week and wanted to sanity check it with people running real teams.
 
 We are pretty good at tracking active work:
+
 - who is coding what
 - what is blocked
 - what is in review
 
 But we are weaker at tracking limbo work:
+
 - issues everyone sees
 - nobody explicitly owns the next decision
 - they stay open until pain gets loud enough
@@ -78,6 +80,7 @@ It is more like "decision ownership debt."
 Has anyone put a lightweight process around this?
 
 Example:
+
 - once an issue is acknowledged, assign a decision owner within 24h
 - not necessarily the person who will implement
 - just the person responsible for deciding next step and pulling needed context

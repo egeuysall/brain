@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, standups, delivery-visibility, metrics]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    standups,
+    delivery-visibility,
+    metrics
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s16e82/how_do_you_measure_a_devs_real_output_not/
 ---
 

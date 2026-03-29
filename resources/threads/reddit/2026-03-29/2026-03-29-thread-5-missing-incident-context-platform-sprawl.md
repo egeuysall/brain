@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-29
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, incidents, context-fragmentation, tooling]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    incidents,
+    context-fragmentation,
+    tooling
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s3zmkc/internal_agentic_engineering_platform_build_vs/
 ---
 
