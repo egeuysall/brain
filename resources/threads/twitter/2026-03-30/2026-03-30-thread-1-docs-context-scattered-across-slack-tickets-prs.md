@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-30
+author: Codex
+tags: [outreach, x, icp, slack, jira, github, standup, ownership]
+source: https://x.com/notadamking/status/2036539761150796038
+---
+
+# Thread 1 - docs context scattered across slack tickets prs
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/notadamking/status/2036539761150796038
+
+## Post Text (Key Excerpt)
+
+```text
+I’m building InkLoom because I think most docs tools over-focus on publishing.
+
+Publishing isn’t the hard part.
+
+The hard part is keeping documentation accurate after the product changes, the team grows, and the real context gets scattered across Slack, tickets, PRs, and people’s https://t.co/ZctcuG9HSX
+```
+
+## Why It Matches Ryva ICP
+
+It is first-person operator pain about context fragmentation across Slack, tickets, and PRs after product changes, which maps directly to team-state reconstruction problems.
+
+## Underlying Problem
+
+Decision context lives in too many tools, so documentation drifts from actual engineering reality.
+
+## Suggested Public Response (Copy)
+
+```text
+Strong take. Publishing is easy compared to keeping decisions current after every change. Teams usually need one running decision trail that links Slack discussions, ticket changes, and PR merges so docs update from evidence, not memory.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When a requirement changes mid-week, where does your team record the final decision plus owner so docs don't drift?
+```
+
+## Snapshot
+
+- Author: @notadamking
+- Captured date label: 2026-03-24
+- Recency window: within past 7 days

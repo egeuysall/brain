@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-03-30
+author: Codex
+tags: [outreach, reddit, icp, devops, incidents, slack, context-fragmentation]
+source: https://www.reddit.com/r/devops/comments/1s54vhi/is_it_just_us_or_has_oncall_gotten_harder_lately/
+---
+
+# Thread 8: Oncall Scattered Context MTTR Pressure
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/devops/comments/1s54vhi/is_it_just_us_or_has_oncall_gotten_harder_lately/
+
+## Key Excerpt
+
+"During incident response, one person digs logs, another checks dashboards, another traces; Slack fills with partial findings... we have all the data but no fast way to connect it... leadership wants lower MTTR without more people."
+
+## Why This Matches Ryva ICP
+
+This is high-frequency operational pain where context is scattered across tooling and channels, ownership is diffuse mid-incident, and status is hard to trust.
+
+## Underlying Problem
+
+Teams have observability data but lack a shared execution layer for incident decisions and coordinated ownership.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is not a "more dashboards" problem; it is a coordination-state problem. When incident context is split across tools and chat threads, MTTR becomes a communication bottleneck before it is a technical one.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your incident pattern is very familiar: lots of telemetry, weak cross-channel coordination under pressure. If helpful, I can share a practical incident context model that reduces copy-paste and keeps one accountable narrative during response.
+```

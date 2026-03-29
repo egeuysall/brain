@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-30
+author: Codex
+tags: [outreach, x, icp, slack, jira, github, standup, ownership]
+source: https://x.com/Startvest_ai/status/2037392290470064415
+---
+
+# Thread 2 - decision continuity buried in slack threads
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/Startvest_ai/status/2037392290470064415
+
+## Post Text (Key Excerpt)
+
+```text
+@nurijanian The bottleneck isn’t PM velocity. It’s decision continuity.
+
+Engineering ships in hours now. But the decisions driving what they ship are still buried in Slack threads, lost meeting notes, and re-litigated standups.
+
+The constraint isn’t how fast PMs make decisions. It’s how much
+```
+
+## Why It Matches Ryva ICP
+
+It names recurring execution pain: decisions are buried in Slack and meeting notes, forcing re-litigation in standups.
+
+## Underlying Problem
+
+Shipping speed outpaces decision capture, so teams repeatedly debate the same context.
+
+## Suggested Public Response (Copy)
+
+```text
+Agree. Throughput isn't limited by ticket movement anymore, it's limited by decision decay. If the final call, owner, and rationale are not captured in one canonical place, standups become rework loops.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+How often does your team re-open a decision because the original Slack thread wasn't easy to find?
+```
+
+## Snapshot
+
+- Author: @Startvest_ai
+- Captured date label: 2026-03-27
+- Recency window: within past 7 days
