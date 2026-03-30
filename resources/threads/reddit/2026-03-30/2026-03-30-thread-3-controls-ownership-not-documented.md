@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-30
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, security, ownership, documentation]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    security,
+    ownership,
+    documentation
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1rydmby/couldnt_explain_our_own_controls_when_it_mattered/
 ---
 

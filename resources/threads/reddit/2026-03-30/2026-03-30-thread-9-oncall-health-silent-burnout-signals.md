@@ -2,7 +2,8 @@
 type: note
 date: 2026-03-30
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, oncall, burnout, team-health]
+tags:
+  [outreach, reddit, icp, engineering-management, oncall, burnout, team-health]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s4i7s1/how_do_you_know_when_oncall_is_becoming_unhealthy/
 ---
 

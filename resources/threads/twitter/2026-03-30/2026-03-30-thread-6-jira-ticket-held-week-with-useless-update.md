@@ -19,7 +19,7 @@ source: https://x.com/that_ambivert/status/2037557686691303798
 ## Post Text (Key Excerpt)
 
 ```text
-Devs will keep the jira with them for a week only to comment “the issue here is somehow variable is not getting substituted” 
+Devs will keep the jira with them for a week only to comment “the issue here is somehow variable is not getting substituted”
 
 Seriously?? What am I supposed to do with that useless piece of info?
 ```

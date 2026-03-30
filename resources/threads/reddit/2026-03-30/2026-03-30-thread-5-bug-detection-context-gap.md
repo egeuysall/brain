@@ -2,7 +2,8 @@
 type: note
 date: 2026-03-30
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, bug-triage, context, support]
+tags:
+  [outreach, reddit, icp, engineering-management, bug-triage, context, support]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1rxdq2m/how_do_you_find_out_about_bugs/
 ---
 

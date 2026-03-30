@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-30
 author: Codex
-tags: [outreach, reddit, icp, project-management, ownership, accountability, followup]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    project-management,
+    ownership,
+    accountability,
+    followup
+  ]
 source: https://www.reddit.com/r/projectmanagement/comments/1s6m8c8/how_do_you_make_sure_action_items_from_meetings/
 ---
 

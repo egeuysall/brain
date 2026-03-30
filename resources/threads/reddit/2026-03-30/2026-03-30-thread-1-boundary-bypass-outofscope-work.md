@@ -2,7 +2,16 @@
 type: note
 date: 2026-03-30
 author: Codex
-tags: [outreach, reddit, icp, engineering-management, ownership, slack, prioritization]
+tags:
+  [
+    outreach,
+    reddit,
+    icp,
+    engineering-management,
+    ownership,
+    slack,
+    prioritization
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s67v85/how_do_i_enforce_boundaries_when_upper_management/
 ---
 

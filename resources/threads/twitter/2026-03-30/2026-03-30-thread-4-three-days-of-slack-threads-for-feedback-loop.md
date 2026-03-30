@@ -19,7 +19,7 @@ source: https://x.com/AzmyBlog/status/2037306721010356534
 ## Post Text (Key Excerpt)
 
 ```text
-@nurijanian This is the gap that keeps bugging me. Engineering got faster. PM decisions didn't. But there's a middle layer nobody talks about ... the feedback loop between the team and the live product. 
+@nurijanian This is the gap that keeps bugging me. Engineering got faster. PM decisions didn't. But there's a middle layer nobody talks about ... the feedback loop between the team and the live product.
 A PM can make a fast decision, but if it takes 3 days of Slack threads for the designer
 ```
 
