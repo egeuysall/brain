@@ -1,0 +1,134 @@
+{
+  "generatedAt": "2026-03-30T22:44:13.164Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "(\"we killed our standup\" OR \"our standup\") (engineering OR \"dev team\") lang:en -is:retweet",
+    "(\"standup\" \"waste of time\" \"our team\") lang:en -is:retweet -has:links",
+    "(\"who owns\" bug \"our team\") lang:en -is:retweet -has:links",
+    "(\"jumped on a call\" \"figure this out\" bug) lang:en -is:retweet",
+    "(\"slack threads\" \"lost context\" \"engineering team\") lang:en -is:retweet",
+    "(\"fell through the cracks\" engineering team) lang:en -is:retweet",
+    "(\"jira\" stale \"our team\") lang:en -is:retweet",
+    "(\"requirement changed\" \"mid sprint\" \"who owns\") lang:en -is:retweet",
+    "(\"project status\" \"nobody knows\" engineering) lang:en -is:retweet",
+    "(\"blocked\" \"waiting on\" \"pr review\") lang:en -is:retweet",
+    "(\"decision\" \"buried in slack\" \"engineering\") lang:en -is:retweet",
+    "(\"context scattered\" slack github jira) lang:en -is:retweet",
+    "(\"eng manager\" slack standup jira) lang:en -is:retweet",
+    "(\"team of\" engineers slack github) (standup OR jira OR context) lang:en -is:retweet",
+    "(\"who owns this\" incident) (slack OR jira OR github) lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "(\"we killed our standup\" OR \"our standup\") (engineering OR \"dev team\") lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"standup\" \"waste of time\" \"our team\") lang:en -is:retweet -has:links",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"who owns\" bug \"our team\") lang:en -is:retweet -has:links",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"jumped on a call\" \"figure this out\" bug) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"slack threads\" \"lost context\" \"engineering team\") lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"fell through the cracks\" engineering team) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"jira\" stale \"our team\") lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"requirement changed\" \"mid sprint\" \"who owns\") lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"project status\" \"nobody knows\" engineering) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"blocked\" \"waiting on\" \"pr review\") lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"decision\" \"buried in slack\" \"engineering\") lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037392290470064415",
+          "text": "@nurijanian The bottleneck isn’t PM velocity. It’s decision continuity.\n\nEngineering ships in hours now. But the decisions driving what they ship are still buried in Slack threads, lost meeting notes, and re-litigated standups.\n\nThe constraint isn’t how fast PMs make decisions. It’s how much",
+          "createdAt": "2026-03-27T04:52:29.000Z",
+          "authorId": "1944006301882716160",
+          "authorUsername": "Startvest_ai",
+          "authorName": "Tom Pinder",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 43
+          },
+          "url": "https://x.com/Startvest_ai/status/2037392290470064415"
+        }
+      ]
+    },
+    {
+      "query": "(\"context scattered\" slack github jira) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037117696421355930",
+          "text": "@GergelyOrosz agree for personal life. for engineering teams it's different. production incident hits - 4 engineers, 45 min just finding context scattered across Jira, Slack, GitHub. nobody assembled it. not remembering everything. just the right thing at the right moment.",
+          "createdAt": "2026-03-26T10:41:21.000Z",
+          "authorId": "1838241332093173760",
+          "authorUsername": "Ladson_official",
+          "authorName": "Ladson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/Ladson_official/status/2037117696421355930"
+        }
+      ]
+    },
+    {
+      "query": "(\"eng manager\" slack standup jira) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"team of\" engineers slack github) (standup OR jira OR context) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"who owns this\" incident) (slack OR jira OR github) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

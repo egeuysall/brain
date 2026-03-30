@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-03-31
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 2 - jira useless without context documentation
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/desunit/status/2038681679896994145
+
+## Post Text (Key Excerpt)
+
+```text
+Your issue tracking system (JIRA) is useless alone.
+
+I've seen this inside my own projects or companies where I'm involved.
+
+At some point, documentation quietly became the most important part of development. Not tickets, but the context.
+```
+
+## Why It Matches Ryva ICP
+
+It directly describes repeated delivery pain across real projects where Jira exists but context is missing.
+
+## Underlying Problem
+
+Ticket systems drift from reality when rationale and state are not continuously documented.
+
+## Suggested Public Response (Copy)
+
+```text
+Exactly. Jira tracks tasks, not understanding. Teams slow down when the why, owner, and latest decision live outside the ticket and must be reconstructed each time.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+In your projects, where does the missing context usually live when Jira alone fails: Slack threads, PRs, or docs?
+```
+
+## Snapshot
+
+- Author: @desunit
+- Captured date label: 2026-03-30
+- Recency window: within past 7 days

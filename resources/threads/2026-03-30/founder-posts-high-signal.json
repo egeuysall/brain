@@ -1,0 +1,42 @@
+{
+  "generated_at": "2026-03-30T23:10:02.650892+00:00",
+  "window": {
+    "min_hours": 0.0,
+    "max_hours": 96.0
+  },
+  "count": 2,
+  "items": [
+    {
+      "subreddit": "startups",
+      "title": "Ι made the step and now i am stuck - I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1s7i0do/ι_made_the_step_and_now_i_am_stuck_i_will_not/",
+      "created_at": "2026-03-30T05:38:19+00:00",
+      "age_hours": 17.53,
+      "age_label": "17 hours ago",
+      "author": "Rendernaut",
+      "op_body": "",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "startups",
+      "title": "Hard time validating startup idea with businesses “I will not promote”",
+      "url": "https://www.reddit.com/r/startups/comments/1s7turx/hard_time_validating_startup_idea_with_businesses/",
+      "created_at": "2026-03-30T15:31:06+00:00",
+      "age_hours": 7.65,
+      "age_label": "7 hours ago",
+      "author": "ifstatementequalsAI",
+      "op_body": "The title speaks for it self, I have a solid idea did allot of research and there is some possible competition but they lack in service. It’s...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    }
+  ]
+}

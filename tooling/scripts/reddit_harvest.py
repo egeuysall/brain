@@ -86,6 +86,11 @@ def ensure_https(url: str) -> None:
         raise HarvestError(f"Refusing non-HTTPS URL: {url}")
 
 
+def normalize_url_for_request(url: str) -> str:
+    """Encode non-ASCII URL parts to keep urllib/http.client requests safe."""
+    return urllib.parse.quote(url, safe=":/?&=%#")
+
+
 def parse_iso8601(value: str) -> datetime:
     try:
         dt = datetime.fromisoformat(value)
@@ -105,8 +110,9 @@ def strip_tags_to_text(raw_html: str) -> str:
 
 def fetch_text(url: str, timeout_seconds: int, max_bytes: int, user_agent: str, retries: int = 2) -> str:
     ensure_https(url)
+    request_url = normalize_url_for_request(url)
     req = urllib.request.Request(
-        url,
+        request_url,
         headers={
             "User-Agent": user_agent,
             "Accept": "text/html,application/json;q=0.9,*/*;q=0.8",
@@ -153,6 +159,7 @@ def fetch_text_with_curl(url: str, timeout_seconds: int, max_bytes: int, user_ag
     """
 
     ensure_https(url)
+    request_url = normalize_url_for_request(url)
     result = subprocess.run(
         [
             "curl",
@@ -161,7 +168,7 @@ def fetch_text_with_curl(url: str, timeout_seconds: int, max_bytes: int, user_ag
             str(timeout_seconds),
             "-A",
             user_agent,
-            url,
+            request_url,
         ],
         check=False,
         capture_output=True,
@@ -227,6 +234,21 @@ def extract_op_body_from_post_html(post_html: str) -> str:
         re.DOTALL,
     )
     if not body_m:
+        # Fallback for pages where OP text is not rendered in legacy body blocks.
+        og_desc_m = re.search(
+            r'<meta[^>]+property="og:description"[^>]+content="([^"]+)"',
+            post_html,
+            re.IGNORECASE,
+        )
+        if og_desc_m:
+            return strip_tags_to_text(og_desc_m.group(1))
+        meta_desc_m = re.search(
+            r'<meta[^>]+name="description"[^>]+content="([^"]+)"',
+            post_html,
+            re.IGNORECASE,
+        )
+        if meta_desc_m:
+            return strip_tags_to_text(meta_desc_m.group(1))
         return ""
 
     return strip_tags_to_text(body_m.group(1))

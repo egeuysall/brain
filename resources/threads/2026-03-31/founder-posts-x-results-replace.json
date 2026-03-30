@@ -1,0 +1,80 @@
+{
+  "generatedAt": "2026-03-30T23:05:10.731Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "weekly decision log engineering standup lang:en -is:retweet",
+    "all-engineering sync meeting waste lang:en -is:retweet",
+    "standup async jira tickets read aloud lang:en -is:retweet",
+    "engineering team context switch between tools pr review lang:en -is:retweet",
+    "review comments 3 days later lost context pr lang:en -is:retweet",
+    "who owns this after launch incident engineering lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "weekly decision log engineering standup lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2036797851343221209",
+          "text": "The 3 meetings I cancel at every new CTO engagement:\n\n1. Daily standup (it's just Jira tickets read aloud — make it async)\n2. All-engineering sync (12 of 15 people check their phones)\n3. Recurring \"architecture review\" with no agenda\n\nThe one meeting I add: weekly decision log https://t.co/P7Tb9ivtG0",
+          "createdAt": "2026-03-25T13:30:24.000Z",
+          "authorId": "1359058708022521862",
+          "authorUsername": "GaneshKompella",
+          "authorName": "Ganesh Kompella",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 43
+          },
+          "url": "https://x.com/GaneshKompella/status/2036797851343221209"
+        }
+      ]
+    },
+    {
+      "query": "all-engineering sync meeting waste lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "standup async jira tickets read aloud lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2036797851343221209",
+          "text": "The 3 meetings I cancel at every new CTO engagement:\n\n1. Daily standup (it's just Jira tickets read aloud — make it async)\n2. All-engineering sync (12 of 15 people check their phones)\n3. Recurring \"architecture review\" with no agenda\n\nThe one meeting I add: weekly decision log https://t.co/P7Tb9ivtG0",
+          "createdAt": "2026-03-25T13:30:24.000Z",
+          "authorId": "1359058708022521862",
+          "authorUsername": "GaneshKompella",
+          "authorName": "Ganesh Kompella",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 43
+          },
+          "url": "https://x.com/GaneshKompella/status/2036797851343221209"
+        }
+      ]
+    },
+    {
+      "query": "engineering team context switch between tools pr review lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "review comments 3 days later lost context pr lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who owns this after launch incident engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

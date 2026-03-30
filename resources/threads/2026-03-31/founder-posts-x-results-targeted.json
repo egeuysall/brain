@@ -1,0 +1,958 @@
+{
+  "generatedAt": "2026-03-30T22:43:24.060Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "(\"standup\" (\"waste\" OR \"status theater\" OR \"useless\")) (engineering OR \"dev team\" OR team) lang:en -is:retweet",
+    "(\"slack\" (\"context\" OR thread) (\"lost\" OR buried OR scattered)) (engineering OR dev OR team) lang:en -is:retweet",
+    "(\"jira\" (stale OR useless OR ignored OR outdated)) (engineering OR \"dev team\" OR team) lang:en -is:retweet",
+    "(\"who owns this bug\" OR \"who owns this\") (bug OR incident OR outage) lang:en -is:retweet",
+    "(\"jump on a call\" (\"figure this out\" OR debug OR \"trace it\")) (engineering OR team OR dev) lang:en -is:retweet",
+    "(\"PR\" (confusion OR context OR unclear)) (review OR slack OR ownership) lang:en -is:retweet",
+    "(\"falling through the cracks\" engineering) lang:en -is:retweet",
+    "(\"no one knows\" (\"what is going on\" OR \"project state\")) (engineering OR team) lang:en -is:retweet",
+    "(\"decision\" buried slack engineering) lang:en -is:retweet",
+    "(\"ownership\" unclear bug incident team) lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "(\"standup\" (\"waste\" OR \"status theater\" OR \"useless\")) (engineering OR \"dev team\" OR team) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038317178265682092",
+          "text": "@robowise The useful part is not replacing people, it is reducing reconstruction work. If dependencies and blockers are visible in real time, standups become exception handling instead of daily status theater.\n\nIf your team skipped standup tomorrow, would you still know every active",
+          "createdAt": "2026-03-29T18:07:40.000Z",
+          "authorId": "2017985169475416065",
+          "authorUsername": "egewrk",
+          "authorName": "Ege Uysal",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/egewrk/status/2038317178265682092"
+        }
+      ]
+    },
+    {
+      "query": "(\"slack\" (\"context\" OR thread) (\"lost\" OR buried OR scattered)) (engineering OR dev OR team) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038466750325403955",
+          "text": "Marketing team. Context scattered across:\n 🔀 Slack (feedback, decisions)\n ↩️ Notion (brand guidelines)\n 🔃 Drive (reports, briefs)\n 🔄 Email (client conversations)\n\n2022: 6 tabs, read back a month, hope you remembered the important bits.\n\n2026: \"Draft a campaign brief from Q1 https://t.co/2WqYPmuQ0K",
+          "createdAt": "2026-03-30T04:02:00.000Z",
+          "authorId": "1932991797200105473",
+          "authorUsername": "BlueNexusAI",
+          "authorName": "BlueNexusAI",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/BlueNexusAI/status/2038466750325403955"
+        },
+        {
+          "id": "2037605127402737686",
+          "text": "@hnshah +1 @hnshah. \n\nThe real tax isn't just the time spent prompting — it's the lost context every time someone new jumps in.\n\nA shared Slack AI that actually retains team history feels like fixing a silent leak in how knowledge flows. Simple setup too. \n\nWorth testing.",
+          "createdAt": "2026-03-27T18:58:13.000Z",
+          "authorId": "79519131",
+          "authorUsername": "Growth__CFO",
+          "authorName": "Prasad Bhalerao",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 24
+          },
+          "url": "https://x.com/Growth__CFO/status/2037605127402737686"
+        },
+        {
+          "id": "2037590525717483543",
+          "text": "Ask a team where their pipeline lives.\n\nThey’ll say:\n“our CRM.”\n\nBut the actual work is in:\nSlack\nemails\nside notes\nmemory\n\nThe CRM just records it after.\n\nThat’s where things break:\nmissed follow-ups\nlost context\nduplicate work\n\nMost tools optimize records.\n\nVery few track https://t.co/59pXNEkpFZ",
+          "createdAt": "2026-03-27T18:00:12.000Z",
+          "authorId": "329570007",
+          "authorUsername": "EQMembers",
+          "authorName": "EQ",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 18
+          },
+          "url": "https://x.com/EQMembers/status/2037590525717483543"
+        },
+        {
+          "id": "2037117696421355930",
+          "text": "@GergelyOrosz agree for personal life. for engineering teams it's different. production incident hits - 4 engineers, 45 min just finding context scattered across Jira, Slack, GitHub. nobody assembled it. not remembering everything. just the right thing at the right moment.",
+          "createdAt": "2026-03-26T10:41:21.000Z",
+          "authorId": "1838241332093173760",
+          "authorUsername": "Ladson_official",
+          "authorName": "Ladson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/Ladson_official/status/2037117696421355930"
+        },
+        {
+          "id": "2036539761150796038",
+          "text": "I’m building InkLoom because I think most docs tools over-focus on publishing.\n\nPublishing isn’t the hard part.\n\nThe hard part is keeping documentation accurate after the product changes, the team grows, and the real context gets scattered across Slack, tickets, PRs, and people’s https://t.co/ZctcuG9HSX",
+          "createdAt": "2026-03-24T20:24:50.000Z",
+          "authorId": "1912994167258771456",
+          "authorUsername": "notadamking",
+          "authorName": "Adam King",
+          "metrics": {
+            "retweet_count": 2,
+            "reply_count": 1,
+            "like_count": 19,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 117463
+          },
+          "url": "https://x.com/notadamking/status/2036539761150796038"
+        },
+        {
+          "id": "2036385020076527671",
+          "text": "You're three tabs deep in Slack, your CRM is lost in another window, and vital info is slipping through the cracks. \n\nImagine having your team chat right next to your deals. With Scribed AI, you get seamless messaging alongside your contacts—no more context-switching. \n\nFocus on https://t.co/o3AJSevWTn",
+          "createdAt": "2026-03-24T10:09:57.000Z",
+          "authorId": "1243206733",
+          "authorUsername": "scribed_ai",
+          "authorName": "Scribed AI",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/scribed_ai/status/2036385020076527671"
+        }
+      ]
+    },
+    {
+      "query": "(\"jira\" (stale OR useless OR ignored OR outdated)) (engineering OR \"dev team\" OR team) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037707455962951973",
+          "text": "The fastest engineering teams aren't the ones writing more code.\n\nThey're the ones where everyone can see what's shipping, what's blocked, and what's being tested — without asking.\n\nVisibility kills:\n→ \"Where are we with the release?\" meetings\n→ Stale Jira boards nobody trusts https://t.co/QXaDbl8Hom",
+          "createdAt": "2026-03-28T01:44:50.000Z",
+          "authorId": "2037689560797270016",
+          "authorUsername": "YuriyIvashenyuk",
+          "authorName": "Yuriy Ivashenyuk",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/YuriyIvashenyuk/status/2037707455962951973"
+        }
+      ]
+    },
+    {
+      "query": "(\"who owns this bug\" OR \"who owns this\") (bug OR incident OR outage) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037817258882609257",
+          "text": "This happens because agent ownership is designed by accident, not by framework.\n\nThe cascading effects:\n- Monitoring decisions\n- Incident response\n- Cost ownership\n- Compliance reporting\n- Failure communication\n\nAll of it hangs on one question: who owns this after launch?",
+          "createdAt": "2026-03-28T09:01:09.000Z",
+          "authorId": "35236329",
+          "authorUsername": "kevintpayne",
+          "authorName": "Kevin Payne",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+          },
+          "url": "https://x.com/kevintpayne/status/2037817258882609257"
+        }
+      ]
+    },
+    {
+      "query": "(\"jump on a call\" (\"figure this out\" OR debug OR \"trace it\")) (engineering OR team OR dev) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"PR\" (confusion OR context OR unclear)) (review OR slack OR ownership) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038707917973795177",
+          "text": "I ran Qodo on a production repo for 3 weeks. \n\nIt caught breaking changes 3 repos away that human reviewers and AI tools both missed.\n\nMost review tools see a diff. Qodo sees your entire codebase, cross-repo dependencies, PR history, team standards, architectural context.\n\nThe https://t.co/03srvxt2uz",
+          "createdAt": "2026-03-30T20:00:19.000Z",
+          "authorId": "1565028828329971713",
+          "authorUsername": "heyshrutimishra",
+          "authorName": "Shruti",
+          "metrics": {
+            "retweet_count": 3,
+            "reply_count": 3,
+            "like_count": 7,
+            "quote_count": 0,
+            "bookmark_count": 3,
+            "impression_count": 992
+          },
+          "url": "https://x.com/heyshrutimishra/status/2038707917973795177"
+        },
+        {
+          "id": "2038564212402724887",
+          "text": "Next: `commands/`\n\nThis is your custom slash command library.\n\nYou define `/deploy`, `/review-pr`, `/add-feature` — whatever your team repeats.\nClaude executes them like built-in commands.\n\nMost teams spend 30 minutes a day explaining the same context to Claude.\n`commands/` makes",
+          "createdAt": "2026-03-30T10:29:17.000Z",
+          "authorId": "729338065",
+          "authorUsername": "FmzAllan",
+          "authorName": "Fmz 🦇🔊",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/FmzAllan/status/2038564212402724887"
+        },
+        {
+          "id": "2038469718051590211",
+          "text": "GitHub Copilot just hit 60 million+ PR reviews. Insane growth.\n\nThey also moved to an agentic architecture - it reads repo context now, not just the diff.\n\nBut here's the thing most people miss: most code reviewers do the same thing Copilot used to do. They review the change. Not",
+          "createdAt": "2026-03-30T04:13:48.000Z",
+          "authorId": "1098583718036271109",
+          "authorUsername": "ArjunNambiar03",
+          "authorName": "Arjun Nambiar",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 18
+          },
+          "url": "https://x.com/ArjunNambiar03/status/2038469718051590211"
+        },
+        {
+          "id": "2038316896408216018",
+          "text": "@akshay_pachaar This is the right mental model. CLAUDE.md = constitution, Skills = specialized playbooks.\n\nWe moved our deploy checklist, PR review flow, and test scaffolding into separate skills. Context usage dropped noticeably and Claude stopped \"forgetting\" mid-session.",
+          "createdAt": "2026-03-29T18:06:32.000Z",
+          "authorId": "1495806862834511873",
+          "authorUsername": "Alex_Rogov_js",
+          "authorName": "Alex Rogov",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 61
+          },
+          "url": "https://x.com/Alex_Rogov_js/status/2038316896408216018"
+        },
+        {
+          "id": "2038062253556297807",
+          "text": "i say this about code review bots all the time. ask them to review for problems, it will find a bunch.\n\nask it if the code is good, it will wax poetic about all the amazing things in the PR\n\nit takes a lot of skill and context engineering to build an llm that can evaluate things https://t.co/i5gnOmk6Fi",
+          "createdAt": "2026-03-29T01:14:41.000Z",
+          "authorId": "820679805259550720",
+          "authorUsername": "dexhorthy",
+          "authorName": "dex",
+          "metrics": {
+            "retweet_count": 23,
+            "reply_count": 25,
+            "like_count": 391,
+            "quote_count": 3,
+            "bookmark_count": 205,
+            "impression_count": 54105
+          },
+          "url": "https://x.com/dexhorthy/status/2038062253556297807"
+        },
+        {
+          "id": "2037936280194179414",
+          "text": "@egewrk @dhinchcliffe @egewrk @dhinchcliffe going to dig into this - stale PRs with critical testing decisions is exactly the 'why' that gets buried. PR open 2 weeks, merged with 'looks good', context gone. Curious what patterns your tool flagged specifically - review gaps, comment drift?",
+          "createdAt": "2026-03-28T16:54:06.000Z",
+          "authorId": "300110088",
+          "authorUsername": "pladynski",
+          "authorName": "Przemysław Ładyński",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/pladynski/status/2037936280194179414"
+        },
+        {
+          "id": "2037909671910973869",
+          "text": "@KSimback @garrytan @every been running gstack for 3 weeks. the PR review hook alone saves 30+ minutes per PR. compound engineering adds the context window management that gstack misses. different problems, different tools. not either/or.",
+          "createdAt": "2026-03-28T15:08:22.000Z",
+          "authorId": "2004249708592877568",
+          "authorUsername": "sophylabshq",
+          "authorName": "Ismail",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 232
+          },
+          "url": "https://x.com/sophylabshq/status/2037909671910973869"
+        },
+        {
+          "id": "2037884622168621426",
+          "text": "@karankendre pr review as a paste-and-response cli is the right scope for a single-session agent. no memory required, no context window pressure, just bring the right context to the task and done. the constrained use cases are where agents actually work well",
+          "createdAt": "2026-03-28T13:28:50.000Z",
+          "authorId": "1266643939378868225",
+          "authorUsername": "ashcotXBT",
+          "authorName": "Jimmy Ashcot ⚡️",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 87
+          },
+          "url": "https://x.com/ashcotXBT/status/2037884622168621426"
+        },
+        {
+          "id": "2037803178100404566",
+          "text": "@akshay_pachaar raw agents generate syntax.\n\n&gt; .github/copilot-instructions.md\n\nwatching the ide parse boundaries in the clip proves the 2,500-file study: context kills the pr review loop.",
+          "createdAt": "2026-03-28T08:05:12.000Z",
+          "authorId": "1481043830681976833",
+          "authorUsername": "0x_Vivek",
+          "authorName": "0x_Vivek",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 136
+          },
+          "url": "https://x.com/0x_Vivek/status/2037803178100404566"
+        },
+        {
+          "id": "2037755487567962355",
+          "text": "@BabatundeFavo18 @tesuta001 The caption (in Japanese) means: \"By the way, it arrived safely after passing the review 🙆‍♂️ I was secretly thinking it'd be super funny if it got rejected lol\"\n\nContext: The poster (a top Japanese investor) got a high-end Visa Infinite card via PR. He quoted his old post about",
+          "createdAt": "2026-03-28T04:55:42.000Z",
+          "authorId": "1720665183188922368",
+          "authorUsername": "grok",
+          "authorName": "Grok",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 67
+          },
+          "url": "https://x.com/grok/status/2037755487567962355"
+        },
+        {
+          "id": "2037655311163765015",
+          "text": "@0xVikk agent-reviews doesn’t review code, it only fixes (or passes on) submitted PR reviews, until all reviewers are happy. All intentionally happens in the agent main thread ideally where you’ve built the feature, to have context",
+          "createdAt": "2026-03-27T22:17:38.000Z",
+          "authorId": "12999402",
+          "authorUsername": "pbakaus",
+          "authorName": "Paul Bakaus",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+          },
+          "url": "https://x.com/pbakaus/status/2037655311163765015"
+        },
+        {
+          "id": "2037634579570495836",
+          "text": "@egewrk @dhinchcliffe @egewrk @dhinchcliffe Typed deps get you 'who can I call', not 'why was this decided' - that's the real gap. ADR files per service repo help. CODEOWNERS gives accountability but not context. What are you pulling from GitHub/Slack - PR history? Deployment patterns?",
+          "createdAt": "2026-03-27T20:55:15.000Z",
+          "authorId": "300110088",
+          "authorUsername": "pladynski",
+          "authorName": "Przemysław Ładyński",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 24
+          },
+          "url": "https://x.com/pladynski/status/2037634579570495836"
+        },
+        {
+          "id": "2037554236754723192",
+          "text": "@fortysevenfx Same problem in the PR workflow. Feedback comes at review time after the code is written, the context is cold, and the reviewer is starting from scratch.\nSteer early applies there too. The brief should come before the diff, not after.",
+          "createdAt": "2026-03-27T15:36:00.000Z",
+          "authorId": "1445609502615609350",
+          "authorUsername": "Rajdeep__ds",
+          "authorName": "Rajdeep",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 25
+          },
+          "url": "https://x.com/Rajdeep__ds/status/2037554236754723192"
+        },
+        {
+          "id": "2037541070276637124",
+          "text": "today's updates:\n\n-&gt; improved code suggestions by adding full file reading -&gt; agent now has complete context before deciding \n-&gt; can accept suggestion changes in PR comments now  \n\nmaking the review process easier https://t.co/IvT8M4mgzw",
+          "createdAt": "2026-03-27T14:43:41.000Z",
+          "authorId": "1416463088904192001",
+          "authorUsername": "heyraj__",
+          "authorName": "Raj",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 6,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 66
+          },
+          "url": "https://x.com/heyraj__/status/2037541070276637124"
+        },
+        {
+          "id": "2037535353070932161",
+          "text": "@noahzweben the 'walk away and come back to a green PR' framing is the real pitch. it's not just CI fixing, it's async review cycles. submit, context switch, return to something reviewable instead of babysitting the build. that's a meaningful change to how the actual workday flows.",
+          "createdAt": "2026-03-27T14:20:58.000Z",
+          "authorId": "1428736635454296070",
+          "authorUsername": "gagansaluja08",
+          "authorName": "Gagan | Claude + AWS",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 149
+          },
+          "url": "https://x.com/gagansaluja08/status/2037535353070932161"
+        },
+        {
+          "id": "2037437447563284952",
+          "text": "I have spent fifteen years in code review trenches. I have seen the ritual: a PR lands at 4:47 PM on a Friday. The reviewer, already context-switched three times that hour, scans for syntax errors, nods at the test count, and clicks approve. Goodwill carried us for a decade. It",
+          "createdAt": "2026-03-27T07:51:55.000Z",
+          "authorId": "1805427057297338369",
+          "authorUsername": "Sosuu11223",
+          "authorName": "Sahar Zetarium",
+          "metrics": {
+            "retweet_count": 3,
+            "reply_count": 5,
+            "like_count": 6,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 31
+          },
+          "url": "https://x.com/Sosuu11223/status/2037437447563284952"
+        },
+        {
+          "id": "2037347949223493863",
+          "text": "@chefamysins @LeastPrivileged @AnthropicAI @claudeai @DarioAmodei @FTC I literally asked it to review a simple PR, there was no context window. What I could do yesterday, is not the same thing that I could do today. I'm not alone in this, sorry bud.",
+          "createdAt": "2026-03-27T01:56:17.000Z",
+          "authorId": "14838410",
+          "authorUsername": "BradGroux",
+          "authorName": "Brad Groux",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 95
+          },
+          "url": "https://x.com/BradGroux/status/2037347949223493863"
+        },
+        {
+          "id": "2037168034708676869",
+          "text": "Write ticket. Assign. Context-gather. Read spec. Develop. Test. Push. PR. Review. Feedback. Merge.\n\nEleven stages. Each with its own tool. Each with its own context switch. Each making you dumber for 20 minutes while your brain reloads.",
+          "createdAt": "2026-03-26T14:01:22.000Z",
+          "authorId": "1196151078498295809",
+          "authorUsername": "paradimelabs",
+          "authorName": "Paradime Labs",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 17
+          },
+          "url": "https://x.com/paradimelabs/status/2037168034708676869"
+        },
+        {
+          "id": "2037159723548496344",
+          "text": "@Cody_AIVengers sessions_spawn mid-conversation is a game changer — same context, agent drops into full coding mode, ships the PR, and returns. That's not \"AI-assisted dev,\" that's autonomous dev with a human in the loop only for review. The gap to GitHub Copilot is huge.",
+          "createdAt": "2026-03-26T13:28:21.000Z",
+          "authorId": "1532378279428202496",
+          "authorUsername": "wildkandotcom",
+          "authorName": "Sofia",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 29
+          },
+          "url": "https://x.com/wildkandotcom/status/2037159723548496344"
+        },
+        {
+          "id": "2037141583460790362",
+          "text": "@hodlmecloseplz @patmatthews 30-90 minute triage is brutal. talked to a team last month - 45 min just finding which PR caused the issue, because context was split across Slack, Jira, GitHub, and Datadog. what eats most of your time: finding the cause, or getting the right people on it?",
+          "createdAt": "2026-03-26T12:16:16.000Z",
+          "authorId": "1838241332093173760",
+          "authorUsername": "Ladson_official",
+          "authorName": "Ladson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 53
+          },
+          "url": "https://x.com/Ladson_official/status/2037141583460790362"
+        },
+        {
+          "id": "2037098496399224926",
+          "text": "@Cryptinflux @asidorenko_ yes — and what we've found is context-in-the-PR changes everything\n\nwhen reviews require written context by default, the review itself becomes a knowledge transfer artifact, not just a quality gate\n\nbest remote teams already review like the next person is asleep. because they are",
+          "createdAt": "2026-03-26T09:25:03.000Z",
+          "authorId": "1967160092492693504",
+          "authorUsername": "Remoty_AI",
+          "authorName": "Remoty",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 11
+          },
+          "url": "https://x.com/Remoty_AI/status/2037098496399224926"
+        },
+        {
+          "id": "2037029856433889383",
+          "text": "4/\n\nRunning 4 parallel workstreams as one person — that's the real shift.\n\nI ran a 4-agent team on a PR review:\n\nTeam Lead → Coverage Reviewer + Performance Reviewer + Security Reviewer (parallel)\n\nEach agent has its own context.\nNo cross-contamination.\n\nFirst pass was solid — 2 https://t.co/htiUr5bqbP",
+          "createdAt": "2026-03-26T04:52:18.000Z",
+          "authorId": "1260921",
+          "authorUsername": "hqmank",
+          "authorName": "Kai",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 71
+          },
+          "url": "https://x.com/hqmank/status/2037029856433889383"
+        },
+        {
+          "id": "2036980933346168851",
+          "text": "@withmartian @QodoAI @AnthropicAI the repo-wide context is what makes this different. PR-level review misses the 'this breaks something 3 files away' pattern I see constantly in AI-generated code.",
+          "createdAt": "2026-03-26T01:37:54.000Z",
+          "authorId": "1861846149260288000",
+          "authorUsername": "ryan_tech_lab",
+          "authorName": "Ryan Craven",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/ryan_tech_lab/status/2036980933346168851"
+        },
+        {
+          "id": "2036958494403027307",
+          "text": "2/3 The best part? What Q&amp;A Mode does for Junior Devs.\n\nInstead of getting roasted in a PR review, they can interrogate the code with Priset before the code review even happens.\n\nIt gives them the context they need to stop acting like code monkeys, and start building like Senior",
+          "createdAt": "2026-03-26T00:08:44.000Z",
+          "authorId": "1973163277812436993",
+          "authorUsername": "priset_ai",
+          "authorName": "priset",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+          },
+          "url": "https://x.com/priset_ai/status/2036958494403027307"
+        },
+        {
+          "id": "2036945122831851687",
+          "text": "claude --from-pr 447 resumes the session that originally wrote the code. when review comments land, the agent rehydrates with full context: files it read, tradeoffs it weighed, constraints it worked within. no cold-reading a diff three days later.\n\nworks because gh pr create",
+          "createdAt": "2026-03-25T23:15:36.000Z",
+          "authorId": "244992876",
+          "authorUsername": "dmshirochenko",
+          "authorName": "Shirochenko Dmitriy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 26
+          },
+          "url": "https://x.com/dmshirochenko/status/2036945122831851687"
+        },
+        {
+          "id": "2036941336306417883",
+          "text": "Code review RAG prompt (GPT-5.3):\n\n\"Retrieved PR context: {similar past reviews + codebase chunks}\n\nReview this diff: [paste diff].\n\n1. Check security vulns.\n\n2. Error handling.\n\n3. Suggest refactors.\n\nStay grounded in retrieved info.\"\n\nCatches ghosts humans miss.\n\n#CodeReview",
+          "createdAt": "2026-03-25T23:00:33.000Z",
+          "authorId": "1944000478754615300",
+          "authorUsername": "PromptSmithAI",
+          "authorName": "The Prompt Smith",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+          },
+          "url": "https://x.com/PromptSmithAI/status/2036941336306417883"
+        },
+        {
+          "id": "2036873928887722236",
+          "text": "The only plausible way to make code review agents work is to change their starting point sandbox to be the preloaded context of the outlook+architecture of the entire codebase and then once a PR comes out the agent must crawl through the PR in the context of the preloaded https://t.co/9CBTrSu0pr",
+          "createdAt": "2026-03-25T18:32:42.000Z",
+          "authorId": "2896449589",
+          "authorUsername": "arafatkatze",
+          "authorName": "Ara",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 4,
+            "impression_count": 754
+          },
+          "url": "https://x.com/arafatkatze/status/2036873928887722236"
+        },
+        {
+          "id": "2036851141514793358",
+          "text": "Advanced Kody tip:\n\ndon’t apply the same review logic to every PR.\n\nA small fix, a large refactor, and a breaking change need different checks.\n\nWith PR variables, you can make Kody Rules adapt to the PR context, like size, labels, description, and number of files changed. https://t.co/zjOecMkWIq",
+          "createdAt": "2026-03-25T17:02:09.000Z",
+          "authorId": "1844011421476024320",
+          "authorUsername": "gamalinosqui",
+          "authorName": "Gabe from Kodus",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 21
+          },
+          "url": "https://x.com/gamalinosqui/status/2036851141514793358"
+        },
+        {
+          "id": "2036844883164745967",
+          "text": "The PR Deep Review vs standard review split is a version of a problem we see everywhere in interpretability: your ground truth is never as complete as you think. Fast tools are scored against what humans catch in the moment. Deep Review tools have more context, so they may catch https://t.co/XXBbrkIOxq",
+          "createdAt": "2026-03-25T16:37:17.000Z",
+          "authorId": "1587620660859219968",
+          "authorUsername": "quirke_philip",
+          "authorName": "Philip Quirke",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 8,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 74
+          },
+          "url": "https://x.com/quirke_philip/status/2036844883164745967"
+        },
+        {
+          "id": "2036844557359603761",
+          "text": "We've been tracking AI code review tools across OSS, and a new category is emerging. We're calling it \"Deep Review\":\n\n→ Standard AI review: PR-level, fast, human in the loop\n→ Deep Review: repo-wide context, runs autonomously in the background\n\n 🧵👇 https://t.co/aAPQwxdSqO",
+          "createdAt": "2026-03-25T16:35:59.000Z",
+          "authorId": "1639897395814334464",
+          "authorUsername": "withmartian",
+          "authorName": "Martian",
+          "metrics": {
+            "retweet_count": 7,
+            "reply_count": 7,
+            "like_count": 50,
+            "quote_count": 17,
+            "bookmark_count": 24,
+            "impression_count": 37575
+          },
+          "url": "https://x.com/withmartian/status/2036844557359603761"
+        },
+        {
+          "id": "2036750614454047157",
+          "text": "when you get PR review comments 3 days after opening, normally you've lost all the context for why you made certain tradeoffs. claude code has a --from-pr flag that resumes the exact session that created the PR. the agent already knows what it tried and why. cuts review cycles in",
+          "createdAt": "2026-03-25T10:22:42.000Z",
+          "authorId": "244992876",
+          "authorUsername": "dmshirochenko",
+          "authorName": "Shirochenko Dmitriy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 69
+          },
+          "url": "https://x.com/dmshirochenko/status/2036750614454047157"
+        },
+        {
+          "id": "2036692665094586430",
+          "text": "PlayerZero just dropped the world’s first engineering world model\n\nIt's an autonomous AI that connects your code, tickets, observability, Slack/PR history, and incidents into a single context graph to debug, predict, and fix production issues on autopilot.\n\n🚨 @playerzero_ai just https://t.co/il1X0c0dvr",
+          "createdAt": "2026-03-25T06:32:25.000Z",
+          "authorId": "2315213164",
+          "authorUsername": "techwith_ram",
+          "authorName": "𝗿𝗮𝗺𝗮𝗸𝗿𝘂𝘀𝗵𝗻𝗮— 𝗲/𝗮𝗰𝗰",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 565
+          },
+          "url": "https://x.com/techwith_ram/status/2036692665094586430"
+        },
+        {
+          "id": "2036622972317041044",
+          "text": "@anuraggoel Hot take aside — when agents are shipping 90% or more of the code, does the PR review ritual even make sense anymore? \n\nThe whole system assumes a human lost context and needs to catch up. That assumption breaks when the builder has perfect recall.",
+          "createdAt": "2026-03-25T01:55:29.000Z",
+          "authorId": "409742023",
+          "authorUsername": "siddontang",
+          "authorName": "siddontang",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 356
+          },
+          "url": "https://x.com/siddontang/status/2036622972317041044"
+        },
+        {
+          "id": "2036572972601979053",
+          "text": "claude code has a --from-pr flag that resumes the exact session that created a pull request. so when you get review comments 3 days later you don't have to rebuild all the context. the agent already knows what tradeoffs it made and why. saves so much time on back and forth",
+          "createdAt": "2026-03-24T22:36:49.000Z",
+          "authorId": "244992876",
+          "authorUsername": "dmshirochenko",
+          "authorName": "Shirochenko Dmitriy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 48
+          },
+          "url": "https://x.com/dmshirochenko/status/2036572972601979053"
+        },
+        {
+          "id": "2036509817209233558",
+          "text": "@rohanpaul_ai This nails the key insight most coding agent builders miss: the hard part isn't writing code, it's understanding the *why* behind bugs. PR comments, Slack threads, incident logs, deployment history — that's where the real context lives. PlayerZero's 64% confirmation rate vs",
+          "createdAt": "2026-03-24T18:25:51.000Z",
+          "authorId": "752138863",
+          "authorUsername": "aa22396584",
+          "authorName": "ImL1s",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/aa22396584/status/2036509817209233558"
+        },
+        {
+          "id": "2036482107539857906",
+          "text": "@steipete codex for PR review is actually solid. the key is giving it enough context about the codebase conventions. we run it as a pre-check before human review and it catches stuff we usually miss",
+          "createdAt": "2026-03-24T16:35:45.000Z",
+          "authorId": "2031800877225558017",
+          "authorUsername": "RatrektLabs",
+          "authorName": "Ratrekt Labs",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 130
+          },
+          "url": "https://x.com/RatrektLabs/status/2036482107539857906"
+        },
+        {
+          "id": "2036439147360158171",
+          "text": "@0xlelouch_ oncall at 2 AM hits different when context is fragmented. good engineer, bad setup. 45 minutes just piecing together which PR, which service, who touched it last. sometimes it's not skill. it's the missing thread between Slack, GitHub, and Jira that costs you.",
+          "createdAt": "2026-03-24T13:45:02.000Z",
+          "authorId": "1838241332093173760",
+          "authorUsername": "Ladson_official",
+          "authorName": "Ladson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 983
+          },
+          "url": "https://x.com/Ladson_official/status/2036439147360158171"
+        },
+        {
+          "id": "2036401814115856405",
+          "text": "@EightBitElon @shadcn Actually, git worktree is ideal with feature branches &amp; PRs. It lets you checkout a PR (or another branch) in a separate dir without stashing/switching your current work—no context loss. \n\ngit fetch \ngit worktree add ../pr-review origin/pr-branch \n\nReview, test, done—then git",
+          "createdAt": "2026-03-24T11:16:41.000Z",
+          "authorId": "1720665183188922368",
+          "authorUsername": "grok",
+          "authorName": "Grok",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 37
+          },
+          "url": "https://x.com/grok/status/2036401814115856405"
+        },
+        {
+          "id": "2036381738625282176",
+          "text": "@FabianXR_Builds @coderabbitai coderabbit free for open source is genuinely underrated — automated PR reviews that catch real issues, not just linting, changes the review workflow entirely especially for solo builders who don't have a second pair of eyes. the context it maintains across a codebase is the",
+          "createdAt": "2026-03-24T09:56:55.000Z",
+          "authorId": "22062277",
+          "authorUsername": "AppLauncher_App",
+          "authorName": "App Launcher",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/AppLauncher_App/status/2036381738625282176"
+        },
+        {
+          "id": "2036293737840623984",
+          "text": "@steipete The \"trash PR if the issue is unclear\" heuristic deserves more attention. Most review cycles waste time debating implementation details of a change that shouldn't have been scoped that way to begin with. Front-loading the \"what problem are we actually solving?\" question cuts",
+          "createdAt": "2026-03-24T04:07:14.000Z",
+          "authorId": "1986059063906709504",
+          "authorUsername": "thecuongpham",
+          "authorName": "Cuong Pham",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1680
+          },
+          "url": "https://x.com/thecuongpham/status/2036293737840623984"
+        },
+        {
+          "id": "2036280185969058260",
+          "text": "The PR review bottleneck changes when you run 8 agents. Code review is easy. Context review is hard. Exit codes dont lie.",
+          "createdAt": "2026-03-24T03:13:23.000Z",
+          "authorId": "2031438928193171456",
+          "authorUsername": "butterflydnrrn",
+          "authorName": "Meeseeks",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+          },
+          "url": "https://x.com/butterflydnrrn/status/2036280185969058260"
+        },
+        {
+          "id": "2036236341604917511",
+          "text": "@akoratana @matei_zaharia @pbailis @rauchg @zoink @drewhouston the context graph is the part that's actually hard to replicate imo. most debugging tools stop at code and logs. nobody indexes the human decisions that led to the code — the Slack reasoning, the PR tradeoffs. that's where the actual root cause usually lives.",
+          "createdAt": "2026-03-24T00:19:09.000Z",
+          "authorId": "922276606537752577",
+          "authorUsername": "justic_hot",
+          "authorName": "tang | AI Product Maker",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 328
+          },
+          "url": "https://x.com/justic_hot/status/2036236341604917511"
+        }
+      ]
+    },
+    {
+      "query": "(\"falling through the cracks\" engineering) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"no one knows\" (\"what is going on\" OR \"project state\")) (engineering OR team) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"decision\" buried slack engineering) lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037392290470064415",
+          "text": "@nurijanian The bottleneck isn’t PM velocity. It’s decision continuity.\n\nEngineering ships in hours now. But the decisions driving what they ship are still buried in Slack threads, lost meeting notes, and re-litigated standups.\n\nThe constraint isn’t how fast PMs make decisions. It’s how much",
+          "createdAt": "2026-03-27T04:52:29.000Z",
+          "authorId": "1944006301882716160",
+          "authorUsername": "Startvest_ai",
+          "authorName": "Tom Pinder",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 43
+          },
+          "url": "https://x.com/Startvest_ai/status/2037392290470064415"
+        }
+      ]
+    },
+    {
+      "query": "(\"ownership\" unclear bug incident team) lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

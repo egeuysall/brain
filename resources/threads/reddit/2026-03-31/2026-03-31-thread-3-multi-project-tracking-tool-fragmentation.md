@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-03-31
+author: Codex
+tags: [outreach, reddit, icp, project-management, tool-sprawl, context]
+source: https://www.reddit.com/r/projectmanagement/comments/1s1v9hj/organising_and_tracking_multiple_projects/
+---
+
+# Thread 3: Multi Project Tracking Tool Fragmentation
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/projectmanagement/comments/1s1v9hj/organising_and_tracking_multiple_projects/
+
+## Key Excerpt
+
+"I’m managing about five ongoing projects... working with 3-4 internal teams plus stakeholder groups of around 10-15 people... using a mix of Microsoft tools... it’s starting to feel like I’m stitching together a system instead of actually having one."
+
+## Why This Matches Ryva ICP
+
+This is a high-signal coordination mess: multi-team work, fragmented tools, and no reliable cross-project state. Pain is concrete and operational, not theoretical.
+
+## Underlying Problem
+
+Execution context is distributed across disconnected systems, so ownership and progress cannot be trusted without manual reconciliation.
+
+## Suggested Public Reply (Copy)
+
+```text
+This usually stops being a tooling question and becomes a “where does truth live?” question. When updates, decisions, and escalations are split across apps, tracking becomes reconciliation work. The fastest improvement is one visible owner + next action layer across all projects, then forcing every update through it.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+You described exactly what “stitched systems” feel like at 5+ parallel projects. If helpful, I can send a compact operating template for cross-project owner/status/escalation visibility that doesn’t add more admin overhead.
+```

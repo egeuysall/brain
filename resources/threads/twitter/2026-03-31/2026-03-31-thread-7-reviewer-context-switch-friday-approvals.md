@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-03-31
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 7 - reviewer context switch friday approvals
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/Sosuu11223/status/2037437447563284952
+
+## Post Text (Key Excerpt)
+
+```text
+A PR lands at 4:47 PM on a Friday. The reviewer, already context-switched three times that hour, scans for syntax errors, nods at the test count, and clicks approve.
+```
+
+## Why It Matches Ryva ICP
+
+It is a concrete, first-person reviewer scenario showing process pressure and shallow approvals under context-switch load.
+
+## Underlying Problem
+
+Review quality degrades when overloaded reviewers approve without full decision context.
+
+## Suggested Public Response (Copy)
+
+```text
+This captures the hidden risk perfectly. Approval latency and context fatigue push teams toward superficial reviews. The fix is not stricter reviewers, it is lower context debt per PR.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Have you tried limiting PR scope or review windows to reduce these end-of-day context-starved approvals?
+```
+
+## Snapshot
+
+- Author: @Sosuu11223
+- Captured date label: 2026-03-27
+- Recency window: within past 7 days

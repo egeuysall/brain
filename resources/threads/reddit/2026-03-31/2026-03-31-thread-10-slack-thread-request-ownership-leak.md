@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-03-31
+author: Codex
+tags: [outreach, reddit, icp, founder, slack, ownership, execution]
+source: https://www.reddit.com/r/NoCodeSaaS/comments/1s2kjs2/how_we_stopped_losing_client_requests_in_slack/
+---
+
+# Thread 10: Slack Thread Request Ownership Leak
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/NoCodeSaaS/comments/1s2kjs2/how_we_stopped_losing_client_requests_in_slack/
+
+## Key Excerpt
+
+"Running a 12-person agency... biggest headache was keeping track of what clients asked for, who was handling it, and whether it happened... nobody would formally own it... everyone thought someone else had it covered."
+
+## Why This Matches Ryva ICP
+
+Small team, Slack-heavy coordination, explicit ownership failure, and repeated follow-up misses. This is high-conversion pain with clear “who owns this?” ambiguity.
+
+## Underlying Problem
+
+Request capture is happening in chat without automatic ownership/state transition, so action items die between conversation and execution.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is a strong example of execution leakage: chat creates intent, but nobody converts it into owned work fast enough. Once capture depends on memory, misses are guaranteed. Teams usually fix this by auto-creating owner-linked tasks from conversation at the moment of request.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your “everyone thought someone else had it covered” line is exactly the ownership gap we see most. If you want, I can send a practical pattern for turning Slack requests into accountable execution without adding process overhead.
+```

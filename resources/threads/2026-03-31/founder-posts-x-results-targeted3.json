@@ -1,0 +1,293 @@
+{
+  "generatedAt": "2026-03-30T22:46:24.092Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "(standup OR \"daily standup\") (engineering OR \"dev team\") (waste OR useless OR async OR blockers) lang:en -is:retweet -is:reply",
+    "(slack (context OR thread OR decisions) (engineering OR \"dev team\" OR incident)) lang:en -is:retweet -is:reply",
+    "(jira (stale OR useless OR ignored OR blocked) (engineering OR \"dev team\")) lang:en -is:retweet -is:reply",
+    "(\"who owns\" (bug OR incident OR outage) (team OR engineering)) lang:en -is:retweet -is:reply",
+    "(\"jump on a call\" (bug OR incident OR blocker)) lang:en -is:retweet -is:reply",
+    "(\"falling through the cracks\" engineering) lang:en -is:retweet -is:reply",
+    "(github slack (context OR handoff OR ownership) engineering) lang:en -is:retweet -is:reply",
+    "(\"project state\" (unclear OR unknown OR confusion) engineering) lang:en -is:retweet -is:reply",
+    "(\"engineering manager\" (standup OR slack OR jira) team) lang:en -is:retweet -is:reply",
+    "(cto (standup OR slack OR jira OR ownership OR incident) team) lang:en -is:retweet -is:reply"
+  ],
+  "results": [
+    {
+      "query": "(standup OR \"daily standup\") (engineering OR \"dev team\") (waste OR useless OR async OR blockers) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037907804229337258",
+          "text": "Your daily standup will be run by AI agents by 2027. Not because of some breakthrough—because AI already tracks dependencies, identifies blockers, and synthesizes progress better than rushed 15-minute human meetings. The best engineering teams are already testing this. https://t.co/smOFcxa9J3",
+          "createdAt": "2026-03-28T15:00:57.000Z",
+          "authorId": "1666137592767688733",
+          "authorUsername": "robowise",
+          "authorName": "Robowise",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 11
+          },
+          "url": "https://x.com/robowise/status/2037907804229337258"
+        },
+        {
+          "id": "2036797851343221209",
+          "text": "The 3 meetings I cancel at every new CTO engagement:\n\n1. Daily standup (it's just Jira tickets read aloud — make it async)\n2. All-engineering sync (12 of 15 people check their phones)\n3. Recurring \"architecture review\" with no agenda\n\nThe one meeting I add: weekly decision log https://t.co/P7Tb9ivtG0",
+          "createdAt": "2026-03-25T13:30:24.000Z",
+          "authorId": "1359058708022521862",
+          "authorUsername": "GaneshKompella",
+          "authorName": "Ganesh Kompella",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 43
+          },
+          "url": "https://x.com/GaneshKompella/status/2036797851343221209"
+        }
+      ]
+    },
+    {
+      "query": "(slack (context OR thread OR decisions) (engineering OR \"dev team\" OR incident)) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037858668927213773",
+          "text": "Here are 3 tools that caught my eye:\n\nTOOLS of the Week\n1. Dimension: A proactive AI assistant for engineering teams that pulls context from your calendar, email, Slack, and Drive to take action before you ask. Unlike typical AI tools that wait for prompts, it's designed to cut",
+          "createdAt": "2026-03-28T11:45:42.000Z",
+          "authorId": "1841516532695814144",
+          "authorUsername": "nikks_techie",
+          "authorName": "agentX",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 6,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 154
+          },
+          "url": "https://x.com/nikks_techie/status/2037858668927213773"
+        },
+        {
+          "id": "2037858604829798418",
+          "text": "Here are 3 tools that caught my eye:\n\nTOOLS of the Week\n1. Dimension: A proactive AI assistant for engineering teams that pulls context from your calendar, email, Slack, and Drive to take action before you ask. Unlike typical AI tools that wait for prompts, it's designed to cut",
+          "createdAt": "2026-03-28T11:45:27.000Z",
+          "authorId": "1841516532695814144",
+          "authorUsername": "nikks_techie",
+          "authorName": "agentX",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 152
+          },
+          "url": "https://x.com/nikks_techie/status/2037858604829798418"
+        },
+        {
+          "id": "2037858303636914578",
+          "text": "Here are 3 tools that caught my eye:\n\nTOOLS of the Week\n1. Dimension: A proactive AI assistant for engineering teams that pulls context from your calendar, email, Slack, and Drive to take action before you ask. Unlike typical AI tools that wait for prompts, it's designed to cut",
+          "createdAt": "2026-03-28T11:44:15.000Z",
+          "authorId": "1841516532695814144",
+          "authorUsername": "nikks_techie",
+          "authorName": "agentX",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 53
+          },
+          "url": "https://x.com/nikks_techie/status/2037858303636914578"
+        },
+        {
+          "id": "2037627519235666080",
+          "text": "Do it all- In Macro\n\nMacro is the unified system for engineering teams. It brings together your messages, agents, tasks, docs, PRs, and emails in one interface.\n\nEngineers are currently drowning in tab chaos. Slack in one window, Notion in another, Gmail in a third. Every context https://t.co/FA8J5xFRuJ",
+          "createdAt": "2026-03-27T20:27:12.000Z",
+          "authorId": "1424459925112201216",
+          "authorUsername": "macrodotcom",
+          "authorName": "MACRO",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 35
+          },
+          "url": "https://x.com/macrodotcom/status/2037627519235666080"
+        },
+        {
+          "id": "2036895897028538614",
+          "text": "Just opened https://t.co/DzJtVmae3L and deployed an entire feature with my dev team of AI agents.  No meetings. no slack. no context-switching. \n\nJust 10 specialized Claudes working in parallel while i grab coffee ☕\n\n#AI #MacOS #Claude #Developers #ProductHunt https://t.co/DvqdZWJWIw",
+          "createdAt": "2026-03-25T20:00:00.000Z",
+          "authorId": "1656964956",
+          "authorUsername": "JB_CHAUVIN",
+          "authorName": "JB Chauvin",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 33
+          },
+          "url": "https://x.com/JB_CHAUVIN/status/2036895897028538614"
+        },
+        {
+          "id": "2036692665094586430",
+          "text": "PlayerZero just dropped the world’s first engineering world model\n\nIt's an autonomous AI that connects your code, tickets, observability, Slack/PR history, and incidents into a single context graph to debug, predict, and fix production issues on autopilot.\n\n🚨 @playerzero_ai just https://t.co/il1X0c0dvr",
+          "createdAt": "2026-03-25T06:32:25.000Z",
+          "authorId": "2315213164",
+          "authorUsername": "techwith_ram",
+          "authorName": "𝗿𝗮𝗺𝗮𝗸𝗿𝘂𝘀𝗵𝗻𝗮— 𝗲/𝗮𝗰𝗰",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 4,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 565
+          },
+          "url": "https://x.com/techwith_ram/status/2036692665094586430"
+        },
+        {
+          "id": "2036385890528788936",
+          "text": "Your incident timeline shouldn't be a Slack thread you scroll through at 3am.\n\nOneUptime auto-generates incident timelines — every alert, every status change, every responder action. One source of truth, not a forensic dig through chat history.",
+          "createdAt": "2026-03-24T10:13:25.000Z",
+          "authorId": "995533803887050753",
+          "authorUsername": "OneUptimeHQ",
+          "authorName": "OneUptime",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/OneUptimeHQ/status/2036385890528788936"
+        }
+      ]
+    },
+    {
+      "query": "(jira (stale OR useless OR ignored OR blocked) (engineering OR \"dev team\")) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2037707455962951973",
+          "text": "The fastest engineering teams aren't the ones writing more code.\n\nThey're the ones where everyone can see what's shipping, what's blocked, and what's being tested — without asking.\n\nVisibility kills:\n→ \"Where are we with the release?\" meetings\n→ Stale Jira boards nobody trusts https://t.co/QXaDbl8Hom",
+          "createdAt": "2026-03-28T01:44:50.000Z",
+          "authorId": "2037689560797270016",
+          "authorUsername": "YuriyIvashenyuk",
+          "authorName": "Yuriy Ivashenyuk",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/YuriyIvashenyuk/status/2037707455962951973"
+        }
+      ]
+    },
+    {
+      "query": "(\"who owns\" (bug OR incident OR outage) (team OR engineering)) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"jump on a call\" (bug OR incident OR blocker)) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"falling through the cracks\" engineering) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(github slack (context OR handoff OR ownership) engineering) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"project state\" (unclear OR unknown OR confusion) engineering) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(\"engineering manager\" (standup OR slack OR jira) team) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "(cto (standup OR slack OR jira OR ownership OR incident) team) lang:en -is:retweet -is:reply",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038748674038091928",
+          "text": "See how AI agents can build and manage a development team! From CTO to QA, these AI agents handle tasks, code reviews, and even database setup, posting updates to Slack automatically. https://t.co/bFR1HrsKVx",
+          "createdAt": "2026-03-30T22:42:16.000Z",
+          "authorId": "821552896810565632",
+          "authorUsername": "sweetman_eth",
+          "authorName": "sweetman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/sweetman_eth/status/2038748674038091928"
+        },
+        {
+          "id": "2036582842638147742",
+          "text": "The CTO submitted a $6,200 request for a \"team alignment offsite.\"\n\nAn escape room with the theme: \"Bank Heist.\"\n\nWhy are the engineers role-playing robbers when they could just look at our burn rate.\n\nHe said solving puzzles builds collaboration.\n\nI pulled up Jira.\n\nTada.\n\n184",
+          "createdAt": "2026-03-24T23:16:02.000Z",
+          "authorId": "2008968852521246720",
+          "authorUsername": "billbrextoncpa",
+          "authorName": "William Brexton III, CPA",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 82
+          },
+          "url": "https://x.com/billbrextoncpa/status/2036582842638147742"
+        },
+        {
+          "id": "2036381519481131142",
+          "text": "BULLISH NEWS 🚀\n\nWe’ve received a wave of listing proposals on Sendiro 🔥\n\nStarting next week, we’ll begin rolling out multiple listing announcements.\n\nMake sure your team is the one submitting your token for listing to verify ownership, unless it’s a CTO project.\n\nBig things are https://t.co/5q29pgm7Bh",
+          "createdAt": "2026-03-24T09:56:03.000Z",
+          "authorId": "1427140236019212288",
+          "authorUsername": "Johnbillyseer",
+          "authorName": "JohnBilly SENDIRO DEV 🚀🐋🕊️",
+          "metrics": {
+            "retweet_count": 18,
+            "reply_count": 19,
+            "like_count": 90,
+            "quote_count": 0,
+            "bookmark_count": 3,
+            "impression_count": 1499
+          },
+          "url": "https://x.com/Johnbillyseer/status/2036381519481131142"
+        }
+      ]
+    }
+  ]
+}
