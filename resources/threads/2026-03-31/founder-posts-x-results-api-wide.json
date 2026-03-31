@@ -1,0 +1,199 @@
+{
+  "generatedAt": "2026-03-31T22:56:04.393Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup useless engineering team lang:en -is:retweet",
+    "standup status theater engineering lang:en -is:retweet",
+    "slack context engineering team lang:en -is:retweet",
+    "context buried in slack github lang:en -is:retweet",
+    "jira stale engineering team lang:en -is:retweet",
+    "jira ticket outdated slack lang:en -is:retweet",
+    "who owns this bug engineering lang:en -is:retweet",
+    "pull request confusion team lang:en -is:retweet",
+    "PR review context lost lang:en -is:retweet",
+    "had to jump on a call to figure this out bug lang:en -is:retweet",
+    "things falling through cracks team engineering lang:en -is:retweet",
+    "engineering manager standup lang:en -is:retweet",
+    "founder standup slack github lang:en -is:retweet",
+    "dev team no one knows what is going on lang:en -is:retweet",
+    "ownership unclear engineering team lang:en -is:retweet",
+    "decision buried in slack thread engineering lang:en -is:retweet",
+    "github slack jira chaos lang:en -is:retweet",
+    "async standup update not useful lang:en -is:retweet",
+    "project status without meeting engineering lang:en -is:retweet",
+    "who is working on this task dev team lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "standup useless engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "standup status theater engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack context engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038816948721717741",
+          "text": "🔔🔥 Jira + Slack + Rovo is ending the context-switching nightmare that kills engineering team focus time — AI now brings Jira intelligence directly into Slack conversations.\n\n⚡ Jira + Slack + Rovo integration in 2026:\n→ Rovo in Slack: \"@Rovo what's blocking the mobile team https://t.co/FY5VUv7FkP",
+          "createdAt": "2026-03-31T03:13:34.000Z",
+          "authorId": "2037480362851397632",
+          "authorUsername": "ai_trends_daily",
+          "authorName": "AI_Trends_Daily",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 7
+          },
+          "url": "https://x.com/ai_trends_daily/status/2038816948721717741"
+        }
+      ]
+    },
+    {
+      "query": "context buried in slack github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "jira stale engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "jira ticket outdated slack lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who owns this bug engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "pull request confusion team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "PR review context lost lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2036750614454047157",
+          "text": "when you get PR review comments 3 days after opening, normally you've lost all the context for why you made certain tradeoffs. claude code has a --from-pr flag that resumes the exact session that created the PR. the agent already knows what it tried and why. cuts review cycles in",
+          "createdAt": "2026-03-25T10:22:42.000Z",
+          "authorId": "244992876",
+          "authorUsername": "dmshirochenko",
+          "authorName": "Shirochenko Dmitriy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 72
+          },
+          "url": "https://x.com/dmshirochenko/status/2036750614454047157"
+        },
+        {
+          "id": "2036622972317041044",
+          "text": "@anuraggoel Hot take aside — when agents are shipping 90% or more of the code, does the PR review ritual even make sense anymore? \n\nThe whole system assumes a human lost context and needs to catch up. That assumption breaks when the builder has perfect recall.",
+          "createdAt": "2026-03-25T01:55:29.000Z",
+          "authorId": "409742023",
+          "authorUsername": "siddontang",
+          "authorName": "siddontang",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 359
+          },
+          "url": "https://x.com/siddontang/status/2036622972317041044"
+        }
+      ]
+    },
+    {
+      "query": "had to jump on a call to figure this out bug lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "things falling through cracks team engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "engineering manager standup lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "founder standup slack github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "dev team no one knows what is going on lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "ownership unclear engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "decision buried in slack thread engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "github slack jira chaos lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "async standup update not useful lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "project status without meeting engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who is working on this task dev team lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038548766765043819",
+          "text": "@probiex007 Context-aware agents (dev, tester, PM) that actually know what the others are working on + a centralized task board managed by a team lead who delegates properly.Each agent spinning up its own worktree keeps things isolated and clean. This is how you turn individual agents into a",
+          "createdAt": "2026-03-30T09:27:55.000Z",
+          "authorId": "3800831064",
+          "authorUsername": "mail4agam",
+          "authorName": "Agam Chaudhary 🙌",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/mail4agam/status/2038548766765043819"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, reddit, agile, ticket-refinement, ownership, blockers]
+source: https://www.reddit.com/r/agile/comments/1s91krn/do_devs_have_any_responsibility_in_ticket/
+---
+
+# Thread 1: Ticket Refinement Ownership Breakdown
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/agile/comments/1s91krn/do_devs_have_any_responsibility_in_ticket/
+
+## Full Post Text (Key Excerpt)
+
+"Devs say writing clear requirements is PO responsibility and if anything is unclear they stop work without notification. PO expects devs to ask before work stops. In refinement meetings devs stay silent, then throw work back as incomplete."
+
+## Why This Matches Ryva ICP
+
+Small software team coordination is breaking in weekly delivery flow. Ownership of next action is unclear, blockers surface late, and tickets are treated as handoff artifacts instead of shared operating context.
+
+## Underlying Problem
+
+No shared rule for owner + risk + next step at handoff, so work stalls and nobody explicitly carries the blocker.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is a classic handoff failure, not a people problem. If a ticket can be marked blocked without owner + risk + next-step, it will keep stalling. The fix is a lightweight rule: no blocker is valid until those 3 fields are written and visible to both PO and devs in one place.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your example is exactly where delivery slips start: unclear owner when work gets bounced. If useful, I can share a simple refinement template teams use to force owner/risk/next-step in under 60 seconds so blockers stop disappearing between meetings.
+```
+

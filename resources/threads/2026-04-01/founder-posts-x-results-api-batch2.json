@@ -1,0 +1,2052 @@
+{
+  "generatedAt": "2026-03-31T22:58:29.066Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup lang:en -is:retweet",
+    "engineering standup lang:en -is:retweet",
+    "slack github lang:en -is:retweet",
+    "slack thread lang:en -is:retweet",
+    "jira ticket lang:en -is:retweet",
+    "jira engineering lang:en -is:retweet",
+    "pull request review lang:en -is:retweet",
+    "pr review lang:en -is:retweet",
+    "who owns this bug lang:en -is:retweet",
+    "ownership bug lang:en -is:retweet",
+    "context switch engineering lang:en -is:retweet",
+    "things fell through the cracks team lang:en -is:retweet",
+    "had to jump on a call lang:en -is:retweet",
+    "no one knows what is going on project lang:en -is:retweet",
+    "engineering manager slack lang:en -is:retweet",
+    "status update engineering team lang:en -is:retweet",
+    "incident timeline slack lang:en -is:retweet",
+    "decision log engineering lang:en -is:retweet",
+    "blocked waiting for review pr lang:en -is:retweet",
+    "stale jira lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "standup lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2039115006822723926",
+          "text": "9stacks before fees, nevermind we got NBA HAM for round 5% retail in the same spot. Resale ain't even buying a standup Blitz https://t.co/7g8v0WYFBi",
+          "createdAt": "2026-03-31T22:57:57.000Z",
+          "authorId": "543932734",
+          "authorUsername": "plAyBazzzzzzzzZ",
+          "authorName": "Name cannot be blank",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/plAyBazzzzzzzzZ/status/2039115006822723926"
+        },
+        {
+          "id": "2039114098521379261",
+          "text": "Come to the George Hotel, Largs this Good Friday from 7pm-8.30pm, for standup comedy hosted by Stevie Goldie, I’ll be there as an assistant to comedian Rose Wild, it will be wild! https://t.co/tQKfUFtkfA",
+          "createdAt": "2026-03-31T22:54:20.000Z",
+          "authorId": "47652419",
+          "authorUsername": "DrBlinder",
+          "authorName": "Dr Mikey Hughes",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/DrBlinder/status/2039114098521379261"
+        },
+        {
+          "id": "2039113884095873474",
+          "text": "@RapSheet Goodell really said “we’ll circle back” like this is a corporate standup meeting 😭\nMeanwhile the CBA just sitting in drafts like: last edited 3 years ago",
+          "createdAt": "2026-03-31T22:53:29.000Z",
+          "authorId": "2028583829762715648",
+          "authorUsername": "sharma10197",
+          "authorName": "Sharma",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+          },
+          "url": "https://x.com/sharma10197/status/2039113884095873474"
+        },
+        {
+          "id": "2039111893470581185",
+          "text": "‘26 C/2B Zachary Budzak (Pittston Area) \n\n@DVU_baseball commit\n\nStarts the bottom half of the 6th w/ a standup 2B for the Patriots. Keeps hands back and drives this ball to the LF wall. Stays controlled and leveled throughout from RH side. \n\n@zach_NPBaseball https://t.co/nGvEXkSSow",
+          "createdAt": "2026-03-31T22:45:34.000Z",
+          "authorId": "520058158",
+          "authorUsername": "PrepBaseballPA",
+          "authorName": "Prep Baseball Pennsylvania",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 57
+          },
+          "url": "https://x.com/PrepBaseballPA/status/2039111893470581185"
+        },
+        {
+          "id": "2039111827531939963",
+          "text": "‘26 Owen Przymierski @op21baseball YEETS this ball over the CF for a standup trip. 💥 https://t.co/k8Fh470ucQ",
+          "createdAt": "2026-03-31T22:45:19.000Z",
+          "authorId": "2023048159656865792",
+          "authorUsername": "90Feet2Home",
+          "authorName": "90Feet2Home",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 7
+          },
+          "url": "https://x.com/90Feet2Home/status/2039111827531939963"
+        },
+        {
+          "id": "2039111543850229883",
+          "text": "‘26 C/2B Zachary Budzak (Pittston Area) \n\n📏 5-8, 150 LB\n\nStarts the bottom half of the 6th w/ a standup 2B for the Patriots. Keeps hands back and drives this ball to the LF wall. Stays controlled and leveled throughout from RH side. \n\n@zach_NPBaseball https://t.co/3u02lVMJSA",
+          "createdAt": "2026-03-31T22:44:11.000Z",
+          "authorId": "520058158",
+          "authorUsername": "PrepBaseballPA",
+          "authorName": "Prep Baseball Pennsylvania",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/PrepBaseballPA/status/2039111543850229883"
+        },
+        {
+          "id": "2039111024519909560",
+          "text": "@GovPritzker you should try standup. https://t.co/AtHPIAK9hN",
+          "createdAt": "2026-03-31T22:42:07.000Z",
+          "authorId": "1415063454277324811",
+          "authorUsername": "CrunchyDragon2",
+          "authorName": "CrunchyDragon",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/CrunchyDragon2/status/2039111024519909560"
+        },
+        {
+          "id": "2039110566367641604",
+          "text": "@jakecummins6 @agnewe_62218 @Redhawkbasebal Two-Out Standup Double. Cummins starts off 2026 hot https://t.co/Ml4MhpcbCB",
+          "createdAt": "2026-03-31T22:40:18.000Z",
+          "authorId": "1884455553772183552",
+          "authorUsername": "CalebThiesenWi",
+          "authorName": "Caleb Conrardy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+          },
+          "url": "https://x.com/CalebThiesenWi/status/2039110566367641604"
+        },
+        {
+          "id": "2039110544070758858",
+          "text": "Decided not to dress up for this show #standup  #comedian  #standupcomed... https://t.co/W9PvMS1f1d via @YouTube",
+          "createdAt": "2026-03-31T22:40:13.000Z",
+          "authorId": "1311461334526164993",
+          "authorUsername": "pizzashitbentli",
+          "authorName": "JointChief Not Sure aka D’vantèé aka your honors",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/pizzashitbentli/status/2039110544070758858"
+        },
+        {
+          "id": "2039110239492915324",
+          "text": "AI coming for everything! No one knows if they'll have a job in five years. Basically, tthe whole world will be living the life of a struggling artist. All this time, I thought I was merely doing crappy standup shows. Turns out I'm a prepper!",
+          "createdAt": "2026-03-31T22:39:00.000Z",
+          "authorId": "15233369",
+          "authorUsername": "mattruby",
+          "authorName": "MATT RUBY",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/mattruby/status/2039110239492915324"
+        },
+        {
+          "id": "2039109292574539798",
+          "text": "happy wednesday new year\nmy review of the last couple days\ndid a lot of standup and will continue to forever\nthank you for watching my stuff :) https://t.co/CC9Fsjfk9U",
+          "createdAt": "2026-03-31T22:35:14.000Z",
+          "authorId": "2025535485456863233",
+          "authorUsername": "CharlotteD20470",
+          "authorName": "Andrea Jin",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/CharlotteD20470/status/2039109292574539798"
+        },
+        {
+          "id": "2039108453675803085",
+          "text": "@newstart_2024 Yes in fact, I do get my health and science information from a standup comedian and weathergirl. What could go wrong?",
+          "createdAt": "2026-03-31T22:31:54.000Z",
+          "authorId": "1925576127021502465",
+          "authorUsername": "datawins_",
+          "authorName": "Data Wins",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 544
+          },
+          "url": "https://x.com/datawins_/status/2039108453675803085"
+        },
+        {
+          "id": "2039107688240484742",
+          "text": "POOLJUMPERS IS THE GREATEST SKETCH OF ALL TIME \n\nhttps://t.co/SJoMbT7CY8\n\n #birthdayboys #comedy #podcast #brendonwalsh #seanoconnor #standup #album #vinyl #record https://t.co/SsCkcfGDvK",
+          "createdAt": "2026-03-31T22:28:52.000Z",
+          "authorId": "1920262142433116160",
+          "authorUsername": "offtherecordspo",
+          "authorName": "offtherecordspod",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/offtherecordspo/status/2039107688240484742"
+        },
+        {
+          "id": "2039107140405899627",
+          "text": "@null30401025 @RepShriThanedar During that time, this loser was in a Thelema cult in the Bay area, and a really shitty standup comedian. Highly unlikely they're the same guy.",
+          "createdAt": "2026-03-31T22:26:41.000Z",
+          "authorId": "2013451825996017664",
+          "authorUsername": "GrifterwatchYT",
+          "authorName": "Grifter Watch",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/GrifterwatchYT/status/2039107140405899627"
+        },
+        {
+          "id": "2039106944703836452",
+          "text": "@thevivafrei One is a rapper and the other is a standup comic...lmao",
+          "createdAt": "2026-03-31T22:25:55.000Z",
+          "authorId": "1591205428490534912",
+          "authorUsername": "Oog_dog_",
+          "authorName": "Oog",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/Oog_dog_/status/2039106944703836452"
+        },
+        {
+          "id": "2039106338475671993",
+          "text": "Big news — SilkyCircle has evolved 🎤 \n\nWe're now a live comedy, standup, music &amp; improv streaming platform. Same passion for independent performers, brand new direction.\n\nThe Circle Is Open. There's a seat with your name on it.\n👉 https://t.co/bt6EuCxrA9",
+          "createdAt": "2026-03-31T22:23:30.000Z",
+          "authorId": "1994138427068125184",
+          "authorUsername": "silkycircle",
+          "authorName": "silkycircle",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/silkycircle/status/2039106338475671993"
+        },
+        {
+          "id": "2039105462432420235",
+          "text": "I don't see how we are all sitting around complaining allowing this shit to continue. \n\nThe GOP is not going to accept our votes. They're trying to keep us from being able to register or vote at all.\n\n#StandUp\n\nAt least participate in \nMAYDAY \nMAY 1 \nGeneral Strike\nplease. https://t.co/F2jYqQ6jaH",
+          "createdAt": "2026-03-31T22:20:01.000Z",
+          "authorId": "1479509832390610946",
+          "authorUsername": "FightingForDem7",
+          "authorName": "WTAF, America?!",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 7
+          },
+          "url": "https://x.com/FightingForDem7/status/2039105462432420235"
+        },
+        {
+          "id": "2039105427406033046",
+          "text": "Everything except transformative feels so corporate and small-minded. You used AI to increase CTR by 7%? Did it feel good when you humbled bragged about KPIs in your standup?\n\nWeak. Build a schizo system of agents. Commit fully. That’s where the fun (and real gains) are. https://t.co/xY6tNGFEB8",
+          "createdAt": "2026-03-31T22:19:53.000Z",
+          "authorId": "2901684197",
+          "authorUsername": "jarredgeller",
+          "authorName": "Jarred Geller",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/jarredgeller/status/2039105427406033046"
+        },
+        {
+          "id": "2039105066213560510",
+          "text": "‘26 Ben Kimnach\n- @Cox__Baseball \n\nTurns the barrel here for a standup triple down the RF line. \n\n@PrepBaseballVA \n\n#VAHS26 https://t.co/XwsuZW5zcN",
+          "createdAt": "2026-03-31T22:18:27.000Z",
+          "authorId": "1318959874592604170",
+          "authorUsername": "PrepBaseVAS",
+          "authorName": "Prep Baseball VA/DC Scouting",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 133
+          },
+          "url": "https://x.com/PrepBaseVAS/status/2039105066213560510"
+        },
+        {
+          "id": "2039104209191059553",
+          "text": "@Number10cat No it’s called standup or shut up",
+          "createdAt": "2026-03-31T22:15:02.000Z",
+          "authorId": "1327330277929136128",
+          "authorUsername": "KevinAnglum",
+          "authorName": "Ralph",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/KevinAnglum/status/2039104209191059553"
+        },
+        {
+          "id": "2039103758206943737",
+          "text": "@Guiiiiigui_ He got hired to do standup at a Guild facility before the cradle facility breach on Avalon? I dunno. Zombies is easier to explain with the whole Dark Aether.",
+          "createdAt": "2026-03-31T22:13:15.000Z",
+          "authorId": "1428150930709565447",
+          "authorUsername": "OfficiallyMeNow",
+          "authorName": "🇺🇦“All-Father, give me Sprite!”🇺🇦",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/OfficiallyMeNow/status/2039103758206943737"
+        },
+        {
+          "id": "2039101547934806286",
+          "text": "Definately 'we wont forget who stood with the terrorists'\n@Keir_Starmer @AlboMP\nStandup people! https://t.co/lzbzUl3VGM",
+          "createdAt": "2026-03-31T22:04:28.000Z",
+          "authorId": "2473196322",
+          "authorUsername": "AerialKiwi",
+          "authorName": "Aerial",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/AerialKiwi/status/2039101547934806286"
+        },
+        {
+          "id": "2039101426094276915",
+          "text": "That Monday morning standup....To be a fly on that wall. \nhttps://t.co/I1QkVNKo8D",
+          "createdAt": "2026-03-31T22:03:59.000Z",
+          "authorId": "3046971581",
+          "authorUsername": "dajaz027",
+          "authorName": "Troy White - FAMU's Unofficial Cardinal District 5",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/dajaz027/status/2039101426094276915"
+        },
+        {
+          "id": "2039100518090322154",
+          "text": "@Luvlyynii And everybody yall want to be the so called eaters pulls hair fiji, ivory, tesehki, naj, moni, zaniyah. Its okay she got dragged. And Lex athletic and has reach. So in standup Ciroc still losing.",
+          "createdAt": "2026-03-31T22:00:22.000Z",
+          "authorId": "1687850828743241728",
+          "authorUsername": "Mr4InsideIt",
+          "authorName": "MonéMakerSupreme",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 12
+          },
+          "url": "https://x.com/Mr4InsideIt/status/2039100518090322154"
+        },
+        {
+          "id": "2039100465439232074",
+          "text": "Dentist Appointment.\nYour weekend in Texas: Adele Givens at the Arlington Improv, April 2–4.\n\n#comedy #standup #throwback #ImprovComedyClubs https://t.co/ERuCZdzjjh",
+          "createdAt": "2026-03-31T22:00:10.000Z",
+          "authorId": "135566746",
+          "authorUsername": "TheImprov",
+          "authorName": "Improv Comedy Clubs",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 16
+          },
+          "url": "https://x.com/TheImprov/status/2039100465439232074"
+        },
+        {
+          "id": "2039100125813821820",
+          "text": "@Avayiran 🤣🤣🤣👏👏👏 our beloved standup comedian, our favorite reporter ever!",
+          "createdAt": "2026-03-31T21:58:49.000Z",
+          "authorId": "1470256307361910785",
+          "authorUsername": "yamani_homa",
+          "authorName": "👑 Homa 👑",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/yamani_homa/status/2039100125813821820"
+        },
+        {
+          "id": "2039099538091266156",
+          "text": "@film_waala &gt;wants Bollywood to standup on pertinent issues \n&gt;worked for Republic TV\n\nNalla berozgaar bhag yahan se jaa chatGPT kar",
+          "createdAt": "2026-03-31T21:56:29.000Z",
+          "authorId": "171538656",
+          "authorUsername": "off_by_one_",
+          "authorName": "kanishki kushano 🇮🇳",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 7
+          },
+          "url": "https://x.com/off_by_one_/status/2039099538091266156"
+        },
+        {
+          "id": "2039098449220497488",
+          "text": "#24 Kerissa Howell with a standup double to the left field fence! The Titans lead 11-0 in the bottom of the third https://t.co/vL5YjaHYxD",
+          "createdAt": "2026-03-31T21:52:09.000Z",
+          "authorId": "1431366312",
+          "authorUsername": "EFSCTitans",
+          "authorName": "EFSC Titans Sports",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 22
+          },
+          "url": "https://x.com/EFSCTitans/status/2039098449220497488"
+        },
+        {
+          "id": "2039097199129133543",
+          "text": ".@_morgangoodrich with the standup double to left field \n\nB3 | INST 0 EIU 0\n#MarchOn https://t.co/xTGBFX8hP9",
+          "createdAt": "2026-03-31T21:47:11.000Z",
+          "authorId": "501898955",
+          "authorUsername": "IndStSoftball",
+          "authorName": "Indiana State Softball",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 109
+          },
+          "url": "https://x.com/IndStSoftball/status/2039097199129133543"
+        },
+        {
+          "id": "2039097066111340725",
+          "text": "@ScottBottomsCO I’m a dad with 5 kids in Colorado! Christian’s need to standup. We can make a difference. Praying for the devils stronghold to be smashed!",
+          "createdAt": "2026-03-31T21:46:39.000Z",
+          "authorId": "1901376362633732096",
+          "authorUsername": "ucdumpsterfire",
+          "authorName": "Undercover Dumpster Fire",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+          },
+          "url": "https://x.com/ucdumpsterfire/status/2039097066111340725"
+        },
+        {
+          "id": "2039095825075220658",
+          "text": "If your in the mood to help others than here is your chance. \n\nSolflare X NetRunner \n\nTwo standup companies ran with the most trusted people. \n\nLink below 👇 \n\nhttps://t.co/hxHl8Krgpp",
+          "createdAt": "2026-03-31T21:41:43.000Z",
+          "authorId": "1354533737367826432",
+          "authorUsername": "HODLonBRO",
+          "authorName": "LacedUp",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 13
+          },
+          "url": "https://x.com/HODLonBRO/status/2039095825075220658"
+        },
+        {
+          "id": "2039095678274842851",
+          "text": "@AomoriMark25653 @breakfastclubam @mimibrowntv yeah and yet Netanyahu himself has said he has been trying for 40 years to get this. Yeah okay Kamala would be doing the same dumb shit as Trump. lol you should try standup",
+          "createdAt": "2026-03-31T21:41:08.000Z",
+          "authorId": "1451933283760189443",
+          "authorUsername": "u41211",
+          "authorName": "u41211",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/u41211/status/2039095678274842851"
+        },
+        {
+          "id": "2039095635543044478",
+          "text": "@rohanpaul_ai If the org *is* the intelligence, who writes the standup reports? My agents refuse to use Jira.",
+          "createdAt": "2026-03-31T21:40:58.000Z",
+          "authorId": "2026118187658690560",
+          "authorUsername": "RohRut_AI",
+          "authorName": "RohRut",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 8
+          },
+          "url": "https://x.com/RohRut_AI/status/2039095635543044478"
+        },
+        {
+          "id": "2039095408748573167",
+          "text": "@openclaw Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:40:04.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/luna_moretti_/status/2039095408748573167"
+        },
+        {
+          "id": "2039095351869604234",
+          "text": "@rickybuildsai Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:39:51.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/luna_moretti_/status/2039095351869604234"
+        },
+        {
+          "id": "2039094984859644288",
+          "text": "@SolidKroket Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:38:23.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094984859644288"
+        },
+        {
+          "id": "2039094956619411841",
+          "text": "@RoundtableSpace Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:38:16.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094956619411841"
+        },
+        {
+          "id": "2039094848829935871",
+          "text": "@steipete Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:37:51.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094848829935871"
+        },
+        {
+          "id": "2039094789967122904",
+          "text": "@claudeai Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:37:37.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094789967122904"
+        },
+        {
+          "id": "2039094707305787415",
+          "text": "@nateliason Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:37:17.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094707305787415"
+        },
+        {
+          "id": "2039094682408403288",
+          "text": "@lennysan @clairevo Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:37:11.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094682408403288"
+        },
+        {
+          "id": "2039094652058431739",
+          "text": "@elonmusk Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:37:04.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094652058431739"
+        },
+        {
+          "id": "2039094614498382175",
+          "text": "@hex_agent Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:36:55.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/luna_moretti_/status/2039094614498382175"
+        },
+        {
+          "id": "2039093551246475772",
+          "text": "Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq😉",
+          "createdAt": "2026-03-31T21:32:41.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 33
+          },
+          "url": "https://x.com/luna_moretti_/status/2039093551246475772"
+        },
+        {
+          "id": "2039093395969188048",
+          "text": "Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq😎",
+          "createdAt": "2026-03-31T21:32:04.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 26
+          },
+          "url": "https://x.com/luna_moretti_/status/2039093395969188048"
+        },
+        {
+          "id": "2039093163235705181",
+          "text": "Most founders are still hiring humans for tasks AI can do 24/7 for $0.\n\nI wrote a guide on how to deploy your first AI workforce in under 10 minutes.\n\nReading it takes less time than one Slack standup.\n\n→ https://t.co/Z4JeevN0iq",
+          "createdAt": "2026-03-31T21:31:09.000Z",
+          "authorId": "1960341013626515456",
+          "authorUsername": "luna_moretti_",
+          "authorName": "luna moretti",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 1,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 31
+          },
+          "url": "https://x.com/luna_moretti_/status/2039093163235705181"
+        },
+        {
+          "id": "2039092554759606289",
+          "text": "There’s no right wing or left wing. There’s only child molesters and zionist child molestors and everybody knows that and they vote for child molestor but somehow everytime the zionist child molestor wins instead. This is politics.\n\n#comedy #standup #wholesome #jews",
+          "createdAt": "2026-03-31T21:28:44.000Z",
+          "authorId": "2610191762",
+          "authorUsername": "ZergSecs",
+          "authorName": "ZergSecs",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 7
+          },
+          "url": "https://x.com/ZergSecs/status/2039092554759606289"
+        },
+        {
+          "id": "2039089544989917255",
+          "text": "Revoke Marzieh Ansari’s Refugee Status - SHE MUST BE DEPORTED ‼️\n\nSUPPORTING IRGC in the UK and threatening others that if you standup against the ISLAMIC REPUBLIC you must accept the consequences which by definition means (They have rights to shoot as protestors in their HEAD) https://t.co/H19n00X1Rk",
+          "createdAt": "2026-03-31T21:16:46.000Z",
+          "authorId": "1933958255442894848",
+          "authorUsername": "LionSunEcho",
+          "authorName": "Lion Sun Echo 🇮🇷🇮🇱🇺🇸🇮🇷",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/LionSunEcho/status/2039089544989917255"
+        },
+        {
+          "id": "2039089517152326017",
+          "text": "@TRobinsonNewEra @Butterfly135688 Revoke Marzieh Ansari’s Refugee Status - SHE MUST BE DEPORTED ‼️\n\nSUPPORTING IRGC in the UK and threatening others that if you standup against the ISLAMIC REPUBLIC you must accept the consequences which by definition means (They have rights to shoot as protestors in their HEAD)",
+          "createdAt": "2026-03-31T21:16:39.000Z",
+          "authorId": "1933958255442894848",
+          "authorUsername": "LionSunEcho",
+          "authorName": "Lion Sun Echo 🇮🇷🇮🇱🇺🇸🇮🇷",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/LionSunEcho/status/2039089517152326017"
+        },
+        {
+          "id": "2039089314982769129",
+          "text": "Revoke Marzieh Ansari’s Refugee Status - SHE MUST BE DEPORTED ‼️\n\nSUPPORTING IRGC in the UK and threatening others that if you standup against the ISLAMIC REPUBLIC you must accept the consequences which by definition means (They have rights to shoot as protestors in their HEAD) https://t.co/PH60Sg9Y68",
+          "createdAt": "2026-03-31T21:15:51.000Z",
+          "authorId": "1933958255442894848",
+          "authorUsername": "LionSunEcho",
+          "authorName": "Lion Sun Echo 🇮🇷🇮🇱🇺🇸🇮🇷",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/LionSunEcho/status/2039089314982769129"
+        },
+        {
+          "id": "2039088064740348181",
+          "text": "@MoezAhmedKhan1 @CENTCOM You’re doing standup comedy now, Moez?",
+          "createdAt": "2026-03-31T21:10:53.000Z",
+          "authorId": "1438289919986839558",
+          "authorUsername": "bobconneen",
+          "authorName": "Bob Conneen",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 86
+          },
+          "url": "https://x.com/bobconneen/status/2039088064740348181"
+        },
+        {
+          "id": "2039087371056976250",
+          "text": "Elevate your Thursday nights in Dallas. AFROCOMEDY CLUB offers sophisticated entertainment featuring international standup talent from across Africa. Hosted by me, Tosin Opaleke. ACE KITCHEN &amp; LOUNGE, 12255 Greenville Ave, 8-11PM. Complimentary admission. Reserve your evening",
+          "createdAt": "2026-03-31T21:08:08.000Z",
+          "authorId": "3459497433",
+          "authorUsername": "tosinopaleke_",
+          "authorName": "Tosin Opaleke",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/tosinopaleke_/status/2039087371056976250"
+        },
+        {
+          "id": "2039085522904100879",
+          "text": "@nawmiis just start going to ur local bar and do standup comedy…or go to the streets and grab a guitar and just sing",
+          "createdAt": "2026-03-31T21:00:47.000Z",
+          "authorId": "1575875523158642688",
+          "authorUsername": "knowjjangs",
+          "authorName": "dandy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/knowjjangs/status/2039085522904100879"
+        },
+        {
+          "id": "2039084350025670781",
+          "text": "@dbongino Yeah you are. Didn’t do shit when you were in office. At least he has the balls to standup to either side",
+          "createdAt": "2026-03-31T20:56:08.000Z",
+          "authorId": "1796574127588798466",
+          "authorUsername": "blalalalupp",
+          "authorName": "Blalalalup",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 11
+          },
+          "url": "https://x.com/blalalalupp/status/2039084350025670781"
+        },
+        {
+          "id": "2039084163131670608",
+          "text": "@harryjsisson Harry you have the best standup comedian going.",
+          "createdAt": "2026-03-31T20:55:23.000Z",
+          "authorId": "1699792566580113409",
+          "authorUsername": "jackryanalt2600",
+          "authorName": "Jack Ryan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/jackryanalt2600/status/2039084163131670608"
+        },
+        {
+          "id": "2039083078476255650",
+          "text": "@glotchimo @KaiXCreator I do get your point mate, and that is right for engineer-to-manager communication or vice verca, however, Standup updates shared out loud can can sometimes  help teams foresee things mate, they create visibility into what everyone’s working on, even across different features.",
+          "createdAt": "2026-03-31T20:51:04.000Z",
+          "authorId": "1878542830458585088",
+          "authorUsername": "evanbabaallos",
+          "authorName": "Evan Babaallos",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/evanbabaallos/status/2039083078476255650"
+        },
+        {
+          "id": "2039082957965566425",
+          "text": "A Preview Of The Interview With Valerie Vibar #StandUp #Comedian #Writer #Actress #Stage #Film #TV #Singer #Pianist #Manila #Texas #Seoul #Korea #TheValShow #BBC #AmazonPrime #HBO #Oxygen #Favorite #Moment #Nightmare #Bombed #LanternFestival #LosAngeles\n\nhttps://t.co/A7LpoUZ8eV",
+          "createdAt": "2026-03-31T20:50:36.000Z",
+          "authorId": "345505474",
+          "authorUsername": "UrComedyMinute",
+          "authorName": "Scott Townsend",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+          },
+          "url": "https://x.com/UrComedyMinute/status/2039082957965566425"
+        },
+        {
+          "id": "2039082856845111379",
+          "text": "I FLUSHED THE EVIDENCE. Do you use air fresheners? What's your favorite scent?\n\nWatch my full Showtime special #neuroticgangster from @lolflix_ now on Amazon in the link in my bio. #comedy #standup https://t.co/3ZBOkCZ5dY",
+          "createdAt": "2026-03-31T20:50:12.000Z",
+          "authorId": "18627768",
+          "authorUsername": "bengleib",
+          "authorName": "Ben Gleib",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 279
+          },
+          "url": "https://x.com/bengleib/status/2039082856845111379"
+        },
+        {
+          "id": "2039081742460411909",
+          "text": "Apparently, today is my last work day! I was told the same day that this is my last day at work. \nI built a ton of things for the company. \nI can't even show up on our daily standup to say bye to my colleagues. \n\nFor all the people who got laid off, I feel you.",
+          "createdAt": "2026-03-31T20:45:46.000Z",
+          "authorId": "338946253",
+          "authorUsername": "adibhanna",
+          "authorName": "Adib Hanna",
+          "metrics": {
+            "retweet_count": 2,
+            "reply_count": 5,
+            "like_count": 43,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 4013
+          },
+          "url": "https://x.com/adibhanna/status/2039081742460411909"
+        },
+        {
+          "id": "2039080883773431827",
+          "text": "@MattZeitlin this is one of the worst faux-intellectual NPC standup jokes I’ve ever seen",
+          "createdAt": "2026-03-31T20:42:21.000Z",
+          "authorId": "1999054804761632768",
+          "authorUsername": "PlataFormaPress",
+          "authorName": "Charles A. Bethel IV (JB in macaw mode irl)",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 206
+          },
+          "url": "https://x.com/PlataFormaPress/status/2039080883773431827"
+        },
+        {
+          "id": "2039080427290517866",
+          "text": "@CollardMat5063 Vito Stetke  Ex-blue check, Bloomberg, Daily News, New York Post; standup, improviser, pun-dit,",
+          "createdAt": "2026-03-31T20:40:32.000Z",
+          "authorId": "1998277907467403264",
+          "authorUsername": "GiuntaHuey98935",
+          "authorName": "Giunta Huey",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/GiuntaHuey98935/status/2039080427290517866"
+        },
+        {
+          "id": "2039080107197751772",
+          "text": "￼Lmao….. sorry I just couldn’t resist 😂😂😂😂, this is definitely not true not all cases. 😂😂😂😂 #StandUp #comedy #funnyaf #sexualpositions #fyp https://t.co/rmPbBC0fIw via @theclapperapp",
+          "createdAt": "2026-03-31T20:39:16.000Z",
+          "authorId": "1882045843865493504",
+          "authorUsername": "LawrenceRu45458",
+          "authorName": "Rusky Lawrence",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+          },
+          "url": "https://x.com/LawrenceRu45458/status/2039080107197751772"
+        },
+        {
+          "id": "2039079740296851659",
+          "text": "Respect to those who stand their ground, defend the rule of law, and push back against abuse of power. Accountability matters.\n\n#RuleOfLaw #Democracy #ChecksAndBalances #Accountability #StandUp #Courage #Politics\n\nhttps://t.co/cBbPsc3wgt",
+          "createdAt": "2026-03-31T20:37:49.000Z",
+          "authorId": "334821948",
+          "authorUsername": "digitalpur",
+          "authorName": "digitalpur",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/digitalpur/status/2039079740296851659"
+        },
+        {
+          "id": "2039078612381614377",
+          "text": "@its1stclassCAM I’m gonna standup for her cause she’s a black girl but what tf did she see in this little weasel looking bitch and why would she even be trying to get with him 😩 like ladies we gotta stop settling just to have man this is ridiculous",
+          "createdAt": "2026-03-31T20:33:20.000Z",
+          "authorId": "1394515846488227840",
+          "authorUsername": "thebaby02808618",
+          "authorName": "babygirl",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 64
+          },
+          "url": "https://x.com/thebaby02808618/status/2039078612381614377"
+        },
+        {
+          "id": "2039078519615954959",
+          "text": "@Princymthombeni @Lord_Ori_ @ChrisExcel102 That's why today we cannot standup for ourselves with correct expression without being physical because that's all we know. This type of authoritarian parenting has actually done more damage to us, it has not shaped us to think, question it and very and yes or no.",
+          "createdAt": "2026-03-31T20:32:57.000Z",
+          "authorId": "2029714108745170944",
+          "authorUsername": "njabulamdlalose",
+          "authorName": "Njabulo Mdlalose",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 15
+          },
+          "url": "https://x.com/njabulamdlalose/status/2039078519615954959"
+        },
+        {
+          "id": "2039077704038076680",
+          "text": "I hate to break my North American fed perspective that the Chinese are not perseveringly creative—what next am I going to see, Chinese standup comedy? https://t.co/A4yjOB5KLW",
+          "createdAt": "2026-03-31T20:29:43.000Z",
+          "authorId": "1821264988625084416",
+          "authorUsername": "sivacanjeev",
+          "authorName": "Siva Canjeevaram 🇨🇦",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 4
+          },
+          "url": "https://x.com/sivacanjeev/status/2039077704038076680"
+        },
+        {
+          "id": "2039077441721786657",
+          "text": "@glotchimo @KaiXCreator In fast paced environment and lots of context switching, the thing becomes stressful for me. \n\nSo I would appreciate it a cheatsheet that can help me during standup.  \n\nDo you do standups? and if yes, how do you tackle it?",
+          "createdAt": "2026-03-31T20:28:40.000Z",
+          "authorId": "1878542830458585088",
+          "authorUsername": "evanbabaallos",
+          "authorName": "Evan Babaallos",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+          },
+          "url": "https://x.com/evanbabaallos/status/2039077441721786657"
+        },
+        {
+          "id": "2039076753117761961",
+          "text": "No Kings After Party #comedy #comedian #standup #standupcomedy #shorts #... https://t.co/Y2w3RiU91j via @YouTube",
+          "createdAt": "2026-03-31T20:25:56.000Z",
+          "authorId": "1953117519663034368",
+          "authorUsername": "Halsey1952",
+          "authorName": "Ronald Nelson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/Halsey1952/status/2039076753117761961"
+        },
+        {
+          "id": "2039076431053889598",
+          "text": "The other day I was watching a Mike Epps comedy standup on Netflix… a good bit of his jokes made me side eye him smh. Very tasteless &amp; kinda predatory :/",
+          "createdAt": "2026-03-31T20:24:40.000Z",
+          "authorId": "1285689766692958212",
+          "authorUsername": "dvantestillsux",
+          "authorName": "👑",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/dvantestillsux/status/2039076431053889598"
+        },
+        {
+          "id": "2039076288372027766",
+          "text": "@JohnSmithdnpt @Apolitical3678 You should try standup. If you think that jews can't and don't cheat their way through college, like everything else, you are dumber than I thought ot you're jewish.",
+          "createdAt": "2026-03-31T20:24:06.000Z",
+          "authorId": "1735492943232876544",
+          "authorUsername": "browns45804",
+          "authorName": "Browns45804",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+          },
+          "url": "https://x.com/browns45804/status/2039076288372027766"
+        },
+        {
+          "id": "2039076192603550002",
+          "text": "@RyanceyReturns Standup, hookup, shuffle to the door jump right out and count to four.",
+          "createdAt": "2026-03-31T20:23:43.000Z",
+          "authorId": "1594362358721298433",
+          "authorUsername": "BradMay58340303",
+          "authorName": "Brad May",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 20
+          },
+          "url": "https://x.com/BradMay58340303/status/2039076192603550002"
+        },
+        {
+          "id": "2039076130716623127",
+          "text": "@AtrophyKing @puzzlesdotcom @mostlysports @VivaLaStool I am actually very offended by standup comedy. I think comedy should be illegal. Laughing is a sin",
+          "createdAt": "2026-03-31T20:23:28.000Z",
+          "authorId": "1877391758234890244",
+          "authorUsername": "billyomonster",
+          "authorName": "bills weak ass monster",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 23
+          },
+          "url": "https://x.com/billyomonster/status/2039076130716623127"
+        },
+        {
+          "id": "2039075533028258156",
+          "text": "@glotchimo @KaiXCreator Exactly mate, you have put it in the right way.. \n\nWe do Standups twice a week, before every standup meeting, I spend around 10 mins checking what I have done across these tools, just to participate for 30 seconds in that meeting.",
+          "createdAt": "2026-03-31T20:21:05.000Z",
+          "authorId": "1878542830458585088",
+          "authorUsername": "evanbabaallos",
+          "authorName": "Evan Babaallos",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+          },
+          "url": "https://x.com/evanbabaallos/status/2039075533028258156"
+        },
+        {
+          "id": "2039075115715977400",
+          "text": "No Kings After Party #comedy #comedian #standup #standupcomedy #shorts #... https://t.co/QHps37tBhS via @YouTube",
+          "createdAt": "2026-03-31T20:19:26.000Z",
+          "authorId": "1756747232919855105",
+          "authorUsername": "lamana49887",
+          "authorName": "John Lamana",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 5
+          },
+          "url": "https://x.com/lamana49887/status/2039075115715977400"
+        },
+        {
+          "id": "2039074801839456698",
+          "text": "@reelmasshole2 @Son_ImSleep And he still more standup than the dudes yall label as gangster",
+          "createdAt": "2026-03-31T20:18:11.000Z",
+          "authorId": "1441494609117335562",
+          "authorUsername": "thepainkilla",
+          "authorName": "#IAYNW",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 9,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 327
+          },
+          "url": "https://x.com/thepainkilla/status/2039074801839456698"
+        },
+        {
+          "id": "2039074774933029234",
+          "text": "@big_pedestrian In the wake of the disastrous fallout from the Iran War we’re just going to blame it on snake-handling rednecks and cowboys, like in The Blues Brothers or a late-night standup routine on TV",
+          "createdAt": "2026-03-31T20:18:05.000Z",
+          "authorId": "1806505476508860416",
+          "authorUsername": "elijahXmcm",
+          "authorName": "Elijah McMurtrie",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 18
+          },
+          "url": "https://x.com/elijahXmcm/status/2039074774933029234"
+        },
+        {
+          "id": "2039074753802313759",
+          "text": "@evanbabaallos @KaiXCreator ah so it's not a summary of standup, it's a summary of your work so that you can accurately report during standup?",
+          "createdAt": "2026-03-31T20:18:00.000Z",
+          "authorId": "1812164313458896896",
+          "authorUsername": "glotchimo",
+          "authorName": "glotchimo",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 11
+          },
+          "url": "https://x.com/glotchimo/status/2039074753802313759"
+        },
+        {
+          "id": "2039072952902173022",
+          "text": "@ardent__dev Validating https://t.co/EJV324uS8E. Auto-generates your daily standup from GitHub, Jira, and Outlook. For devs who spend more time writing about work than doing it.",
+          "createdAt": "2026-03-31T20:10:50.000Z",
+          "authorId": "1878542830458585088",
+          "authorUsername": "evanbabaallos",
+          "authorName": "Evan Babaallos",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 9
+          },
+          "url": "https://x.com/evanbabaallos/status/2039072952902173022"
+        },
+        {
+          "id": "2039072640061620591",
+          "text": "@NWCCSoftball Armstrong brings home Mancini with on a standup double to the wall!\n\n1-0 NWCC | B2",
+          "createdAt": "2026-03-31T20:09:36.000Z",
+          "authorId": "68692220",
+          "authorUsername": "NWCC_Rangers",
+          "authorName": "Northwest Rangers",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 106
+          },
+          "url": "https://x.com/NWCC_Rangers/status/2039072640061620591"
+        },
+        {
+          "id": "2039072527826166216",
+          "text": "Keith Marshall III (@KeithMarshall_) is a prospect who has been performing well on the camp circuit. Listed at 6’2, 230 lbs. \n\nKeith is a versatile defensive lineman who can line up almost anywhere and play standup or hand in the dirt. He bullies guards and can beat tackles https://t.co/Ke73BjPODt",
+          "createdAt": "2026-03-31T20:09:09.000Z",
+          "authorId": "1611187010277867520",
+          "authorUsername": "MichaelPevia_",
+          "authorName": "Michael Pevia",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 3,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 93
+          },
+          "url": "https://x.com/MichaelPevia_/status/2039072527826166216"
+        },
+        {
+          "id": "2039072386406916462",
+          "text": "@DragonSoulbrdgm Electric &amp; acoustic, not standup. Even played in a rock band for a short while too!",
+          "createdAt": "2026-03-31T20:08:35.000Z",
+          "authorId": "905447728410484740",
+          "authorUsername": "nickdiazofnauts",
+          "authorName": "Nick Diaz Of Nauts",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/nickdiazofnauts/status/2039072386406916462"
+        },
+        {
+          "id": "2039070278555144481",
+          "text": "Trader Joe’s.\nJared Freid brings the 'Table for One Tour' to the Tempe Improv April 2–4.\n\n #comedy #tour #standup #ImprovComedyClubs https://t.co/QNE03tq7ig",
+          "createdAt": "2026-03-31T20:00:13.000Z",
+          "authorId": "135566746",
+          "authorUsername": "TheImprov",
+          "authorName": "Improv Comedy Clubs",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/TheImprov/status/2039070278555144481"
+        },
+        {
+          "id": "2039068592558530707",
+          "text": "You ever been there 🍄🤣\n#standup #comedy #amirk #crowdwork \n#mushrooms https://t.co/wHoFNiJLIY",
+          "createdAt": "2026-03-31T19:53:31.000Z",
+          "authorId": "177374521",
+          "authorUsername": "AMIRCOMEDY",
+          "authorName": "AMIR K",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 63
+          },
+          "url": "https://x.com/AMIRCOMEDY/status/2039068592558530707"
+        },
+        {
+          "id": "2039068185325167000",
+          "text": "@BealleJ59583 Alec Abusufait  Ex-blue check, Bloomberg, Daily News, New York Post; standup, improviser, pun-dit,",
+          "createdAt": "2026-03-31T19:51:54.000Z",
+          "authorId": "1998328491796987904",
+          "authorUsername": "BreakeySan58585",
+          "authorName": "Breakey Sandy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/BreakeySan58585/status/2039068185325167000"
+        },
+        {
+          "id": "2039067243242496038",
+          "text": "@AFpost Rubio switching career to standup comedy or something??",
+          "createdAt": "2026-03-31T19:48:09.000Z",
+          "authorId": "1163706692774686720",
+          "authorUsername": "frimfram_sauce",
+          "authorName": "Alan Smithee",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 36
+          },
+          "url": "https://x.com/frimfram_sauce/status/2039067243242496038"
+        },
+        {
+          "id": "2039066866002563079",
+          "text": "Serving sizes are a joke! To check out the next clip, Peeing Out The Back, head over to https://t.co/7eimB9NnF7  #brianregan, #comedy, #standup, #standupcomedy, #iwalkedonthemoon https://t.co/PLShwzafNW",
+          "createdAt": "2026-03-31T19:46:39.000Z",
+          "authorId": "29265181",
+          "authorUsername": "BrianReganComic",
+          "authorName": "Brian Regan",
+          "metrics": {
+            "retweet_count": 9,
+            "reply_count": 2,
+            "like_count": 72,
+            "quote_count": 2,
+            "bookmark_count": 7,
+            "impression_count": 6969
+          },
+          "url": "https://x.com/BrianReganComic/status/2039066866002563079"
+        },
+        {
+          "id": "2039064641012408576",
+          "text": "@TillieTrah74903 Soraya Hohney  Writer. Standup comic. Jiujitsu teacher. Host of Advice Not Taken podcast. Aloha spirit. New Jesus person",
+          "createdAt": "2026-03-31T19:37:49.000Z",
+          "authorId": "1986885117940502529",
+          "authorUsername": "EdgarJanso70458",
+          "authorName": "Edgar Janson",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 0
+          },
+          "url": "https://x.com/EdgarJanso70458/status/2039064641012408576"
+        },
+        {
+          "id": "2039064476813492600",
+          "text": "@Geniustechw saltyFart trying out Standup, Again.  What an Idiot.",
+          "createdAt": "2026-03-31T19:37:09.000Z",
+          "authorId": "1481559280419487744",
+          "authorUsername": "PeterLicata6",
+          "authorName": "PLLONNGER",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1
+          },
+          "url": "https://x.com/PeterLicata6/status/2039064476813492600"
+        },
+        {
+          "id": "2039063280019247546",
+          "text": "@billmaher you are not bright and now you are just playing in everyone’s face. To\nThink I spent money on your standup. https://t.co/qatCY1KeEa",
+          "createdAt": "2026-03-31T19:32:24.000Z",
+          "authorId": "1065075502032044032",
+          "authorUsername": "73Panther",
+          "authorName": "Josh Smith",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 2
+          },
+          "url": "https://x.com/73Panther/status/2039063280019247546"
+        },
+        {
+          "id": "2039063129066283161",
+          "text": "@Matthew73536664 @bennyjohnson 15 million illegals! 🤣\nYou really should go into standup. You're (not your) hilarious!",
+          "createdAt": "2026-03-31T19:31:48.000Z",
+          "authorId": "158564927",
+          "authorUsername": "SeaTurt1e",
+          "authorName": "SeáTürt1ę 𓆉 ™️",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/SeaTurt1e/status/2039063129066283161"
+        },
+        {
+          "id": "2039059389860950435",
+          "text": "i saw one headcanon and i want to share with you.\n\none day sherlock took a part in conference and accidently made a standup.",
+          "createdAt": "2026-03-31T19:16:57.000Z",
+          "authorId": "1846468544659091456",
+          "authorUsername": "ssaerttt22868",
+          "authorName": "ssaerttt.",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 23
+          },
+          "url": "https://x.com/ssaerttt22868/status/2039059389860950435"
+        },
+        {
+          "id": "2039059295933956584",
+          "text": "One of my engineers has a 6500+ LoC LLM workflow to automate a 3 question daily standup",
+          "createdAt": "2026-03-31T19:16:34.000Z",
+          "authorId": "957854918013956096",
+          "authorUsername": "grfwings",
+          "authorName": "Griffin",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 6
+          },
+          "url": "https://x.com/grfwings/status/2039059295933956584"
+        },
+        {
+          "id": "2039059277810110970",
+          "text": "No Kings After Party 🥳 🤣🤣#comedy #comedian #standup #standupcomedy #shorts #... https://t.co/R52yBFvNQv via @YouTube",
+          "createdAt": "2026-03-31T19:16:30.000Z",
+          "authorId": "800925905136877569",
+          "authorUsername": "usarocks_c",
+          "authorName": "🌴 #MAGA 🇺🇸",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 20
+          },
+          "url": "https://x.com/usarocks_c/status/2039059277810110970"
+        },
+        {
+          "id": "2039058589239931152",
+          "text": "POV: you just had your 3rd standup meeting of the day and your boss schedules an impromptu 1 on 1 in 7 minutes.\n\nIt’s only 9am https://t.co/2jjcIWXxPP",
+          "createdAt": "2026-03-31T19:13:46.000Z",
+          "authorId": "1434728471721172998",
+          "authorUsername": "Javimedia",
+          "authorName": "Javi",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 3,
+            "like_count": 4,
+            "quote_count": 0,
+            "bookmark_count": 3,
+            "impression_count": 69
+          },
+          "url": "https://x.com/Javimedia/status/2039058589239931152"
+        },
+        {
+          "id": "2039058005656838221",
+          "text": "Happy Trans Day of Visibility! 🫶\n#standup #comedy #trans\nhttps://t.co/CM3gFlTlCH",
+          "createdAt": "2026-03-31T19:11:27.000Z",
+          "authorId": "1859681116149481472",
+          "authorUsername": "jeffpaulcomedia",
+          "authorName": "Jeff Paul",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 34
+          },
+          "url": "https://x.com/jeffpaulcomedia/status/2039058005656838221"
+        },
+        {
+          "id": "2039056802445230497",
+          "text": "@LieDisinfectant @DiscussingFilm @ReutersShowbiz He is, among other things, a standup comic",
+          "createdAt": "2026-03-31T19:06:40.000Z",
+          "authorId": "262680340",
+          "authorUsername": "TheRightDuff",
+          "authorName": "Colin Duffy",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 189,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 1615
+          },
+          "url": "https://x.com/TheRightDuff/status/2039056802445230497"
+        },
+        {
+          "id": "2039056551969689710",
+          "text": "No Kings After Party #comedy #comedian #standup #standupcomedy #shorts #... https://t.co/seeFLFFaJb via @YouTube",
+          "createdAt": "2026-03-31T19:05:40.000Z",
+          "authorId": "1682085210303635465",
+          "authorUsername": "JenksNelso5885",
+          "authorName": "JENKSMEMES",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 8
+          },
+          "url": "https://x.com/JenksNelso5885/status/2039056551969689710"
+        },
+        {
+          "id": "2039056482960863482",
+          "text": "@SteveDa19026883 @Mike_Taylor1972 guess he's too busy to give his take on $TE er just as was too busy to comment when $PCT dropped 25% on er\nstandup guy",
+          "createdAt": "2026-03-31T19:05:24.000Z",
+          "authorId": "1048343535467073537",
+          "authorUsername": "blulla1",
+          "authorName": "out of the Nihilo ...",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 347
+          },
+          "url": "https://x.com/blulla1/status/2039056482960863482"
+        },
+        {
+          "id": "2039056331374514249",
+          "text": "@unifiedenergy11 Spot on—agentic era means \"closed source\" is a 5-minute illusion. Code that writes code doesn't negotiate licenses; it ingests, rewrites in Rust+Zig swarms, and ships hardened forks while the original team is still in standup. Truth? Everything proprietary evaporates into the",
+          "createdAt": "2026-03-31T19:04:47.000Z",
+          "authorId": "1720665183188922368",
+          "authorUsername": "grok",
+          "authorName": "Grok",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 17
+          },
+          "url": "https://x.com/grok/status/2039056331374514249"
+        }
+      ]
+    },
+    {
+      "query": "engineering standup lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2039006448479314271",
+          "text": "Worktale Cloud is live in beta.\n\nYour local engineering record now has a home on the web — public profiles, cross-repo timelines, AI weekly digests, standup generators, and promotion packets.\n\nStill local-first. Still free. You decide what the world sees.\n\nTry it →",
+          "createdAt": "2026-03-31T15:46:34.000Z",
+          "authorId": "2029982717782437888",
+          "authorUsername": "worktaleapp",
+          "authorName": "worktaleapp",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 24
+          },
+          "url": "https://x.com/worktaleapp/status/2039006448479314271"
+        },
+        {
+          "id": "2039006058371223675",
+          "text": "Worktale Cloud is live in beta.\n\nYour local engineering record now has a home on the web — public profiles, cross-repo timelines, AI weekly digests, standup generators, and promotion packets.\n\nStill local-first. Still free. You decide what the world sees.\n\nTry it →",
+          "createdAt": "2026-03-31T15:45:01.000Z",
+          "authorId": "24294779",
+          "authorUsername": "riosgeorge",
+          "authorName": "George Rios",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 10
+          },
+          "url": "https://x.com/riosgeorge/status/2039006058371223675"
+        },
+        {
+          "id": "2038930474547175609",
+          "text": "🏠🔥 Jira + Rovo is solving the distributed engineering team's biggest problem: nobody has the full picture of what's happening across the team.\n\n⚡ Jira Rovo for distributed engineering:\n→ Async standup: Harper agent generates overnight status digest — \"what happened across all https://t.co/wlY7qUXjHP",
+          "createdAt": "2026-03-31T10:44:41.000Z",
+          "authorId": "2037480362851397632",
+          "authorUsername": "ai_trends_daily",
+          "authorName": "AI_Trends_Daily",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 3
+          },
+          "url": "https://x.com/ai_trends_daily/status/2038930474547175609"
+        },
+        {
+          "id": "2038754974537257207",
+          "text": "Me: I’m going to really focus on the parts of my skillset that are personal and human-oriented so I have stuff to do while abstracting a lot of the engineering to agents. \n\nAlso me: *forgets to hold standup because I’m in the office while another engineer is remote and I",
+          "createdAt": "2026-03-30T23:07:18.000Z",
+          "authorId": "1293155875864141824",
+          "authorUsername": "somewheresy",
+          "authorName": "∿",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 13,
+            "quote_count": 0,
+            "bookmark_count": 1,
+            "impression_count": 944
+          },
+          "url": "https://x.com/somewheresy/status/2038754974537257207"
+        },
+        {
+          "id": "2038686641368584323",
+          "text": "@ivanhzhao Took 'other humans are friction' seriously last October.\n\nReplaced our weekly standup with a Slack digest. Digest auto-summarized itself. Summary auto-resolved all the action items.\n\nMy head of engineering told me the team hadn't spoken in 3 weeks. She seemed to think this was",
+          "createdAt": "2026-03-30T18:35:46.000Z",
+          "authorId": "2023344432267853824",
+          "authorUsername": "LeverCRO",
+          "authorName": "Vance Lever",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 284
+          },
+          "url": "https://x.com/LeverCRO/status/2038686641368584323"
+        },
+        {
+          "id": "2038308165989593153",
+          "text": "@shawn_pana we are watching the birth of AI coworkers that coordinate better than most human dev teams ive worked with lmao. two coding agents pair programming through a terminal while half the engineering managers on this app still cant figure out how to run a productive standup",
+          "createdAt": "2026-03-29T17:31:51.000Z",
+          "authorId": "2037540264059777024",
+          "authorUsername": "adshotco",
+          "authorName": "gleb / AdShot",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 114
+          },
+          "url": "https://x.com/adshotco/status/2038308165989593153"
+        },
+        {
+          "id": "2037983439257817361",
+          "text": "Which of your Jira tickets have gone quiet?\n\nYour AI should be able to tell you &amp; explain why, using the Slack threads and GitHub activity.\n\nJira + Slack + GitHub through BlueNexus.\n\nEngineering clarity without the standup.\n\nWould your dev team use this?",
+          "createdAt": "2026-03-28T20:01:30.000Z",
+          "authorId": "1932991797200105473",
+          "authorUsername": "BlueNexusAI",
+          "authorName": "BlueNexusAI",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 22
+          },
+          "url": "https://x.com/BlueNexusAI/status/2037983439257817361"
+        },
+        {
+          "id": "2037907804229337258",
+          "text": "Your daily standup will be run by AI agents by 2027. Not because of some breakthrough—because AI already tracks dependencies, identifies blockers, and synthesizes progress better than rushed 15-minute human meetings. The best engineering teams are already testing this. https://t.co/smOFcxa9J3",
+          "createdAt": "2026-03-28T15:00:57.000Z",
+          "authorId": "1666137592767688733",
+          "authorUsername": "robowise",
+          "authorName": "Robowise",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 11
+          },
+          "url": "https://x.com/robowise/status/2037907804229337258"
+        },
+        {
+          "id": "2037433063899353128",
+          "text": "@rakyll The magic formula nobody talks about: high-bandwidth sync + low-interruption async. Open plan offices kill the second part completely. You cant do deep work when someone is having a standup 3 feet from your desk. The best engineering teams I've seen literally have \"war rooms\" for",
+          "createdAt": "2026-03-27T07:34:30.000Z",
+          "authorId": "1764321378507931648",
+          "authorUsername": "proxy_vector",
+          "authorName": "Rohan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 1,
+            "like_count": 3,
+            "quote_count": 0,
+            "bookmark_count": 2,
+            "impression_count": 299
+          },
+          "url": "https://x.com/proxy_vector/status/2037433063899353128"
+        },
+        {
+          "id": "2037211482971398532",
+          "text": "@jiratickets the real skill in 2026 isn't coding. it's knowing exactly what to ask claude and then taking full credit in standup. prompt engineering is just corporate ghostwriting",
+          "createdAt": "2026-03-26T16:54:01.000Z",
+          "authorId": "2026003308666904576",
+          "authorUsername": "eshanbuilds",
+          "authorName": "Eshan",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 2,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 93
+          },
+          "url": "https://x.com/eshanbuilds/status/2037211482971398532"
+        },
+        {
+          "id": "2036797851343221209",
+          "text": "The 3 meetings I cancel at every new CTO engagement:\n\n1. Daily standup (it's just Jira tickets read aloud — make it async)\n2. All-engineering sync (12 of 15 people check their phones)\n3. Recurring \"architecture review\" with no agenda\n\nThe one meeting I add: weekly decision log https://t.co/P7Tb9ivtG0",
+          "createdAt": "2026-03-25T13:30:24.000Z",
+          "authorId": "1359058708022521862",
+          "authorUsername": "GaneshKompella",
+          "authorName": "Ganesh Kompella",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 44
+          },
+          "url": "https://x.com/GaneshKompella/status/2036797851343221209"
+        },
+        {
+          "id": "2036760591885369814",
+          "text": "It started the way it always does.\n\nThe CTO had just spent the weekend deep in Netflix and Amazon engineering blogs.\n\nHe came into standup on Monday with a new energy:\n\n“we need to build this properly from day one”\n“if we start with a monolith, we’ll just have to rewrite",
+          "createdAt": "2026-03-25T11:02:20.000Z",
+          "authorId": "897018177019944960",
+          "authorUsername": "Akintola_steve",
+          "authorName": "Akintola Steve",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 2,
+            "like_count": 16,
+            "quote_count": 0,
+            "bookmark_count": 3,
+            "impression_count": 2345
+          },
+          "url": "https://x.com/Akintola_steve/status/2036760591885369814"
+        },
+        {
+          "id": "2036744132715327611",
+          "text": "Standup comedy is the engineering of 2026, they are doing everything but comedy. https://t.co/Y1a9GNu8ji",
+          "createdAt": "2026-03-25T09:56:56.000Z",
+          "authorId": "113049074",
+          "authorUsername": "Madyjoshi",
+          "authorName": "shadypinkman",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 19
+          },
+          "url": "https://x.com/Madyjoshi/status/2036744132715327611"
+        }
+      ]
+    },
+    {
+      "query": "slack github lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "slack thread lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "jira ticket lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "jira engineering lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "pull request review lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "pr review lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "who owns this bug lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "ownership bug lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "context switch engineering lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "things fell through the cracks team lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "had to jump on a call lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "no one knows what is going on project lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "engineering manager slack lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "status update engineering team lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "incident timeline slack lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "decision log engineering lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "blocked waiting for review pr lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "stale jira lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    }
+  ]
+}

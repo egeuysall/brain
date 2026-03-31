@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 6 - cross-tool reconstruction for 30 second standup
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/evanbabaallos/status/2039075533028258156
+
+## Post Text (Key Excerpt)
+
+```text
+Before each standup, ten minutes are spent checking multiple tools just to give a thirty-second update.
+```
+
+## Why It Matches Ryva ICP
+
+This is textbook status-theater pain: update prep overhead exceeds update value because context lives across disconnected systems.
+
+## Underlying Problem
+
+Teams pay a recurring context tax to report state that should already be visible.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the exact cost center teams undercount. If updates require manual cross-tool reconstruction, standup becomes reporting labor instead of coordination.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Which two tools cause most of that pre-standup reconstruction time for you right now?
+```
+
+## Snapshot
+
+- Author: @evanbabaallos
+- Captured date label: 2026-03-31
+- Recency window: within past 7 days

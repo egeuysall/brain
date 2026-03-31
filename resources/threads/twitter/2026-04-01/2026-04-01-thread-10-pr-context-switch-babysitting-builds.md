@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 10 - pr context switch babysitting builds
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/gagansaluja08/status/2037535353070932161
+
+## Post Text (Key Excerpt)
+
+```text
+Async PR cycles matter because engineers can context-switch and return to something reviewable instead of babysitting builds.
+```
+
+## Why It Matches Ryva ICP
+
+It speaks to delivery friction in small teams: PR flow quality depends on preserving context through asynchronous handoffs.
+
+## Underlying Problem
+
+Build/review loops waste focus when handoffs lack predictable state transitions.
+
+## Suggested Public Response (Copy)
+
+```text
+Well said. The gain is not just faster CI, it is cleaner context handoff. When review states are predictable, engineers switch tasks without losing decision continuity.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Where does your PR loop leak most context today: failing builds, unclear review ownership, or delayed feedback?
+```
+
+## Snapshot
+
+- Author: @gagansaluja08
+- Captured date label: 2026-03-27
+- Recency window: within past 7 days

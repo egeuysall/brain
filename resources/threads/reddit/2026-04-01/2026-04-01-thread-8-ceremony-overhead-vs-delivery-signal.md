@@ -1,0 +1,42 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, reddit, standups, ceremonies, delivery, context-switching]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1s87p0k/you_should_really_consider_6_week_sprints/
+---
+
+# Thread 8: Ceremony Overhead Vs Delivery Signal
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1s87p0k/you_should_really_consider_6_week_sprints/
+
+## Full Post Text (Key Excerpt)
+
+"Between grooming, retro, planning, review, teams lose 1-2 days to context switching. People spend more time breaking down tickets and preparing demos than shipping, and short sprint cadence turns into status theater."
+
+## Why This Matches Ryva ICP
+
+Strong anti-ceremony pain from an engineering operator perspective. It highlights weekly process overhead where meetings/ticket rituals obscure real project state instead of improving coordination.
+
+## Underlying Problem
+
+Process cadence is optimized for reporting visibility, not for preserving actionable execution context.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is the “ceremony looks healthy, delivery still drifts” pattern. If teams spend more time maintaining planning artifacts than resolving blockers, sprint cadence is signaling activity, not state. A lighter loop with explicit owner/blocker/next step usually restores throughput.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your context-switching point is exactly what many dev teams call sprint theater. I can share a compact weekly operating format that keeps visibility high without the meeting overhead spiral.
+```
+

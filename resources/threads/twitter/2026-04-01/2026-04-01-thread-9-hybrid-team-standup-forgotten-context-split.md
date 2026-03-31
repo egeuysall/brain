@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 9 - hybrid team standup forgotten context split
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/somewheresy/status/2038754974537257207
+
+## Post Text (Key Excerpt)
+
+```text
+A hybrid team forgot to run standup when one engineer was remote and others were in-office.
+```
+
+## Why It Matches Ryva ICP
+
+It shows real-world coordination fragility: execution context diverges across locations and rituals fail silently.
+
+## Underlying Problem
+
+Team state depends on habit rather than a durable system, so coordination breaks under routine context shifts.
+
+## Suggested Public Response (Copy)
+
+```text
+This is a good example of implicit process risk. If standup continuity depends on who is physically where, project state is more fragile than it looks.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+What is your fallback when standup does not happen, so blockers and ownership still stay explicit?
+```
+
+## Snapshot
+
+- Author: @somewheresy
+- Captured date label: 2026-03-30
+- Recency window: within past 7 days

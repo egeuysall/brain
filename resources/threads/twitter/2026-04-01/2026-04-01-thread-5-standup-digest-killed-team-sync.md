@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, slack, jira, standup, ownership, pr]
+source: internal-research
+---
+
+# Thread 5 - standup digest killed team sync
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/LeverCRO/status/2038686641368584323
+
+## Post Text (Key Excerpt)
+
+```text
+A team replaced weekly standup with a Slack digest, then realized the team had not spoken in three weeks.
+```
+
+## Why It Matches Ryva ICP
+
+It shows concrete standup replacement risk in engineering teams: status visibility improved on paper while real coordination degraded.
+
+## Underlying Problem
+
+Async summaries can remove noise but also remove the channel where ownership gaps and blockers get surfaced early.
+
+## Suggested Public Response (Copy)
+
+```text
+Great example of an async anti-pattern. Replacing standups with summaries can reduce ceremony, but if no decision loop remains, blockers stay latent until they are expensive.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+How do you currently catch cross-team blockers if you reduce live standups?
+```
+
+## Snapshot
+
+- Author: @LeverCRO
+- Captured date label: 2026-03-30
+- Recency window: within past 7 days

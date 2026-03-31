@@ -1,0 +1,42 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, reddit, jira, slack, incidents, status-sync]
+source: https://www.reddit.com/r/jira/comments/1s7ofnl/why_is_slack_and_email_falling_apart_as_your_p1/
+---
+
+# Thread 2: P1 Status Sync Failure Across Jira
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/jira/comments/1s7ofnl/why_is_slack_and_email_falling_apart_as_your_p1/
+
+## Full Post Text (Key Excerpt)
+
+"We run three Jira instances (support, engineering, cloud ops). During P1s engineering resolves fast but forgets to update support on Slack. Support stays in the dark while the issue is already fixed. JSM and Jira Software show different state."
+
+## Why This Matches Ryva ICP
+
+Real incident workflow with Slack + Jira split and multiple teams. High-frequency coordination pain: ownership and state updates fall through during live work, forcing manual follow-ups and re-triage.
+
+## Underlying Problem
+
+System state is fragmented across tools, so humans become the unreliable integration layer for critical status propagation.
+
+## Suggested Public Reply (Copy)
+
+```text
+You described a multi-source-of-truth outage pattern. If resolution status depends on someone remembering to post in Slack, support will always lag reality. Treat status change as an event: when eng issue moves to resolved, support ticket + channel update must happen automatically.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+This is exactly the P1 failure mode we keep seeing: work is done, but shared state is stale. I can send a lightweight sync pattern (owner/state/escalation events) teams use to keep Slack + Jira aligned without extra meetings.
+```
+

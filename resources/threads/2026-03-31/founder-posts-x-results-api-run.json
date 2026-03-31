@@ -1,0 +1,126 @@
+{
+  "generatedAt": "2026-03-31T22:55:44.201Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "\"standup waste\" lang:en -is:retweet",
+    "\"engineering manager slack chaos\" lang:en -is:retweet",
+    "\"PR confusion\" lang:en -is:retweet",
+    "\"who owns this bug\" lang:en -is:retweet",
+    "\"had to jump on a call to figure this out\" lang:en -is:retweet",
+    "\"context is scattered in slack\" lang:en -is:retweet",
+    "\"jira is useless\" lang:en -is:retweet",
+    "\"things falling through cracks engineering\" lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "\"standup waste\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"engineering manager slack chaos\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"PR confusion\" lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2039110867481133308",
+          "text": "@clashreport Who are these lies for? Papering over a 1k plus US dead soldiers isn't working. Decades of US build up and bases destroyed in 1 month. Those soldiers were there as sitting ducks to die, then when they do die, it is denied. Insanity and PR confusion are not valid battlefield move",
+          "createdAt": "2026-03-31T22:41:30.000Z",
+          "authorId": "1959953511489343488",
+          "authorUsername": "tod_toddington",
+          "authorName": "TodToddington",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 28
+          },
+          "url": "https://x.com/tod_toddington/status/2039110867481133308"
+        },
+        {
+          "id": "2038286613269172287",
+          "text": "Your standup is lying to you when \"done\" means different things to different people.\n\nI ran today's X searches for coordination pain. Most \"PR confusion\" results were not about pull requests at all. They were public relations\n\nSimple fix for teams would be defining the decision.",
+          "createdAt": "2026-03-29T16:06:12.000Z",
+          "authorId": "2017985169475416065",
+          "authorUsername": "egewrk",
+          "authorName": "Ege Uysal",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 1,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 26
+          },
+          "url": "https://x.com/egewrk/status/2038286613269172287"
+        },
+        {
+          "id": "2036646000463630504",
+          "text": "You’re not wrong for questioning Netanyahu whereabouts, him labeling the rumors “fake news” is a part of their PR. Confusion &amp; deniability is the goal. \n\nthey give you slop video so that you learn to change your perception later, easily. \nYou’re being trained to never ask.",
+          "createdAt": "2026-03-25T03:27:00.000Z",
+          "authorId": "1239892859198812160",
+          "authorUsername": "mysticsoull",
+          "authorName": "𓂆 ‎ ‎ ‎غزة",
+          "metrics": {
+            "retweet_count": 0,
+            "reply_count": 0,
+            "like_count": 0,
+            "quote_count": 0,
+            "bookmark_count": 0,
+            "impression_count": 14
+          },
+          "url": "https://x.com/mysticsoull/status/2036646000463630504"
+        }
+      ]
+    },
+    {
+      "query": "\"who owns this bug\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"had to jump on a call to figure this out\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"context is scattered in slack\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "\"jira is useless\" lang:en -is:retweet",
+      "ok": true,
+      "posts": [
+        {
+          "id": "2038681679896994145",
+          "text": "Your issue tracking system (JIRA) is useless alone.\n\nI’ve seen this inside my own projects or companies where I'm involved.\n\nAt some point, documentation quietly became the most important part of development. Not tickets, but the context.\n\nEven old projects start moving again the https://t.co/x7zFYkFTsI",
+          "createdAt": "2026-03-30T18:16:04.000Z",
+          "authorId": "25348232",
+          "authorUsername": "desunit",
+          "authorName": "desunit",
+          "metrics": {
+            "retweet_count": 1,
+            "reply_count": 2,
+            "like_count": 1,
+            "quote_count": 1,
+            "bookmark_count": 0,
+            "impression_count": 47
+          },
+          "url": "https://x.com/desunit/status/2038681679896994145"
+        }
+      ]
+    },
+    {
+      "query": "\"things falling through cracks engineering\" lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}

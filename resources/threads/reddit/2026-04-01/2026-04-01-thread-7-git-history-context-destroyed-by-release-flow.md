@@ -1,0 +1,42 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, reddit, git, github, pr-context, release-flow]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1s60p9l/to_what_extend_do_you_use_git_blame_value_an/
+---
+
+# Thread 7: Git History Context Destroyed By Release Flow
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1s60p9l/to_what_extend_do_you_use_git_blame_value_an/
+
+## Full Post Text (Key Excerpt)
+
+"Team of 5-6 uses release branches plus squash-heavy backfills, so git blame points to backfill commits like ‘Backfill 2.1-2.3’ instead of original PR context. The author can’t trace why code changed because release flow destroys commit-level history."
+
+## Why This Matches Ryva ICP
+
+Direct GitHub-adjacent workflow pain where context is buried or erased by process. Small team can’t reconstruct decisions from PR/commit lineage, so debugging and ownership become slower and riskier.
+
+## Underlying Problem
+
+Delivery process optimizes for short-term merge speed while destroying decision traceability needed for reliable execution.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is a context integrity issue, not just a git preference debate. If release flow strips original PR history, root-cause work gets slower every sprint. Keep one stable trace from line -> commit -> PR -> ticket so ownership and rationale remain recoverable.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your “Backfill 2.1-2.3” example is exactly the traceability break that causes rework. I can share a lightweight release pattern that preserves commit/PR context without slowing delivery.
+```
+

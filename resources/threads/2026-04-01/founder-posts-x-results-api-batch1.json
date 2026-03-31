@@ -1,0 +1,129 @@
+{
+  "generatedAt": "2026-03-31T22:58:14.423Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup useless engineering team github slack lang:en -is:retweet",
+    "standup status theater engineering lang:en -is:retweet",
+    "daily standup waste dev team lang:en -is:retweet",
+    "slack thread context lost engineering lang:en -is:retweet",
+    "context scattered across slack and github lang:en -is:retweet",
+    "jira stale ticket engineering team lang:en -is:retweet",
+    "jira useless engineering context lang:en -is:retweet",
+    "who owns this bug github lang:en -is:retweet",
+    "ownership unclear engineering team bug lang:en -is:retweet",
+    "things fall through the cracks engineering team lang:en -is:retweet",
+    "had to jump on a call to figure this out engineering lang:en -is:retweet",
+    "pull request review context lost lang:en -is:retweet",
+    "pr confusion engineering team github lang:en -is:retweet",
+    "decisions buried in slack thread engineering lang:en -is:retweet",
+    "no one knows what is going on in this project github lang:en -is:retweet",
+    "team status without meetings engineering lang:en -is:retweet",
+    "slack jira github chaos engineering lang:en -is:retweet",
+    "bug triage ownership unclear slack lang:en -is:retweet",
+    "engineering manager standup useless lang:en -is:retweet",
+    "founder dev team standup slack github lang:en -is:retweet"
+  ],
+  "results": [
+    {
+      "query": "standup useless engineering team github slack lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "standup status theater engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "daily standup waste dev team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack thread context lost engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "context scattered across slack and github lang:en -is:retweet",
+      "ok": false,
+      "error": "HTTP 400 Bad Request",
+      "posts": []
+    },
+    {
+      "query": "jira stale ticket engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "jira useless engineering context lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "who owns this bug github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "ownership unclear engineering team bug lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "things fall through the cracks engineering team lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "had to jump on a call to figure this out engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "pull request review context lost lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "pr confusion engineering team github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "decisions buried in slack thread engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "no one knows what is going on in this project github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "team status without meetings engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "slack jira github chaos engineering lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "bug triage ownership unclear slack lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "engineering manager standup useless lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    },
+    {
+      "query": "founder dev team standup slack github lang:en -is:retweet",
+      "ok": true,
+      "posts": []
+    }
+  ]
+}
