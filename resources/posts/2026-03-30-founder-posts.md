@@ -20,6 +20,7 @@ X:
 The fastest way to hide a real team problem is to describe it like a product pitch.
 
 Today’s signal pull was rough:
+
 - X queries like "engineering manager slack chaos" and "had to jump on a call to figure it out" returned nothing usable
 - "PR confusion" was mostly non-engineering chatter
 - on Reddit, a post about losing decisions after meetings got "is this promotion?" replies fast
@@ -45,6 +46,7 @@ If the writing sounds like distribution, people ignore the process debt.
 If the writing sounds like lived pain, they engage.
 
 So I am tightening how I write founder content:
+
 - lead with one failure mode
 - state the missing decision explicitly
 - end with one next step
@@ -66,6 +68,7 @@ I am trying to figure out a better format for posting these without sounding lik
 What format works best for you?
 
 For example:
+
 - one concrete failure that happened
 - what decision was missing
 - what changed after
