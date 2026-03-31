@@ -44,6 +44,6 @@ Do you capture intent before implementation in your team, or still rely on PR de
 
 ## Snapshot
 
-- Author: @Rajdeep__ds
+- Author: @Rajdeep\_\_ds
 - Captured date label: 2026-03-27
 - Recency window: within past 7 days

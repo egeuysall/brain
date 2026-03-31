@@ -46,6 +46,6 @@ Where do you see the worst context reset today when someone new jumps in: Slack 
 
 ## Snapshot
 
-- Author: @Growth__CFO
+- Author: @Growth\_\_CFO
 - Captured date label: 2026-03-27
 - Recency window: within past 7 days
