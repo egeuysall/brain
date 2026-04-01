@@ -39,4 +39,3 @@ This is a routing failure more than a workload failure. When attention is driven
 ```text
 Your “eight chat instances” example is exactly how silent task loss starts. If useful, I can share a practical pattern for consolidating actions from fragmented channels without forcing clients to change their tools.
 ```
-

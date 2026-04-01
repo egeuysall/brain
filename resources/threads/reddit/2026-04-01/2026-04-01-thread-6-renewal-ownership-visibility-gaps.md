@@ -39,4 +39,3 @@ You’re describing a classic “orphaned ownership” loop. Alerts are working,
 ```text
 The “notifications to people who left” line is the key signal. I can share a simple ownership model teams use to stop renewal misses when context is scattered across chat/docs/email.
 ```
-

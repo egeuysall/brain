@@ -39,4 +39,3 @@ The core issue is edit bottleneck + stale state, not spreadsheet vs tool. If onl
 ```text
 Your 10-person setup is exactly where state drift starts to hurt. I can share a minimal operating template teams use to cut “chasing numbers” without adding heavy PM ceremony.
 ```
-

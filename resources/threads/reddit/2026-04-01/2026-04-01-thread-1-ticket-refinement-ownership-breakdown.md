@@ -39,4 +39,3 @@ This is a classic handoff failure, not a people problem. If a ticket can be mark
 ```text
 Your example is exactly where delivery slips start: unclear owner when work gets bounced. If useful, I can share a simple refinement template teams use to force owner/risk/next-step in under 60 seconds so blockers stop disappearing between meetings.
 ```
-

@@ -2,7 +2,15 @@
 type: note
 date: 2026-04-01
 author: Codex
-tags: [outreach, reddit, engineeringmanagers, ai, prototype-to-production, expectation-gap]
+tags:
+  [
+    outreach,
+    reddit,
+    engineeringmanagers,
+    ai,
+    prototype-to-production,
+    expectation-gap
+  ]
 source: https://www.reddit.com/r/EngineeringManagers/comments/1s7xmww/how_to_handle_csuites_vibecoding_prototypes/
 ---
 

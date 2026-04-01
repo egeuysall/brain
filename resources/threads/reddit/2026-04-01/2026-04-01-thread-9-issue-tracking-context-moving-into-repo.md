@@ -39,4 +39,3 @@ You’re hitting the new coordination split: work context lives in repo flows, w
 ```text
 Your “Linear never entered the picture” point is exactly the transition many small teams are in. I can share a simple way to keep repo-native speed while preserving cross-team visibility and accountability.
 ```
-

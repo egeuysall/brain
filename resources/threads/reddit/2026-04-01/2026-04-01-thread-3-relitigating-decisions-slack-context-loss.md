@@ -39,4 +39,3 @@ This is context debt, not prioritization debt. Once decision rationale lives onl
 ```text
 Your “digging through Slack to rebuild why” line is exactly the pain we track. If useful, I can share a short decision-capture format that plugs into existing workflows so the same arguments don’t restart every sprint.
 ```
-

@@ -39,4 +39,3 @@ This is exactly the gap between “we talked” and “we executed.” Recording
 ```text
 Your line about repeating the same discussion weeks later is the key pain. I can share a lightweight decision/action format that prevents context reset without adding another heavy process layer.
 ```
-

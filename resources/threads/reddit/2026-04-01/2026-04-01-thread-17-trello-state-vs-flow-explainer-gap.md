@@ -2,7 +2,15 @@
 type: note
 date: 2026-04-01
 author: Codex
-tags: [outreach, reddit, projectmanagement, trello, flow-visibility, stakeholder-communication]
+tags:
+  [
+    outreach,
+    reddit,
+    projectmanagement,
+    trello,
+    flow-visibility,
+    stakeholder-communication
+  ]
 source: https://www.reddit.com/r/projectmanagement/comments/1s47sjg/a_stakeholder_asked_me_to_explain_my_project_i/
 ---
 

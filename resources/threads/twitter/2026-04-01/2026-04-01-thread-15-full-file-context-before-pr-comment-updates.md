@@ -44,6 +44,6 @@ Did your team also see review back-and-forth drop once full context was availabl
 
 ## Snapshot
 
-- Author: @heyraj__
+- Author: @heyraj\_\_
 - Captured date label: 2026-03-27
 - Recency window: within past 7 days

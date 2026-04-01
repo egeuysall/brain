@@ -39,4 +39,3 @@ This is a context integrity issue, not just a git preference debate. If release 
 ```text
 Your “Backfill 2.1-2.3” example is exactly the traceability break that causes rework. I can share a lightweight release pattern that preserves commit/PR context without slowing delivery.
 ```
-

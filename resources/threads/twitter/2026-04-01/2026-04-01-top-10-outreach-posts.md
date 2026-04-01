@@ -8,15 +8,15 @@ source: internal-research
 
 # Top 10 Outreach Posts (X, Recency-Checked, Non-Colliding)
 
-| # | Platform | Post | Link | Local File |
-| --- | --- | --- | --- | --- |
-| 1 | X | Ask a team where their pipeline lives. They will say: "our CRM." But the actual work is in Slac | https://x.com/EQMembers/status/2037590525717483543 | ./2026-04-01-thread-1-slack-record-vs-real-work-context-loss.md |
-| 2 | X | Project data is buried across Jira, Slack, email, docs, and dozens of meetings nobody documente | https://x.com/DrGloriaEnj/status/2039091024333533666 | ./2026-04-01-thread-2-jira-slack-docs-meeting-context-burial.md |
-| 3 | X | Most review cycles waste time debating implementation details for changes that were scoped uncl | https://x.com/thecuongpham/status/2036293737840623984 | ./2026-04-01-thread-3-unclear-pr-scope-review-waste.md |
-| 4 | X | Deployments slip not because of the model, but because of data access, permissions, and "whose  | https://x.com/devrev/status/2039042547394424906 | ./2026-04-01-thread-4-jira-source-of-truth-deployment-drag.md |
-| 5 | X | A team replaced weekly standup with a Slack digest, then realized the team had not spoken in th | https://x.com/LeverCRO/status/2038686641368584323 | ./2026-04-01-thread-5-standup-digest-killed-team-sync.md |
-| 6 | X | Before each standup, ten minutes are spent checking multiple tools just to give a thirty-second | https://x.com/evanbabaallos/status/2039075533028258156 | ./2026-04-01-thread-6-cross-tool-reconstruction-for-30-second-standup.md |
-| 7 | X | One engineer built a 6500+ LoC workflow to automate answers to three daily standup questions. | https://x.com/grfwings/status/2039059295933956584 | ./2026-04-01-thread-7-6500-loc-automation-for-three-standup-questions.md |
-| 8 | X | By 9am, someone had already sat through a third standup plus an impromptu one-on-one. | https://x.com/Javimedia/status/2039058589239931152 | ./2026-04-01-thread-8-third-standup-before-9am-meeting-overload.md |
-| 9 | X | A hybrid team forgot to run standup when one engineer was remote and others were in-office. | https://x.com/somewheresy/status/2038754974537257207 | ./2026-04-01-thread-9-hybrid-team-standup-forgotten-context-split.md |
-| 10 | X | Async PR cycles matter because engineers can context-switch and return to something reviewable  | https://x.com/gagansaluja08/status/2037535353070932161 | ./2026-04-01-thread-10-pr-context-switch-babysitting-builds.md |
+| #   | Platform | Post                                                                                            | Link                                                   | Local File                                                               |
+| --- | -------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------ | ------------------------------------------------------------------------ |
+| 1   | X        | Ask a team where their pipeline lives. They will say: "our CRM." But the actual work is in Slac | https://x.com/EQMembers/status/2037590525717483543     | ./2026-04-01-thread-1-slack-record-vs-real-work-context-loss.md          |
+| 2   | X        | Project data is buried across Jira, Slack, email, docs, and dozens of meetings nobody documente | https://x.com/DrGloriaEnj/status/2039091024333533666   | ./2026-04-01-thread-2-jira-slack-docs-meeting-context-burial.md          |
+| 3   | X        | Most review cycles waste time debating implementation details for changes that were scoped uncl | https://x.com/thecuongpham/status/2036293737840623984  | ./2026-04-01-thread-3-unclear-pr-scope-review-waste.md                   |
+| 4   | X        | Deployments slip not because of the model, but because of data access, permissions, and "whose  | https://x.com/devrev/status/2039042547394424906        | ./2026-04-01-thread-4-jira-source-of-truth-deployment-drag.md            |
+| 5   | X        | A team replaced weekly standup with a Slack digest, then realized the team had not spoken in th | https://x.com/LeverCRO/status/2038686641368584323      | ./2026-04-01-thread-5-standup-digest-killed-team-sync.md                 |
+| 6   | X        | Before each standup, ten minutes are spent checking multiple tools just to give a thirty-second | https://x.com/evanbabaallos/status/2039075533028258156 | ./2026-04-01-thread-6-cross-tool-reconstruction-for-30-second-standup.md |
+| 7   | X        | One engineer built a 6500+ LoC workflow to automate answers to three daily standup questions.   | https://x.com/grfwings/status/2039059295933956584      | ./2026-04-01-thread-7-6500-loc-automation-for-three-standup-questions.md |
+| 8   | X        | By 9am, someone had already sat through a third standup plus an impromptu one-on-one.           | https://x.com/Javimedia/status/2039058589239931152     | ./2026-04-01-thread-8-third-standup-before-9am-meeting-overload.md       |
+| 9   | X        | A hybrid team forgot to run standup when one engineer was remote and others were in-office.     | https://x.com/somewheresy/status/2038754974537257207   | ./2026-04-01-thread-9-hybrid-team-standup-forgotten-context-split.md     |
+| 10  | X        | Async PR cycles matter because engineers can context-switch and return to something reviewable  | https://x.com/gagansaluja08/status/2037535353070932161 | ./2026-04-01-thread-10-pr-context-switch-babysitting-builds.md           |

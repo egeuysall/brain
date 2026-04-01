@@ -39,4 +39,3 @@ This is the “ceremony looks healthy, delivery still drifts” pattern. If team
 ```text
 Your context-switching point is exactly what many dev teams call sprint theater. I can share a compact weekly operating format that keeps visibility high without the meeting overhead spiral.
 ```
-

@@ -39,4 +39,3 @@ You described a multi-source-of-truth outage pattern. If resolution status depen
 ```text
 This is exactly the P1 failure mode we keep seeing: work is done, but shared state is stale. I can send a lightweight sync pattern (owner/state/escalation events) teams use to keep Slack + Jira aligned without extra meetings.
 ```
-
