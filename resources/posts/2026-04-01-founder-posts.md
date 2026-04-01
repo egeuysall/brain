@@ -1,0 +1,67 @@
+X:
+You do not have an ownership problem.
+You have a handoff problem.
+
+Today's signal pull kept pointing to the same failure:
+- a founder described account handoffs as chaos the moment someone leaves
+- an engineering manager said the Opsgenie to JSM migration almost broke on-call
+
+Both teams had "owners" on paper.
+What they lacked was a transfer contract.
+
+If ownership changes, require a 3-line handoff delta:
+1) what decision was already made
+2) what risk is still open
+3) what event triggers the next check
+
+Standups usually exist because this contract is missing.
+
+@egewrk
+
+LinkedIn:
+One pattern cut through today's coordination signals.
+
+Teams are not only losing context in daily execution.
+They are losing context during ownership transfer.
+
+I saw this in two very different posts:
+- a founder describing account handoffs as total chaos after someone left
+- an engineering manager sharing how an Opsgenie to JSM migration nearly broke an on-call setup
+
+Different teams, same issue.
+They had dashboards, tools, and named owners.
+But ownership transfer was implicit.
+
+Yesterday I wrote about second-run inevitability and why static snapshots do not create behavior.
+The same rule applies here:
+A handoff that only captures state is a one-time snapshot.
+A handoff that captures delta plus trigger survives real work.
+
+What seems to work better:
+- decision already made
+- open risk still unresolved
+- explicit next trigger (next deploy, next incident, next PR batch)
+
+Most standup pain is a late symptom of missing transfer rules.
+
+Reddit:
+Subreddit: r/EngineeringManagers
+Title: Do you require a handoff delta when ownership changes?
+Body:
+I noticed a pattern across a few threads today and wanted to compare how other teams handle this.
+
+One thread described account handoffs becoming chaos when someone leaves.
+Another described a tooling migration that almost broke on-call.
+
+Different situations, but same underlying issue: we mark an owner, but we do not define the handoff contract.
+
+I am testing a simple rule now.
+Whenever ownership changes, we require a short handoff delta:
+- decision already made
+- open risk
+- next trigger for recheck
+
+Without that, we usually end up in sync calls just to rebuild context.
+
+For teams that run lean, do you enforce a format like this?
+If yes, what is the lightest version that actually holds up?

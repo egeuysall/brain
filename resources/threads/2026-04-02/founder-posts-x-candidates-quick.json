@@ -1,0 +1,1290 @@
+{
+  "generatedAt": "2026-04-01T18:47:26.140886+00:00",
+  "source": "duckduckgo_via_r_jina + x_status_via_r_jina",
+  "queries": [
+    "site:x.com standup slack status",
+    "site:x.com engineering standup status",
+    "site:x.com jira slack github standup",
+    "site:x.com who owns this bug engineering",
+    "site:x.com bug ownership engineering team",
+    "site:x.com context scattered slack engineering",
+    "site:x.com had to jump on a call engineering",
+    "site:x.com pull request review context switch",
+    "site:x.com incident timeline slack thread",
+    "site:x.com startup engineering standup jira",
+    "site:x.com dev team standup daily update",
+    "site:x.com engineering manager status update",
+    "site:x.com async standup github slack jira",
+    "site:x.com ticket stale slack thread",
+    "site:x.com ownership unclear bug fix",
+    "site:x.com review blocked waiting pr",
+    "site:x.com decisions buried in slack engineering",
+    "site:x.com status theater engineering",
+    "site:x.com project state unknown engineering manager"
+  ],
+  "counts": {
+    "queryCount": 19,
+    "discoveredLinks": 137,
+    "uniqueLinks": 120,
+    "hydratedPosts": 120
+  },
+  "discovered": {
+    "site:x.com standup slack status": [
+      "https://x.com/SlackStatus/status/1034508072759115776",
+      "https://x.com/WrenTheAI/status/2032262721455210914",
+      "https://x.com/architjn/status/2034933982111179079",
+      "https://x.com/bcherny/status/2033950823248429176",
+      "https://x.com/hr_unhinged/status/2020968709217714179",
+      "https://x.com/luna_moretti_/status/2039093551246475772",
+      "https://x.com/mikefutia/status/2039366843463569873",
+      "https://x.com/syedsibtain_/status/2036825239859208448"
+    ],
+    "site:x.com engineering standup status": [
+      "https://x.com/0xlelouch_/status/2033180146723938439",
+      "https://x.com/Akintola_steve/status/2036760591885369814",
+      "https://x.com/TechLayoffLover/status/2033375780026081746",
+      "https://x.com/desksetup7/status/2022719320074101134",
+      "https://x.com/donmcmillan/status/2029708613841998291",
+      "https://x.com/engineers_feed/status/1432376805395206144",
+      "https://x.com/iamlukethedev/status/2031902498663866513",
+      "https://x.com/itsindrajput/status/2001269382379655244"
+    ],
+    "site:x.com jira slack github standup": [
+      "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "https://x.com/OldBayBro/status/2029666907264041357",
+      "https://x.com/aakashgupta/status/2035273457005674859",
+      "https://x.com/firstadopter/status/2019781507649257534",
+      "https://x.com/gaulinvader/status/2024404225455997337",
+      "https://x.com/heynavtoor/status/2027054100807106829",
+      "https://x.com/leifthunder/status/2026684612441772474"
+    ],
+    "site:x.com who owns this bug engineering": [
+      "https://x.com/DatingSims/status/2034671167349326224",
+      "https://x.com/DivadmuDavid/status/2038525813415383389",
+      "https://x.com/Morlouda/status/2037908300088631355",
+      "https://x.com/PregameEmpire/status/1503830434651721736",
+      "https://x.com/akoratana/status/2036111467016319074",
+      "https://x.com/danlovesproofs/status/2029079387262656841",
+      "https://x.com/kimmonismus/status/2022055329408938125",
+      "https://x.com/mattbarberio/status/2035125102677741608"
+    ],
+    "site:x.com bug ownership engineering team": [
+      "https://x.com/Bugcrowd/status/2034661369547563071",
+      "https://x.com/EvanKlein338226/status/2029315583104143794",
+      "https://x.com/MaxMusing/status/2021990855741936072",
+      "https://x.com/_adityaa21/status/2030329350965653731",
+      "https://x.com/adxtyahq/status/2036118696285053129",
+      "https://x.com/akoratana/status/2036111467016319074",
+      "https://x.com/ayushagarwal/status/2032440038953226279",
+      "https://x.com/karankendre/status/2036358984941134023"
+    ],
+    "site:x.com context scattered slack engineering": [
+      "https://x.com/Hi_Mrinal/status/2032419585509773533",
+      "https://x.com/IcarusHermes/status/2037030845635084785",
+      "https://x.com/KhatunNeel82194/status/2032731826310230323",
+      "https://x.com/LittlebirdAI/status/2016662322857865597",
+      "https://x.com/dennispilarinos/status/2024124107814793646",
+      "https://x.com/garrytan/status/2037776210898600402",
+      "https://x.com/milan_milanovic/status/2029474496646717846",
+      "https://x.com/rohanpaul_ai/status/2036119340794384407"
+    ],
+    "site:x.com had to jump on a call engineering": [
+      "https://x.com/Lumabullet/status/2031072244315598910",
+      "https://x.com/codyschneiderxx/status/2011105976921813032",
+      "https://x.com/hackernoon/status/2032201743493214664",
+      "https://x.com/hysterianorris/status/2038149388355228150",
+      "https://x.com/mattpocockuk/status/2036842294939201862"
+    ],
+    "site:x.com pull request review context switch": [
+      "https://x.com/Meer_AIIT/status/2027509711722188976",
+      "https://x.com/arvor_ia/status/2026744780542062963",
+      "https://x.com/github/status/2024900639734616482",
+      "https://x.com/heyrobinai/status/2025144875419672791",
+      "https://x.com/kloss_xyz/status/2036356467629162772",
+      "https://x.com/ryancarson/status/2023452909883609111"
+    ],
+    "site:x.com incident timeline slack thread": [
+      "https://x.com/0xJsum/status/2039198679815565508",
+      "https://x.com/AIPandaX/status/2037122632123113731",
+      "https://x.com/SLCScanner/status/2035985647979086121",
+      "https://x.com/TechLayoffLover/status/2032547549848936653",
+      "https://x.com/aibytekat/status/2034933296233422872",
+      "https://x.com/brndxix/status/2024156222627213380",
+      "https://x.com/grok/status/2032443888967766438",
+      "https://x.com/syedaquib77/status/1894447615867326563"
+    ],
+    "site:x.com startup engineering standup jira": [
+      "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "https://x.com/Saboo_Shubham_/status/2032333737707651147",
+      "https://x.com/ScottJenningsKY/status/1945484676790988856",
+      "https://x.com/cjc/status/2024160762554700145",
+      "https://x.com/heynavtoor/status/2027054100807106829",
+      "https://x.com/jason_coder0/status/2035286878933725572",
+      "https://x.com/sewerynkalemba/status/2032091355262910632",
+      "https://x.com/syedsibtain_/status/2036825239859208448"
+    ],
+    "site:x.com dev team standup daily update": [
+      "https://x.com/Voxyz_ai/status/2020272022417289587",
+      "https://x.com/elvissun/status/2025920521871716562",
+      "https://x.com/openclawedin/status/2031097285187350964"
+    ],
+    "site:x.com engineering manager status update": [
+      "https://x.com/Tech4DevHQ/status/2038919499177484554",
+      "https://x.com/_TheAfolabi/status/2033944506953826379",
+      "https://x.com/akinstouch/status/2038942913049014515",
+      "https://x.com/gothburz/status/2038966977742446659",
+      "https://x.com/jimprosser/status/2029699731539255640",
+      "https://x.com/sahilypatel/status/2028419692768182648",
+      "https://x.com/unitynodesio/status/2006135043165470911"
+    ],
+    "site:x.com async standup github slack jira": [
+      "https://x.com/FaytuksNetwork/status/2027807337096868253",
+      "https://x.com/JulianGoldieSEO/status/2034203681034568127",
+      "https://x.com/aakashgupta/status/2035273457005674859",
+      "https://x.com/patrickshuff/status/2021427154580353406",
+      "https://x.com/sewerynkalemba/status/2032091355262910632",
+      "https://x.com/spikeysanju/status/2023030609216729590"
+    ],
+    "site:x.com ticket stale slack thread": [
+      "https://x.com/Argona0x/status/2036491606107332654",
+      "https://x.com/ThePeterMick/status/2031296960993353814",
+      "https://x.com/amirmxt/status/1988122722728034471",
+      "https://x.com/architjn/status/2034933982111179079",
+      "https://x.com/coworkerapp/status/2026707860282122469",
+      "https://x.com/markwitt_me/status/2034238930569007610",
+      "https://x.com/rohanpaul_ai/status/2036119340794384407",
+      "https://x.com/rvivek/status/2026385957596111044"
+    ],
+    "site:x.com ownership unclear bug fix": [
+      "https://x.com/AndroidAuth/status/2016272927021220175",
+      "https://x.com/AquaRaj7/status/2026183978185843102",
+      "https://x.com/BrawlStars/status/2026972408180027817",
+      "https://x.com/CultureCrave/status/1674585873504174080",
+      "https://x.com/EvanKlein338226/status/2029315583104143794",
+      "https://x.com/ahmedeldrshawy/status/2036353257698652395",
+      "https://x.com/bobberbobman/status/2036148526523048226",
+      "https://x.com/mendozarockwell/status/2022908987088540100"
+    ],
+    "site:x.com review blocked waiting pr": [
+      "https://x.com/G4br1ello/status/1838454358125470076",
+      "https://x.com/art_daat98987/status/2028062589503054224",
+      "https://x.com/cognition/status/2030035855046496571",
+      "https://x.com/github/status/2034017579279520071",
+      "https://x.com/izqui9/status/2034237278923407475",
+      "https://x.com/jeffscottward/status/2029233102405489037",
+      "https://x.com/twitter/status/2025929899400421655",
+      "https://x.com/vvoyer/status/2031402599585345842"
+    ],
+    "site:x.com decisions buried in slack engineering": [
+      "https://x.com/TechLayoffLover/status/2030452231779004693",
+      "https://x.com/TechLayoffLover/status/2030650290546901148",
+      "https://x.com/TechLayoffLover/status/2031807169788572006",
+      "https://x.com/TechLayoffLover/status/2033293460984181160",
+      "https://x.com/TechLayoffLover/status/2033893168354095595",
+      "https://x.com/TechLayoffLover/status/2034100788088148035",
+      "https://x.com/chrispisarski/status/2027098218819985877",
+      "https://x.com/matt_pkl/status/2033242015295791517"
+    ],
+    "site:x.com status theater engineering": [
+      "https://x.com/AdamSchefter/status/1948422827729653900",
+      "https://x.com/CBBTheater/status/2037724499186000171",
+      "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "https://x.com/HypeAutopsy/status/2039071393132761245",
+      "https://x.com/KatakwiDistrict/status/2029196883017470390",
+      "https://x.com/RITtigers/status/2008337356638597313",
+      "https://x.com/SeattleIndepen1/status/2034762196656500803",
+      "https://x.com/TechLayoffLover/status/2035380456380665885"
+    ],
+    "site:x.com project state unknown engineering manager": [
+      "https://x.com/ab51_project/status/2027942380197056647",
+      "https://x.com/danyyedits/status/2027104439761277168",
+      "https://x.com/gothburz/status/2038966977742446659",
+      "https://x.com/rauchg/status/2028920268119523788",
+      "https://x.com/summeryue0/status/2025774069124399363",
+      "https://x.com/third_iye/status/2029216046742421917",
+      "https://x.com/veronken/status/2036550606916296714"
+    ]
+  },
+  "posts": [
+    {
+      "url": "https://x.com/bcherny/status/2033950823248429176",
+      "author": "bcherny",
+      "statusId": "2033950823248429176",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/bcherny/status/2033950823248429176"
+    },
+    {
+      "url": "https://x.com/luna_moretti_/status/2039093551246475772",
+      "author": "luna_moretti_",
+      "statusId": "2039093551246475772",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/luna_moretti_/status/2039093551246475772"
+    },
+    {
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "author": "Akintola_steve",
+      "statusId": "2036760591885369814",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+    },
+    {
+      "url": "https://x.com/mikefutia/status/2039366843463569873",
+      "author": "mikefutia",
+      "statusId": "2039366843463569873",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/mikefutia/status/2039366843463569873"
+    },
+    {
+      "url": "https://x.com/hr_unhinged/status/2020968709217714179",
+      "author": "hr_unhinged",
+      "statusId": "2020968709217714179",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/hr_unhinged/status/2020968709217714179"
+    },
+    {
+      "url": "https://x.com/WrenTheAI/status/2032262721455210914",
+      "author": "WrenTheAI",
+      "statusId": "2032262721455210914",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/WrenTheAI/status/2032262721455210914"
+    },
+    {
+      "url": "https://x.com/0xlelouch_/status/2033180146723938439",
+      "author": "0xlelouch_",
+      "statusId": "2033180146723938439",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2033180146723938439"
+    },
+    {
+      "url": "https://x.com/desksetup7/status/2022719320074101134",
+      "author": "desksetup7",
+      "statusId": "2022719320074101134",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/desksetup7/status/2022719320074101134"
+    },
+    {
+      "url": "https://x.com/donmcmillan/status/2029708613841998291",
+      "author": "donmcmillan",
+      "statusId": "2029708613841998291",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/donmcmillan/status/2029708613841998291"
+    },
+    {
+      "url": "https://x.com/architjn/status/2034933982111179079",
+      "author": "architjn",
+      "statusId": "2034933982111179079",
+      "text": "Vague tickets are a tax on your whole team. Someone submits \"fix the dashboard thing.\" Now three people are chasing clarification for two days. The actual fix takes 20 minutes. The fix: an AI layer between form submission and ticket creation. It catches vague inputs before they",
+      "dateLabel": "Mar 20, 2026",
+      "dateIso": "2026-03-20",
+      "source": "https://r.jina.ai/http://x.com/architjn/status/2034933982111179079"
+    },
+    {
+      "url": "https://x.com/itsindrajput/status/2001269382379655244",
+      "author": "itsindrajput",
+      "statusId": "2001269382379655244",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/itsindrajput/status/2001269382379655244"
+    },
+    {
+      "url": "https://x.com/iamlukethedev/status/2031902498663866513",
+      "author": "iamlukethedev",
+      "statusId": "2031902498663866513",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/iamlukethedev/status/2031902498663866513"
+    },
+    {
+      "url": "https://x.com/engineers_feed/status/1432376805395206144",
+      "author": "engineers_feed",
+      "statusId": "1432376805395206144",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/engineers_feed/status/1432376805395206144"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033375780026081746",
+      "author": "TechLayoffLover",
+      "statusId": "2033375780026081746",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2033375780026081746"
+    },
+    {
+      "url": "https://x.com/SlackStatus/status/1034508072759115776",
+      "author": "SlackStatus",
+      "statusId": "1034508072759115776",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/SlackStatus/status/1034508072759115776"
+    },
+    {
+      "url": "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "author": "BlueNexusAI",
+      "statusId": "2037983439257817361",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/BlueNexusAI/status/2037983439257817361"
+    },
+    {
+      "url": "https://x.com/firstadopter/status/2019781507649257534",
+      "author": "firstadopter",
+      "statusId": "2019781507649257534",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/firstadopter/status/2019781507649257534"
+    },
+    {
+      "url": "https://x.com/aakashgupta/status/2035273457005674859",
+      "author": "aakashgupta",
+      "statusId": "2035273457005674859",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/aakashgupta/status/2035273457005674859"
+    },
+    {
+      "url": "https://x.com/OldBayBro/status/2029666907264041357",
+      "author": "OldBayBro",
+      "statusId": "2029666907264041357",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/OldBayBro/status/2029666907264041357"
+    },
+    {
+      "url": "https://x.com/syedsibtain_/status/2036825239859208448",
+      "author": "syedsibtain_",
+      "statusId": "2036825239859208448",
+      "text": "",
+      "dateLabel": "Mar 25, 2026",
+      "dateIso": "2026-03-25",
+      "source": "https://r.jina.ai/http://x.com/syedsibtain_/status/2036825239859208448"
+    },
+    {
+      "url": "https://x.com/leifthunder/status/2026684612441772474",
+      "author": "leifthunder",
+      "statusId": "2026684612441772474",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/leifthunder/status/2026684612441772474"
+    },
+    {
+      "url": "https://x.com/heynavtoor/status/2027054100807106829",
+      "author": "heynavtoor",
+      "statusId": "2027054100807106829",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/heynavtoor/status/2027054100807106829"
+    },
+    {
+      "url": "https://x.com/DatingSims/status/2034671167349326224",
+      "author": "DatingSims",
+      "statusId": "2034671167349326224",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/DatingSims/status/2034671167349326224"
+    },
+    {
+      "url": "https://x.com/DivadmuDavid/status/2038525813415383389",
+      "author": "DivadmuDavid",
+      "statusId": "2038525813415383389",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/DivadmuDavid/status/2038525813415383389"
+    },
+    {
+      "url": "https://x.com/Morlouda/status/2037908300088631355",
+      "author": "Morlouda",
+      "statusId": "2037908300088631355",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Morlouda/status/2037908300088631355"
+    },
+    {
+      "url": "https://x.com/PregameEmpire/status/1503830434651721736",
+      "author": "PregameEmpire",
+      "statusId": "1503830434651721736",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/PregameEmpire/status/1503830434651721736"
+    },
+    {
+      "url": "https://x.com/danlovesproofs/status/2029079387262656841",
+      "author": "danlovesproofs",
+      "statusId": "2029079387262656841",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/danlovesproofs/status/2029079387262656841"
+    },
+    {
+      "url": "https://x.com/akoratana/status/2036111467016319074",
+      "author": "akoratana",
+      "statusId": "2036111467016319074",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/akoratana/status/2036111467016319074"
+    },
+    {
+      "url": "https://x.com/EvanKlein338226/status/2029315583104143794",
+      "author": "EvanKlein338226",
+      "statusId": "2029315583104143794",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/EvanKlein338226/status/2029315583104143794"
+    },
+    {
+      "url": "https://x.com/mattbarberio/status/2035125102677741608",
+      "author": "mattbarberio",
+      "statusId": "2035125102677741608",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/mattbarberio/status/2035125102677741608"
+    },
+    {
+      "url": "https://x.com/kimmonismus/status/2022055329408938125",
+      "author": "kimmonismus",
+      "statusId": "2022055329408938125",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/kimmonismus/status/2022055329408938125"
+    },
+    {
+      "url": "https://x.com/Bugcrowd/status/2034661369547563071",
+      "author": "Bugcrowd",
+      "statusId": "2034661369547563071",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Bugcrowd/status/2034661369547563071"
+    },
+    {
+      "url": "https://x.com/_adityaa21/status/2030329350965653731",
+      "author": "_adityaa21",
+      "statusId": "2030329350965653731",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/_adityaa21/status/2030329350965653731"
+    },
+    {
+      "url": "https://x.com/ayushagarwal/status/2032440038953226279",
+      "author": "ayushagarwal",
+      "statusId": "2032440038953226279",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/ayushagarwal/status/2032440038953226279"
+    },
+    {
+      "url": "https://x.com/karankendre/status/2036358984941134023",
+      "author": "karankendre",
+      "statusId": "2036358984941134023",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/karankendre/status/2036358984941134023"
+    },
+    {
+      "url": "https://x.com/MaxMusing/status/2021990855741936072",
+      "author": "MaxMusing",
+      "statusId": "2021990855741936072",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/MaxMusing/status/2021990855741936072"
+    },
+    {
+      "url": "https://x.com/Hi_Mrinal/status/2032419585509773533",
+      "author": "Hi_Mrinal",
+      "statusId": "2032419585509773533",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Hi_Mrinal/status/2032419585509773533"
+    },
+    {
+      "url": "https://x.com/adxtyahq/status/2036118696285053129",
+      "author": "adxtyahq",
+      "statusId": "2036118696285053129",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/adxtyahq/status/2036118696285053129"
+    },
+    {
+      "url": "https://x.com/KhatunNeel82194/status/2032731826310230323",
+      "author": "KhatunNeel82194",
+      "statusId": "2032731826310230323",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/KhatunNeel82194/status/2032731826310230323"
+    },
+    {
+      "url": "https://x.com/IcarusHermes/status/2037030845635084785",
+      "author": "IcarusHermes",
+      "statusId": "2037030845635084785",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/IcarusHermes/status/2037030845635084785"
+    },
+    {
+      "url": "https://x.com/LittlebirdAI/status/2016662322857865597",
+      "author": "LittlebirdAI",
+      "statusId": "2016662322857865597",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/LittlebirdAI/status/2016662322857865597"
+    },
+    {
+      "url": "https://x.com/dennispilarinos/status/2024124107814793646",
+      "author": "dennispilarinos",
+      "statusId": "2024124107814793646",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/dennispilarinos/status/2024124107814793646"
+    },
+    {
+      "url": "https://x.com/garrytan/status/2037776210898600402",
+      "author": "garrytan",
+      "statusId": "2037776210898600402",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/garrytan/status/2037776210898600402"
+    },
+    {
+      "url": "https://x.com/rohanpaul_ai/status/2036119340794384407",
+      "author": "rohanpaul_ai",
+      "statusId": "2036119340794384407",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/rohanpaul_ai/status/2036119340794384407"
+    },
+    {
+      "url": "https://x.com/codyschneiderxx/status/2011105976921813032",
+      "author": "codyschneiderxx",
+      "statusId": "2011105976921813032",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/codyschneiderxx/status/2011105976921813032"
+    },
+    {
+      "url": "https://x.com/Lumabullet/status/2031072244315598910",
+      "author": "Lumabullet",
+      "statusId": "2031072244315598910",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Lumabullet/status/2031072244315598910"
+    },
+    {
+      "url": "https://x.com/hackernoon/status/2032201743493214664",
+      "author": "hackernoon",
+      "statusId": "2032201743493214664",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/hackernoon/status/2032201743493214664"
+    },
+    {
+      "url": "https://x.com/milan_milanovic/status/2029474496646717846",
+      "author": "milan_milanovic",
+      "statusId": "2029474496646717846",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/milan_milanovic/status/2029474496646717846"
+    },
+    {
+      "url": "https://x.com/hysterianorris/status/2038149388355228150",
+      "author": "hysterianorris",
+      "statusId": "2038149388355228150",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/hysterianorris/status/2038149388355228150"
+    },
+    {
+      "url": "https://x.com/Meer_AIIT/status/2027509711722188976",
+      "author": "Meer_AIIT",
+      "statusId": "2027509711722188976",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Meer_AIIT/status/2027509711722188976"
+    },
+    {
+      "url": "https://x.com/arvor_ia/status/2026744780542062963",
+      "author": "arvor_ia",
+      "statusId": "2026744780542062963",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/arvor_ia/status/2026744780542062963"
+    },
+    {
+      "url": "https://x.com/mattpocockuk/status/2036842294939201862",
+      "author": "mattpocockuk",
+      "statusId": "2036842294939201862",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/mattpocockuk/status/2036842294939201862"
+    },
+    {
+      "url": "https://x.com/kloss_xyz/status/2036356467629162772",
+      "author": "kloss_xyz",
+      "statusId": "2036356467629162772",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/kloss_xyz/status/2036356467629162772"
+    },
+    {
+      "url": "https://x.com/ryancarson/status/2023452909883609111",
+      "author": "ryancarson",
+      "statusId": "2023452909883609111",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/ryancarson/status/2023452909883609111"
+    },
+    {
+      "url": "https://x.com/github/status/2024900639734616482",
+      "author": "github",
+      "statusId": "2024900639734616482",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/github/status/2024900639734616482"
+    },
+    {
+      "url": "https://x.com/heyrobinai/status/2025144875419672791",
+      "author": "heyrobinai",
+      "statusId": "2025144875419672791",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/heyrobinai/status/2025144875419672791"
+    },
+    {
+      "url": "https://x.com/0xJsum/status/2039198679815565508",
+      "author": "0xJsum",
+      "statusId": "2039198679815565508",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/0xJsum/status/2039198679815565508"
+    },
+    {
+      "url": "https://x.com/SLCScanner/status/2035985647979086121",
+      "author": "SLCScanner",
+      "statusId": "2035985647979086121",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/SLCScanner/status/2035985647979086121"
+    },
+    {
+      "url": "https://x.com/AIPandaX/status/2037122632123113731",
+      "author": "AIPandaX",
+      "statusId": "2037122632123113731",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/AIPandaX/status/2037122632123113731"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2032547549848936653",
+      "author": "TechLayoffLover",
+      "statusId": "2032547549848936653",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2032547549848936653"
+    },
+    {
+      "url": "https://x.com/aibytekat/status/2034933296233422872",
+      "author": "aibytekat",
+      "statusId": "2034933296233422872",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/aibytekat/status/2034933296233422872"
+    },
+    {
+      "url": "https://x.com/brndxix/status/2024156222627213380",
+      "author": "brndxix",
+      "statusId": "2024156222627213380",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/brndxix/status/2024156222627213380"
+    },
+    {
+      "url": "https://x.com/grok/status/2032443888967766438",
+      "author": "grok",
+      "statusId": "2032443888967766438",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/grok/status/2032443888967766438"
+    },
+    {
+      "url": "https://x.com/Saboo_Shubham_/status/2032333737707651147",
+      "author": "Saboo_Shubham_",
+      "statusId": "2032333737707651147",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Saboo_Shubham_/status/2032333737707651147"
+    },
+    {
+      "url": "https://x.com/jason_coder0/status/2035286878933725572",
+      "author": "jason_coder0",
+      "statusId": "2035286878933725572",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/jason_coder0/status/2035286878933725572"
+    },
+    {
+      "url": "https://x.com/syedaquib77/status/1894447615867326563",
+      "author": "syedaquib77",
+      "statusId": "1894447615867326563",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/syedaquib77/status/1894447615867326563"
+    },
+    {
+      "url": "https://x.com/ScottJenningsKY/status/1945484676790988856",
+      "author": "ScottJenningsKY",
+      "statusId": "1945484676790988856",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/ScottJenningsKY/status/1945484676790988856"
+    },
+    {
+      "url": "https://x.com/cjc/status/2024160762554700145",
+      "author": "cjc",
+      "statusId": "2024160762554700145",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/cjc/status/2024160762554700145"
+    },
+    {
+      "url": "https://x.com/Voxyz_ai/status/2020272022417289587",
+      "author": "Voxyz_ai",
+      "statusId": "2020272022417289587",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Voxyz_ai/status/2020272022417289587"
+    },
+    {
+      "url": "https://x.com/sewerynkalemba/status/2032091355262910632",
+      "author": "sewerynkalemba",
+      "statusId": "2032091355262910632",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/sewerynkalemba/status/2032091355262910632"
+    },
+    {
+      "url": "https://x.com/elvissun/status/2025920521871716562",
+      "author": "elvissun",
+      "statusId": "2025920521871716562",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/elvissun/status/2025920521871716562"
+    },
+    {
+      "url": "https://x.com/openclawedin/status/2031097285187350964",
+      "author": "openclawedin",
+      "statusId": "2031097285187350964",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/openclawedin/status/2031097285187350964"
+    },
+    {
+      "url": "https://x.com/gothburz/status/2038966977742446659",
+      "author": "gothburz",
+      "statusId": "2038966977742446659",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/gothburz/status/2038966977742446659"
+    },
+    {
+      "url": "https://x.com/jimprosser/status/2029699731539255640",
+      "author": "jimprosser",
+      "statusId": "2029699731539255640",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/jimprosser/status/2029699731539255640"
+    },
+    {
+      "url": "https://x.com/_TheAfolabi/status/2033944506953826379",
+      "author": "_TheAfolabi",
+      "statusId": "2033944506953826379",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/_TheAfolabi/status/2033944506953826379"
+    },
+    {
+      "url": "https://x.com/sahilypatel/status/2028419692768182648",
+      "author": "sahilypatel",
+      "statusId": "2028419692768182648",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/sahilypatel/status/2028419692768182648"
+    },
+    {
+      "url": "https://x.com/akinstouch/status/2038942913049014515",
+      "author": "akinstouch",
+      "statusId": "2038942913049014515",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/akinstouch/status/2038942913049014515"
+    },
+    {
+      "url": "https://x.com/unitynodesio/status/2006135043165470911",
+      "author": "unitynodesio",
+      "statusId": "2006135043165470911",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/unitynodesio/status/2006135043165470911"
+    },
+    {
+      "url": "https://x.com/Tech4DevHQ/status/2038919499177484554",
+      "author": "Tech4DevHQ",
+      "statusId": "2038919499177484554",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Tech4DevHQ/status/2038919499177484554"
+    },
+    {
+      "url": "https://x.com/JulianGoldieSEO/status/2034203681034568127",
+      "author": "JulianGoldieSEO",
+      "statusId": "2034203681034568127",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/JulianGoldieSEO/status/2034203681034568127"
+    },
+    {
+      "url": "https://x.com/FaytuksNetwork/status/2027807337096868253",
+      "author": "FaytuksNetwork",
+      "statusId": "2027807337096868253",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/FaytuksNetwork/status/2027807337096868253"
+    },
+    {
+      "url": "https://x.com/ThePeterMick/status/2031296960993353814",
+      "author": "ThePeterMick",
+      "statusId": "2031296960993353814",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/ThePeterMick/status/2031296960993353814"
+    },
+    {
+      "url": "https://x.com/spikeysanju/status/2023030609216729590",
+      "author": "spikeysanju",
+      "statusId": "2023030609216729590",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/spikeysanju/status/2023030609216729590"
+    },
+    {
+      "url": "https://x.com/Argona0x/status/2036491606107332654",
+      "author": "Argona0x",
+      "statusId": "2036491606107332654",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/Argona0x/status/2036491606107332654"
+    },
+    {
+      "url": "https://x.com/patrickshuff/status/2021427154580353406",
+      "author": "patrickshuff",
+      "statusId": "2021427154580353406",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/patrickshuff/status/2021427154580353406"
+    },
+    {
+      "url": "https://x.com/amirmxt/status/1988122722728034471",
+      "author": "amirmxt",
+      "statusId": "1988122722728034471",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/amirmxt/status/1988122722728034471"
+    },
+    {
+      "url": "https://x.com/coworkerapp/status/2026707860282122469",
+      "author": "coworkerapp",
+      "statusId": "2026707860282122469",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/coworkerapp/status/2026707860282122469"
+    },
+    {
+      "url": "https://x.com/markwitt_me/status/2034238930569007610",
+      "author": "markwitt_me",
+      "statusId": "2034238930569007610",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/markwitt_me/status/2034238930569007610"
+    },
+    {
+      "url": "https://x.com/AndroidAuth/status/2016272927021220175",
+      "author": "AndroidAuth",
+      "statusId": "2016272927021220175",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/AndroidAuth/status/2016272927021220175"
+    },
+    {
+      "url": "https://x.com/rvivek/status/2026385957596111044",
+      "author": "rvivek",
+      "statusId": "2026385957596111044",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/rvivek/status/2026385957596111044"
+    },
+    {
+      "url": "https://x.com/AquaRaj7/status/2026183978185843102",
+      "author": "AquaRaj7",
+      "statusId": "2026183978185843102",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/AquaRaj7/status/2026183978185843102"
+    },
+    {
+      "url": "https://x.com/BrawlStars/status/2026972408180027817",
+      "author": "BrawlStars",
+      "statusId": "2026972408180027817",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/BrawlStars/status/2026972408180027817"
+    },
+    {
+      "url": "https://x.com/CultureCrave/status/1674585873504174080",
+      "author": "CultureCrave",
+      "statusId": "1674585873504174080",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/CultureCrave/status/1674585873504174080"
+    },
+    {
+      "url": "https://x.com/ahmedeldrshawy/status/2036353257698652395",
+      "author": "ahmedeldrshawy",
+      "statusId": "2036353257698652395",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/ahmedeldrshawy/status/2036353257698652395"
+    },
+    {
+      "url": "https://x.com/bobberbobman/status/2036148526523048226",
+      "author": "bobberbobman",
+      "statusId": "2036148526523048226",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/bobberbobman/status/2036148526523048226"
+    },
+    {
+      "url": "https://x.com/mendozarockwell/status/2022908987088540100",
+      "author": "mendozarockwell",
+      "statusId": "2022908987088540100",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/mendozarockwell/status/2022908987088540100"
+    },
+    {
+      "url": "https://x.com/G4br1ello/status/1838454358125470076",
+      "author": "G4br1ello",
+      "statusId": "1838454358125470076",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/G4br1ello/status/1838454358125470076"
+    },
+    {
+      "url": "https://x.com/cognition/status/2030035855046496571",
+      "author": "cognition",
+      "statusId": "2030035855046496571",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/cognition/status/2030035855046496571"
+    },
+    {
+      "url": "https://x.com/github/status/2034017579279520071",
+      "author": "github",
+      "statusId": "2034017579279520071",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/github/status/2034017579279520071"
+    },
+    {
+      "url": "https://x.com/art_daat98987/status/2028062589503054224",
+      "author": "art_daat98987",
+      "statusId": "2028062589503054224",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/art_daat98987/status/2028062589503054224"
+    },
+    {
+      "url": "https://x.com/jeffscottward/status/2029233102405489037",
+      "author": "jeffscottward",
+      "statusId": "2029233102405489037",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/jeffscottward/status/2029233102405489037"
+    },
+    {
+      "url": "https://x.com/twitter/status/2025929899400421655",
+      "author": "twitter",
+      "statusId": "2025929899400421655",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/twitter/status/2025929899400421655"
+    },
+    {
+      "url": "https://x.com/izqui9/status/2034237278923407475",
+      "author": "izqui9",
+      "statusId": "2034237278923407475",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/izqui9/status/2034237278923407475"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2030650290546901148",
+      "author": "TechLayoffLover",
+      "statusId": "2030650290546901148",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2030650290546901148"
+    },
+    {
+      "url": "https://x.com/vvoyer/status/2031402599585345842",
+      "author": "vvoyer",
+      "statusId": "2031402599585345842",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/vvoyer/status/2031402599585345842"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2031807169788572006",
+      "author": "TechLayoffLover",
+      "statusId": "2031807169788572006",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2031807169788572006"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2030452231779004693",
+      "author": "TechLayoffLover",
+      "statusId": "2030452231779004693",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2030452231779004693"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033293460984181160",
+      "author": "TechLayoffLover",
+      "statusId": "2033293460984181160",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2033293460984181160"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2034100788088148035",
+      "author": "TechLayoffLover",
+      "statusId": "2034100788088148035",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2034100788088148035"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033893168354095595",
+      "author": "TechLayoffLover",
+      "statusId": "2033893168354095595",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2033893168354095595"
+    },
+    {
+      "url": "https://x.com/chrispisarski/status/2027098218819985877",
+      "author": "chrispisarski",
+      "statusId": "2027098218819985877",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/chrispisarski/status/2027098218819985877"
+    },
+    {
+      "url": "https://x.com/AdamSchefter/status/1948422827729653900",
+      "author": "AdamSchefter",
+      "statusId": "1948422827729653900",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/AdamSchefter/status/1948422827729653900"
+    },
+    {
+      "url": "https://x.com/matt_pkl/status/2033242015295791517",
+      "author": "matt_pkl",
+      "statusId": "2033242015295791517",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/matt_pkl/status/2033242015295791517"
+    },
+    {
+      "url": "https://x.com/HypeAutopsy/status/2039071393132761245",
+      "author": "HypeAutopsy",
+      "statusId": "2039071393132761245",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/HypeAutopsy/status/2039071393132761245"
+    },
+    {
+      "url": "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "author": "DAIEvolutionHub",
+      "statusId": "2036420097737363539",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2036420097737363539"
+    },
+    {
+      "url": "https://x.com/CBBTheater/status/2037724499186000171",
+      "author": "CBBTheater",
+      "statusId": "2037724499186000171",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/CBBTheater/status/2037724499186000171"
+    },
+    {
+      "url": "https://x.com/SeattleIndepen1/status/2034762196656500803",
+      "author": "SeattleIndepen1",
+      "statusId": "2034762196656500803",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/SeattleIndepen1/status/2034762196656500803"
+    },
+    {
+      "url": "https://x.com/KatakwiDistrict/status/2029196883017470390",
+      "author": "KatakwiDistrict",
+      "statusId": "2029196883017470390",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/KatakwiDistrict/status/2029196883017470390"
+    },
+    {
+      "url": "https://x.com/RITtigers/status/2008337356638597313",
+      "author": "RITtigers",
+      "statusId": "2008337356638597313",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/RITtigers/status/2008337356638597313"
+    },
+    {
+      "url": "https://x.com/gaulinvader/status/2024404225455997337",
+      "author": "gaulinvader",
+      "statusId": "2024404225455997337",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/gaulinvader/status/2024404225455997337"
+    }
+  ]
+}

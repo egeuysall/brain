@@ -1,0 +1,76 @@
+{
+  "generatedAt": "2026-04-01T18:29:01.321651Z",
+  "results": [
+    {
+      "query": "standup waste",
+      "url": "https://r.jina.ai/http://x.com/search?q=standup%20waste&src=typed_query&f=live",
+      "ok": true,
+      "sample": [
+        "Title: Log in to X / X",
+        "URL Source: http://x.com/search?q=standup%20waste&src=typed_query&f=live",
+        "Markdown Content:",
+        "# Log in to X / X",
+        "# Sign in to X",
+        "Sign in with Apple",
+        "or",
+        "Phone, email, or username",
+        "Next",
+        "Forgot password?",
+        "Don't have an account? Sign up"
+      ],
+      "possibleMatches": []
+    },
+    {
+      "query": "engineering manager slack chaos",
+      "url": "https://r.jina.ai/http://x.com/search?q=engineering%20manager%20slack%20chaos&src=typed_query&f=live",
+      "ok": true,
+      "sample": [
+        "Title: Log in to X / X",
+        "URL Source: http://x.com/search?q=engineering%20manager%20slack%20chaos&src=typed_query&f=live",
+        "Markdown Content:",
+        "# Log in to X / X",
+        "# Sign in to X",
+        "Sign in with Google Sign in with Google. Opens in new tab",
+        "Sign in with Apple",
+        "or",
+        "Phone, email, or username",
+        "Next",
+        "Forgot password?",
+        "Don't have an account? Sign up"
+      ],
+      "possibleMatches": []
+    },
+    {
+      "query": "PR confusion",
+      "url": "https://r.jina.ai/http://x.com/search?q=PR%20confusion&src=typed_query&f=live",
+      "ok": true,
+      "sample": [
+        "Title: Log in to X / X",
+        "URL Source: http://x.com/search?q=PR%20confusion&src=typed_query&f=live",
+        "Markdown Content:",
+        "# Log in to X / X",
+        "# Sign in to X",
+        "Sign in with Google Sign in with Google. Opens in new tab",
+        "Sign in with Apple",
+        "or",
+        "Phone, email, or username",
+        "Next",
+        "Forgot password?",
+        "Don't have an account? Sign up"
+      ],
+      "possibleMatches": []
+    },
+    {
+      "query": "who owns this bug",
+      "url": "https://r.jina.ai/http://x.com/search?q=who%20owns%20this%20bug&src=typed_query&f=live",
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
+    },
+    {
+      "query": "had to jump on a call to figure it out",
+      "url": "https://r.jina.ai/http://x.com/search?q=had%20to%20jump%20on%20a%20call%20to%20figure%20it%20out&src=typed_query&f=live",
+      "ok": false,
+      "error": "HTTP Error 429: Too Many Requests"
+    }
+  ]
+}

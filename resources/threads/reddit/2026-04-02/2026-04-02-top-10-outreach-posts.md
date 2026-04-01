@@ -1,0 +1,24 @@
+---
+type: note
+date: 2026-04-02
+author: Codex
+tags: [outreach, icp, reddit, standups, ownership, context]
+source: internal-research
+---
+
+# Top 10 Outreach Posts (Recency-Checked, Non-Colliding, Non-HiSimpy)
+
+| # | Platform | Author | Post | Local File |
+| --- | --- | --- | --- | --- |
+| 1 | Reddit | u/FarBonus4810 | [Feedback vs Decision Tracking Gap](https://www.reddit.com/r/EngineeringManagers/comments/1s9qr18/we_thought_we_had_a_feedback_problem_turns_out_it/) | [Open local](./2026-04-02-thread-1-feedback-vs-decision-tracking-gap.md) |
+| 2 | Reddit | u/Bronzado | [Incident Investigation Context Scatter](https://www.reddit.com/r/devops/comments/1s92u2x/am_i_overengineering_incident_management_built_a/) | [Open local](./2026-04-02-thread-2-incident-investigation-context-scatter.md) |
+| 3 | Reddit | u/ContactCold1075 | [App Breakage Visibility Reconstruction Loop](https://www.reddit.com/r/agile/comments/1s8fdh9/3_months_of_trying_to_actually_understand_where/) | [Open local](./2026-04-02-thread-3-app-breakage-visibility-reconstruction-loop.md) |
+| 4 | Reddit | u/Thin_Carrot_4317 | [Agile Tool Sprawl Manual Sync Overhead](https://www.reddit.com/r/agile/comments/1s8hpb0/tried_combining_5_agile_tools_into_one_honest/) | [Open local](./2026-04-02-thread-4-agile-tool-sprawl-manual-sync-overhead.md) |
+| 5 | Reddit | u/ninetofivedev | [Sprint Ceremony Drop for Flow](https://www.reddit.com/r/ExperiencedDevs/comments/1s9np6d/you_should_really_consider_dropping_sprints/) | [Open local](./2026-04-02-thread-5-sprint-ceremony-drop-for-flow.md) |
+| 6 | Reddit | u/Deliaenchanting | [AI Bot Production Incident Ownership Gap](https://www.reddit.com/r/devops/comments/1s9f17i/i_deployed_an_ai_agent_browser_bot_to_production/) | [Open local](./2026-04-02-thread-6-ai-bot-production-incident-ownership-gap.md) |
+| 7 | Reddit | u/durmd | [No PM Role Boundary Ownership Confusion](https://www.reddit.com/r/agile/comments/1s6nk8y/defining_roles_with_po_tpo_as_sme_when_theres_no/) | [Open local](./2026-04-02-thread-7-no-pm-role-boundary-ownership-confusion.md) |
+| 8 | Reddit | u/LavenderAqua | [Vendor Release Cadence CI-CD Handoff Friction](https://www.reddit.com/r/ExperiencedDevs/comments/1s8pzfj/working_with_vendors_who_release_infrequently/) | [Open local](./2026-04-02-thread-8-vendor-release-cadence-ci-cd-handoff-friction.md) |
+| 9 | Reddit | u/NewRanger7143 | [Process Discipline Hidden Delivery Conflicts](https://www.reddit.com/r/EngineeringManagers/comments/1s9n1f4/stop_blaming_the_process_your_delivery_issues_are/) | [Open local](./2026-04-02-thread-9-process-discipline-hidden-delivery-conflicts.md) |
+| 10 | Reddit | u/Floorman1 | [Senior Engineer Architectural Decision Stall](https://www.reddit.com/r/ExperiencedDevs/comments/1s9gxbv/how_to_handle_mediocre_team_as_a_senior/) | [Open local](./2026-04-02-thread-10-senior-engineer-architectural-decision-stall.md) |
+
+All entries are within the last 7 days, use different redditors, exclude HiSimpy, and do not collide with existing `thread-*` URLs.

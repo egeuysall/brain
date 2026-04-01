@@ -1,0 +1,50 @@
+{
+  "generatedAt": "2026-04-01T18:26:59.142511Z",
+  "results": [
+    {
+      "query": "standup waste",
+      "url": "https://x.com/search?q=standup%20waste&src=typed_query&f=live",
+      "har": "resources/threads/2026-04-01/playwright-x/standup-waste.har",
+      "png": "resources/threads/2026-04-01/playwright-x/standup-waste.png",
+      "ok": true,
+      "stdout": "Navigating to https://x.com/search?q=standup%20waste&src=typed_query&f=live\nWaiting for timeout 6000...\nCapturing screenshot into resources/threads/2026-04-01/playwright-x/standup-waste.png\n",
+      "stderr": ""
+    },
+    {
+      "query": "engineering manager slack chaos",
+      "url": "https://x.com/search?q=engineering%20manager%20slack%20chaos&src=typed_query&f=live",
+      "har": "resources/threads/2026-04-01/playwright-x/engineering-manager-slack-chaos.har",
+      "png": "resources/threads/2026-04-01/playwright-x/engineering-manager-slack-chaos.png",
+      "ok": true,
+      "stdout": "Navigating to https://x.com/search?q=engineering%20manager%20slack%20chaos&src=typed_query&f=live\nWaiting for timeout 6000...\nCapturing screenshot into resources/threads/2026-04-01/playwright-x/engineering-manager-slack-chaos.png\n",
+      "stderr": ""
+    },
+    {
+      "query": "PR confusion",
+      "url": "https://x.com/search?q=PR%20confusion&src=typed_query&f=live",
+      "har": "resources/threads/2026-04-01/playwright-x/pr-confusion.har",
+      "png": "resources/threads/2026-04-01/playwright-x/pr-confusion.png",
+      "ok": true,
+      "stdout": "Navigating to https://x.com/search?q=PR%20confusion&src=typed_query&f=live\nWaiting for timeout 6000...\nCapturing screenshot into resources/threads/2026-04-01/playwright-x/pr-confusion.png\n",
+      "stderr": ""
+    },
+    {
+      "query": "who owns this bug",
+      "url": "https://x.com/search?q=who%20owns%20this%20bug&src=typed_query&f=live",
+      "har": "resources/threads/2026-04-01/playwright-x/who-owns-this-bug.har",
+      "png": "resources/threads/2026-04-01/playwright-x/who-owns-this-bug.png",
+      "ok": true,
+      "stdout": "Navigating to https://x.com/search?q=who%20owns%20this%20bug&src=typed_query&f=live\nWaiting for timeout 6000...\nCapturing screenshot into resources/threads/2026-04-01/playwright-x/who-owns-this-bug.png\n",
+      "stderr": ""
+    },
+    {
+      "query": "had to jump on a call to figure it out",
+      "url": "https://x.com/search?q=had%20to%20jump%20on%20a%20call%20to%20figure%20it%20out&src=typed_query&f=live",
+      "har": "resources/threads/2026-04-01/playwright-x/had-to-jump-on-a-call-to-figure-it-out.har",
+      "png": "resources/threads/2026-04-01/playwright-x/had-to-jump-on-a-call-to-figure-it-out.png",
+      "ok": true,
+      "stdout": "Navigating to https://x.com/search?q=had%20to%20jump%20on%20a%20call%20to%20figure%20it%20out&src=typed_query&f=live\nWaiting for timeout 6000...\nCapturing screenshot into resources/threads/2026-04-01/playwright-x/had-to-jump-on-a-call-to-figure-it-out.png\n",
+      "stderr": ""
+    }
+  ]
+}

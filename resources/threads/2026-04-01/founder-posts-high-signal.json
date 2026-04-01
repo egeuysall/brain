@@ -1,0 +1,58 @@
+{
+  "generated_at": "2026-04-01T18:30:27.589709+00:00",
+  "window": {
+    "min_hours": 0.0,
+    "max_hours": 96.0
+  },
+  "count": 3,
+  "items": [
+    {
+      "subreddit": "startups",
+      "title": "Am I crazy or is account handoffs when people leave just... broken? (I will not promote)",
+      "url": "https://www.reddit.com/r/startups/comments/1s980qs/am_i_crazy_or_is_account_handoffs_when_people/",
+      "created_at": "2026-04-01T02:33:55+00:00",
+      "age_hours": 15.94,
+      "age_label": "15 hours ago",
+      "author": "simplyty_206",
+      "op_body": "So this has been bugging me for months now.. Every time someone leaves our team, it's total chaos. Like our best AE just quit and suddenly his...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "startups",
+      "title": "Been building a ski/snowboard trip planner for the past few months - I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1s9p5ie/been_building_a_skisnowboard_trip_planner_for_the/",
+      "created_at": "2026-04-01T16:16:28+00:00",
+      "age_hours": 2.23,
+      "age_label": "2 hours ago",
+      "author": "jonb833",
+      "op_body": "Hi all, over the past few months I've been working on a small project that aims to fix the chaos of organising a ski trip through WhatsApp group...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "startups",
+      "title": "Growing a new sports league. I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1s9pz6p/growing_a_new_sports_league_i_will_not_promote/",
+      "created_at": "2026-04-01T16:45:15+00:00",
+      "age_hours": 1.75,
+      "age_label": "1 hour ago",
+      "author": "Futurerapgod",
+      "op_body": "I’m looking for advice on the best ways to grow a new sports league. Context: Essentially, we have created the UFC for tumbling (backflips). We...",
+      "first_person": true,
+      "pain_signal": false,
+      "coordination_signal": true,
+      "promotional_signal": false,
+      "high_signal_score": 3,
+      "high_signal": true
+    }
+  ]
+}

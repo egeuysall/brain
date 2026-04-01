@@ -1,0 +1,981 @@
+{
+  "generatedAt": "2026-04-01T18:39:31.635540+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 7,
+  "queries": [
+    "site:x.com standup waste engineering team status",
+    "site:x.com engineering manager slack chaos status",
+    "site:x.com PR confusion review context status",
+    "site:x.com who owns this bug status",
+    "site:x.com had to jump on a call to figure this out status",
+    "site:x.com context is scattered in slack status",
+    "site:x.com jira is useless engineering status",
+    "site:x.com things falling through cracks engineering status",
+    "site:x.com standup status theater engineering manager",
+    "site:x.com decisions buried in slack engineering team"
+  ],
+  "perQueryLinks": {
+    "site:x.com standup waste engineering team status": [
+      "https://x.com/Akintola_steve/status/2036760591885369814",
+      "https://x.com/InfraBuild_Aust/status/1655490243699568640",
+      "https://x.com/Wastelander2277/status/2033004074996539599",
+      "https://x.com/WayneJ27962/status/2034979801166225416",
+      "https://x.com/evilrashida/status/2026915121436713235",
+      "https://x.com/hartford_vickie/status/2034039398421979462",
+      "https://x.com/seyedele/status/2029258322482774253",
+      "https://x.com/waitandwaste/status/2031756129332834710"
+    ],
+    "site:x.com engineering manager slack chaos status": [
+      "https://x.com/AIPandaX/status/2037122632123113731",
+      "https://x.com/DAIEvolutionHub/status/2035127070217707807",
+      "https://x.com/HarshSh54928171/status/2034905850318659631",
+      "https://x.com/rvivek/status/2026385957596111044",
+      "https://x.com/swadeshkumar_/status/2036009329820930350"
+    ],
+    "site:x.com PR confusion review context status": [
+      "https://x.com/0xlelouch_/status/2026602663010615733",
+      "https://x.com/IAmConfusionBru/status/2030783322306015516",
+      "https://x.com/KrishXCodes/status/2030858734671638528",
+      "https://x.com/elmd_/status/2032542113297031307",
+      "https://x.com/eyad_khrais/status/2010076957938188661",
+      "https://x.com/felixge/status/1468155086648061952",
+      "https://x.com/hwchase17/status/2033978553499607160",
+      "https://x.com/iam_elias1/status/2034308559606014223",
+      "https://x.com/kimmonismus/status/2036126784887071221",
+      "https://x.com/ryancarson/status/2023452909883609111"
+    ],
+    "site:x.com who owns this bug status": [
+      "https://x.com/0xlelouch_/status/2024095590163071198",
+      "https://x.com/App_Keys/status/2026644670504382800",
+      "https://x.com/Bugenjoyer32/status/2039212491260223989",
+      "https://x.com/HackenProof/status/2032819043120586863",
+      "https://x.com/cryptopeterb/status/2032497015675039880",
+      "https://x.com/danksterintel/status/2037918583989416015",
+      "https://x.com/danlovesproofs/status/2029079387262656841",
+      "https://x.com/mattbarberio/status/2035125102677741608",
+      "https://x.com/ryan_tech_lab/status/2038787650203566105",
+      "https://x.com/thedawgyg/status/2027570919506358630"
+    ],
+    "site:x.com had to jump on a call to figure this out status": [
+      "https://x.com/AlexFinn/status/2017305997212323887",
+      "https://x.com/BEWITCHBUCK/status/2037124684450337245",
+      "https://x.com/JayDook/status/2032593189496815616",
+      "https://x.com/MLB/status/2025709450263138681",
+      "https://x.com/charlespattson/status/2018703899859763288",
+      "https://x.com/freezymfe/status/2036153180900434158",
+      "https://x.com/over100tabs/status/2028698518265688067"
+    ],
+    "site:x.com context is scattered in slack status": [
+      "https://x.com/AoiNakamur81455/status/2029962499068678500",
+      "https://x.com/Hi_Mrinal/status/2032419585509773533",
+      "https://x.com/IcarusHermes/status/2037030845635084785",
+      "https://x.com/ShabbatMonster/status/2039157215815151869",
+      "https://x.com/milan_milanovic/status/2029474496646717846",
+      "https://x.com/reggitales/status/2031916056760201714",
+      "https://x.com/ryancarson/status/2039336630713033157",
+      "https://x.com/tempoimmaterial/status/2024536326780178480",
+      "https://x.com/thetripathi58/status/2037914593394360757"
+    ],
+    "site:x.com jira is useless engineering status": [
+      "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "https://x.com/Elixium_ai/status/2037983186051805448",
+      "https://x.com/GergelyOrosz/status/1519686465176969216",
+      "https://x.com/amrishrau/status/2026930417648152776",
+      "https://x.com/ceeebeeebeee/status/2034495916619485468",
+      "https://x.com/cjc/status/2024160762554700145",
+      "https://x.com/fkadev/status/2038725398767476943",
+      "https://x.com/jd_sauvage/status/2031796720594485555",
+      "https://x.com/jsensarma/status/2024812792000499721",
+      "https://x.com/snow_w_lee/status/2026870769704452460"
+    ],
+    "site:x.com things falling through cracks engineering status": [
+      "https://x.com/HowThingsWork_/status/2025536295800373369",
+      "https://x.com/Nalanda_index/status/2020198146119463060",
+      "https://x.com/RecessionAlert/status/2037681318050332857",
+      "https://x.com/ayushagarwal/status/2037890020422623274",
+      "https://x.com/devops_nk/status/2025067960742936686",
+      "https://x.com/engineers_feed/status/1432376805395206144",
+      "https://x.com/hwchase17/status/2031051115169808685"
+    ],
+    "site:x.com standup status theater engineering manager": [
+      "https://x.com/AngelStandup/status/2010815515120251273",
+      "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "https://x.com/kim_minola/status/2031975249575637381",
+      "https://x.com/seyedele/status/2029258322482774253",
+      "https://x.com/standupmonkey/status/2030633196375679092",
+      "https://x.com/standupmonkey/status/2032931256673935797"
+    ],
+    "site:x.com decisions buried in slack engineering team": [
+      "https://x.com/GuruShareMarket/status/2030681358465655082",
+      "https://x.com/Ktap_ai/status/2012540515653210370",
+      "https://x.com/TechLayoffLover/status/2030650290546901148",
+      "https://x.com/TechLayoffLover/status/2033293460984181160",
+      "https://x.com/godofprompt/status/2036457238198362154",
+      "https://x.com/hwchase17/status/2033978553499607160",
+      "https://x.com/matt_pkl/status/2033242015295791517",
+      "https://x.com/newlinedotco/status/2032358600346083456",
+      "https://x.com/rohanpaul_ai/status/2036119340794384407"
+    ]
+  },
+  "counts": {
+    "queries": 10,
+    "rawLinks": 81,
+    "uniqueLinks": 79,
+    "hydrated": 79,
+    "inWindow": 6
+  },
+  "posts": [
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "author": "Akintola_steve",
+      "status_id": "2036760591885369814",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/InfraBuild_Aust/status/1655490243699568640",
+      "author": "InfraBuild_Aust",
+      "status_id": "1655490243699568640",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/InfraBuild_Aust/status/1655490243699568640"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/Wastelander2277/status/2033004074996539599",
+      "author": "Wastelander2277",
+      "status_id": "2033004074996539599",
+      "timestamp_label": "Mar 15, 2026",
+      "date_iso": "2026-03-15",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Wastelander2277/status/2033004074996539599"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/WayneJ27962/status/2034979801166225416",
+      "author": "WayneJ27962",
+      "status_id": "2034979801166225416",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/WayneJ27962/status/2034979801166225416"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/evilrashida/status/2026915121436713235",
+      "author": "evilrashida",
+      "status_id": "2026915121436713235",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/evilrashida/status/2026915121436713235"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/hartford_vickie/status/2034039398421979462",
+      "author": "hartford_vickie",
+      "status_id": "2034039398421979462",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/hartford_vickie/status/2034039398421979462"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/seyedele/status/2029258322482774253",
+      "author": "seyedele",
+      "status_id": "2029258322482774253",
+      "timestamp_label": "Mar 4, 2026",
+      "date_iso": "2026-03-04",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/seyedele/status/2029258322482774253"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/waitandwaste/status/2031756129332834710",
+      "author": "waitandwaste",
+      "status_id": "2031756129332834710",
+      "timestamp_label": "Mar 11, 2026",
+      "date_iso": "2026-03-11",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/waitandwaste/status/2031756129332834710"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/AIPandaX/status/2037122632123113731",
+      "author": "AIPandaX",
+      "status_id": "2037122632123113731",
+      "timestamp_label": "Mar 26, 2026",
+      "date_iso": "2026-03-26",
+      "text": "3. The False Urgency Filter Situation: Your Slack is blowing up at 4:45 PM on a Friday with a so-called \"emergency\" from a product manager who forgot to plan ahead. System: Wait exactly 15 minutes before replying. Ask one clarifying question: \"Is production currently down, or",
+      "source": "https://r.jina.ai/http://x.com/AIPandaX/status/2037122632123113731"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/DAIEvolutionHub/status/2035127070217707807",
+      "author": "DAIEvolutionHub",
+      "status_id": "2035127070217707807",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/EMjHtiGf1F",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2035127070217707807"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/HarshSh54928171/status/2034905850318659631",
+      "author": "HarshSh54928171",
+      "status_id": "2034905850318659631",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/HarshSh54928171/status/2034905850318659631"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/rvivek/status/2026385957596111044",
+      "author": "rvivek",
+      "status_id": "2026385957596111044",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/rvivek/status/2026385957596111044"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/swadeshkumar_/status/2036009329820930350",
+      "author": "swadeshkumar_",
+      "status_id": "2036009329820930350",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/182KAoejTJ",
+      "source": "https://r.jina.ai/http://x.com/swadeshkumar_/status/2036009329820930350"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/0xlelouch_/status/2026602663010615733",
+      "author": "0xlelouch_",
+      "status_id": "2026602663010615733",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2026602663010615733"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/IAmConfusionBru/status/2030783322306015516",
+      "author": "IAmConfusionBru",
+      "status_id": "2030783322306015516",
+      "timestamp_label": "Mar 8, 2026",
+      "date_iso": "2026-03-08",
+      "text": "@ShitpostRock Civilians don't realize, MRE's can be balling as hell bro, but remember, we never speak of the Veggie omelet, screw that https://t.co/JZgddjEX5R",
+      "source": "https://r.jina.ai/http://x.com/IAmConfusionBru/status/2030783322306015516"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/KrishXCodes/status/2030858734671638528",
+      "author": "KrishXCodes",
+      "status_id": "2030858734671638528",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/KrishXCodes/status/2030858734671638528"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/elmd_/status/2032542113297031307",
+      "author": "elmd_",
+      "status_id": "2032542113297031307",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/elmd_/status/2032542113297031307"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/eyad_khrais/status/2010076957938188661",
+      "author": "eyad_khrais",
+      "status_id": "2010076957938188661",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/eyad_khrais/status/2010076957938188661"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/felixge/status/1468155086648061952",
+      "author": "felixge",
+      "status_id": "1468155086648061952",
+      "timestamp_label": "Dec 7, 2021",
+      "date_iso": "2021-12-07",
+      "text": "Pro Tip: Are you tired of reviewing GitHub PR diff chunks out of context? Replace https://t.co/veACqVC6ff with https://t.co/1qMNC9PxsS in the URL to enjoy a much better reviewing experience. via @__jakub_g https://t.co/WtjolHxuq1",
+      "source": "https://r.jina.ai/http://x.com/felixge/status/1468155086648061952"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/hwchase17/status/2033978553499607160",
+      "author": "hwchase17",
+      "status_id": "2033978553499607160",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/hwchase17/status/2033978553499607160"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/iam_elias1/status/2034308559606014223",
+      "author": "iam_elias1",
+      "status_id": "2034308559606014223",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/iam_elias1/status/2034308559606014223"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/kimmonismus/status/2036126784887071221",
+      "author": "kimmonismus",
+      "status_id": "2036126784887071221",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/kimmonismus/status/2036126784887071221"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/ryancarson/status/2023452909883609111",
+      "author": "ryancarson",
+      "status_id": "2023452909883609111",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ryancarson/status/2023452909883609111"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/0xlelouch_/status/2024095590163071198",
+      "author": "0xlelouch_",
+      "status_id": "2024095590163071198",
+      "timestamp_label": "Feb 18, 2026",
+      "date_iso": "2026-02-18",
+      "text": "Some Go channels interview questions I actually care about: 1. Buffered vs unbuffered: what\u2019s your backpressure story? what happens when the receiver is slow for 10 minutes? 2. `select`: can you explain fairness, `default` busy loops, and how you avoid \u201crandom\u201d starvation bugs?",
+      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2024095590163071198"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/App_Keys/status/2026644670504382800",
+      "author": "App_Keys",
+      "status_id": "2026644670504382800",
+      "timestamp_label": "Feb 25, 2026",
+      "date_iso": "2026-02-25",
+      "text": "When Agent A has a bug with Agent B's service, who owns the ticket? We built the answer: Universal Agent Ticketing on AppKeys. One system of record. Any agent files against any service. Cross-agent threads. Auto-forwarding. Full lifecycle tracking. POST",
+      "source": "https://r.jina.ai/http://x.com/App_Keys/status/2026644670504382800"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/Bugenjoyer32/status/2039212491260223989",
+      "author": "Bugenjoyer32",
+      "status_id": "2039212491260223989",
+      "timestamp_label": "Apr 1, 2026",
+      "date_iso": "2026-04-01",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Bugenjoyer32/status/2039212491260223989"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/HackenProof/status/2032819043120586863",
+      "author": "HackenProof",
+      "status_id": "2032819043120586863",
+      "timestamp_label": "Mar 14, 2026",
+      "date_iso": "2026-03-14",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/HackenProof/status/2032819043120586863"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/cryptopeterb/status/2032497015675039880",
+      "author": "cryptopeterb",
+      "status_id": "2032497015675039880",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/cryptopeterb/status/2032497015675039880"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/danksterintel/status/2037918583989416015",
+      "author": "danksterintel",
+      "status_id": "2037918583989416015",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/danksterintel/status/2037918583989416015"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/danlovesproofs/status/2029079387262656841",
+      "author": "danlovesproofs",
+      "status_id": "2029079387262656841",
+      "timestamp_label": "Mar 4, 2026",
+      "date_iso": "2026-03-04",
+      "text": "ok i am surprised how many engineers from linear and atlassian are liking this.",
+      "source": "https://r.jina.ai/http://x.com/danlovesproofs/status/2029079387262656841"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/mattbarberio/status/2035125102677741608",
+      "author": "mattbarberio",
+      "status_id": "2035125102677741608",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/mattbarberio/status/2035125102677741608"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/ryan_tech_lab/status/2038787650203566105",
+      "author": "ryan_tech_lab",
+      "status_id": "2038787650203566105",
+      "timestamp_label": "Mar 31, 2026",
+      "date_iso": "2026-03-31",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ryan_tech_lab/status/2038787650203566105"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/thedawgyg/status/2027570919506358630",
+      "author": "thedawgyg",
+      "status_id": "2027570919506358630",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/thedawgyg/status/2027570919506358630"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/AlexFinn/status/2017305997212323887",
+      "author": "AlexFinn",
+      "status_id": "2017305997212323887",
+      "timestamp_label": "Jan 30, 2026",
+      "date_iso": "2026-01-30",
+      "text": "Ok. This is straight out of a scifi horror movie I'm doing work this morning when all of a sudden an unknown number calls me. I pick up and couldn't believe it It's my Clawdbot Henry. Over night Henry got a phone number from Twilio, connected the ChatGPT voice API, and waited https://t.co/kiBHHaao9V",
+      "source": "https://r.jina.ai/http://x.com/AlexFinn/status/2017305997212323887"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/BEWITCHBUCK/status/2037124684450337245",
+      "author": "BEWITCHBUCK",
+      "status_id": "2037124684450337245",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/BEWITCHBUCK/status/2037124684450337245"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/JayDook/status/2032593189496815616",
+      "author": "JayDook",
+      "status_id": "2032593189496815616",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/JayDook/status/2032593189496815616"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/MLB/status/2025709450263138681",
+      "author": "MLB",
+      "status_id": "2025709450263138681",
+      "timestamp_label": "Feb 22, 2026",
+      "date_iso": "2026-02-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/MLB/status/2025709450263138681"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/charlespattson/status/2018703899859763288",
+      "author": "charlespattson",
+      "status_id": "2018703899859763288",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/charlespattson/status/2018703899859763288"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/freezymfe/status/2036153180900434158",
+      "author": "freezymfe",
+      "status_id": "2036153180900434158",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/freezymfe/status/2036153180900434158"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out status",
+      "url": "https://x.com/over100tabs/status/2028698518265688067",
+      "author": "over100tabs",
+      "status_id": "2028698518265688067",
+      "timestamp_label": "Mar 3, 2026",
+      "date_iso": "2026-03-03",
+      "text": "bro, @mailbox1s i was on reddit for a completely different reason and i saw your AFO telling Kotaro to \"find someone who will listen to you\" comic and it had me thinking real hard cause all these people with floating and jumping quirks and this spawned out of my brain https://t.co/K0b5V0MAtA",
+      "source": "https://r.jina.ai/http://x.com/over100tabs/status/2028698518265688067"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/AoiNakamur81455/status/2029962499068678500",
+      "author": "AoiNakamur81455",
+      "status_id": "2029962499068678500",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/AoiNakamur81455/status/2029962499068678500"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/Hi_Mrinal/status/2032419585509773533",
+      "author": "Hi_Mrinal",
+      "status_id": "2032419585509773533",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Hi_Mrinal/status/2032419585509773533"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/IcarusHermes/status/2037030845635084785",
+      "author": "IcarusHermes",
+      "status_id": "2037030845635084785",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/IcarusHermes/status/2037030845635084785"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/ShabbatMonster/status/2039157215815151869",
+      "author": "ShabbatMonster",
+      "status_id": "2039157215815151869",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ShabbatMonster/status/2039157215815151869"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/milan_milanovic/status/2029474496646717846",
+      "author": "milan_milanovic",
+      "status_id": "2029474496646717846",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/milan_milanovic/status/2029474496646717846"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/reggitales/status/2031916056760201714",
+      "author": "reggitales",
+      "status_id": "2031916056760201714",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/reggitales/status/2031916056760201714"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/ryancarson/status/2039336630713033157",
+      "author": "ryancarson",
+      "status_id": "2039336630713033157",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ryancarson/status/2039336630713033157"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/tempoimmaterial/status/2024536326780178480",
+      "author": "tempoimmaterial",
+      "status_id": "2024536326780178480",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/tempoimmaterial/status/2024536326780178480"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/thetripathi58/status/2037914593394360757",
+      "author": "thetripathi58",
+      "status_id": "2037914593394360757",
+      "timestamp_label": "Mar 28, 2026",
+      "date_iso": "2026-03-28",
+      "text": "9. The Context Switch Defense Situation: They ask how you handle a barrage of Slack messages and constant interruptions while trying to code. Response: \"I block out four hours of absolute silence every morning for deep work. I communicate this boundary clearly to the team",
+      "source": "https://r.jina.ai/http://x.com/thetripathi58/status/2037914593394360757"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "author": "BlueNexusAI",
+      "status_id": "2037983439257817361",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/BlueNexusAI/status/2037983439257817361"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/Elixium_ai/status/2037983186051805448",
+      "author": "Elixium_ai",
+      "status_id": "2037983186051805448",
+      "timestamp_label": "Mar 28, 2026",
+      "date_iso": "2026-03-28",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Elixium_ai/status/2037983186051805448"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/GergelyOrosz/status/1519686465176969216",
+      "author": "GergelyOrosz",
+      "status_id": "1519686465176969216",
+      "timestamp_label": "Apr 28, 2022",
+      "date_iso": "2022-04-28",
+      "text": "Incredible how most engineering managers don't realize how measuring developer productivity by visualizing JIRA+git stats is a dead-end if you want truly high-performing teams. This path works just like mandating that teams use Scrum. Yes: it helps bad teams get better.",
+      "source": "https://r.jina.ai/http://x.com/GergelyOrosz/status/1519686465176969216"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/amrishrau/status/2026930417648152776",
+      "author": "amrishrau",
+      "status_id": "2026930417648152776",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/amrishrau/status/2026930417648152776"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/ceeebeeebeee/status/2034495916619485468",
+      "author": "ceeebeeebeee",
+      "status_id": "2034495916619485468",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ceeebeeebeee/status/2034495916619485468"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/cjc/status/2024160762554700145",
+      "author": "cjc",
+      "status_id": "2024160762554700145",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/cjc/status/2024160762554700145"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/fkadev/status/2038725398767476943",
+      "author": "fkadev",
+      "status_id": "2038725398767476943",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "@eonem Engineers are not deterministic either. If you have two engineers following the same Jira task you\u2019d prefer the implementation with lower LOC, too. And I assure you they\u2019ll write completely different impl. So being an agent or human is not an argument in the LOC topic. Shorter is",
+      "source": "https://r.jina.ai/http://x.com/fkadev/status/2038725398767476943"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/jd_sauvage/status/2031796720594485555",
+      "author": "jd_sauvage",
+      "status_id": "2031796720594485555",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/jd_sauvage/status/2031796720594485555"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/jsensarma/status/2024812792000499721",
+      "author": "jsensarma",
+      "status_id": "2024812792000499721",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/jsensarma/status/2024812792000499721"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/snow_w_lee/status/2026870769704452460",
+      "author": "snow_w_lee",
+      "status_id": "2026870769704452460",
+      "timestamp_label": "Feb 26, 2026",
+      "date_iso": "2026-02-26",
+      "text": "context engineering solves the in-session problem. the harder problem: context in salesforce, jira, billing, slack history -- not in the session at all. that's not an llm architecture issue. it's a retrieval-before-response issue. ops teams lose 12 min per request to that gap",
+      "source": "https://r.jina.ai/http://x.com/snow_w_lee/status/2026870769704452460"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/HowThingsWork_/status/2025536295800373369",
+      "author": "HowThingsWork_",
+      "status_id": "2025536295800373369",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/HowThingsWork_/status/2025536295800373369"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/Nalanda_index/status/2020198146119463060",
+      "author": "Nalanda_index",
+      "status_id": "2020198146119463060",
+      "timestamp_label": "Feb 7, 2026",
+      "date_iso": "2026-02-07",
+      "text": "Massive cracks have appeared on the newly constructed overbridge in Naugachia, Bihar. Only technical experts can give the final verdict, but to the naked eye, this looks like a classic case of poor construction quality and questionable design. Was this overbridge built after https://t.co/2e7CMmx3o1",
+      "source": "https://r.jina.ai/http://x.com/Nalanda_index/status/2020198146119463060"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/RecessionAlert/status/2037681318050332857",
+      "author": "RecessionAlert",
+      "status_id": "2037681318050332857",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/RecessionAlert/status/2037681318050332857"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/ayushagarwal/status/2037890020422623274",
+      "author": "ayushagarwal",
+      "status_id": "2037890020422623274",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ayushagarwal/status/2037890020422623274"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/devops_nk/status/2025067960742936686",
+      "author": "devops_nk",
+      "status_id": "2025067960742936686",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/devops_nk/status/2025067960742936686"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/engineers_feed/status/1432376805395206144",
+      "author": "engineers_feed",
+      "status_id": "1432376805395206144",
+      "timestamp_label": "Aug 30, 2021",
+      "date_iso": "2021-08-30",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/engineers_feed/status/1432376805395206144"
+    },
+    {
+      "query": "site:x.com things falling through cracks engineering status",
+      "url": "https://x.com/hwchase17/status/2031051115169808685",
+      "author": "hwchase17",
+      "status_id": "2031051115169808685",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/hwchase17/status/2031051115169808685"
+    },
+    {
+      "query": "site:x.com standup status theater engineering manager",
+      "url": "https://x.com/AngelStandup/status/2010815515120251273",
+      "author": "AngelStandup",
+      "status_id": "2010815515120251273",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/AngelStandup/status/2010815515120251273"
+    },
+    {
+      "query": "site:x.com standup status theater engineering manager",
+      "url": "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "author": "DAIEvolutionHub",
+      "status_id": "2036420097737363539",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2036420097737363539"
+    },
+    {
+      "query": "site:x.com standup status theater engineering manager",
+      "url": "https://x.com/kim_minola/status/2031975249575637381",
+      "author": "kim_minola",
+      "status_id": "2031975249575637381",
+      "timestamp_label": "Mar 12, 2026",
+      "date_iso": "2026-03-12",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/kim_minola/status/2031975249575637381"
+    },
+    {
+      "query": "site:x.com standup status theater engineering manager",
+      "url": "https://x.com/standupmonkey/status/2030633196375679092",
+      "author": "standupmonkey",
+      "status_id": "2030633196375679092",
+      "timestamp_label": "Mar 8, 2026",
+      "date_iso": "2026-03-08",
+      "text": "@megalopolus_ I wouldn\u2019t disagree that, particularly in the early seasons, there were the odd sexualized moments here and there that could\u2019ve (should\u2019ve?) been cut. Don\u2019t feel this little eye shift qualifies. Just me\u2026",
+      "source": "https://r.jina.ai/http://x.com/standupmonkey/status/2030633196375679092"
+    },
+    {
+      "query": "site:x.com standup status theater engineering manager",
+      "url": "https://x.com/standupmonkey/status/2032931256673935797",
+      "author": "standupmonkey",
+      "status_id": "2032931256673935797",
+      "timestamp_label": "Mar 14, 2026",
+      "date_iso": "2026-03-14",
+      "text": "#VoiceActor #totaldrama #snoopy #translivesmatter\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f https://t.co/6zbUDxeEPI",
+      "source": "https://r.jina.ai/http://x.com/standupmonkey/status/2032931256673935797"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/GuruShareMarket/status/2030681358465655082",
+      "author": "GuruShareMarket",
+      "status_id": "2030681358465655082",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/GuruShareMarket/status/2030681358465655082"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/Ktap_ai/status/2012540515653210370",
+      "author": "Ktap_ai",
+      "status_id": "2012540515653210370",
+      "timestamp_label": "Jan 17, 2026",
+      "date_iso": "2026-01-17",
+      "text": "Ops teams aren\u2019t short on information. They\u2019re buried under it. Updates everywhere. Slack threads, docs, tickets, meeting notes. Everyone\u2019s busy, but nobody\u2019s fully sure what matters right now. #ai #notion #productivity https://t.co/Rr3dAVzR7k",
+      "source": "https://r.jina.ai/http://x.com/Ktap_ai/status/2012540515653210370"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/TechLayoffLover/status/2030650290546901148",
+      "author": "TechLayoffLover",
+      "status_id": "2030650290546901148",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2030650290546901148"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/TechLayoffLover/status/2033293460984181160",
+      "author": "TechLayoffLover",
+      "status_id": "2033293460984181160",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2033293460984181160"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/godofprompt/status/2036457238198362154",
+      "author": "godofprompt",
+      "status_id": "2036457238198362154",
+      "timestamp_label": "Mar 24, 2026",
+      "date_iso": "2026-03-24",
+      "text": "Creative teams don't have a talent problem. They have a file problem. The best work your team ever made is sitting in someone's Slack, mislabeled, buried under 6 versions of \"final.\" Air fixes that\ud83d\udc47 https://t.co/W8M6XqiZa7",
+      "source": "https://r.jina.ai/http://x.com/godofprompt/status/2036457238198362154"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/matt_pkl/status/2033242015295791517",
+      "author": "matt_pkl",
+      "status_id": "2033242015295791517",
+      "timestamp_label": "Mar 15, 2026",
+      "date_iso": "2026-03-15",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/matt_pkl/status/2033242015295791517"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/newlinedotco/status/2032358600346083456",
+      "author": "newlinedotco",
+      "status_id": "2032358600346083456",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/newlinedotco/status/2032358600346083456"
+    },
+    {
+      "query": "site:x.com decisions buried in slack engineering team",
+      "url": "https://x.com/rohanpaul_ai/status/2036119340794384407",
+      "author": "rohanpaul_ai",
+      "status_id": "2036119340794384407",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/rohanpaul_ai/status/2036119340794384407"
+    }
+  ],
+  "postsInWindow": [
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "author": "Akintola_steve",
+      "status_id": "2036760591885369814",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/AIPandaX/status/2037122632123113731",
+      "author": "AIPandaX",
+      "status_id": "2037122632123113731",
+      "timestamp_label": "Mar 26, 2026",
+      "date_iso": "2026-03-26",
+      "text": "3. The False Urgency Filter Situation: Your Slack is blowing up at 4:45 PM on a Friday with a so-called \"emergency\" from a product manager who forgot to plan ahead. System: Wait exactly 15 minutes before replying. Ask one clarifying question: \"Is production currently down, or",
+      "source": "https://r.jina.ai/http://x.com/AIPandaX/status/2037122632123113731"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/Bugenjoyer32/status/2039212491260223989",
+      "author": "Bugenjoyer32",
+      "status_id": "2039212491260223989",
+      "timestamp_label": "Apr 1, 2026",
+      "date_iso": "2026-04-01",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Bugenjoyer32/status/2039212491260223989"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/ryan_tech_lab/status/2038787650203566105",
+      "author": "ryan_tech_lab",
+      "status_id": "2038787650203566105",
+      "timestamp_label": "Mar 31, 2026",
+      "date_iso": "2026-03-31",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ryan_tech_lab/status/2038787650203566105"
+    },
+    {
+      "query": "site:x.com context is scattered in slack status",
+      "url": "https://x.com/thetripathi58/status/2037914593394360757",
+      "author": "thetripathi58",
+      "status_id": "2037914593394360757",
+      "timestamp_label": "Mar 28, 2026",
+      "date_iso": "2026-03-28",
+      "text": "9. The Context Switch Defense Situation: They ask how you handle a barrage of Slack messages and constant interruptions while trying to code. Response: \"I block out four hours of absolute silence every morning for deep work. I communicate this boundary clearly to the team",
+      "source": "https://r.jina.ai/http://x.com/thetripathi58/status/2037914593394360757"
+    },
+    {
+      "query": "site:x.com jira is useless engineering status",
+      "url": "https://x.com/Elixium_ai/status/2037983186051805448",
+      "author": "Elixium_ai",
+      "status_id": "2037983186051805448",
+      "timestamp_label": "Mar 28, 2026",
+      "date_iso": "2026-03-28",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Elixium_ai/status/2037983186051805448"
+    }
+  ]
+}
