@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, pr, ownership]
+source: internal-research
+---
+
+# Thread 12 - pr review bottleneck context vs code
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/butterflydnrrn/status/2036280185969058260
+
+## Post Text (Key Excerpt)
+
+```text
+The PR review bottleneck changes when you run 8 agents. Code review is easy. Context review is hard. Exit codes dont lie.
+```
+
+## Why It Matches Ryva ICP
+
+The post separates syntax checks from the real blocker: understanding intent and history. This maps directly to teams where status exists, but decision context is missing.
+
+## Underlying Problem
+
+Delivery slows because teams can validate code faster than they can validate context and ownership.
+
+## Suggested Public Response (Copy)
+
+```text
+Exactly. Most review latency is context latency. If intent, constraints, and owner are not explicit in the PR trail, teams burn cycles relitigating “why” before they can approve “what.”
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+What percentage of your PR delay is code issues vs missing context about intent/ownership?
+```
+
+## Snapshot
+
+- Author: @butterflydnrrn
+- Captured date label: 2026-03-24
+- Recency window: within past 7 days

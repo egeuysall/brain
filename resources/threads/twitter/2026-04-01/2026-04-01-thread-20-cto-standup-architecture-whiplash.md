@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-01
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, pr, ownership]
+source: internal-research
+---
+
+# Thread 20 - cto standup architecture whiplash
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/Akintola_steve/status/2036760591885369814
+
+## Post Text (Key Excerpt)
+
+```text
+It started the way it always does. The CTO had just spent the weekend deep in Netflix and Amazon engineering blogs. He came into standup on Monday with a new energy: “we need to build this properly from day one” “if we start with a monolith, we’ll just have to rewrite...”
+```
+
+## Why It Matches Ryva ICP
+
+This is a concrete small-team pain pattern: strategy shifts injected into standup without decision records. It leads to churn, unclear ownership, and constant re-planning.
+
+## Underlying Problem
+
+Architecture direction thrashes when decisions are announced in meetings but not captured with explicit scope and ownership.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the classic standup-to-strategy leak. When architecture decisions enter as verbal momentum instead of written tradeoffs, teams inherit churn and hidden rework.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When direction shifts like this on your team, where is the final decision and owner actually recorded?
+```
+
+## Snapshot
+
+- Author: @Akintola_steve
+- Captured date label: 2026-03-25
+- Recency window: within past 7 days
