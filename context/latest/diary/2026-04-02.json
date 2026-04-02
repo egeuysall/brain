@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-04-02",
+  "generatedAt": "2026-04-02",
+  "entry": {
+    "id": "2026-04-02",
+    "url": "https://egeuysal.com/diary/2026-04-02/",
+    "day": 28,
+    "date": "2026-04-02",
+    "summary": "Locking active teams, forcing second runs, and expanding",
+    "image": "https://cdn.egeuysal.com/content/post-23.png",
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
+    "body": "Good. Start with execution, not warm-up.\n\nFirst 2 hours tomorrow:\n\n- [ ] Lock the 2 additional teams (with CyberMinds = 3 active teams total).\n- [ ] Send second-pass updates to all 3 teams immediately.\n- [ ] Ask 1 forced question in each thread.\n\nNo posting, no outreach until this is done.\n\nIf the first runs are delayed, the whole day slips into noise.\n\nAfter that execution order:\n\n1. Active teams\n2. Converting responders\n3. New outreach\n\nThen run the blocks in this order:\n\n- [ ] Outreach block (X + Reddit): reply/DM 10 ICP people on X and 10 ICP people on Reddit with insight-first messages tied to their exact post + 1 repo/workflow question.\n- [ ] Post block: publish 1 X post (under 200 words), 1 Reddit post, and 1 LinkedIn post from real run proof.\n- [ ] Reply and rerun block: return to threads, convert responses into next-run timing (after next merge / before standup / end of day), and schedule immediate follow-up runs.\n\nCore conversion tasks:\n\n- [ ] Lock 3 active teams (CyberMinds + 2 strongest responders) with confirmed standup/context pain and active work.\n- [ ] Convert replies into next-run setup in-thread; goal is 2 confirmed next-run expectations.\n- [ ] Warm responder conversion: send first run to 5 responders with decisions made, missing decision, next action, plus 1 sharp question; goal is 3 replies.\n- [ ] Manual assist loop: deeply improve output for 1 team and resend same day; goal is 1 \"this is actually useful\" response.\n- [ ] Embed rerun trigger in every message; verify across 5 messages.\n- [ ] Kill low-signal threads after 2 non-engaged runs; spend zero time on non-responsive conversations.\n- [ ] Identify 1 non-CyberMinds team showing dependency signal and prepare payment conversation in next 2-3 runs.\n\nMessage me after you send the first 3 runs."
+  }
+}

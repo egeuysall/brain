@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "built-free-ai-api",
-  "generatedAt": "2026-04-01",
+  "generatedAt": "2026-04-02",
   "entry": {
     "id": "built-free-ai-api",
     "url": "https://egeuysal.com/blog/built-free-ai-api/",
@@ -11,7 +11,11 @@
     "description": "Yesterday I built my own AI API. The whole thing took an hour.",
     "publishedAt": "2025-10-12",
     "updatedAt": null,
-    "tags": ["technology", "coding", "ai"],
+    "tags": [
+      "technology",
+      "coding",
+      "ai"
+    ],
     "image": "https://images.pexels.com/photos/17485657/pexels-photo-17485657.png",
     "readingTime": 2,
     "body": "Yesterday I built my own AI API. The whole thing took an hour.\n\nI wasn't trying to build a product or compete with anyone. I just wanted a free AI API I could use in my projects without worrying about costs or rate limits.\n\n### Why I Built This\n\nI wanted something that was completely mine. No API keys, no usage limits, no monthly bills. Just a simple AI API I could throw into any project.\n\nThe idea came to me randomly and I just started building immediately instead of overthinking it.\n\n### How It Works\n\nI used my template repo [Foundry](https://github.com/egeuysall/foundry) to skip all the setup. Then I wrote about 100 lines of code for the API endpoints.\n\nFor the AI models, I'm using Ollama with smaller models like tinyllama, gemma3, and qwen3. They're lightweight and fast enough for what I need.\n\nI deployed everything with Docker and Docker Compose, set up Nginx with SSL certificates, and pushed it live. You can check it out at [copilot.egeuysal.com:9443](https://copilot.egeuysal.com:9443/) or see the code on [GitHub](https://github.com/egeuysall/copilot).\n\nI kept it simple on purpose. No streaming support because I didn't want WebSocket complexity. Just basic API calls that work.\n\n### What I Learned\n\nHaving templates and systems makes building things so much faster. Foundry has everything ready so I just focus on the actual functionality.\n\nYou don't need to plan everything out. Sometimes you just build something because it feels good to ship.\n\n### What's Next\n\nI'm going to use this API in everything I build from now on. Every project that needs AI functionality, this will be my go-to.\n\nIf you want to try it out, the API is live and completely free to use. And if this inspired you to build something, that's cool too."

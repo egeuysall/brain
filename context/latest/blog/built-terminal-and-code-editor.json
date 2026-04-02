@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "built-terminal-and-code-editor",
-  "generatedAt": "2026-04-01",
+  "generatedAt": "2026-04-02",
   "entry": {
     "id": "built-terminal-and-code-editor",
     "url": "https://egeuysal.com/blog/built-terminal-and-code-editor/",
@@ -11,7 +11,11 @@
     "description": "Last week I built a web based terminal, code editor, and assignment system.",
     "publishedAt": "2026-02-16",
     "updatedAt": null,
-    "tags": ["technology", "coding", "tutorial"],
+    "tags": [
+      "technology",
+      "coding",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/36182505/pexels-photo-36182505.png",
     "readingTime": 2,
     "body": "Last week I built a web-based terminal, code editor, and assignment system.\n\nI built it for an NGO called **CyberMinds**.\n\nYou can try it here:  \nhttps://cyber-minds.github.io/CyberMinds/\n\nThe project is fully open source:  \nhttps://github.com/Cyber-Minds/CyberMinds\n\n## Why I Built This\n\nCyberMinds teaches cybersecurity and technical skills.\n\nMost platforms either explain concepts without letting you try them, or they feel too heavy to actually use.\n\nI wanted something simple.\n\nWrite code.  \nRun commands.  \nSee real output.\n\nAll in the browser.\n\n## What It Does\n\nThe platform combines three things.\n\nA code editor  \nA live terminal  \nAn assignment system\n\nUsers can write code, run it, and get instant feedback.\n\nNothing is mocked.\n\n## The Terminal Is Real\n\nCommands are executed on the backend and streamed back to the browser in real time.\n\n```go\n// Create and attach to shell in container\nexecResp, _ := cli.ContainerExecCreate(context.Background(), session.ContainerID, execConfig)\nattachResp, _ := cli.ContainerExecAttach(context.Background(), execResp.ID, types.ExecStartCheck{Tty: true})\ndefer attachResp.Close()\n\n// Stream container output to browser\ngo func() {\n    buf := make([]byte, readBufferSize)\n    for {\n        n, _ := attachResp.Reader.Read(buf)\n        if n > 0 {\n            chunk := strings.ToValidUTF8(string(buf[:n]), \"\")\n            conn.WriteMessage(websocket.TextMessage, []byte(chunk))\n        }\n    }\n}()\n\n// Stream browser input to container\nfor {\n    _, message, _ := conn.ReadMessage()\n    attachResp.Conn.Write(message)\n}\n```\n\nThis is what makes it feel responsive and real.\n\n## Assignments Make It Useful\n\nAssignments control what users can edit, run, and submit.\n\nThey define the rules without locking users down.\n\n```js\nconst challengeCatalog = {\n  \"linux-basics\": {\n    objective:\n      \"List files, inspect permissions, and create a short report in report.txt.\",\n    steps: [\n      \"Run pwd, whoami, and ls -la.\",\n      \"Create challenge-notes and add a file named report.txt.\",\n      \"Write one line summarizing current directory ownership.\",\n    ],\n    firstCommand: \"pwd\",\n    checkScript:\n      'set -e; test -f report.txt; test -s report.txt; grep -Eqi \"(owner|permission|user|group)\" report.txt',\n    starterLang: \"python\",\n    starterCode: `import os\\nprint(\"Current directory:\", os.getcwd())\\n`,\n  },\n  // ... other challenges\n};\n```\n\nThis turns the platform from a sandbox into a learning tool.\n\n## Final Thought\n\nThis was not built as a demo.\n\nIt was built to be used.\n\nAnd building it for an NGO was a good reminder that real software does not have to be about startups or revenue.\n\nSometimes it is just about making something that works."
