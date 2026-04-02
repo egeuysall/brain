@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-03
+author: Codex
+tags: [outreach, reddit, icp, small-teams, scrum, coordination]
+source: https://www.reddit.com/r/scrum/comments/1s72d35/how_do_you_run_sprints_without_a_scrum_master/
+---
+
+# Thread 5: Small Teams Running Sprints Without Scrum Master
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/scrum/comments/1s72d35/how_do_you_run_sprints_without_a_scrum_master/
+
+## Full Post Text (Key Excerpt)
+
+"Most small and mid-size teams are running sprints without a Scrum Master..."
+
+## Why This Matches Ryva ICP
+
+This directly maps to Ryva’s ICP: small engineering teams trying to maintain alignment without dedicated process ownership. In these setups, context and decisions often become implicit and fragile.
+
+## Underlying Problem
+
+Ceremonies exist, but no clear owner maintains decision continuity between them.
+
+## Suggested Public Reply (Copy)
+
+```text
+This setup can work, but only if decision ownership is explicit. Without a Scrum Master, teams need a lightweight decision log and one rotating owner for follow-through. Otherwise sprint rituals run, but cross-thread context still leaks.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+You’re describing the exact operating model many 3–15 person teams use. If useful, I can share a minimal sprint-without-SM structure that keeps ownership and decision memory intact across Slack/GitHub.
+```

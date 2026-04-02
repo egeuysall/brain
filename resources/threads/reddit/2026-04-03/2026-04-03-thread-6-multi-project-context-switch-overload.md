@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-03
+author: Codex
+tags: [outreach, reddit, icp, context-switching, multi-project, visibility]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1sac8ct/older_backend_dev_multiple_projects_and_it_sucks/
+---
+
+# Thread 6: Multi-Project Context Switching Overload
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1sac8ct/older_backend_dev_multiple_projects_and_it_sucks/
+
+## Full Post Text (Key Excerpt)
+
+"I’ve got several big projects going at once... context switching is getting harder."
+
+## Why This Matches Ryva ICP
+
+This is direct day-to-day project-state pain in a dev workflow: too many concurrent streams and weak continuity. It indicates context is fragmented and hard to reconstruct quickly.
+
+## Underlying Problem
+
+Project context is distributed across too many active threads for one person to keep mentally synchronized.
+
+## Suggested Public Reply (Copy)
+
+```text
+You’re hitting the cognitive ceiling, not a motivation issue. Once a developer owns multiple major streams, hidden context reload becomes the real tax. A weekly owner+decision snapshot per project usually cuts this switching penalty fast.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+This is a familiar pattern in small teams with too many concurrent priorities. If you want, I can share a lightweight way to externalize project context so you’re not rebuilding state from memory each switch.
+```

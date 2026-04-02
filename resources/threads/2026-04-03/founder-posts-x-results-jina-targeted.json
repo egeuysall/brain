@@ -1,0 +1,82 @@
+{
+  "generatedAt": "2026-04-02T22:51:15.158723+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 14,
+  "queries": [
+    "site:x.com \"standups are\" engineering manager",
+    "site:x.com \"status theater\" engineering standup",
+    "site:x.com \"who owns this bug\" engineering",
+    "site:x.com \"ownership unclear\" bug engineering",
+    "site:x.com \"context is scattered\" slack jira engineering",
+    "site:x.com \"decisions buried in slack\" engineering team",
+    "site:x.com \"had to jump on a call\" \"figure this out\" engineering",
+    "site:x.com \"things falling through cracks\" engineering team",
+    "site:x.com \"waiting for review\" \"PR\" \"days\"",
+    "site:x.com \"daily standup\" \"waste\" \"engineering\"",
+    "site:x.com \"we do not know what is going on\" engineering",
+    "site:x.com \"ticket\" \"stale\" \"slack\"",
+    "site:x.com \"github\" \"slack\" \"who owns\" bug"
+  ],
+  "perQueryLinks": {
+    "site:x.com \"standups are\" engineering manager": [
+      "https://x.com/DAIEvolutionHub/status/2036420097737363539"
+    ],
+    "site:x.com \"status theater\" engineering standup": [
+      "https://x.com/DAIEvolutionHub/status/2036420097737363539"
+    ],
+    "site:x.com \"who owns this bug\" engineering": [],
+    "site:x.com \"ownership unclear\" bug engineering": [
+      "https://x.com/func25/status/2026917859738239231"
+    ],
+    "site:x.com \"context is scattered\" slack jira engineering": [],
+    "site:x.com \"decisions buried in slack\" engineering team": [],
+    "site:x.com \"had to jump on a call\" \"figure this out\" engineering": [],
+    "site:x.com \"things falling through cracks\" engineering team": [],
+    "site:x.com \"waiting for review\" \"PR\" \"days\"": [],
+    "site:x.com \"daily standup\" \"waste\" \"engineering\"": [],
+    "site:x.com \"we do not know what is going on\" engineering": [],
+    "site:x.com \"ticket\" \"stale\" \"slack\"": [],
+    "site:x.com \"github\" \"slack\" \"who owns\" bug": []
+  },
+  "counts": {
+    "queries": 13,
+    "rawLinks": 3,
+    "uniqueLinks": 2,
+    "hydrated": 2,
+    "inWindow": 1
+  },
+  "posts": [
+    {
+      "query": "site:x.com \"standups are\" engineering manager",
+      "url": "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "author": "DAIEvolutionHub",
+      "status_id": "2036420097737363539",
+      "timestamp_label": "Mar 24, 2026",
+      "date_iso": "2026-03-24",
+      "text": "Daily standups are just status theater. \u2192 Same updates \u2192 Broken focus \u2192 Zero real progress Teams don\u2019t need more meetings. They need uninterrupted time to build. Found this interesting: \ud83d\udc49 https://t.co/Pr7UzfxHLx Async updates. No fixed standups. Less talking. More doing. https://t.co/784EJlhnM1",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2036420097737363539"
+    },
+    {
+      "query": "site:x.com \"ownership unclear\" bug engineering",
+      "url": "https://x.com/func25/status/2026917859738239231",
+      "author": "func25",
+      "status_id": "2026917859738239231",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/func25/status/2026917859738239231"
+    }
+  ],
+  "postsInWindow": [
+    {
+      "query": "site:x.com \"standups are\" engineering manager",
+      "url": "https://x.com/DAIEvolutionHub/status/2036420097737363539",
+      "author": "DAIEvolutionHub",
+      "status_id": "2036420097737363539",
+      "timestamp_label": "Mar 24, 2026",
+      "date_iso": "2026-03-24",
+      "text": "Daily standups are just status theater. \u2192 Same updates \u2192 Broken focus \u2192 Zero real progress Teams don\u2019t need more meetings. They need uninterrupted time to build. Found this interesting: \ud83d\udc49 https://t.co/Pr7UzfxHLx Async updates. No fixed standups. Less talking. More doing. https://t.co/784EJlhnM1",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2036420097737363539"
+    }
+  ]
+}

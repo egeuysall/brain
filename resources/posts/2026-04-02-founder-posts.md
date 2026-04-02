@@ -1,0 +1,71 @@
+X:
+Meeting notes are not your bottleneck. Follow-through is.
+
+Today's signal pattern was blunt:
+
+- an X workflow thread showed a clean flow from call -> transcript -> notes -> tickets
+- Reddit operators still asked the same question: how do we make meeting action items actually get done?
+
+Capture is getting automated.
+Closure is still manual.
+
+If an action leaves a call without these 3 fields, it usually dies:
+
+1. owner
+2. recheck trigger (date or event)
+3. stale escalation path
+
+Standups often exist to recover this missing layer.
+
+Yesterday I was focused on second-run inevitability.
+This is the same problem in a different place.
+
+@egewrk
+
+LinkedIn:
+I pulled coordination signals today and noticed a useful contradiction.
+
+On X, I saw a workflow where one call becomes a transcript, notes, tickets, and even code handoff.
+On Reddit, PMs were still asking how to make meeting action items actually get followed through, and how to get them into systems reliably.
+
+So the gap is not capture.
+The gap is operational closure.
+
+Yesterday's diary note for me was second-run inevitability.
+This feels identical:
+
+- first run: collect what was said
+- second run: verify what actually moved
+
+When teams skip the second run, action items turn into standup fuel instead of project movement.
+
+The rule I am testing:
+
+Every action item must carry:
+
+1. owner
+2. trigger for recheck (time or event)
+3. escalation condition if stale
+
+Most meeting pain is not about bad meetings.
+It is about missing closure contracts after the meeting.
+
+Reddit:
+Subreddit: r/ExperiencedDevs
+Title: Do you enforce an expiry rule on meeting action items?
+Body:
+I am seeing a recurring pattern and want a sanity check from people running real teams.
+
+Capture feels mostly solved now. We can pull transcripts, summarize notes, and extract action items fast.
+
+But follow-through still seems messy. I saw multiple threads where people asked how to get meeting actions actually completed or reliably moved into a tracking system.
+
+I am testing a simple rule:
+
+- no action item without a named owner
+- no action item without a recheck trigger (date or event)
+- if it is stale past trigger, it must escalate to one person
+
+Without that, we end up using standups to reconstruct status from scratch.
+
+For teams that keep things async, what is your lightest rule that actually makes meeting actions close?

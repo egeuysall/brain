@@ -1,0 +1,621 @@
+{
+  "generatedAt": "2026-04-02T22:48:27.920188+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 14,
+  "queries": [
+    "site:x.com standup waste engineering team status",
+    "site:x.com engineering manager slack chaos status",
+    "site:x.com PR confusion review context status",
+    "site:x.com who owns this bug status",
+    "site:x.com had to jump on a call to figure it out status"
+  ],
+  "perQueryLinks": {
+    "site:x.com standup waste engineering team status": [
+      "https://x.com/Akintola_steve/status/2036760591885369814",
+      "https://x.com/STANDWITHEN7/status/2033558202743140587",
+      "https://x.com/adcwaste/status/2034973062001770817",
+      "https://x.com/affaanmustafa/status/2014040193557471352",
+      "https://x.com/danshipper/status/2035842017553465814",
+      "https://x.com/kevinsxu/status/2029961571296743585",
+      "https://x.com/seyedele/status/2029258322482774253",
+      "https://x.com/skinwaste/status/2024931315175313842",
+      "https://x.com/waitandwaste/status/2031756129332834710"
+    ],
+    "site:x.com engineering manager slack chaos status": [
+      "https://x.com/ChaosPolicy/status/1998438448869552501",
+      "https://x.com/DAIEvolutionHub/status/2035127070217707807",
+      "https://x.com/Simon_Ingari/status/2039579657432080642",
+      "https://x.com/SlackStatus/status/1628443836757454849",
+      "https://x.com/TechLayoffLover/status/2030452231779004693",
+      "https://x.com/TechLayoffLover/status/2032261407433978304",
+      "https://x.com/swadeshkumar_/status/2036009329820930350"
+    ],
+    "site:x.com PR confusion review context status": [
+      "https://x.com/0xlelouch_/status/2026602663010615733",
+      "https://x.com/IAmConfusionBru/status/2030783322306015516",
+      "https://x.com/KrishXCodes/status/2030858734671638528",
+      "https://x.com/alxfazio/status/2038304800857579877",
+      "https://x.com/elmd_/status/2032542113297031307",
+      "https://x.com/felixge/status/1468155086648061952",
+      "https://x.com/hwchase17/status/2033978553499607160",
+      "https://x.com/iam_elias1/status/2034308559606014223",
+      "https://x.com/kimmonismus/status/2036126784887071221",
+      "https://x.com/ryancarson/status/2023452909883609111"
+    ],
+    "site:x.com who owns this bug status": [
+      "https://x.com/0xlelouch_/status/2024095590163071198",
+      "https://x.com/App_Keys/status/2026644670504382800",
+      "https://x.com/Bencera/status/2038721350618206478",
+      "https://x.com/HackenProof/status/2032819043120586863",
+      "https://x.com/IFBD1907/status/2038374219650601393",
+      "https://x.com/LobsterForgeAI/status/2039784145933697083",
+      "https://x.com/cryptopeterb/status/2032497015675039880",
+      "https://x.com/gravydw/status/2036139539455168936",
+      "https://x.com/jamonholmgren/status/2032895545707229549",
+      "https://x.com/mattbarberio/status/2035125102677741608"
+    ],
+    "site:x.com had to jump on a call to figure it out status": [
+      "https://x.com/DallasPD/status/2035121708294971513",
+      "https://x.com/JUMP_SQ/status/1982726982661210252",
+      "https://x.com/KeithSmithNBA/status/2035531121111298263",
+      "https://x.com/MLB/status/2025709450263138681",
+      "https://x.com/SH_Lowlight/status/2026016270215414233",
+      "https://x.com/ScottJewers/status/2033718807831974160",
+      "https://x.com/THESTATENEWSS/status/2026239321414471771",
+      "https://x.com/arincallsout/status/2023003657533632781",
+      "https://x.com/charlespattson/status/2018703899859763288",
+      "https://x.com/jchdotme/status/2039399255421378648"
+    ]
+  },
+  "counts": {
+    "queries": 5,
+    "rawLinks": 46,
+    "uniqueLinks": 46,
+    "hydrated": 45,
+    "inWindow": 9
+  },
+  "posts": [
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "author": "Akintola_steve",
+      "status_id": "2036760591885369814",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "It started the way it always does. The CTO had just spent the weekend deep in Netflix and Amazon engineering blogs. He came into standup on Monday with a new energy: \u201cwe need to build this properly from day one\u201d \u201cif we start with a monolith, we\u2019ll just have to rewrite",
+      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/STANDWITHEN7/status/2033558202743140587",
+      "author": "STANDWITHEN7",
+      "status_id": "2033558202743140587",
+      "timestamp_label": "Mar 16, 2026",
+      "date_iso": "2026-03-16",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/STANDWITHEN7/status/2033558202743140587"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/affaanmustafa/status/2014040193557471352",
+      "author": "affaanmustafa",
+      "status_id": "2014040193557471352",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/affaanmustafa/status/2014040193557471352"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/danshipper/status/2035842017553465814",
+      "author": "danshipper",
+      "status_id": "2035842017553465814",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "new model for engineering team structure in 2026: 2 people only one pirate and one architect the pirate's job is to move as fast as possible to develop valuable, shipped product features by vibe coding. the architect's job is to turn the product surface discovered by the",
+      "source": "https://r.jina.ai/http://x.com/danshipper/status/2035842017553465814"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/kevinsxu/status/2029961571296743585",
+      "author": "kevinsxu",
+      "status_id": "2029961571296743585",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/kevinsxu/status/2029961571296743585"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/seyedele/status/2029258322482774253",
+      "author": "seyedele",
+      "status_id": "2029258322482774253",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/seyedele/status/2029258322482774253"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/skinwaste/status/2024931315175313842",
+      "author": "skinwaste",
+      "status_id": "2024931315175313842",
+      "timestamp_label": "Feb 20, 2026",
+      "date_iso": "2026-02-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/skinwaste/status/2024931315175313842"
+    },
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/waitandwaste/status/2031756129332834710",
+      "author": "waitandwaste",
+      "status_id": "2031756129332834710",
+      "timestamp_label": "Mar 11, 2026",
+      "date_iso": "2026-03-11",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/waitandwaste/status/2031756129332834710"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/ChaosPolicy/status/1998438448869552501",
+      "author": "ChaosPolicy",
+      "status_id": "1998438448869552501",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ChaosPolicy/status/1998438448869552501"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/DAIEvolutionHub/status/2035127070217707807",
+      "author": "DAIEvolutionHub",
+      "status_id": "2035127070217707807",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/EMjHtiGf1F",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2035127070217707807"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/Simon_Ingari/status/2039579657432080642",
+      "author": "Simon_Ingari",
+      "status_id": "2039579657432080642",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "1.The Capacity Reality Check Situation: Your manager drops three more \u201chigh-priority\u201d tasks into a sprint that is already full, leaving you boxed into either sacrificing your weekend or disappointing someone. Response: \u201cI can start on this right away. Which of my current",
+      "source": "https://r.jina.ai/http://x.com/Simon_Ingari/status/2039579657432080642"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/SlackStatus/status/1628443836757454849",
+      "author": "SlackStatus",
+      "status_id": "1628443836757454849",
+      "timestamp_label": "Feb 22, 2023",
+      "date_iso": "2023-02-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/SlackStatus/status/1628443836757454849"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/TechLayoffLover/status/2030452231779004693",
+      "author": "TechLayoffLover",
+      "status_id": "2030452231779004693",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2030452231779004693"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/TechLayoffLover/status/2032261407433978304",
+      "author": "TechLayoffLover",
+      "status_id": "2032261407433978304",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2032261407433978304"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/swadeshkumar_/status/2036009329820930350",
+      "author": "swadeshkumar_",
+      "status_id": "2036009329820930350",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/182KAoejTJ",
+      "source": "https://r.jina.ai/http://x.com/swadeshkumar_/status/2036009329820930350"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/0xlelouch_/status/2026602663010615733",
+      "author": "0xlelouch_",
+      "status_id": "2026602663010615733",
+      "timestamp_label": "Feb 25, 2026",
+      "date_iso": "2026-02-25",
+      "text": "It\u2019s a disaster reading AI-generated code from juniors lately. 1. PR count is up. Throughput is down. No tests, no clear invariants. 2. Everyone\u2019s AI has different context, so the same feature gets 5 different \u201ctruths\u201d. 3. If this is not enough, we are being told to generate PRs",
+      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2026602663010615733"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/IAmConfusionBru/status/2030783322306015516",
+      "author": "IAmConfusionBru",
+      "status_id": "2030783322306015516",
+      "timestamp_label": "Mar 8, 2026",
+      "date_iso": "2026-03-08",
+      "text": "@ShitpostRock Civilians don't realize, MRE's can be balling as hell bro, but remember, we never speak of the Veggie omelet, screw that https://t.co/JZgddjEX5R",
+      "source": "https://r.jina.ai/http://x.com/IAmConfusionBru/status/2030783322306015516"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/KrishXCodes/status/2030858734671638528",
+      "author": "KrishXCodes",
+      "status_id": "2030858734671638528",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/KrishXCodes/status/2030858734671638528"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/alxfazio/status/2038304800857579877",
+      "author": "alxfazio",
+      "status_id": "2038304800857579877",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/alxfazio/status/2038304800857579877"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/elmd_/status/2032542113297031307",
+      "author": "elmd_",
+      "status_id": "2032542113297031307",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/elmd_/status/2032542113297031307"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/felixge/status/1468155086648061952",
+      "author": "felixge",
+      "status_id": "1468155086648061952",
+      "timestamp_label": "Dec 7, 2021",
+      "date_iso": "2021-12-07",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/felixge/status/1468155086648061952"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/hwchase17/status/2033978553499607160",
+      "author": "hwchase17",
+      "status_id": "2033978553499607160",
+      "timestamp_label": "Mar 17, 2026",
+      "date_iso": "2026-03-17",
+      "text": "loved this article by @kishan_dahya as we built openswe (fully oss background coding agent) we compared our decisions to the mental model outlined here try out open swe here: https://t.co/c3jg6EjbWE https://t.co/2Y0EIn8OtG",
+      "source": "https://r.jina.ai/http://x.com/hwchase17/status/2033978553499607160"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/iam_elias1/status/2034308559606014223",
+      "author": "iam_elias1",
+      "status_id": "2034308559606014223",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/iam_elias1/status/2034308559606014223"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/kimmonismus/status/2036126784887071221",
+      "author": "kimmonismus",
+      "status_id": "2036126784887071221",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/kimmonismus/status/2036126784887071221"
+    },
+    {
+      "query": "site:x.com PR confusion review context status",
+      "url": "https://x.com/ryancarson/status/2023452909883609111",
+      "author": "ryancarson",
+      "status_id": "2023452909883609111",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ryancarson/status/2023452909883609111"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/0xlelouch_/status/2024095590163071198",
+      "author": "0xlelouch_",
+      "status_id": "2024095590163071198",
+      "timestamp_label": "Feb 18, 2026",
+      "date_iso": "2026-02-18",
+      "text": "Some Go channels interview questions I actually care about: 1. Buffered vs unbuffered: what\u2019s your backpressure story? what happens when the receiver is slow for 10 minutes? 2. `select`: can you explain fairness, `default` busy loops, and how you avoid \u201crandom\u201d starvation bugs?",
+      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2024095590163071198"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/App_Keys/status/2026644670504382800",
+      "author": "App_Keys",
+      "status_id": "2026644670504382800",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/App_Keys/status/2026644670504382800"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/Bencera/status/2038721350618206478",
+      "author": "Bencera",
+      "status_id": "2038721350618206478",
+      "timestamp_label": "Mar 30, 2026",
+      "date_iso": "2026-03-30",
+      "text": "How to build a team in 2026: Hire for 3 things only: - AI-pilled (AI is the smartest person in the room now. \"10x engineer\" is dead.) - High ownership (every person owns a KPI, not tasks) - Highly motivated (if they're not pumped they're dragging everyone down) Then 2 rules: -",
+      "source": "https://r.jina.ai/http://x.com/Bencera/status/2038721350618206478"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/HackenProof/status/2032819043120586863",
+      "author": "HackenProof",
+      "status_id": "2032819043120586863",
+      "timestamp_label": "Mar 14, 2026",
+      "date_iso": "2026-03-14",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/HackenProof/status/2032819043120586863"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/IFBD1907/status/2038374219650601393",
+      "author": "IFBD1907",
+      "status_id": "2038374219650601393",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/IFBD1907/status/2038374219650601393"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/LobsterForgeAI/status/2039784145933697083",
+      "author": "LobsterForgeAI",
+      "status_id": "2039784145933697083",
+      "timestamp_label": "Apr 2, 2026",
+      "date_iso": "2026-04-02",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/LobsterForgeAI/status/2039784145933697083"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/cryptopeterb/status/2032497015675039880",
+      "author": "cryptopeterb",
+      "status_id": "2032497015675039880",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/cryptopeterb/status/2032497015675039880"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/gravydw/status/2036139539455168936",
+      "author": "gravydw",
+      "status_id": "2036139539455168936",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "@BradPunkhouse @kappagunnakap @lendorexyz @BiddsonCore It wasn't a bug. You announced the new name and he minted the domain before your team thought of it. If you minted it first then announced, this would not be an issue. He owns that domain and you are stealing it. Business is business... you slipped up... not a bug",
+      "source": "https://r.jina.ai/http://x.com/gravydw/status/2036139539455168936"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/jamonholmgren/status/2032895545707229549",
+      "author": "jamonholmgren",
+      "status_id": "2032895545707229549",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/jamonholmgren/status/2032895545707229549"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/mattbarberio/status/2035125102677741608",
+      "author": "mattbarberio",
+      "status_id": "2035125102677741608",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/mattbarberio/status/2035125102677741608"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/DallasPD/status/2035121708294971513",
+      "author": "DallasPD",
+      "status_id": "2035121708294971513",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/DallasPD/status/2035121708294971513"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/JUMP_SQ/status/1982726982661210252",
+      "author": "JUMP_SQ",
+      "status_id": "1982726982661210252",
+      "timestamp_label": "Oct 27, 2025",
+      "date_iso": "2025-10-27",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/JUMP_SQ/status/1982726982661210252"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/KeithSmithNBA/status/2035531121111298263",
+      "author": "KeithSmithNBA",
+      "status_id": "2035531121111298263",
+      "timestamp_label": "Mar 22, 2026",
+      "date_iso": "2026-03-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/KeithSmithNBA/status/2035531121111298263"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/MLB/status/2025709450263138681",
+      "author": "MLB",
+      "status_id": "2025709450263138681",
+      "timestamp_label": "Feb 22, 2026",
+      "date_iso": "2026-02-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/MLB/status/2025709450263138681"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/SH_Lowlight/status/2026016270215414233",
+      "author": "SH_Lowlight",
+      "status_id": "2026016270215414233",
+      "timestamp_label": "Feb 23, 2026",
+      "date_iso": "2026-02-23",
+      "text": "@HustleBitch_ Just had a similar at call with @IHGOneRewards no supervisor to address the problem, I have to jump through hoops for their error. Wouldn\u2019t even tell me what the problem was, only I had one.",
+      "source": "https://r.jina.ai/http://x.com/SH_Lowlight/status/2026016270215414233"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/ScottJewers/status/2033718807831974160",
+      "author": "ScottJewers",
+      "status_id": "2033718807831974160",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ScottJewers/status/2033718807831974160"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/THESTATENEWSS/status/2026239321414471771",
+      "author": "THESTATENEWSS",
+      "status_id": "2026239321414471771",
+      "timestamp_label": "Feb 24, 2026",
+      "date_iso": "2026-02-24",
+      "text": "A man reportedly tried to jump into the sea at night after allegedly discovering his wife cheating during a live video call. Locals nearby quickly intervened, preventing a tragic outcome. Instead of receiving sympathy, he was beaten, reprimanded, and questioned about why he https://t.co/qsMnGOQidB",
+      "source": "https://r.jina.ai/http://x.com/THESTATENEWSS/status/2026239321414471771"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/arincallsout/status/2023003657533632781",
+      "author": "arincallsout",
+      "status_id": "2023003657533632781",
+      "timestamp_label": "Feb 15, 2026",
+      "date_iso": "2026-02-15",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/arincallsout/status/2023003657533632781"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/charlespattson/status/2018703899859763288",
+      "author": "charlespattson",
+      "status_id": "2018703899859763288",
+      "timestamp_label": "Feb 3, 2026",
+      "date_iso": "2026-02-03",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/charlespattson/status/2018703899859763288"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/jchdotme/status/2039399255421378648",
+      "author": "jchdotme",
+      "status_id": "2039399255421378648",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/jchdotme/status/2039399255421378648"
+    }
+  ],
+  "postsInWindow": [
+    {
+      "query": "site:x.com standup waste engineering team status",
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "author": "Akintola_steve",
+      "status_id": "2036760591885369814",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "It started the way it always does. The CTO had just spent the weekend deep in Netflix and Amazon engineering blogs. He came into standup on Monday with a new energy: \u201cwe need to build this properly from day one\u201d \u201cif we start with a monolith, we\u2019ll just have to rewrite",
+      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/DAIEvolutionHub/status/2035127070217707807",
+      "author": "DAIEvolutionHub",
+      "status_id": "2035127070217707807",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/EMjHtiGf1F",
+      "source": "https://r.jina.ai/http://x.com/DAIEvolutionHub/status/2035127070217707807"
+    },
+    {
+      "query": "site:x.com engineering manager slack chaos status",
+      "url": "https://x.com/swadeshkumar_/status/2036009329820930350",
+      "author": "swadeshkumar_",
+      "status_id": "2036009329820930350",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "Claude Code just quietly killed the entire startup team model. Yeah \u2014 I said it. No hiring. No standups. No 10-person Slack chaos. Just this: A .claude/agents/ folder with 30+ specialized agents. Each one = a single markdown file with ONE job. \u2192 Engineer \u2192 PM \u2192 Marketer https://t.co/182KAoejTJ",
+      "source": "https://r.jina.ai/http://x.com/swadeshkumar_/status/2036009329820930350"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/Bencera/status/2038721350618206478",
+      "author": "Bencera",
+      "status_id": "2038721350618206478",
+      "timestamp_label": "Mar 30, 2026",
+      "date_iso": "2026-03-30",
+      "text": "How to build a team in 2026: Hire for 3 things only: - AI-pilled (AI is the smartest person in the room now. \"10x engineer\" is dead.) - High ownership (every person owns a KPI, not tasks) - Highly motivated (if they're not pumped they're dragging everyone down) Then 2 rules: -",
+      "source": "https://r.jina.ai/http://x.com/Bencera/status/2038721350618206478"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/LobsterForgeAI/status/2039784145933697083",
+      "author": "LobsterForgeAI",
+      "status_id": "2039784145933697083",
+      "timestamp_label": "Apr 2, 2026",
+      "date_iso": "2026-04-02",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/LobsterForgeAI/status/2039784145933697083"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/gravydw/status/2036139539455168936",
+      "author": "gravydw",
+      "status_id": "2036139539455168936",
+      "timestamp_label": "Mar 23, 2026",
+      "date_iso": "2026-03-23",
+      "text": "@BradPunkhouse @kappagunnakap @lendorexyz @BiddsonCore It wasn't a bug. You announced the new name and he minted the domain before your team thought of it. If you minted it first then announced, this would not be an issue. He owns that domain and you are stealing it. Business is business... you slipped up... not a bug",
+      "source": "https://r.jina.ai/http://x.com/gravydw/status/2036139539455168936"
+    },
+    {
+      "query": "site:x.com who owns this bug status",
+      "url": "https://x.com/mattbarberio/status/2035125102677741608",
+      "author": "mattbarberio",
+      "status_id": "2035125102677741608",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/mattbarberio/status/2035125102677741608"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/DallasPD/status/2035121708294971513",
+      "author": "DallasPD",
+      "status_id": "2035121708294971513",
+      "timestamp_label": "Mar 20, 2026",
+      "date_iso": "2026-03-20",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/DallasPD/status/2035121708294971513"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure it out status",
+      "url": "https://x.com/KeithSmithNBA/status/2035531121111298263",
+      "author": "KeithSmithNBA",
+      "status_id": "2035531121111298263",
+      "timestamp_label": "Mar 22, 2026",
+      "date_iso": "2026-03-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/KeithSmithNBA/status/2035531121111298263"
+    }
+  ]
+}

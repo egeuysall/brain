@@ -1,0 +1,286 @@
+{
+  "generatedAt": "2026-04-02T22:57:06.441957+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 30,
+  "queries": [
+    "site:x.com action items from meetings engineering",
+    "site:x.com context switching multiple projects backend",
+    "site:x.com who owns this bug engineering team",
+    "site:x.com pull request context gone after review",
+    "site:x.com had to jump on a call to figure this out engineering"
+  ],
+  "perQueryLinks": {
+    "site:x.com action items from meetings engineering": [
+      "https://x.com/MatthewBerman/status/2023843493765157235",
+      "https://x.com/TechLayoffLover/status/2035380456380665885",
+      "https://x.com/WindowsCentral/status/2027138729467421153",
+      "https://x.com/dr_cintas/status/2036853598793994449",
+      "https://x.com/elonmusk/status/2023307871170244773",
+      "https://x.com/obie/status/2013955736292704342",
+      "https://x.com/techNmak/status/2023990222027915746"
+    ],
+    "site:x.com context switching multiple projects backend": [
+      "https://x.com/Trae_ai/status/2033860019968741554",
+      "https://x.com/expertwith_AI/status/2038660727838539812",
+      "https://x.com/hwchase17/status/2033978553499607160",
+      "https://x.com/kunalstwt/status/2034593793085972690",
+      "https://x.com/pshcreates/status/2025372912359014636",
+      "https://x.com/zuchka_/status/2039373843631059034"
+    ],
+    "site:x.com who owns this bug engineering team": [
+      "https://x.com/PregameEmpire/status/1503830434651721736",
+      "https://x.com/RampLabs/status/2036165188899012655",
+      "https://x.com/ShaneFrakes/status/2036457065367941585",
+      "https://x.com/akoratana/status/2036111467016319074",
+      "https://x.com/gothburz/status/2020830752930177221",
+      "https://x.com/noisyb0y1/status/2039672589811843558"
+    ],
+    "site:x.com pull request context gone after review": [],
+    "site:x.com had to jump on a call to figure this out engineering": [
+      "https://x.com/hooeem/status/2029660075774574660",
+      "https://x.com/karpathy/status/1937902205765607626",
+      "https://x.com/mattpocockuk/status/2036842294939201862"
+    ]
+  },
+  "counts": {
+    "queries": 5,
+    "rawLinks": 22,
+    "uniqueLinks": 22,
+    "hydrated": 21,
+    "inWindow": 2
+  },
+  "posts": [
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/MatthewBerman/status/2023843493765157235",
+      "author": "MatthewBerman",
+      "status_id": "2023843493765157235",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/MatthewBerman/status/2023843493765157235"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/TechLayoffLover/status/2035380456380665885",
+      "author": "TechLayoffLover",
+      "status_id": "2035380456380665885",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2035380456380665885"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/WindowsCentral/status/2027138729467421153",
+      "author": "WindowsCentral",
+      "status_id": "2027138729467421153",
+      "timestamp_label": "Feb 26, 2026",
+      "date_iso": "2026-02-26",
+      "text": "Announced: Copilot Tasks Microsoft just rolled out Copilot Tasks (limited testing), a new AI-powered tool that can build and update your to\u2011do list automatically, and it\u2019s already one of the more interesting Copilot additions this year. Copilot can pull action items from your https://t.co/vN1JzyS5Of",
+      "source": "https://r.jina.ai/http://x.com/WindowsCentral/status/2027138729467421153"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/dr_cintas/status/2036853598793994449",
+      "author": "dr_cintas",
+      "status_id": "2036853598793994449",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/dr_cintas/status/2036853598793994449"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/elonmusk/status/2023307871170244773",
+      "author": "elonmusk",
+      "status_id": "2023307871170244773",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/elonmusk/status/2023307871170244773"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/obie/status/2013955736292704342",
+      "author": "obie",
+      "status_id": "2013955736292704342",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/obie/status/2013955736292704342"
+    },
+    {
+      "query": "site:x.com action items from meetings engineering",
+      "url": "https://x.com/techNmak/status/2023990222027915746",
+      "author": "techNmak",
+      "status_id": "2023990222027915746",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/techNmak/status/2023990222027915746"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/Trae_ai/status/2033860019968741554",
+      "author": "Trae_ai",
+      "status_id": "2033860019968741554",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Trae_ai/status/2033860019968741554"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/expertwith_AI/status/2038660727838539812",
+      "author": "expertwith_AI",
+      "status_id": "2038660727838539812",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/expertwith_AI/status/2038660727838539812"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/hwchase17/status/2033978553499607160",
+      "author": "hwchase17",
+      "status_id": "2033978553499607160",
+      "timestamp_label": "Mar 17, 2026",
+      "date_iso": "2026-03-17",
+      "text": "loved this article by @kishan_dahya as we built openswe (fully oss background coding agent) we compared our decisions to the mental model outlined here try out open swe here: https://t.co/c3jg6EjbWE https://t.co/2Y0EIn8OtG",
+      "source": "https://r.jina.ai/http://x.com/hwchase17/status/2033978553499607160"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/kunalstwt/status/2034593793085972690",
+      "author": "kunalstwt",
+      "status_id": "2034593793085972690",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/kunalstwt/status/2034593793085972690"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/pshcreates/status/2025372912359014636",
+      "author": "pshcreates",
+      "status_id": "2025372912359014636",
+      "timestamp_label": "Feb 22, 2026",
+      "date_iso": "2026-02-22",
+      "text": "@openclaw Instead of context-switching between 5 different AI tools, I give one command to Aria (squad lead) and she delegates to 15 specialists. I watch the Kanban fill up in real time instead of managing each agent individually. Before: 5 hours juggling tools. Now: 20 minutes of https://t.co/jLPJL8vI0X",
+      "source": "https://r.jina.ai/http://x.com/pshcreates/status/2025372912359014636"
+    },
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/zuchka_/status/2039373843631059034",
+      "author": "zuchka_",
+      "status_id": "2039373843631059034",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/zuchka_/status/2039373843631059034"
+    },
+    {
+      "query": "site:x.com who owns this bug engineering team",
+      "url": "https://x.com/PregameEmpire/status/1503830434651721736",
+      "author": "PregameEmpire",
+      "status_id": "1503830434651721736",
+      "timestamp_label": "Mar 15, 2022",
+      "date_iso": "2022-03-15",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/PregameEmpire/status/1503830434651721736"
+    },
+    {
+      "query": "site:x.com who owns this bug engineering team",
+      "url": "https://x.com/ShaneFrakes/status/2036457065367941585",
+      "author": "ShaneFrakes",
+      "status_id": "2036457065367941585",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/ShaneFrakes/status/2036457065367941585"
+    },
+    {
+      "query": "site:x.com who owns this bug engineering team",
+      "url": "https://x.com/akoratana/status/2036111467016319074",
+      "author": "akoratana",
+      "status_id": "2036111467016319074",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/akoratana/status/2036111467016319074"
+    },
+    {
+      "query": "site:x.com who owns this bug engineering team",
+      "url": "https://x.com/gothburz/status/2020830752930177221",
+      "author": "gothburz",
+      "status_id": "2020830752930177221",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/gothburz/status/2020830752930177221"
+    },
+    {
+      "query": "site:x.com who owns this bug engineering team",
+      "url": "https://x.com/noisyb0y1/status/2039672589811843558",
+      "author": "noisyb0y1",
+      "status_id": "2039672589811843558",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/noisyb0y1/status/2039672589811843558"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out engineering",
+      "url": "https://x.com/hooeem/status/2029660075774574660",
+      "author": "hooeem",
+      "status_id": "2029660075774574660",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/hooeem/status/2029660075774574660"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out engineering",
+      "url": "https://x.com/karpathy/status/1937902205765607626",
+      "author": "karpathy",
+      "status_id": "1937902205765607626",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/karpathy/status/1937902205765607626"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out engineering",
+      "url": "https://x.com/mattpocockuk/status/2036842294939201862",
+      "author": "mattpocockuk",
+      "status_id": "2036842294939201862",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "We can't get rid of the calls, but we can get rid of the coding: 1. Jump on a call with your dev colleague/domain expert, creates a transcript 2. Generate notes from the transcript 3. Pass notes to coding agent, creates tickets 4. Pass tickets to AFK agent, creates code 5.",
+      "source": "https://r.jina.ai/http://x.com/mattpocockuk/status/2036842294939201862"
+    }
+  ],
+  "postsInWindow": [
+    {
+      "query": "site:x.com context switching multiple projects backend",
+      "url": "https://x.com/hwchase17/status/2033978553499607160",
+      "author": "hwchase17",
+      "status_id": "2033978553499607160",
+      "timestamp_label": "Mar 17, 2026",
+      "date_iso": "2026-03-17",
+      "text": "loved this article by @kishan_dahya as we built openswe (fully oss background coding agent) we compared our decisions to the mental model outlined here try out open swe here: https://t.co/c3jg6EjbWE https://t.co/2Y0EIn8OtG",
+      "source": "https://r.jina.ai/http://x.com/hwchase17/status/2033978553499607160"
+    },
+    {
+      "query": "site:x.com had to jump on a call to figure this out engineering",
+      "url": "https://x.com/mattpocockuk/status/2036842294939201862",
+      "author": "mattpocockuk",
+      "status_id": "2036842294939201862",
+      "timestamp_label": "Mar 25, 2026",
+      "date_iso": "2026-03-25",
+      "text": "We can't get rid of the calls, but we can get rid of the coding: 1. Jump on a call with your dev colleague/domain expert, creates a transcript 2. Generate notes from the transcript 3. Pass notes to coding agent, creates tickets 4. Pass tickets to AFK agent, creates code 5.",
+      "source": "https://r.jina.ai/http://x.com/mattpocockuk/status/2036842294939201862"
+    }
+  ]
+}
