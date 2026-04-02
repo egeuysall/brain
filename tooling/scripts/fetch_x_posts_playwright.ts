@@ -1,7 +1,7 @@
 #!/usr/bin/env -S npx tsx
-
 import fs from "node:fs/promises"
 import path from "node:path"
+
 import { chromium } from "playwright"
 
 type Candidate = {
@@ -73,7 +73,7 @@ async function collectFromPage(query: string, page: any): Promise<Candidate[]> {
 
       const textNode =
         article.querySelector('[data-testid="tweetText"]') ??
-        article.querySelector('div[lang]')
+        article.querySelector("div[lang]")
       const text = (textNode?.textContent ?? "").replace(/\s+/g, " ").trim()
 
       const timeEl = article.querySelector("time")
