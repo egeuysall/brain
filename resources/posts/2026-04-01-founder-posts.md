@@ -3,6 +3,7 @@ You do not have an ownership problem.
 You have a handoff problem.
 
 Today's signal pull kept pointing to the same failure:
+
 - a founder described account handoffs as chaos the moment someone leaves
 - an engineering manager said the Opsgenie to JSM migration almost broke on-call
 
@@ -10,9 +11,10 @@ Both teams had "owners" on paper.
 What they lacked was a transfer contract.
 
 If ownership changes, require a 3-line handoff delta:
-1) what decision was already made
-2) what risk is still open
-3) what event triggers the next check
+
+1. what decision was already made
+2. what risk is still open
+3. what event triggers the next check
 
 Standups usually exist because this contract is missing.
 
@@ -25,6 +27,7 @@ Teams are not only losing context in daily execution.
 They are losing context during ownership transfer.
 
 I saw this in two very different posts:
+
 - a founder describing account handoffs as total chaos after someone left
 - an engineering manager sharing how an Opsgenie to JSM migration nearly broke an on-call setup
 
@@ -38,6 +41,7 @@ A handoff that only captures state is a one-time snapshot.
 A handoff that captures delta plus trigger survives real work.
 
 What seems to work better:
+
 - decision already made
 - open risk still unresolved
 - explicit next trigger (next deploy, next incident, next PR batch)
@@ -57,6 +61,7 @@ Different situations, but same underlying issue: we mark an owner, but we do not
 
 I am testing a simple rule now.
 Whenever ownership changes, we require a short handoff delta:
+
 - decision already made
 - open risk
 - next trigger for recheck
