@@ -11,6 +11,7 @@ Automation code for this knowledge repository.
 - `tooling/scripts/schedule_guard.py`: validate scheduled automation constraints
 - `tooling/scripts/reddit_fix_json.py`: sanitize malformed Reddit JSON payloads and validate JSON
 - `tooling/scripts/reddit_harvest.py`: harvest Reddit candidates from `old.reddit.com` with age-window filters and high-signal heuristics
+- `tooling/scripts/fetch_outreach_context.py`: bounded (under 3 minutes) outreach fetch orchestrator for agents context + X + Reddit candidates with fallback handling
 
 ## Local Checks
 
@@ -32,6 +33,12 @@ python3 tooling/scripts/reddit_harvest.py \
   --max-hours 72 \
   --output-json resources/threads/2026-03-24/candidates.json \
   --output-md resources/threads/2026-03-24/candidates.md
+
+# 3) Reliable multi-source outreach fetch (budgeted)
+python3 tooling/scripts/fetch_outreach_context.py \
+  --out resources/threads/_runtime/fetch-context.json \
+  --budget-seconds 170 \
+  --days-window 14
 ```
 
 Local GitHub Actions run with `act`:

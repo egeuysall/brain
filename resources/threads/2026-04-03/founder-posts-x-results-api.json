@@ -1,17 +1,12 @@
 {
-  "generatedAt": "2026-04-02T22:48:21.717Z",
+  "generatedAt": "2026-04-03T14:38:12.447Z",
   "source": "x_api_recent_search",
   "queries": [
     "standup waste lang:en -is:retweet",
     "engineering manager slack chaos lang:en -is:retweet",
     "PR confusion lang:en -is:retweet",
     "who owns this bug lang:en -is:retweet",
-    "had to jump on a call to figure this out lang:en -is:retweet",
-    "context is scattered in slack lang:en -is:retweet",
-    "jira is useless engineering lang:en -is:retweet",
-    "things falling through cracks engineering lang:en -is:retweet",
-    "decisions buried in slack engineering lang:en -is:retweet",
-    "waiting for review queue lang:en -is:retweet"
+    "had to jump on a call to figure it out lang:en -is:retweet"
   ],
   "results": [
     {
@@ -39,37 +34,7 @@
       "posts": []
     },
     {
-      "query": "had to jump on a call to figure this out lang:en -is:retweet",
-      "ok": false,
-      "error": "HTTP 402 Payment Required",
-      "posts": []
-    },
-    {
-      "query": "context is scattered in slack lang:en -is:retweet",
-      "ok": false,
-      "error": "HTTP 402 Payment Required",
-      "posts": []
-    },
-    {
-      "query": "jira is useless engineering lang:en -is:retweet",
-      "ok": false,
-      "error": "HTTP 402 Payment Required",
-      "posts": []
-    },
-    {
-      "query": "things falling through cracks engineering lang:en -is:retweet",
-      "ok": false,
-      "error": "HTTP 402 Payment Required",
-      "posts": []
-    },
-    {
-      "query": "decisions buried in slack engineering lang:en -is:retweet",
-      "ok": false,
-      "error": "HTTP 402 Payment Required",
-      "posts": []
-    },
-    {
-      "query": "waiting for review queue lang:en -is:retweet",
+      "query": "had to jump on a call to figure it out lang:en -is:retweet",
       "ok": false,
       "error": "HTTP 402 Payment Required",
       "posts": []

@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-04
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 2 - slack bot ownership hidden script risk
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/Argona0x/status/2036491606107332654
+
+## Post Text (Key Excerpt)
+
+```text
+our slack bot crashed monday: IT found it was routing 40% of its compute to a trading script nobody wrote it had made $78K in 3 months using our enterprise API keys the intern who installed it doesn't work here anymore let me explain monday 9:14am our internal slack bot goes… pic.twitter.com/8Ft9jXHttY
+```
+
+## Why It Matches Ryva ICP
+
+This is a concrete “who owns this” failure: a shared Slack automation ran unknown logic with enterprise keys and no active owner.
+
+## Underlying Problem
+
+Implicit ownership in internal tooling created a security and coordination blind spot.
+
+## Suggested Public Response (Copy)
+
+```text
+This is exactly what hidden ownership looks like in real teams: a critical bot exists, but nobody owns behavior, permissions, or change history. When that happens, Slack becomes an execution surface with zero accountability. Teams need explicit bot ownership + change logs + key scope boundaries.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Do you currently have a named owner + review path for each internal Slack automation, or is it mostly tribal knowledge?
+```
+
+## Snapshot
+
+- Author: @Argona0x
+- Captured date label: March 24, 2026
+- Recency window: within past 14 days (extended from 7 days due limited high-signal volume)

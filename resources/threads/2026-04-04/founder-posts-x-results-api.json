@@ -1,0 +1,64 @@
+{
+  "generatedAt": "2026-04-03T14:37:08.841Z",
+  "source": "x_api_recent_search",
+  "queries": [
+    "standup waste",
+    "engineering manager slack chaos",
+    "PR confusion",
+    "who owns this bug",
+    "had to jump on a call to figure this out",
+    "context is scattered in slack",
+    "jira is useless",
+    "things falling through cracks engineering"
+  ],
+  "results": [
+    {
+      "query": "standup waste",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "engineering manager slack chaos",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "PR confusion",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "who owns this bug",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "had to jump on a call to figure this out",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "context is scattered in slack",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "jira is useless",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    },
+    {
+      "query": "things falling through cracks engineering",
+      "ok": false,
+      "error": "HTTP 402 Payment Required",
+      "posts": []
+    }
+  ]
+}
