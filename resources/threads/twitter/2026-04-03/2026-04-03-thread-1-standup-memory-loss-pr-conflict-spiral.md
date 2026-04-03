@@ -44,6 +44,6 @@ After standup, where does your team record owner + next checkpoint so people do 
 
 ## Snapshot
 
-- Author: @0xlelouch_
+- Author: @0xlelouch\_
 - Captured date label: March 27, 2026
 - Recency window: within past 14 days (extended from 7 days due limited high-signal volume)
