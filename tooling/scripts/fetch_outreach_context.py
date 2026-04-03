@@ -27,7 +27,6 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
-
 AGENTS_CONTEXT_URL = "https://egeuysal.com/agents.json"
 DEFAULT_X_QUERIES = [
     "site:x.com standup waste engineering team status",
@@ -49,7 +48,9 @@ DEFAULT_SUBREDDITS = [
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument("--out", type=Path, required=True, help="Consolidated output JSON path.")
+    parser.add_argument(
+        "--out", type=Path, required=True, help="Consolidated output JSON path."
+    )
     parser.add_argument(
         "--budget-seconds",
         type=int,
@@ -218,7 +219,9 @@ def count_reddit_posts(payload: dict[str, Any] | None) -> int:
 
 def write_json(path: Path, data: dict[str, Any]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+    path.write_text(
+        json.dumps(data, ensure_ascii=False, indent=2) + "\n", encoding="utf-8"
+    )
 
 
 def main() -> int:
@@ -285,14 +288,18 @@ def main() -> int:
             "--days",
             str(max(1, args.days_window)),
         ]
-        primary = run_step(primary_cmd, cwd=root, timeout_seconds=x_timeout, output_file=x_out)
+        primary = run_step(
+            primary_cmd, cwd=root, timeout_seconds=x_timeout, output_file=x_out
+        )
         x_step["primary"] = primary
         if primary.get("ok"):
             x_payload = read_json_file(x_out)
             x_step["ok"] = x_payload is not None and count_x_posts(x_payload) > 0
 
     if not x_step["ok"]:
-        fallback_timeout = int(max(0, min(45, remaining_seconds(start, args.budget_seconds) - 25)))
+        fallback_timeout = int(
+            max(0, min(45, remaining_seconds(start, args.budget_seconds) - 25))
+        )
         if fallback_timeout >= 15:
             x_step["fallbackUsed"] = True
             fallback_cmd = [
@@ -324,8 +331,10 @@ def main() -> int:
 
     # Step 3: Reddit candidates
     reddit_payload: dict[str, Any] | None = None
-    reddit_timeout = int(max(0, min(70, remaining_seconds(start, args.budget_seconds) - 5)))
-    reddit_step: dict[str, Any] = {"ok": False}
+    reddit_timeout = int(
+        max(0, min(70, remaining_seconds(start, args.budget_seconds) - 5))
+    )
+    reddit_step: dict[str, Any] = {"ok": False, "fallbackUsed": False}
     if reddit_timeout >= 15:
         max_hours = max(24.0, float(args.days_window) * 24.0)
         reddit_cmd = [
@@ -355,7 +364,46 @@ def main() -> int:
         reddit_step["primary"] = reddit_run
         if reddit_run.get("ok"):
             reddit_payload = read_json_file(reddit_out)
-            reddit_step["ok"] = reddit_payload is not None and count_reddit_posts(reddit_payload) > 0
+            reddit_step["ok"] = (
+                reddit_payload is not None and count_reddit_posts(reddit_payload) > 0
+            )
+            # If strict high-signal filtering returns zero, retry a broader pull.
+            if not reddit_step["ok"]:
+                fallback_timeout = int(
+                    max(0, min(35, remaining_seconds(start, args.budget_seconds) - 5))
+                )
+                if fallback_timeout >= 10:
+                    reddit_step["fallbackUsed"] = True
+                    fallback_cmd = [
+                        sys.executable,
+                        "tooling/scripts/reddit_harvest.py",
+                        "--subreddits",
+                        ",".join(DEFAULT_SUBREDDITS),
+                        "--min-hours",
+                        "0",
+                        "--max-hours",
+                        str(int(max_hours)),
+                        "--timeout-seconds",
+                        "10",
+                        "--sleep-seconds",
+                        "0.1",
+                        "--no-body",
+                        "--output-json",
+                        str(reddit_out),
+                    ]
+                    fallback_run = run_step(
+                        fallback_cmd,
+                        cwd=root,
+                        timeout_seconds=fallback_timeout,
+                        output_file=reddit_out,
+                    )
+                    reddit_step["fallback"] = fallback_run
+                    if fallback_run.get("ok"):
+                        reddit_payload = read_json_file(reddit_out)
+                        reddit_step["ok"] = (
+                            reddit_payload is not None
+                            and count_reddit_posts(reddit_payload) > 0
+                        )
     else:
         reddit_step["error"] = "Skipped due to low remaining budget"
 
@@ -383,7 +431,10 @@ def main() -> int:
         "totals": {
             "xPosts": count_x_posts(x_payload),
             "redditPosts": count_reddit_posts(reddit_payload),
-            "anyUsableSignals": (count_x_posts(x_payload) + count_reddit_posts(reddit_payload)) > 0,
+            "anyUsableSignals": (
+                count_x_posts(x_payload) + count_reddit_posts(reddit_payload)
+            )
+            > 0,
         },
         "files": {
             "agentsContext": str(agents_out) if agents_ok else None,

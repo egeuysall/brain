@@ -1,0 +1,139 @@
+{
+  "generatedAt": "2026-04-03T15:32:56.196563+00:00",
+  "kind": "outreach-fetch-context",
+  "runtime": {
+    "budgetSeconds": 170,
+    "elapsedSeconds": 111.21,
+    "withinBudget": true
+  },
+  "sources": {
+    "agentsContextUrl": "https://egeuysal.com/agents.json",
+    "xDaysWindow": 14,
+    "redditDaysWindow": 14
+  },
+  "results": {
+    "agentsContext": {
+      "ok": true,
+      "error": "",
+      "outputFile": "resources/threads/_runtime/agents-context.json"
+    },
+    "xCandidates": {
+      "ok": true,
+      "fallbackUsed": true,
+      "primary": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/fetch_x_posts_via_jina_ddg.py",
+          "--out",
+          "resources/threads/_runtime/x-candidates.json",
+          "--queries",
+          "site:x.com standup waste engineering team status,site:x.com engineering manager slack chaos status,site:x.com PR confusion review context status,site:x.com who owns this bug status,site:x.com context is scattered in slack status,site:x.com things falling through cracks engineering status",
+          "--max-links-per-query",
+          "6",
+          "--max-hydrated",
+          "80",
+          "--sleep-ms",
+          "80",
+          "--days",
+          "14"
+        ],
+        "timeoutSeconds": 80,
+        "ok": false,
+        "durationSeconds": 80.01,
+        "error": "Step timed out after 80s"
+      },
+      "fallback": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/find_x_candidates_quick.py",
+          "--out",
+          "resources/threads/_runtime/x-candidates.json",
+          "--max-links-per-query",
+          "4",
+          "--max-hydrate",
+          "50",
+          "--workers",
+          "6"
+        ],
+        "timeoutSeconds": 45,
+        "ok": true,
+        "durationSeconds": 20.48,
+        "exitCode": 0,
+        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 8,\n    \"uniqueLinks\": 8,\n    \"hydratedPosts\": 8\n  }\n}\n",
+        "stderrTail": "",
+        "outputFile": "resources/threads/_runtime/x-candidates.json"
+      },
+      "postCount": 8,
+      "outputFile": "resources/threads/_runtime/x-candidates.json"
+    },
+    "redditCandidates": {
+      "ok": true,
+      "fallbackUsed": true,
+      "primary": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/reddit_harvest.py",
+          "--subreddits",
+          "EngineeringManagers,ExperiencedDevs,ProductManagement,projectmanagement,devops,startups",
+          "--min-hours",
+          "0",
+          "--max-hours",
+          "336",
+          "--timeout-seconds",
+          "10",
+          "--sleep-seconds",
+          "0.1",
+          "--no-body",
+          "--only-high-signal",
+          "--output-json",
+          "resources/threads/_runtime/reddit-candidates.json"
+        ],
+        "timeoutSeconds": 64,
+        "ok": true,
+        "durationSeconds": 5.28,
+        "exitCode": 0,
+        "stdoutTail": "",
+        "stderrTail": "",
+        "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+      },
+      "fallback": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/reddit_harvest.py",
+          "--subreddits",
+          "EngineeringManagers,ExperiencedDevs,ProductManagement,projectmanagement,devops,startups",
+          "--min-hours",
+          "0",
+          "--max-hours",
+          "336",
+          "--timeout-seconds",
+          "10",
+          "--sleep-seconds",
+          "0.1",
+          "--no-body",
+          "--output-json",
+          "resources/threads/_runtime/reddit-candidates.json"
+        ],
+        "timeoutSeconds": 35,
+        "ok": true,
+        "durationSeconds": 5.11,
+        "exitCode": 0,
+        "stdoutTail": "",
+        "stderrTail": "",
+        "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+      },
+      "postCount": 150,
+      "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+    }
+  },
+  "totals": {
+    "xPosts": 8,
+    "redditPosts": 150,
+    "anyUsableSignals": true
+  },
+  "files": {
+    "agentsContext": "resources/threads/_runtime/agents-context.json",
+    "xCandidates": "resources/threads/_runtime/x-candidates.json",
+    "redditCandidates": "resources/threads/_runtime/reddit-candidates.json"
+  }
+}
