@@ -1,9 +1,12 @@
 {
   "schemaVersion": 3,
   "kind": "ryva-knowledge-context",
-  "syncedAt": "2026-04-02T11:43:22Z",
+  "syncedAt": "2026-04-03T11:35:47Z",
   "queryPolicy": {
-    "defaultContext": ["context/latest/knowledge.json", "resources/**"],
+    "defaultContext": [
+      "context/latest/knowledge.json",
+      "resources/**"
+    ],
     "expandableContext": [
       "context/latest/diary/*.json",
       "context/latest/blog/*.json"
@@ -14,11 +17,11 @@
   },
   "feeds": {
     "diary": {
-      "generatedAt": "2026-04-02",
+      "generatedAt": "2026-04-03",
       "count": 28
     },
     "blog": {
-      "generatedAt": "2026-04-02",
+      "generatedAt": "2026-04-03",
       "count": 57
     }
   },
@@ -33,12 +36,13 @@
     }
   },
   "resources": {
-    "totalFiles": 346,
+    "totalFiles": 401,
     "byCategory": {
-      "articles": 64,
+      "articles": 66,
       "notes": 3,
-      "posts": 9,
-      "threads": 270
+      "plans": 6,
+      "posts": 20,
+      "threads": 306
     },
     "files": [
       {
@@ -247,6 +251,16 @@
         "sizeBytes": 14095
       },
       {
+        "path": "resources/articles/2026-04-02-224728.md",
+        "category": "articles",
+        "sizeBytes": 7074
+      },
+      {
+        "path": "resources/articles/2026-04-02-224753.md",
+        "category": "articles",
+        "sizeBytes": 10656
+      },
+      {
         "path": "resources/articles/growth/growth-1.md",
         "category": "articles",
         "sizeBytes": 839
@@ -377,6 +391,36 @@
         "sizeBytes": 4196
       },
       {
+        "path": "resources/plans/case-study.md",
+        "category": "plans",
+        "sizeBytes": 5138
+      },
+      {
+        "path": "resources/plans/change.md",
+        "category": "plans",
+        "sizeBytes": 13430
+      },
+      {
+        "path": "resources/plans/future.md",
+        "category": "plans",
+        "sizeBytes": 23637
+      },
+      {
+        "path": "resources/plans/master-gtm-second-run-plan.md",
+        "category": "plans",
+        "sizeBytes": 3550
+      },
+      {
+        "path": "resources/plans/moat.md",
+        "category": "plans",
+        "sizeBytes": 10490
+      },
+      {
+        "path": "resources/plans/second-run.md",
+        "category": "plans",
+        "sizeBytes": 10401
+      },
+      {
         "path": "resources/posts/2026-03-24-linkedin-post-findings.md",
         "category": "posts",
         "sizeBytes": 2241
@@ -420,6 +464,61 @@
         "path": "resources/posts/2026-04-01-founder-posts.md",
         "category": "posts",
         "sizeBytes": 2351
+      },
+      {
+        "path": "resources/posts/2026-04-02-founder-posts.md",
+        "category": "posts",
+        "sizeBytes": 2369
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals-7d.json",
+        "category": "posts",
+        "sizeBytes": 150
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals-7d.md",
+        "category": "posts",
+        "sizeBytes": 125
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals-mix.json",
+        "category": "posts",
+        "sizeBytes": 64925
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals-mix.md",
+        "category": "posts",
+        "sizeBytes": 21487
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals.json",
+        "category": "posts",
+        "sizeBytes": 17270
+      },
+      {
+        "path": "resources/posts/2026-04-02-reddit-signals.md",
+        "category": "posts",
+        "sizeBytes": 6317
+      },
+      {
+        "path": "resources/posts/2026-04-02-x-signals-api.json",
+        "category": "posts",
+        "sizeBytes": 948
+      },
+      {
+        "path": "resources/posts/2026-04-02-x-signals-jina-custom.json",
+        "category": "posts",
+        "sizeBytes": 12848
+      },
+      {
+        "path": "resources/posts/2026-04-02-x-signals-jina-quick.json",
+        "category": "posts",
+        "sizeBytes": 25889
+      },
+      {
+        "path": "resources/posts/2026-04-02-x-signals-jina.json",
+        "category": "posts",
+        "sizeBytes": 29953
       },
       {
         "path": "resources/threads/2026-03-27/founder-posts-candidates.json",
@@ -512,19 +611,9 @@
         "sizeBytes": 149
       },
       {
-        "path": "resources/threads/2026-03-31/founder-posts-candidates-ua.md",
-        "category": "threads",
-        "sizeBytes": 167
-      },
-      {
         "path": "resources/threads/2026-03-31/founder-posts-candidates.json",
         "category": "threads",
         "sizeBytes": 16339
-      },
-      {
-        "path": "resources/threads/2026-03-31/founder-posts-candidates.md",
-        "category": "threads",
-        "sizeBytes": 8784
       },
       {
         "path": "resources/threads/2026-03-31/founder-posts-high-signal.json",
@@ -577,19 +666,9 @@
         "sizeBytes": 18407
       },
       {
-        "path": "resources/threads/2026-04-01/founder-posts-candidates.md",
-        "category": "threads",
-        "sizeBytes": 6392
-      },
-      {
         "path": "resources/threads/2026-04-01/founder-posts-engineeringmanagers.json",
         "category": "threads",
         "sizeBytes": 149
-      },
-      {
-        "path": "resources/threads/2026-04-01/founder-posts-engineeringmanagers.md",
-        "category": "threads",
-        "sizeBytes": 125
       },
       {
         "path": "resources/threads/2026-04-01/founder-posts-high-signal-check.json",
@@ -605,11 +684,6 @@
         "path": "resources/threads/2026-04-01/founder-posts-startups.json",
         "category": "threads",
         "sizeBytes": 149
-      },
-      {
-        "path": "resources/threads/2026-04-01/founder-posts-startups.md",
-        "category": "threads",
-        "sizeBytes": 125
       },
       {
         "path": "resources/threads/2026-04-01/founder-posts-x-results-api-batch1.json",
@@ -629,12 +703,12 @@
       {
         "path": "resources/threads/2026-04-01/founder-posts-x-rjina.json",
         "category": "threads",
-        "sizeBytes": 2507
+        "sizeBytes": 2508
       },
       {
         "path": "resources/threads/2026-04-01/playwright-x/capture-summary.json",
         "category": "threads",
-        "sizeBytes": 3018
+        "sizeBytes": 3019
       },
       {
         "path": "resources/threads/2026-04-02/founder-posts-x-candidates-quick.json",
@@ -659,7 +733,62 @@
       {
         "path": "resources/threads/2026-04-02/x-links-extra-queries.json",
         "category": "threads",
-        "sizeBytes": 56
+        "sizeBytes": 52
+      },
+      {
+        "path": "resources/threads/2026-04-03/candidates-alt.json",
+        "category": "threads",
+        "sizeBytes": 150
+      },
+      {
+        "path": "resources/threads/2026-04-03/candidates-pm-scrum-body.json",
+        "category": "threads",
+        "sizeBytes": 54161
+      },
+      {
+        "path": "resources/threads/2026-04-03/candidates-pm-scrum-body.md",
+        "category": "threads",
+        "sizeBytes": 18279
+      },
+      {
+        "path": "resources/threads/2026-04-03/candidates-wide.json",
+        "category": "threads",
+        "sizeBytes": 208730
+      },
+      {
+        "path": "resources/threads/2026-04-03/candidates.json",
+        "category": "threads",
+        "sizeBytes": 70630
+      },
+      {
+        "path": "resources/threads/2026-04-03/founder-posts-x-candidates-quick.json",
+        "category": "threads",
+        "sizeBytes": 30253
+      },
+      {
+        "path": "resources/threads/2026-04-03/founder-posts-x-oembed-hydrated.json",
+        "category": "threads",
+        "sizeBytes": 44992
+      },
+      {
+        "path": "resources/threads/2026-04-03/founder-posts-x-results-api.json",
+        "category": "threads",
+        "sizeBytes": 2273
+      },
+      {
+        "path": "resources/threads/2026-04-03/founder-posts-x-results-jina-targeted.json",
+        "category": "threads",
+        "sizeBytes": 4003
+      },
+      {
+        "path": "resources/threads/2026-04-03/x-links-extra-oembed.json",
+        "category": "threads",
+        "sizeBytes": 85893
+      },
+      {
+        "path": "resources/threads/2026-04-03/x-links-extra-queries.json",
+        "category": "threads",
+        "sizeBytes": 57342
       },
       {
         "path": "resources/threads/RESEARCH_PLAYBOOK.md",
@@ -1142,6 +1271,16 @@
         "sizeBytes": 4441
       },
       {
+        "path": "resources/threads/reddit/2026-03-31/founder-posts-candidates-ua.md",
+        "category": "threads",
+        "sizeBytes": 167
+      },
+      {
+        "path": "resources/threads/reddit/2026-03-31/founder-posts-candidates.md",
+        "category": "threads",
+        "sizeBytes": 8784
+      },
+      {
         "path": "resources/threads/reddit/2026-04-01/2026-04-01-thread-1-ticket-refinement-ownership-breakdown.md",
         "category": "threads",
         "sizeBytes": 1668
@@ -1272,6 +1411,21 @@
         "sizeBytes": 26848
       },
       {
+        "path": "resources/threads/reddit/2026-04-01/founder-posts-candidates.md",
+        "category": "threads",
+        "sizeBytes": 8816
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-01/founder-posts-engineeringmanagers.md",
+        "category": "threads",
+        "sizeBytes": 167
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-01/founder-posts-startups.md",
+        "category": "threads",
+        "sizeBytes": 167
+      },
+      {
         "path": "resources/threads/reddit/2026-04-02/2026-04-02-thread-1-feedback-vs-decision-tracking-gap.md",
         "category": "threads",
         "sizeBytes": 1471
@@ -1325,6 +1479,76 @@
         "path": "resources/threads/reddit/2026-04-02/2026-04-02-top-10-outreach-posts.md",
         "category": "threads",
         "sizeBytes": 3821
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-1-action-items-followthrough-gap.md",
+        "category": "threads",
+        "sizeBytes": 1376
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-10-ai-speed-planning-quality-drift.md",
+        "category": "threads",
+        "sizeBytes": 1406
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-2-devops-scrum-tracking-conflict.md",
+        "category": "threads",
+        "sizeBytes": 1432
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-3-slack-clickup-resource-visibility-gap.md",
+        "category": "threads",
+        "sizeBytes": 1455
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-4-cicd-sprint-capacity-drift.md",
+        "category": "threads",
+        "sizeBytes": 1366
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-5-sprints-without-scrum-master.md",
+        "category": "threads",
+        "sizeBytes": 1386
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-6-multi-project-context-switch-overload.md",
+        "category": "threads",
+        "sizeBytes": 1442
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-7-user-story-dependency-visibility-gap.md",
+        "category": "threads",
+        "sizeBytes": 1369
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-8-tech-debt-decision-stall.md",
+        "category": "threads",
+        "sizeBytes": 1442
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-thread-9-ai-metrics-visibility-trust-gap.md",
+        "category": "threads",
+        "sizeBytes": 1409
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/2026-04-03-top-10-outreach-posts.md",
+        "category": "threads",
+        "sizeBytes": 3681
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/candidates-alt.md",
+        "category": "threads",
+        "sizeBytes": 125
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/candidates-wide.md",
+        "category": "threads",
+        "sizeBytes": 83163
+      },
+      {
+        "path": "resources/threads/reddit/2026-04-03/candidates.md",
+        "category": "threads",
+        "sizeBytes": 23756
       },
       {
         "path": "resources/threads/reddit/RESEARCH_PLAYBOOK.md",
@@ -1770,6 +1994,61 @@
         "path": "resources/threads/twitter/2026-04-02/2026-04-02-top-10-outreach-posts.md",
         "category": "threads",
         "sizeBytes": 3264
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-1-standup-memory-loss-pr-conflict-spiral.md",
+        "category": "threads",
+        "sizeBytes": 1542
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-10-weekly-insights-never-feed-next-cycle.md",
+        "category": "threads",
+        "sizeBytes": 1444
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-2-morning-tool-assembly-priority-blindness.md",
+        "category": "threads",
+        "sizeBytes": 1563
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-3-startup-chaos-from-slack-head-priorities.md",
+        "category": "threads",
+        "sizeBytes": 1483
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-4-slack-barrage-destroys-coding-continuity.md",
+        "category": "threads",
+        "sizeBytes": 1456
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-5-jira-output-doesnt-map-to-impact.md",
+        "category": "threads",
+        "sizeBytes": 1482
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-6-slack-huddles-fragment-workday-flow.md",
+        "category": "threads",
+        "sizeBytes": 1464
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-7-reasoning-scattered-across-too-many-surfaces.md",
+        "category": "threads",
+        "sizeBytes": 1521
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-8-bug-volume-outpaces-debug-capacity.md",
+        "category": "threads",
+        "sizeBytes": 1498
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-thread-9-multi-agent-handoff-breaks-team-focus.md",
+        "category": "threads",
+        "sizeBytes": 1466
+      },
+      {
+        "path": "resources/threads/twitter/2026-04-03/2026-04-03-top-10-outreach-posts.md",
+        "category": "threads",
+        "sizeBytes": 2743
       }
     ]
   },
@@ -1777,7 +2056,7 @@
     "entries": 85,
     "diary": 28,
     "blog": 57,
-    "manualResources": 346
+    "manualResources": 401
   },
   "entries": [
     {
@@ -1785,11 +2064,17 @@
       "id": "2026-04-02",
       "entryFile": "context/latest/diary/2026-04-02.json",
       "url": "https://egeuysal.com/diary/2026-04-02/",
-      "title": "Locking active teams, forcing second runs, and expanding",
+      "title": "Light strategy day: cleanup and execution lock",
       "publishedAt": "2026-04-02",
       "updatedAt": null,
-      "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
-      "summary": "Locking active teams, forcing second runs, and expanding"
+      "tags": [
+        "ryva",
+        "outreach",
+        "pmf",
+        "execution",
+        "daily"
+      ],
+      "summary": "Light strategy day: cleanup and execution lock"
     },
     {
       "source": "diary",
@@ -1799,7 +2084,13 @@
       "title": "Second-run pressure, trust signal, and depth shift",
       "publishedAt": "2026-04-01",
       "updatedAt": null,
-      "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+      "tags": [
+        "ryva",
+        "outreach",
+        "pmf",
+        "execution",
+        "daily"
+      ],
       "summary": "Second-run pressure, trust signal, and depth shift"
     },
     {
@@ -1810,7 +2101,13 @@
       "title": "Behavior unlock with fast and second-run inevitability",
       "publishedAt": "2026-03-31",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf", "outreach", "strategy"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf",
+        "outreach",
+        "strategy"
+      ],
       "summary": "Behavior unlock with fast and second-run inevitability"
     },
     {
@@ -1821,7 +2118,12 @@
       "title": "Decision agent, output quality, and safer defaults",
       "publishedAt": "2026-03-30",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf", "engineering"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf",
+        "engineering"
+      ],
       "summary": "Decision agent, output quality, and safer defaults"
     },
     {
@@ -1832,7 +2134,11 @@
       "title": "Lighter day with proof-first replies and prep",
       "publishedAt": "2026-03-29",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf"
+      ],
       "summary": "Lighter day with proof-first replies and prep"
     },
     {
@@ -1843,7 +2149,12 @@
       "title": "The Aha Moment",
       "publishedAt": "2026-03-29",
       "updatedAt": null,
-      "tags": ["startups", "saas", "founder", "product"],
+      "tags": [
+        "startups",
+        "saas",
+        "founder",
+        "product"
+      ],
       "summary": "The aha moment is not something that happens to your users. It is something you engineer. Here is how we built Ryva around a single insight that changes how teams see their own work."
     },
     {
@@ -1854,7 +2165,11 @@
       "title": "Reply-loop day with proof, channel filtering, and Niagara",
       "publishedAt": "2026-03-28",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf"
+      ],
       "summary": "Reply-loop day with proof, channel filtering, and Niagara"
     },
     {
@@ -1865,7 +2180,11 @@
       "title": "I Was Spending 25 Minutes a Day on Image Uploads",
       "publishedAt": "2026-03-28",
       "updatedAt": null,
-      "tags": ["coding", "productivity", "tutorial"],
+      "tags": [
+        "coding",
+        "productivity",
+        "tutorial"
+      ],
       "summary": "A single bash script eliminated one of the most annoying parts of my publishing workflow. Here is exactly what changed and how it works."
     },
     {
@@ -1876,7 +2195,11 @@
       "title": "Control-first positioning, cleaner proof, and pivot",
       "publishedAt": "2026-03-27",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf"
+      ],
       "summary": "Control-first positioning, cleaner proof, and pivot"
     },
     {
@@ -1887,7 +2210,11 @@
       "title": "The Gap Nobody Talks About",
       "publishedAt": "2026-03-27",
       "updatedAt": null,
-      "tags": ["startups", "founder", "mindset"],
+      "tags": [
+        "startups",
+        "founder",
+        "mindset"
+      ],
       "summary": "Everyone says they want to build something that matters. Almost nobody is willing to pay the actual price. Here's what separates the two."
     },
     {
@@ -1898,7 +2225,11 @@
       "title": "Show-close loops, Reddit execution, and tighter output",
       "publishedAt": "2026-03-26",
       "updatedAt": null,
-      "tags": ["ryva", "execution", "pmf"],
+      "tags": [
+        "ryva",
+        "execution",
+        "pmf"
+      ],
       "summary": "Show-close loops, Reddit execution, and tighter output"
     },
     {
@@ -1909,7 +2240,10 @@
       "title": "Lookup UX, security hardening, and wedge validation",
       "publishedAt": "2026-03-25",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Lookup UX, security hardening, and wedge validation"
     },
     {
@@ -1920,7 +2254,13 @@
       "title": "Convex, Multi-Tenancy, and AI for Ryva",
       "publishedAt": "2026-03-25",
       "updatedAt": null,
-      "tags": ["convex", "saas", "typescript", "architecture", "ai"],
+      "tags": [
+        "convex",
+        "saas",
+        "typescript",
+        "architecture",
+        "ai"
+      ],
       "summary": "I picked Convex for Ryva expecting good DX. I didn't expect it to also be the most AI-friendly database I've ever worked with. Here's why."
     },
     {
@@ -1931,7 +2271,10 @@
       "title": "Reasoning upgrades, stronger outreach, and first signal.",
       "publishedAt": "2026-03-24",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Reasoning upgrades, stronger outreach, and first signal."
     },
     {
@@ -1942,7 +2285,12 @@
       "title": "The Real Reason Ryva Is Hard to Copy",
       "publishedAt": "2026-03-24",
       "updatedAt": null,
-      "tags": ["startups", "saas", "ai", "product"],
+      "tags": [
+        "startups",
+        "saas",
+        "ai",
+        "product"
+      ],
       "summary": "Why Ryva's moat comes from compounding project memory, not a one-shot prompt."
     },
     {
@@ -1953,7 +2301,10 @@
       "title": "Share outreach and warm-thread conversion.",
       "publishedAt": "2026-03-23",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Share outreach and warm-thread conversion."
     },
     {
@@ -1964,7 +2315,12 @@
       "title": "I Asked My Lead If It Was a Bot. Best GTM Day.",
       "publishedAt": "2026-03-23",
       "updatedAt": null,
-      "tags": ["startups", "gtm", "founder", "saas"],
+      "tags": [
+        "startups",
+        "gtm",
+        "founder",
+        "saas"
+      ],
       "summary": "Zero paying customers. Eight cold runs sent. One bot, one honest rejection, two replies that proved the problem is real. Here's what actually moved today."
     },
     {
@@ -1975,7 +2331,10 @@
       "title": "500+ LinkedIn, stronger conversions, and validation.",
       "publishedAt": "2026-03-22",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "500+ LinkedIn, stronger conversions, and validation."
     },
     {
@@ -1986,7 +2345,12 @@
       "title": "100k Impressions, 4 Signups. Here's What I Got Wrong.",
       "publishedAt": "2026-03-22",
       "updatedAt": null,
-      "tags": ["startups", "gtm", "saas", "founder"],
+      "tags": [
+        "startups",
+        "gtm",
+        "saas",
+        "founder"
+      ],
       "summary": "I built Ryva, posted it everywhere, and watched 100k impressions turn into almost nothing. Here's the honest breakdown of what went wrong and what I changed."
     },
     {
@@ -1997,7 +2361,10 @@
       "title": "Brain shipped, stronger outbound, and building momentum.",
       "publishedAt": "2026-03-21",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Brain shipped, stronger outbound, and building momentum."
     },
     {
@@ -2008,7 +2375,11 @@
       "title": "Status is not state. Most teams only have one.",
       "publishedAt": "2026-03-21",
       "updatedAt": null,
-      "tags": ["startups", "saas", "story"],
+      "tags": [
+        "startups",
+        "saas",
+        "story"
+      ],
       "summary": "Every team tracks what people worked on. Almost none track what is actually happening. The difference is costing you more than you think."
     },
     {
@@ -2019,7 +2390,10 @@
       "title": "School ends, CyberMinds work, and a tighter funnel.",
       "publishedAt": "2026-03-20",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "School ends, CyberMinds work, and a tighter funnel."
     },
     {
@@ -2030,7 +2404,10 @@
       "title": "Security hardening, early-usage strategy, and traction.",
       "publishedAt": "2026-03-19",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Security hardening, early-usage strategy, and traction."
     },
     {
@@ -2041,7 +2418,10 @@
       "title": "Outreach consistency and stronger ICP clarity.",
       "publishedAt": "2026-03-18",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Outreach consistency and stronger ICP clarity."
     },
     {
@@ -2052,7 +2432,10 @@
       "title": "Outreach follow-through and first-user persistence.",
       "publishedAt": "2026-03-17",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Outreach follow-through and first-user persistence."
     },
     {
@@ -2063,7 +2446,10 @@
       "title": "Photo migration, docs readiness, and ICP groundwork.",
       "publishedAt": "2026-03-16",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Photo migration, docs readiness, and ICP groundwork."
     },
     {
@@ -2074,7 +2460,10 @@
       "title": "Outreach, architecture transparency, and warm-leads.",
       "publishedAt": "2026-03-15",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Outreach, architecture transparency, and warm-leads."
     },
     {
@@ -2085,7 +2474,11 @@
       "title": "How Ryva works under the hood",
       "publishedAt": "2026-03-15",
       "updatedAt": null,
-      "tags": ["startups", "coding", "saas"],
+      "tags": [
+        "startups",
+        "coding",
+        "saas"
+      ],
       "summary": "A transparent look at the agent architecture, memory system, priority scoring, and data model powering Ryva. How we read GitHub and Slack without storing sensitive data, and how the agent gets smarter over time."
     },
     {
@@ -2096,7 +2489,10 @@
       "title": "First real user, strong signal, and a split-focus day.",
       "publishedAt": "2026-03-14",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "First real user, strong signal, and a split-focus day."
     },
     {
@@ -2107,7 +2503,11 @@
       "title": "I ran an AI on a $2B repo. Here is what it found.",
       "publishedAt": "2026-03-14",
       "updatedAt": null,
-      "tags": ["startups", "saas", "story"],
+      "tags": [
+        "startups",
+        "saas",
+        "story"
+      ],
       "summary": "I ran Ryva on one of the most active open source repos in the world. It found six open problems with no owner. Here is what that revealed about how teams actually lose track of decisions."
     },
     {
@@ -2118,7 +2518,10 @@
       "title": "Better positioning, stronger community, narrower focus.",
       "publishedAt": "2026-03-13",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Better positioning, stronger community, narrower focus."
     },
     {
@@ -2129,7 +2532,10 @@
       "title": "More distribution, better proof, weaker ICP.",
       "publishedAt": "2026-03-12",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "More distribution, better proof, weaker ICP."
     },
     {
@@ -2140,7 +2546,10 @@
       "title": "Demo proof-of-work and a clearer GTM plan.",
       "publishedAt": "2026-03-11",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Demo proof-of-work and a clearer GTM plan."
     },
     {
@@ -2151,7 +2560,10 @@
       "title": "Public demo, distribution learnings, and GTM focus.",
       "publishedAt": "2026-03-10",
       "updatedAt": null,
-      "tags": ["ryva", "experiment"],
+      "tags": [
+        "ryva",
+        "experiment"
+      ],
       "summary": "Public demo, distribution learnings, and GTM focus."
     },
     {
@@ -2162,7 +2574,10 @@
       "title": "100k+ content views, ICP outreach, and Ryva direction.",
       "publishedAt": "2026-03-09",
       "updatedAt": null,
-      "tags": ["ryva", "outreach"],
+      "tags": [
+        "ryva",
+        "outreach"
+      ],
       "summary": "100k+ content views, ICP outreach, and Ryva direction."
     },
     {
@@ -2173,7 +2588,10 @@
       "title": "4 signups, 1 invite sent, no active testers yet.",
       "publishedAt": "2026-03-08",
       "updatedAt": null,
-      "tags": ["ryva", "build"],
+      "tags": [
+        "ryva",
+        "build"
+      ],
       "summary": "4 signups, 1 invite sent, no active testers yet."
     },
     {
@@ -2184,7 +2602,12 @@
       "title": "I Stopped Pitching. Replies Tripled.",
       "publishedAt": "2026-03-08",
       "updatedAt": null,
-      "tags": ["startups", "founder", "gtm", "saas"],
+      "tags": [
+        "startups",
+        "founder",
+        "gtm",
+        "saas"
+      ],
       "summary": "I spent days DMing founders and engineers about Ryva. Nobody cared until I stopped explaining and started asking."
     },
     {
@@ -2195,7 +2618,11 @@
       "title": "Finished site, blog, first 2 Ryva users, and Aegean site.",
       "publishedAt": "2026-03-07",
       "updatedAt": null,
-      "tags": ["shipping", "ryva", "build"],
+      "tags": [
+        "shipping",
+        "ryva",
+        "build"
+      ],
       "summary": "Finished site, blog, first 2 Ryva users, and Aegean site."
     },
     {
@@ -2206,7 +2633,11 @@
       "title": "I Rebuilt My Website From Scratch Yesterday",
       "publishedAt": "2026-03-07",
       "updatedAt": null,
-      "tags": ["technology", "coding", "performance"],
+      "tags": [
+        "technology",
+        "coding",
+        "performance"
+      ],
       "summary": "I deleted my old site and rebuilt everything from zero in one day. Here is the full process, what I changed, and the exact numbers at the end."
     },
     {
@@ -2217,7 +2648,9 @@
       "title": "Rebuilt personal website and blog.",
       "publishedAt": "2026-03-06",
       "updatedAt": null,
-      "tags": ["build"],
+      "tags": [
+        "build"
+      ],
       "summary": "Rebuilt personal website and blog."
     },
     {
@@ -2228,7 +2661,11 @@
       "title": "The Meeting That Didn’t Need to Happen",
       "publishedAt": "2026-02-28",
       "updatedAt": null,
-      "tags": ["technology", "meeting", "tutorial"],
+      "tags": [
+        "technology",
+        "meeting",
+        "tutorial"
+      ],
       "summary": "We were about to schedule a meeting."
     },
     {
@@ -2239,7 +2676,11 @@
       "title": "I Failed With My SaaS Again",
       "publishedAt": "2026-02-16",
       "updatedAt": null,
-      "tags": ["technology", "saas", "entrepreneurship"],
+      "tags": [
+        "technology",
+        "saas",
+        "entrepreneurship"
+      ],
       "summary": "A few weeks ago, I launched my SaaS, Huesly."
     },
     {
@@ -2250,7 +2691,11 @@
       "title": "I Built a Terminal and Code Editor",
       "publishedAt": "2026-02-16",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Last week I built a web based terminal, code editor, and assignment system."
     },
     {
@@ -2261,7 +2706,11 @@
       "title": "I Built a SaaS in a Day",
       "publishedAt": "2026-02-16",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Yesterday I asked myself a simple question."
     },
     {
@@ -2272,7 +2721,11 @@
       "title": "I Killed My SaaS at 15. Here's What I Built Instead.",
       "publishedAt": "2026-02-07",
       "updatedAt": null,
-      "tags": ["technology", "story", "build"],
+      "tags": [
+        "technology",
+        "story",
+        "build"
+      ],
       "summary": "Two weeks ago I published Why I'm Killing My SaaS Before Launch, the story of spending 2 months building 70,000 lines of enterprise grade infrastructure and..."
     },
     {
@@ -2283,7 +2736,11 @@
       "title": "Building a Production Web Scraper",
       "publishedAt": "2026-01-18",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Most Go concurrency tutorials show you how to spawn goroutines and pass data through channels. Then you try to build something real and immediately hit..."
     },
     {
@@ -2294,7 +2751,11 @@
       "title": "Why I'm Killing My SaaS Before Launch",
       "publishedAt": "2026-01-17",
       "updatedAt": null,
-      "tags": ["technology", "coding", "reflection"],
+      "tags": [
+        "technology",
+        "coding",
+        "reflection"
+      ],
       "summary": "Two weeks. That's how long it took me to build a billing system."
     },
     {
@@ -2305,7 +2766,11 @@
       "title": "2,025 Commits for 2025: My Year of Code",
       "publishedAt": "2025-12-21",
       "updatedAt": null,
-      "tags": ["technology", "coding", "story"],
+      "tags": [
+        "technology",
+        "coding",
+        "story"
+      ],
       "summary": "This year, I started coding seriously, and I was able to hit 2,025 commits. For me, 2025 was a significant year because I knew it would help me reach my..."
     },
     {
@@ -2316,7 +2781,11 @@
       "title": "Overcoming Burnout",
       "publishedAt": "2025-12-20",
       "updatedAt": null,
-      "tags": ["productivity", "tutorial", "mindset"],
+      "tags": [
+        "productivity",
+        "tutorial",
+        "mindset"
+      ],
       "summary": "You see all these people online following extreme routines and grinding 16 hours a day. They make it seem like that's the only way to succeed. But here's..."
     },
     {
@@ -2327,7 +2796,11 @@
       "title": "Vibe Coding Requires Real Coding Skills",
       "publishedAt": "2025-12-14",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "I recently experimented with vibe coding by using AI to help build a Three.js animation that follows the cursor. I ran Mistral's devstral small 2 model..."
     },
     {
@@ -2338,7 +2811,11 @@
       "title": "The 3 Types of Projects Worth Building",
       "publishedAt": "2025-12-08",
       "updatedAt": null,
-      "tags": ["technology", "projects", "tutorial"],
+      "tags": [
+        "technology",
+        "projects",
+        "tutorial"
+      ],
       "summary": "I've started and abandoned more projects than I can count. Some taught me valuable lessons, others were complete wastes of time. After building everything..."
     },
     {
@@ -2349,7 +2826,11 @@
       "title": "The Science of Color in UI Design",
       "publishedAt": "2025-12-06",
       "updatedAt": null,
-      "tags": ["design", "tutorial", "guide"],
+      "tags": [
+        "design",
+        "tutorial",
+        "guide"
+      ],
       "summary": "Color isn't just about making things look pretty. It's about hierarchy, consistency, and guiding users through your interface without them even realizing..."
     },
     {
@@ -2360,7 +2841,11 @@
       "title": "How One Snowy Weekend Changed the Way I See",
       "publishedAt": "2025-12-01",
       "updatedAt": null,
-      "tags": ["photography", "technique", "technology"],
+      "tags": [
+        "photography",
+        "technique",
+        "technology"
+      ],
       "summary": "I wasn't feeling inspired."
     },
     {
@@ -2371,7 +2856,11 @@
       "title": "Everything is Interesting",
       "publishedAt": "2025-11-23",
       "updatedAt": null,
-      "tags": ["photography", "technique", "technology"],
+      "tags": [
+        "photography",
+        "technique",
+        "technology"
+      ],
       "summary": "Most people walk past the same things every day and see nothing worth photographing."
     },
     {
@@ -2382,7 +2871,11 @@
       "title": "A Practical Guide to Testing",
       "publishedAt": "2025-11-22",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Testing isn't glamorous. It's repetitive, it feels like extra work, and when you're trying to ship fast, it's tempting to skip it entirely. But here's the..."
     },
     {
@@ -2393,7 +2886,11 @@
       "title": "Introducing Ryva: AI Productivity for Builders",
       "publishedAt": "2025-11-16",
       "updatedAt": null,
-      "tags": ["technology", "productivity", "developer"],
+      "tags": [
+        "technology",
+        "productivity",
+        "developer"
+      ],
       "summary": "I shipped the Ryva waitlist today at ryva.dev."
     },
     {
@@ -2404,7 +2901,11 @@
       "title": "Breaking the Rules of Composition",
       "publishedAt": "2025-11-16",
       "updatedAt": null,
-      "tags": ["photography", "technique", "technology"],
+      "tags": [
+        "photography",
+        "technique",
+        "technology"
+      ],
       "summary": "Two years into photography, I've taken over 10,000 pictures. My camera has a rule of thirds grid built in, and for most of those shots, I've followed it..."
     },
     {
@@ -2415,7 +2916,11 @@
       "title": "Composition in Photography",
       "publishedAt": "2025-11-09",
       "updatedAt": null,
-      "tags": ["photography", "technique", "technology"],
+      "tags": [
+        "photography",
+        "technique",
+        "technology"
+      ],
       "summary": "I've been shooting nature and macro photography for almost two years now. My Instagram (@snapuree) has over 500 followers, and I've learned that composition..."
     },
     {
@@ -2426,7 +2931,11 @@
       "title": "Why I Use Shadcn",
       "publishedAt": "2025-11-08",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "I started using Shadcn because its components are ridiculously easy to set up and they actually look good out of the box. But the real game changer? time..."
     },
     {
@@ -2437,7 +2946,11 @@
       "title": "Why I Build Real Apps to Learn",
       "publishedAt": "2025-11-02",
       "updatedAt": null,
-      "tags": ["technology", "productivity", "tutorial"],
+      "tags": [
+        "technology",
+        "productivity",
+        "tutorial"
+      ],
       "summary": "Most developers learn by watching tutorials and building todo apps. I learned by building production applications that solve real problems."
     },
     {
@@ -2448,7 +2961,11 @@
       "title": "Lessons from Photography",
       "publishedAt": "2025-11-02",
       "updatedAt": null,
-      "tags": ["photography", "editing", "technology"],
+      "tags": [
+        "photography",
+        "editing",
+        "technology"
+      ],
       "summary": "I've been taking photos seriously for almost two years now, but my relationship with cameras started way earlier. When I was five, I'd grab whatever camera..."
     },
     {
@@ -2459,7 +2976,11 @@
       "title": "Enough is Enough",
       "publishedAt": "2025-10-26",
       "updatedAt": null,
-      "tags": ["technology", "productivity", "tutorial"],
+      "tags": [
+        "technology",
+        "productivity",
+        "tutorial"
+      ],
       "summary": "You know what's funny? The most unproductive thing you can do is spend all your time trying to be productive."
     },
     {
@@ -2470,7 +2991,11 @@
       "title": "Why I Chose Go Over Node.js for My Backend",
       "publishedAt": "2025-10-25",
       "updatedAt": null,
-      "tags": ["technology", "tutorial", "coding"],
+      "tags": [
+        "technology",
+        "tutorial",
+        "coding"
+      ],
       "summary": "A month ago, I became a full stack developer. I already knew TypeScript inside and out from building Next.js frontends, so the obvious choice for my backend..."
     },
     {
@@ -2481,7 +3006,11 @@
       "title": "My Honest Review on Claude Code",
       "publishedAt": "2025-10-19",
       "updatedAt": null,
-      "tags": ["technology", "review", "coding"],
+      "tags": [
+        "technology",
+        "review",
+        "coding"
+      ],
       "summary": "I've been using Claude Code for a while now, and here's the thing it's genuinely amazing, but not in the way you might think."
     },
     {
@@ -2492,7 +3021,11 @@
       "title": "Stop Waiting for Your Purpose",
       "publishedAt": "2025-10-18",
       "updatedAt": null,
-      "tags": ["mindset", "sucess", "purpose"],
+      "tags": [
+        "mindset",
+        "sucess",
+        "purpose"
+      ],
       "summary": "Everyone's obsessed with finding their purpose. They read self help books, watch motivational videos, and wait for some magical moment of clarity."
     },
     {
@@ -2503,7 +3036,11 @@
       "title": "Stop Learning, Start Building",
       "publishedAt": "2025-10-16",
       "updatedAt": null,
-      "tags": ["technology", "coding", "learning"],
+      "tags": [
+        "technology",
+        "coding",
+        "learning"
+      ],
       "summary": "You don't need another course. You don't need to finish that 40 hour Udemy playlist. You definitely don't need to understand every concept before you start..."
     },
     {
@@ -2514,7 +3051,11 @@
       "title": "The Terminal Transformed My Productivity",
       "publishedAt": "2025-10-12",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Six months ago, I didn't know what cd was. Today, I'm publishing websites in seconds with tools I built myself. Here's how the terminal went from terrifying..."
     },
     {
@@ -2525,7 +3066,11 @@
       "title": "My First Hackathon: Everything That Went Wrong",
       "publishedAt": "2025-10-12",
       "updatedAt": null,
-      "tags": ["technology", "coding", "tutorial"],
+      "tags": [
+        "technology",
+        "coding",
+        "tutorial"
+      ],
       "summary": "Yesterday I participated in my first hackathon. It was called Solaris, a 24 hour online hackathon. I went in excited and nervous because I had no idea what..."
     },
     {
@@ -2536,7 +3081,11 @@
       "title": "How I Built My Own Free AI API in One Hour",
       "publishedAt": "2025-10-12",
       "updatedAt": null,
-      "tags": ["technology", "coding", "ai"],
+      "tags": [
+        "technology",
+        "coding",
+        "ai"
+      ],
       "summary": "Yesterday I built my own AI API. The whole thing took an hour."
     },
     {
@@ -2547,7 +3096,11 @@
       "title": "The Art of Time Management",
       "publishedAt": "2025-10-07",
       "updatedAt": null,
-      "tags": ["tutorial", "productivity", "mindset"],
+      "tags": [
+        "tutorial",
+        "productivity",
+        "mindset"
+      ],
       "summary": "Last week, I set up three new dev tools, learned debuggers and MCP servers, built two full apps, optimized my browser start page, studied for a math test,..."
     },
     {
@@ -2558,7 +3111,11 @@
       "title": "Best VS Code Alternatives in 2025",
       "publishedAt": "2025-10-04",
       "updatedAt": null,
-      "tags": ["technology", "coding", "ai"],
+      "tags": [
+        "technology",
+        "coding",
+        "ai"
+      ],
       "summary": "VS Code is everywhere, but it's not perfect. If you're dealing with performance issues, want better AI, or just need something different, here are five..."
     },
     {
@@ -2569,7 +3126,11 @@
       "title": "How I Built My Dev Environment with Zed",
       "publishedAt": "2025-10-02",
       "updatedAt": null,
-      "tags": ["coding", "technology", "review"],
+      "tags": [
+        "coding",
+        "technology",
+        "review"
+      ],
       "summary": "Last week, I completely transformed how I write code. After months of using GoLand and Cursor, I switched to Zed, and honestly, I wish I'd done it sooner."
     },
     {
@@ -2580,7 +3141,11 @@
       "title": "Top Design Systems in 2025",
       "publishedAt": "2025-09-28",
       "updatedAt": null,
-      "tags": ["technology", "design", "review"],
+      "tags": [
+        "technology",
+        "design",
+        "review"
+      ],
       "summary": "Design systems are basically the rulebooks for modern digital products. They define the components, patterns, and styles that keep everything consistent and..."
     },
     {
@@ -2591,7 +3156,11 @@
       "title": "Local AI in 2025 What You Need to Know",
       "publishedAt": "2025-09-27",
       "updatedAt": null,
-      "tags": ["technology", "tutorial", "ai"],
+      "tags": [
+        "technology",
+        "tutorial",
+        "ai"
+      ],
       "summary": "Running AI locally is no longer just an experiment. It is becoming practical, powerful, and private. With local AI, you can access knowledge offline,..."
     },
     {
@@ -2602,7 +3171,11 @@
       "title": "Turning Tiny Ideas into Mini Apps in a Day",
       "publishedAt": "2025-09-21",
       "updatedAt": null,
-      "tags": ["technology", "product", "coding"],
+      "tags": [
+        "technology",
+        "product",
+        "coding"
+      ],
       "summary": "Ideas are easy. Shipping them? That’s the hard part. Yesterday, I had a tiny idea: a minimalist tool to share Markdown files instantly. No clunky uploads,..."
     },
     {
@@ -2613,7 +3186,11 @@
       "title": "How I Ship Products Fast at 15",
       "publishedAt": "2025-09-20",
       "updatedAt": null,
-      "tags": ["coding", "tutorial", "technology"],
+      "tags": [
+        "coding",
+        "tutorial",
+        "technology"
+      ],
       "summary": "Most people make shipping harder than it needs to be. They spend weeks debating features, setting up infrastructure, or rewriting the same boilerplate code...."
     },
     {
@@ -2624,7 +3201,11 @@
       "title": "Why I Ditched Complicated Productivity Systems",
       "publishedAt": "2025-09-16",
       "updatedAt": null,
-      "tags": ["technology", "productivity", "tutorial"],
+      "tags": [
+        "technology",
+        "productivity",
+        "tutorial"
+      ],
       "summary": "I used to run some of the most advanced productivity systems you can imagine. I connected the ChatGPT API, multiple MCP servers, Notion, and Google Calendar..."
     },
     {
@@ -2635,7 +3216,11 @@
       "title": "The Free Tools I Use to Build Projects Without Paying a Dime",
       "publishedAt": "2025-09-13",
       "updatedAt": null,
-      "tags": ["tutorial", "technology", "coding"],
+      "tags": [
+        "tutorial",
+        "technology",
+        "coding"
+      ],
       "summary": "Want to build web apps, games, or creative projects without spending hundreds of dollars on software? I’ve been doing exactly that for over a year—and trust..."
     },
     {
@@ -2646,7 +3231,11 @@
       "title": "What a Month of Daily Fitness Taught Me About Discipline",
       "publishedAt": "2025-09-08",
       "updatedAt": null,
-      "tags": ["calisthenics", "running", "health"],
+      "tags": [
+        "calisthenics",
+        "running",
+        "health"
+      ],
       "summary": "This past month has been intense and transformative. At 15, I committed to daily calisthenics and cardio six times a week while cutting body fat and..."
     },
     {
@@ -2657,7 +3246,11 @@
       "title": "How to Edit Photos Like a Pro on Your Phone",
       "publishedAt": "2025-09-01",
       "updatedAt": null,
-      "tags": ["photography", "editing", "technology"],
+      "tags": [
+        "photography",
+        "editing",
+        "technology"
+      ],
       "summary": "Want your phone photos to look like they were taken by a professional? With the right app and a few simple tricks, anyone can get amazing results, no..."
     },
     {
@@ -2668,7 +3261,10 @@
       "title": "The Mindset That Makes Success Inevitable",
       "publishedAt": "2025-08-27",
       "updatedAt": null,
-      "tags": ["mindset", "success"],
+      "tags": [
+        "mindset",
+        "success"
+      ],
       "summary": "Success is not a mystery. It is a system of belief, effort, and consistency . Too often, people settle for “mid” results. There is no mid. You are either..."
     },
     {
@@ -2679,7 +3275,12 @@
       "title": "Best AI Tools for Students in 2025",
       "publishedAt": "2025-08-24",
       "updatedAt": null,
-      "tags": ["technology", "ai", "students", "creativity"],
+      "tags": [
+        "technology",
+        "ai",
+        "students",
+        "creativity"
+      ],
       "summary": "AI is not just for tech pros anymore. In 2025, students are using AI tools to learn faster, stay organized, and get more done without burning out . From..."
     },
     {
@@ -2690,7 +3291,11 @@
       "title": "Top 5 Programming Languages to Learn in 2025",
       "publishedAt": "2025-08-08",
       "updatedAt": null,
-      "tags": ["coding", "technology", "guide"],
+      "tags": [
+        "coding",
+        "technology",
+        "guide"
+      ],
       "summary": "Learning to code in 2025 is more exciting than ever. We have languages that power everything from billion user web apps to tiny IoT devices — and choosing..."
     },
     {
@@ -2701,7 +3306,10 @@
       "title": "Top 6 Productivity Apps in 2025",
       "publishedAt": "2025-08-04",
       "updatedAt": null,
-      "tags": ["technology", "productivity"],
+      "tags": [
+        "technology",
+        "productivity"
+      ],
       "summary": "In today’s fast paced world, having the right productivity apps on your iPhone or iPad can make a huge difference. Whether you’re managing school projects,..."
     },
     {
@@ -2712,7 +3320,11 @@
       "title": "How I Built a Blog from Scratch",
       "publishedAt": "2025-08-01",
       "updatedAt": null,
-      "tags": ["coding", "productivity", "release"],
+      "tags": [
+        "coding",
+        "productivity",
+        "release"
+      ],
       "summary": "Building my own blog wasn't just a coding project—it was a chance to create a space I fully control. No templates, no bloated CMS, just clean design and..."
     }
   ]
