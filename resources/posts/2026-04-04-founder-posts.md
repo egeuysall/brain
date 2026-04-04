@@ -13,6 +13,7 @@ LinkedIn:
 Yesterday I wrote in my diary that I kept the day light to clean systems, so today could be execution-first.
 
 Fresh signals this morning reinforced why that matters:
+
 - one startup thread on founder guilt when not constantly working
 - one startup thread on late payments and no accountability
 
@@ -23,6 +24,7 @@ For teams, this shows up as missed follow-through.
 For founders, this shows up as guilt loops and trust erosion.
 
 The operating rule I am pushing this week:
+
 - every decision gets a single owner
 - every decision gets a next check trigger (time or event)
 - unresolved items must have a named escalation owner
@@ -42,6 +44,7 @@ Body:
 I am trying to sanity-check a pattern from this week.
 
 I saw two fresh startup threads today:
+
 - founder guilt when not working every minute
 - client payment frustration with no accountability
 
@@ -50,6 +53,7 @@ Those feel different on the surface, but I think they share one root cause: uncl
 When nobody clearly owns the next step, people compensate with anxiety, extra checking, and reactive messages.
 
 I am testing a simple rule:
+
 - every decision has one owner
 - every decision has a next check trigger (date or event)
 - stale items escalate to one named person

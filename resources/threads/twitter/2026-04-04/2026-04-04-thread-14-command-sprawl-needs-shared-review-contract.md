@@ -44,6 +44,6 @@ What is your minimum required artifact before “ship”: plan note, risk list, 
 
 ## Snapshot
 
-- Author: @nickspisak_
+- Author: @nickspisak\_
 - Captured date label: April 1, 2026
 - Recency window: within past week
