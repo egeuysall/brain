@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-04
+author: Codex
+tags: [outreach, reddit, icp, ownership, context, coordination]
+source: https://www.reddit.com/r/ExperiencedDevs/comments/1sal5f1/inherited_a_small_microservices_system_23/
+---
+
+# Thread 15: Inherited a small microservices system (2-3 services) with almost no tests. With limited resources, where do you invest: Unit or Integration?
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/ExperiencedDevs/comments/1sal5f1/inherited_a_small_microservices_system_23/
+
+## Full Post Text (Key Excerpt)
+
+"I inherited 2-3 interacting services with very few tests and limited resources, and need to choose where to invest first between unit and integration coverage."
+
+## Why This Matches Ryva ICP
+
+This is first-person ownership transfer pain with explicit resource constraints and dependency risk, strongly aligned to Ryva ICP.
+
+## Underlying Problem
+
+A new owner lacks risk visibility across service boundaries, so test investment decisions become guesswork.
+
+## Suggested Public Reply (Copy)
+
+```text
+Start with thin integration tests on highest-value flows, then add unit tests around unstable modules. In inherited systems, boundary failures usually hurt first, so protect cross-service behavior before deeper internals.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+If useful, I can help you rank the first 5 integration scenarios by user impact and failure cost so test investment is not random.
+```

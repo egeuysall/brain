@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-04
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 15 - slack to issue creation needs ownership fields
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/cassidoo/status/2038993995708133777
+
+## Post Text (Key Excerpt)
+
+```text
+You can now create GitHub Issues directly from Slack in natural language! Mention @GitHub in any channel and describe your work, and the app creates structured Issues in your repo (and sub-issues, too).
+```
+
+## Why It Matches Ryva ICP
+
+Slack-to-GitHub automation solves handoff friction, but only if ownership and decision metadata survive the translation.
+
+## Underlying Problem
+
+Conversation capture is improving, but critical ownership and acceptance context can still be lost.
+
+## Suggested Public Response (Copy)
+
+```text
+This is a strong step for handoff speed. The failure mode is when issue creation captures text but not decision intent, owner, and acceptance criteria. If those 3 are mandatory at creation, teams avoid “ticket exists but nobody owns outcome.”
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Do generated issues include owner + acceptance criteria automatically, or do humans add them later?
+```
+
+## Snapshot
+
+- Author: @cassidoo
+- Captured date label: March 31, 2026
+- Recency window: within past week

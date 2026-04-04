@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-03T15:32:56.196563+00:00",
+  "generatedAt": "2026-04-04T12:42:13.285887+00:00",
   "kind": "outreach-fetch-context",
   "runtime": {
     "budgetSeconds": 170,
-    "elapsedSeconds": 111.21,
+    "elapsedSeconds": 102.52,
     "withinBudget": true
   },
   "sources": {
@@ -57,18 +57,18 @@
         ],
         "timeoutSeconds": 45,
         "ok": true,
-        "durationSeconds": 20.48,
+        "durationSeconds": 16.89,
         "exitCode": 0,
-        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 8,\n    \"uniqueLinks\": 8,\n    \"hydratedPosts\": 8\n  }\n}\n",
+        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 4,\n    \"uniqueLinks\": 4,\n    \"hydratedPosts\": 4\n  }\n}\n",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/x-candidates.json"
       },
-      "postCount": 8,
+      "postCount": 4,
       "outputFile": "resources/threads/_runtime/x-candidates.json"
     },
     "redditCandidates": {
       "ok": true,
-      "fallbackUsed": true,
+      "fallbackUsed": false,
       "primary": {
         "command": [
           "/opt/homebrew/opt/python@3.14/bin/python3.14",
@@ -88,47 +88,21 @@
           "--output-json",
           "resources/threads/_runtime/reddit-candidates.json"
         ],
-        "timeoutSeconds": 64,
+        "timeoutSeconds": 67,
         "ok": true,
-        "durationSeconds": 5.28,
+        "durationSeconds": 5.35,
         "exitCode": 0,
         "stdoutTail": "",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/reddit-candidates.json"
       },
-      "fallback": {
-        "command": [
-          "/opt/homebrew/opt/python@3.14/bin/python3.14",
-          "tooling/scripts/reddit_harvest.py",
-          "--subreddits",
-          "EngineeringManagers,ExperiencedDevs,ProductManagement,projectmanagement,devops,startups",
-          "--min-hours",
-          "0",
-          "--max-hours",
-          "336",
-          "--timeout-seconds",
-          "10",
-          "--sleep-seconds",
-          "0.1",
-          "--no-body",
-          "--output-json",
-          "resources/threads/_runtime/reddit-candidates.json"
-        ],
-        "timeoutSeconds": 35,
-        "ok": true,
-        "durationSeconds": 5.11,
-        "exitCode": 0,
-        "stdoutTail": "",
-        "stderrTail": "",
-        "outputFile": "resources/threads/_runtime/reddit-candidates.json"
-      },
-      "postCount": 150,
+      "postCount": 2,
       "outputFile": "resources/threads/_runtime/reddit-candidates.json"
     }
   },
   "totals": {
-    "xPosts": 8,
-    "redditPosts": 150,
+    "xPosts": 4,
+    "redditPosts": 2,
     "anyUsableSignals": true
   },
   "files": {

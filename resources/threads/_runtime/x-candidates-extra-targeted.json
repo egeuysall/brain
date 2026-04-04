@@ -1,0 +1,23 @@
+{
+  "generatedAt": "2026-04-04T12:49:45.179078+00:00",
+  "queries": [
+    "site:x.com \"daily standup\" \"slack\" \"engineering\"",
+    "site:x.com \"jira\" \"slack\" \"context\" \"engineering team\"",
+    "site:x.com \"PR review\" \"context\" \"lost\"",
+    "site:x.com \"who owns\" \"bug\" \"engineering\"",
+    "site:x.com \"incident\" \"slack thread\" \"engineering\"",
+    "site:x.com \"things falling through\" \"engineering team\"",
+    "site:x.com \"status update\" \"no owner\" \"engineering\"",
+    "site:x.com \"ticket\" \"stale\" \"engineering\"",
+    "site:x.com \"context switch\" \"standup\" \"jira\"",
+    "site:x.com \"review queue\" \"engineering\" \"blocked\"",
+    "site:x.com \"decision\" \"buried in slack\" \"engineering\"",
+    "site:x.com \"handoff\" \"slack\" \"jira\" \"engineering\""
+  ],
+  "counts": {
+    "rawLinks": 1,
+    "uniqueLinks": 1,
+    "candidates": 0
+  },
+  "posts": []
+}

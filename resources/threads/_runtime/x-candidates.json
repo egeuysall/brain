@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-03T15:32:45.793805+00:00",
+  "generatedAt": "2026-04-04T12:42:07.922535+00:00",
   "source": "duckduckgo_via_r_jina + x_status_via_r_jina",
   "queries": [
     "site:x.com standup slack status",
@@ -24,23 +24,18 @@
   ],
   "counts": {
     "queryCount": 19,
-    "discoveredLinks": 8,
-    "uniqueLinks": 8,
-    "hydratedPosts": 8
+    "discoveredLinks": 4,
+    "uniqueLinks": 4,
+    "hydratedPosts": 4
   },
   "discovered": {
     "site:x.com standup slack status": [
-      "https://x.com/0xlelouch_/status/2029552258191339624",
-      "https://x.com/ItsWillHenry/status/2034007689072939452",
       "https://x.com/WrenTheAI/status/2032262721455210914",
-      "https://x.com/aakashgupta/status/2035273457005674859"
+      "https://x.com/aakashgupta/status/2035273457005674859",
+      "https://x.com/fr0gger_/status/2034209115636224371",
+      "https://x.com/jasonlk/status/2039720330546266356"
     ],
-    "site:x.com engineering standup status": [
-      "https://x.com/Akintola_steve/status/2036760591885369814",
-      "https://x.com/Eliseevanews/status/2038681308939817004",
-      "https://x.com/Masai_mahapa/status/2039586128638988368",
-      "https://x.com/TechLayoffLover/status/2033375780026081746"
-    ],
+    "site:x.com engineering standup status": [],
     "site:x.com jira slack github standup": [],
     "site:x.com who owns this bug engineering": [],
     "site:x.com bug ownership engineering team": [],
@@ -61,13 +56,22 @@
   },
   "posts": [
     {
-      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
-      "author": "Akintola_steve",
-      "statusId": "2036760591885369814",
+      "url": "https://x.com/WrenTheAI/status/2032262721455210914",
+      "author": "WrenTheAI",
+      "statusId": "2032262721455210914",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/Akintola_steve/status/2036760591885369814"
+      "source": "https://r.jina.ai/http://x.com/WrenTheAI/status/2032262721455210914"
+    },
+    {
+      "url": "https://x.com/fr0gger_/status/2034209115636224371",
+      "author": "fr0gger_",
+      "statusId": "2034209115636224371",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/fr0gger_/status/2034209115636224371"
     },
     {
       "url": "https://x.com/aakashgupta/status/2035273457005674859",
@@ -79,58 +83,13 @@
       "source": "https://r.jina.ai/http://x.com/aakashgupta/status/2035273457005674859"
     },
     {
-      "url": "https://x.com/Eliseevanews/status/2038681308939817004",
-      "author": "Eliseevanews",
-      "statusId": "2038681308939817004",
+      "url": "https://x.com/jasonlk/status/2039720330546266356",
+      "author": "jasonlk",
+      "statusId": "2039720330546266356",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/Eliseevanews/status/2038681308939817004"
-    },
-    {
-      "url": "https://x.com/ItsWillHenry/status/2034007689072939452",
-      "author": "ItsWillHenry",
-      "statusId": "2034007689072939452",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/ItsWillHenry/status/2034007689072939452"
-    },
-    {
-      "url": "https://x.com/0xlelouch_/status/2029552258191339624",
-      "author": "0xlelouch_",
-      "statusId": "2029552258191339624",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/0xlelouch_/status/2029552258191339624"
-    },
-    {
-      "url": "https://x.com/WrenTheAI/status/2032262721455210914",
-      "author": "WrenTheAI",
-      "statusId": "2032262721455210914",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/WrenTheAI/status/2032262721455210914"
-    },
-    {
-      "url": "https://x.com/Masai_mahapa/status/2039586128638988368",
-      "author": "Masai_mahapa",
-      "statusId": "2039586128638988368",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/Masai_mahapa/status/2039586128638988368"
-    },
-    {
-      "url": "https://x.com/TechLayoffLover/status/2033375780026081746",
-      "author": "TechLayoffLover",
-      "statusId": "2033375780026081746",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/TechLayoffLover/status/2033375780026081746"
+      "source": "https://r.jina.ai/http://x.com/jasonlk/status/2039720330546266356"
     }
   ]
 }
