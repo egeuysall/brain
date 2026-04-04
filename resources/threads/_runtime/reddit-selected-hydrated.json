@@ -1,0 +1,182 @@
+[
+  {
+    "subreddit": "ProductManagement",
+    "author": "FluffyInitiative6805",
+    "created_at": "2026-04-04T17:30:30+00:00",
+    "age_days": 0.11,
+    "title": "PM pain: decisions in chats, tasks in trackers, nothing stays in sync",
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1scf9ne/pm_pain_decisions_in_chats_tasks_in_trackers/",
+    "excerpt": "PM pain: decisions in chats, tasks in trackers, nothing stays in sync",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "EngineeringManagers",
+    "author": "mushgev",
+    "created_at": "2026-04-04T00:19:10+00:00",
+    "age_days": 0.82,
+    "title": "AI code review at PR stage is a workflow antipattern. Here's the better model.",
+    "url": "https://www.reddit.com/r/EngineeringManagers/comments/1sbugzb/ai_code_review_at_pr_stage_is_a_workflow/",
+    "excerpt": "AI code review at PR stage is a workflow antipattern. Here's the better model.",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "ExperiencedDevs",
+    "author": "ImTheRealDh",
+    "created_at": "2026-04-04T06:34:53+00:00",
+    "age_days": 0.56,
+    "title": "I feel disconnected to the codebase if i adopt fully agentic workflow, i must do something manually.",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1sc1y5f/i_feel_disconnected_to_the_codebase_if_i_adopt/",
+    "excerpt": "I feel disconnected to the codebase if i adopt fully agentic workflow, i must do something manually.",
+    "body_len": 0,
+    "signals": {
+      "first_person": true,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 2,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "ExperiencedDevs",
+    "author": "GraphicalBamboola",
+    "created_at": "2026-04-04T09:13:57+00:00",
+    "age_days": 0.45,
+    "title": "AI first teams - how are you dealing with code reviews?",
+    "url": "https://www.reddit.com/r/ExperiencedDevs/comments/1sc4kld/ai_first_teams_how_are_you_dealing_with_code/",
+    "excerpt": "AI first teams - how are you dealing with code reviews?",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "projectmanagement",
+    "author": "SpecificLie6082",
+    "created_at": "2026-04-03T19:06:13+00:00",
+    "age_days": 1.04,
+    "title": "Enterprise service management issue, we almost messed up",
+    "url": "https://www.reddit.com/r/projectmanagement/comments/1sbmnn0/enterprise_service_management_issue_we_almost/",
+    "excerpt": "Enterprise service management issue, we almost messed up",
+    "body_len": 0,
+    "signals": {
+      "first_person": true,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 2,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "projectmanagement",
+    "author": "Naturalwander",
+    "created_at": "2026-04-04T00:16:25+00:00",
+    "age_days": 0.83,
+    "title": "Master Project Hell",
+    "url": "https://www.reddit.com/r/projectmanagement/comments/1sbuets/master_project_hell/",
+    "excerpt": "Master Project Hell",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "projectmanagement",
+    "author": "Maximum-Ad2869",
+    "created_at": "2026-04-03T08:24:02+00:00",
+    "age_days": 1.49,
+    "title": "What should be done ifthere's problematic member on your project?",
+    "url": "https://www.reddit.com/r/projectmanagement/comments/1sb7riu/what_should_be_done_iftheres_problematic_member/",
+    "excerpt": "What should be done ifthere's problematic member on your project?",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "devops",
+    "author": "BigBootyBear",
+    "created_at": "2026-04-02T07:42:48+00:00",
+    "age_days": 2.52,
+    "title": "How should I think about infra/smoke testing?",
+    "url": "https://www.reddit.com/r/devops/comments/1saaw6n/how_should_i_think_about_infrasmoke_testing/",
+    "excerpt": "How should I think about infra/smoke testing?",
+    "body_len": 0,
+    "signals": {
+      "first_person": true,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 2,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "ProductManagement",
+    "author": "Living-Victory705",
+    "created_at": "2026-03-31T16:31:51+00:00",
+    "age_days": 4.15,
+    "title": "Product Managers, what\u2019s one user data point in your dashboard that made you go \u201cwhat the hell?\u201d",
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1s8seqk/product_managers_whats_one_user_data_point_in/",
+    "excerpt": "Product Managers, what\u2019s one user data point in your dashboard that made you go \u201cwhat the hell?\u201d",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  },
+  {
+    "subreddit": "ProductManagement",
+    "author": "n3a-a4u",
+    "created_at": "2026-04-02T03:30:28+00:00",
+    "age_days": 2.69,
+    "title": "How do you handle collaborating on Claude-generated docs?",
+    "url": "https://www.reddit.com/r/ProductManagement/comments/1sa6dt9/how_do_you_handle_collaborating_on/",
+    "excerpt": "How do you handle collaborating on Claude-generated docs?",
+    "body_len": 0,
+    "signals": {
+      "first_person": false,
+      "pain_signal": false,
+      "coordination_signal": false,
+      "promotional_signal": false
+    },
+    "signal_score": 0,
+    "fetch_error": ""
+  }
+]
