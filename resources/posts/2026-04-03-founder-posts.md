@@ -13,9 +13,10 @@ If project memory lives in people, it decays in hours.
 Then teams pay for reconstruction with sync calls.
 
 Rule I am testing:
-1) every non-trivial change gets one written decision line
-2) owner + next trigger must be explicit
-3) if review waits past 24h, force a quick re-sync note
+
+1. every non-trivial change gets one written decision line
+2. owner + next trigger must be explicit
+3. if review waits past 24h, force a quick re-sync note
 
 @egewrk
 
@@ -35,6 +36,7 @@ This is the same idea at team level.
 If decision state is not externalized early, the day drifts into re-interpretation and reactive sync.
 
 The practical rule I am testing:
+
 - write one decision line when work direction changes
 - attach owner + next trigger
 - if PR context sits too long, post a short re-sync before continuing
@@ -56,6 +58,7 @@ the bottleneck is not standup duration, it is context half-life.
 If decision state is mostly in people’s heads, it decays fast and teams end up doing sync calls later just to reconstruct reality.
 
 I am testing a lightweight rule:
+
 - one written decision line when direction changes
 - explicit owner
 - explicit next trigger (time/event)
