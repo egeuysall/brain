@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-04T20:02:16.329409+00:00",
+  "generatedAt": "2026-04-05T14:26:06.546660+00:00",
   "kind": "outreach-fetch-context",
   "runtime": {
     "budgetSeconds": 170,
-    "elapsedSeconds": 125.35,
+    "elapsedSeconds": 128.25,
     "withinBudget": true
   },
   "sources": {
@@ -57,17 +57,17 @@
         ],
         "timeoutSeconds": 45,
         "ok": true,
-        "durationSeconds": 42.64,
+        "durationSeconds": 41.42,
         "exitCode": 0,
-        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 43,\n    \"uniqueLinks\": 40,\n    \"hydratedPosts\": 40\n  }\n}\n",
+        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 63,\n    \"uniqueLinks\": 50,\n    \"hydratedPosts\": 50\n  }\n}\n",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/x-candidates.json"
       },
-      "postCount": 40,
+      "postCount": 50,
       "outputFile": "resources/threads/_runtime/x-candidates.json"
     },
     "redditCandidates": {
-      "ok": false,
+      "ok": true,
       "fallbackUsed": false,
       "primary": {
         "command": [
@@ -88,26 +88,26 @@
           "--output-json",
           "resources/threads/_runtime/reddit-candidates.json"
         ],
-        "timeoutSeconds": 42,
-        "ok": false,
-        "durationSeconds": 2.41,
-        "exitCode": 1,
+        "timeoutSeconds": 43,
+        "ok": true,
+        "durationSeconds": 6.43,
+        "exitCode": 0,
         "stdoutTail": "",
-        "stderrTail": "Traceback (most recent call last):\n  File \"/Users/egeuysal/Developer/brain/tooling/scripts/reddit_harvest.py\", line 492, in <module>\n    raise SystemExit(main())\n                     ~~~~^^\n  File \"/Users/egeuysal/Developer/brain/tooling/scripts/reddit_harvest.py\", line 459, in main\n    data = harvest(\n        subreddits=subreddits,\n    ...<7 lines>...\n        now_utc=now_utc,\n    )\n  File \"/Users/egeuysal/Developer/brain/tooling/scripts/reddit_harvest.py\", line 322, in harvest\n    listing_html = fetch_text(\n        listing_url,\n    ...<2 lines>...\n        user_agent=user_agent,\n    )\n  File \"/Users/egeuysal/Developer/brain/tooling/scripts/reddit_harvest.py\", line 126, in fetch_text\n    with urllib.request.urlopen(req, timeout=timeout_seconds) as resp:\n         ~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 187, in urlopen\n    return opener.open(url, data, timeout)\n           ~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 487, in open\n    response = self._open(req, data)\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 504, in _open\n    result = self._call_chain(self.handle_open, protocol, protocol +\n                              '_open', req)\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 464, in _call_chain\n    result = func(*args)\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 1369, in https_open\n    return self.do_open(http.client.HTTPSConnection, req,\n           ~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^\n                        context=self._context)\n                        ^^^^^^^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/urllib/request.py\", line 1325, in do_open\n    r = h.getresponse()\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py\", line 1450, in getresponse\n    response.begin()\n    ~~~~~~~~~~~~~~^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py\", line 336, in begin\n    version, status, reason = self._read_status()\n                              ~~~~~~~~~~~~~~~~~^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/http/client.py\", line 297, in _read_status\n    line = str(self.fp.readline(_MAXLINE + 1), \"iso-8859-1\")\n               ~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/socket.py\", line 725, in readinto\n    return self._sock.recv_into(b)\n           ~~~~~~~~~~~~~~~~~~~~^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py\", line 1304, in recv_into\n    return self.read(nbytes, buffer)\n           ~~~~~~~~~^^^^^^^^^^^^^^^^\n  File \"/opt/homebrew/Cellar/python@3.14/3.14.3_1/Frameworks/Python.framework/Versions/3.14/lib/python3.14/ssl.py\", line 1138, in read\n    return self._sslobj.read(len, buffer)\n           ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^\nConnectionResetError: [Errno 54] Connection reset by peer\n",
+        "stderrTail": "",
         "outputFile": "resources/threads/_runtime/reddit-candidates.json"
       },
-      "postCount": 0,
-      "outputFile": null
+      "postCount": 1,
+      "outputFile": "resources/threads/_runtime/reddit-candidates.json"
     }
   },
   "totals": {
-    "xPosts": 40,
-    "redditPosts": 0,
+    "xPosts": 50,
+    "redditPosts": 1,
     "anyUsableSignals": true
   },
   "files": {
     "agentsContext": "resources/threads/_runtime/agents-context.json",
     "xCandidates": "resources/threads/_runtime/x-candidates.json",
-    "redditCandidates": null
+    "redditCandidates": "resources/threads/_runtime/reddit-candidates.json"
   }
 }

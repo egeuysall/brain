@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-05
+author: Codex
+tags: [outreach, reddit, icp, projectmanagement, delivery, ownership]
+source: https://www.reddit.com/r/projectmanagement/comments/1sbuets/master_project_hell/
+---
+
+# Thread 1: Project Hell Delivery Visibility Breakdown
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/projectmanagement/comments/1sbuets/master_project_hell/
+
+## Full Post Text (Key Excerpt)
+
+"Master Project Hell"
+
+## Why This Matches Ryva ICP
+
+Clear coordination pain in a live project environment where planning artifacts exist but execution state still feels chaotic.
+
+## Underlying Problem
+
+Work status, ownership, and next decisions are split across tools and people, so no single source shows what is blocked and who moves it.
+
+## Suggested Public Reply (Copy)
+
+```text
+That title is painfully accurate for many teams. "Project hell" usually means status exists, but ownership and next decisions do not. A simple fix is one weekly decision log with owner, due signal, and unblock condition per item. It cuts noise fast.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When your projects go into "hell" mode, is the main gap unclear owners or unclear next decisions?
+```

@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-05
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 7 - fullstack context switching 500 debug friction
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/robininspire/status/2039780602157658606
+
+## Post Text (Key Excerpt)
+
+```text
+Being a Full Stack Developer is 10% coding and 90% fighting CSS to center a div while debugging a 500 error you definitely didn't cause. 😅 ​The context switch is real, but building from DB to UI is unbeatable. 🚀 #FullStack #WebDev #Coding
+```
+
+## Why It Matches Ryva ICP
+
+It reflects day-level execution friction for full-stack builders: constant context jumps and production errors disrupting deep work.
+
+## Underlying Problem
+
+Frequent interruption and modality switching reduce debugging quality and increase recovery time.
+
+## Suggested Public Response (Copy)
+
+```text
+“The context switch is real” is the key line. Full-stack work compounds interruption cost because each jump drops stack-specific state. Teams usually recover velocity by batching similar work and making error triage ownership explicit up front.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When a 500 hits mid-feature, what rule decides whether you switch immediately or queue it for the next triage block?
+```
+
+## Snapshot
+
+- Author: @robininspire
+- Captured date label: 2026-04-02
+- Recency window: within past 14 days (past week preferred where available)

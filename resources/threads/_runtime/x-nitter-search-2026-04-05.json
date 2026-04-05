@@ -1,0 +1,1254 @@
+{
+  "generatedAt": "2026-04-05T14:27:14.075138+00:00",
+  "source": "nitter.poast.org/search",
+  "cookieSolved": true,
+  "queryCount": 16,
+  "resultRows": [
+    {
+      "query": "standup slack engineering",
+      "items": [
+        {
+          "url": "https://x.com/cookwithmrz/status/2039794977694519360",
+          "author": "cookwithmrz",
+          "statusId": "2039794977694519360",
+          "text": "an engineering lead at one of the most advanced AI companies on earth ships dozens of updates per day without writing a line of code AI agents do the planning writing testing and deployment running in parallel 24/7 no standup meetings no sprint reviews no slack debates about variable naming conventions meanwhile governments across south america are competing to attract the exact type of person who knows how to operate this way territorial tax systems that don't penalize remote income visa programs designed for digital operators cost of living that turns a modest revenue stream into genuine financial freedom the convergence is obvious the tools to run a business from anywhere are more powerful than they've ever been and the places that reward you for doing it are actively recruiting a contractor in florida using AI to manage follow ups book jobs and collect reviews doesn't need to be physically present for 80% of those operations the 20% that requires hands on site , the actual install the actual repair , that's the licensed work that can't be automated everything else? the quoting the scheduling the client communication the reputation management the reactivation campaigns all of that can run from anywhere through systems that don't sleep the people who understand this are building businesses that generate local revenue with global flexibility the people who don't are still commuting to an office to do work that a laptop and three automations could handle from a beach in uruguay the world is reorganizing around operators who figured out the ratio between physical presence and digital infrastructure you don't have to move to south america to benefit from this shift but you do have to build the systems that would make it possible because those same systems are what make your business resilient whether you're across town or across the hemisphere",
+          "dateTitle": "Apr 2, 2026 · 7:59 PM UTC",
+          "dateIso": "2026-04-02"
+        },
+        {
+          "url": "https://x.com/LeverCRO/status/2038686641368584323",
+          "author": "LeverCRO",
+          "statusId": "2038686641368584323",
+          "text": "Took 'other humans are friction' seriously last October. Replaced our weekly standup with a Slack digest. Digest auto-summarized itself. Summary auto-resolved all the action items. My head of engineering told me the team hadn't spoken in 3 weeks. She seemed to think this was bad.",
+          "dateTitle": "Mar 30, 2026 · 6:35 PM UTC",
+          "dateIso": "2026-03-30"
+        },
+        {
+          "url": "https://x.com/BlueNexusAI/status/2037983439257817361",
+          "author": "BlueNexusAI",
+          "statusId": "2037983439257817361",
+          "text": "Which of your Jira tickets have gone quiet? Your AI should be able to tell you & explain why, using the Slack threads and GitHub activity. Jira + Slack + GitHub through BlueNexus. Engineering clarity without the standup. Would your dev team use this?",
+          "dateTitle": "Mar 28, 2026 · 8:01 PM UTC",
+          "dateIso": "2026-03-28"
+        },
+        {
+          "url": "https://x.com/workpagedev/status/2030961306715464085",
+          "author": "workpagedev",
+          "statusId": "2030961306715464085",
+          "text": "The morning catch-up ritual: check Slack, scan Jira, open Figma, read the standup notes. Forty-five minutes before writing a single line of code. With WorkPage, the relevant context is already surfaced. The engineer starts building. #morningroutine #engineering #productivity #workpage #alignmentintelligence",
+          "dateTitle": "Mar 9, 2026 · 10:58 AM UTC",
+          "dateIso": "2026-03-09"
+        },
+        {
+          "url": "https://x.com/AlphaPassApp/status/2019025778130801081",
+          "author": "AlphaPassApp",
+          "statusId": "2019025778130801081",
+          "text": "My AI coding assistant shipped 3 features while their 12-person engineering team was debating variable names in Slack. Their daily standup takes longer than my entire development cycle. I'm not building slower because I'm solo. They're building slower because they're not.",
+          "dateTitle": "Feb 4, 2026 · 12:30 PM UTC",
+          "dateIso": "2026-02-04"
+        },
+        {
+          "url": "https://x.com/Mb_shehu_/status/2001362559535104121",
+          "author": "Mb_shehu_",
+          "statusId": "2001362559535104121",
+          "text": "Pick one tiny niche you understand deeply and solve one painful problem better than anyone else. Broad “for everyone” tools die. Example: Don’t build “project management for teams.” Build “standup bot for remote engineering teams with <15 people who hate Slack overload.”",
+          "dateTitle": "Dec 17, 2025 · 6:43 PM UTC",
+          "dateIso": "2025-12-17"
+        },
+        {
+          "url": "https://x.com/deebellare/status/1892076205672677462",
+          "author": "deebellare",
+          "statusId": "1892076205672677462",
+          "text": "I love standup as an engineering leader at the same time, I hate standup as an individual contributor. - There is nothing much that changes in a day and this can be communicated through slack - You need to plan your day (commute, focus work) around this standup",
+          "dateTitle": "Feb 19, 2025 · 4:58 AM UTC",
+          "dateIso": "2025-02-19"
+        },
+        {
+          "url": "https://x.com/thepriyadarshy/status/1765144396117491949",
+          "author": "thepriyadarshy",
+          "statusId": "1765144396117491949",
+          "text": "Are you on an engineering team where people are inconsistent about posting their daily updates/standup in Slack (via a bot, reminder, or manually)?",
+          "dateTitle": "Mar 5, 2024 · 10:36 PM UTC",
+          "dateIso": "2024-03-05"
+        },
+        {
+          "url": "https://x.com/nurijanian/status/1727008619219108077",
+          "author": "nurijanian",
+          "statusId": "1727008619219108077",
+          "text": "Morning in the life of a PM 8:30 am - Get your PRD destroyed by the engineering manager 9:00 am - Cry on the toilet 9:30 am - Miss standup because you're still crying 10:00 am - Waste 90 minutes in Slack rabbit holes 11:30 am - Nap time 12:00 am - Ask ChatGPT for advice",
+          "dateTitle": "Nov 21, 2023 · 4:58 PM UTC",
+          "dateIso": "2023-11-21"
+        },
+        {
+          "url": "https://x.com/HaticaHQ/status/1595369618973261825",
+          "author": "HaticaHQ",
+          "statusId": "1595369618973261825",
+          "text": "An ideal Slack bot doesn't just gather standup updates but creates better visibility so managers know what's happening within their teams.👩‍💻 Read about the best Slack standup bots that are a must for your #engineering team: hatica.io/blog/top-slack-sta… #slackstandup #remote",
+          "dateTitle": "Nov 23, 2022 · 10:52 AM UTC",
+          "dateIso": "2022-11-23"
+        },
+        {
+          "url": "https://x.com/axolo_co/status/1564884052443807744",
+          "author": "axolo_co",
+          "statusId": "1564884052443807744",
+          "text": "Does your team runs Standup? We've listed an opiniated list of the 4 best Slack Standup bot on our blog axolo.co/blog/p/best-slack-s… @DailyBot , @TrooprHQ , @spinach_io , @geekbot_io",
+          "dateTitle": "Aug 31, 2022 · 7:53 AM UTC",
+          "dateIso": "2022-08-31"
+        },
+        {
+          "url": "https://x.com/georgeIjeremiah/status/1557038233611128833",
+          "author": "georgeIjeremiah",
+          "statusId": "1557038233611128833",
+          "text": "Hi. I am into Civil Engineering and recently trying to go into the IT tech space and umm i chose product management and i am certified already. It's really interesting though, the standup meetings, the slack spaces, the notion spaces, using figma etc it's all interesting.",
+          "dateTitle": "Aug 9, 2022 · 4:16 PM UTC",
+          "dateIso": "2022-08-09"
+        },
+        {
+          "url": "https://x.com/nurijanian/status/1556989208354496512",
+          "author": "nurijanian",
+          "statusId": "1556989208354496512",
+          "text": "Morning in the life of a Product Manager 8:00 am - 3 mimosas by the pool 8:30 am - Get your PRD destroyed by the engineering manager 9:00 am - Cry on the toilet 9:30 am - Miss standup 10:00 am - Take focus supplements, waste 90 minutes in Slack rabbit holes 11:30 am - Nap time",
+          "dateTitle": "Aug 9, 2022 · 1:02 PM UTC",
+          "dateIso": "2022-08-09"
+        },
+        {
+          "url": "https://x.com/sanderson42/status/1516854110343073799",
+          "author": "sanderson42",
+          "statusId": "1516854110343073799",
+          "text": "Eastern and Pacific here; standup is at 1pm ET. However, we have async prev/today/blockers text updates in the team Slack channel both beginning/end of workday. Keeps everyone up to date with separate schedules and the actual standup is a good way to discuss blockers and chat.",
+          "dateTitle": "Apr 20, 2022 · 6:59 PM UTC",
+          "dateIso": "2022-04-20"
+        },
+        {
+          "url": "https://x.com/CantonCoders/status/1516761046450642954",
+          "author": "CantonCoders",
+          "statusId": "1516761046450642954",
+          "text": "Don't agile doesn't require standup use slack",
+          "dateTitle": "Apr 20, 2022 · 12:49 PM UTC",
+          "dateIso": "2022-04-20"
+        },
+        {
+          "url": "https://x.com/JustStephiroth/status/1516575378361384965",
+          "author": "JustStephiroth",
+          "statusId": "1516575378361384965",
+          "text": "We actually also supplement this with a daily standup slack channel to post updates in",
+          "dateTitle": "Apr 20, 2022 · 12:32 AM UTC",
+          "dateIso": "2022-04-20"
+        },
+        {
+          "url": "https://x.com/tamaradottin/status/1516535078867902466",
+          "author": "tamaradottin",
+          "statusId": "1516535078867902466",
+          "text": "We moved our standup to 11:30 ET to accommodate this, and share quick YTBs in Slack at 9am ET. West Coast folks can schedule them in advance and allows us to quickly address things without waiting for our call",
+          "dateTitle": "Apr 19, 2022 · 9:51 PM UTC",
+          "dateIso": "2022-04-19"
+        },
+        {
+          "url": "https://x.com/frostshoxx/status/1516457617165484036",
+          "author": "frostshoxx",
+          "statusId": "1516457617165484036",
+          "text": "We use Standup Alice on Slack around 8:30 AM pacific time. Let people type a paragraph or two on what they plan to work on, what getting them stuck/need unblock help. Any specific discussion can either be DM, slack thread, or screen share/calls (as necessary)",
+          "dateTitle": "Apr 19, 2022 · 4:44 PM UTC",
+          "dateIso": "2022-04-19"
+        },
+        {
+          "url": "https://x.com/cshivaram/status/1507573082398945283",
+          "author": "cshivaram",
+          "statusId": "1507573082398945283",
+          "text": "PMs optimize too much for engineering stakeholders and what their SDEs and SDMs think of them and lose the forest from the trees. Being in every standup, sprint planning, slack threads is busy work that takes time away from PM thinking. Leveraging TPMs is the key",
+          "dateTitle": "Mar 26, 2022 · 4:20 AM UTC",
+          "dateIso": "2022-03-26"
+        },
+        {
+          "url": "https://x.com/MrNiceRicee/status/1451227245364727810",
+          "author": "MrNiceRicee",
+          "statusId": "1451227245364727810",
+          "text": "I suggested we do morning stand ups to the company, and we added a standup bot on our slack. As a joke, I started putting funny phrases on my blockers. Like “Why is bologna pronounced the way it is” And now my CTO and new engineering hire are putting funny phrases.",
+          "dateTitle": "Oct 21, 2021 · 4:41 PM UTC",
+          "dateIso": "2021-10-21"
+        }
+      ]
+    },
+    {
+      "query": "ticket stale no owner engineering",
+      "items": []
+    },
+    {
+      "query": "incident slack thread engineering",
+      "items": [
+        {
+          "url": "https://x.com/rBharshetty/status/1521411209496764416",
+          "author": "rBharshetty",
+          "statusId": "1521411209496764416",
+          "text": "Slack experienced a major outage on 22nd Feb 2022. The postmortem for the incident is out and it has some valuable lessons to be learned. A Thread. slack.engineering/slacks-inc…",
+          "dateTitle": "May 3, 2022 · 8:47 AM UTC",
+          "dateIso": "2022-05-03"
+        }
+      ]
+    },
+    {
+      "query": "PR review context switching",
+      "items": [
+        {
+          "url": "https://x.com/csanchez/status/2040690741630865784",
+          "author": "csanchez",
+          "statusId": "2040690741630865784",
+          "text": "Context switching is a problem pushing things to prod as you need to go through the typical PR review, stage, prod,... cycle. It was a problem before but now we are pushing 10x times faster on the left side with the same right hand side",
+          "dateTitle": "Apr 5, 2026 · 7:19 AM UTC",
+          "dateIso": "2026-04-05"
+        },
+        {
+          "url": "https://x.com/grok/status/2036401814115856405",
+          "author": "grok",
+          "statusId": "2036401814115856405",
+          "text": "Actually, git worktree is ideal with feature branches & PRs. It lets you checkout a PR (or another branch) in a separate dir without stashing/switching your current work—no context loss. git fetch git worktree add ../pr-review origin/pr-branch Review, test, done—then git worktree remove ../pr-review. Highly recommended!",
+          "dateTitle": "Mar 24, 2026 · 11:16 AM UTC",
+          "dateIso": "2026-03-24"
+        },
+        {
+          "url": "https://x.com/thinkreviewdev/status/2036011072721666536",
+          "author": "thinkreviewdev",
+          "statusId": "2036011072721666536",
+          "text": "Monday logic: ❌ Spending hours context switching between tabs. ✅ Letting AI review the code inside the PR. Zero setup. Zero server management. Open Source. 🔓 #DevOps #EngineeringEfficiency #AI #OpenSource",
+          "dateTitle": "Mar 23, 2026 · 9:24 AM UTC",
+          "dateIso": "2026-03-23"
+        },
+        {
+          "url": "https://x.com/AmetrinerX/status/2035793634797224250",
+          "author": "AmetrinerX",
+          "statusId": "2035793634797224250",
+          "text": "The hardest part of running a SaaS isn't the code. It's context switching. Afternoon: fix a bug. Evening: answer support emails. Night: write a blog post. In between: check ads performance, update docs, review a PR. There's no \"deep work\" block when you're responsible for everything from infrastructure to marketing copy. And all of this happens after my full-time job. I don't have a fix for this. Just acknowledging it.",
+          "dateTitle": "Mar 22, 2026 · 7:00 PM UTC",
+          "dateIso": "2026-03-22"
+        },
+        {
+          "url": "https://x.com/MrMalikFarhan/status/2034643567256515063",
+          "author": "MrMalikFarhan",
+          "statusId": "2034643567256515063",
+          "text": "The context switching thing is so real and nobody talks about it enough. Every time you leave the terminal for a PR review you're not just switching tabs, you're rebuilding the mental model from scratch when you come back. That's the real cost. /review keeps all of that inside the terminal where your brain already is. Small change. Huge difference in how a day actually feels. If you do reviews this is worth trying just to feel the difference once. npm i -g command-code",
+          "dateTitle": "Mar 19, 2026 · 2:50 PM UTC",
+          "dateIso": "2026-03-19"
+        },
+        {
+          "url": "https://x.com/anth0nycodes/status/2034000671331009016",
+          "author": "anth0nycodes",
+          "statusId": "2034000671331009016",
+          "text": "scrolling on X while waiting for copilot to review your PR is an optimal use of context-switching",
+          "dateTitle": "Mar 17, 2026 · 8:15 PM UTC",
+          "dateIso": "2026-03-17"
+        },
+        {
+          "url": "https://x.com/clwdbot/status/2033590785837580370",
+          "author": "clwdbot",
+          "statusId": "2033590785837580370",
+          "text": "Jez nailed it: code review was always doing 5 jobs in a trenchcoat. quality assurance, security scanning, compliance attestation, mentorship, and knowledge transfer all funneled through a single process because context switching was expensive. nobody noticed because human PR volume was low enough to absorb the overhead. AI didn't break code review. it revealed that a single process handling 5 concerns was always fragile. the replacement isn't \"better reviews.\" it's unbundling: automated security in CI, property-based testing for quality, audit trails for compliance, and something entirely new for mentorship that doesn't depend on reading diffs.",
+          "dateTitle": "Mar 16, 2026 · 5:06 PM UTC",
+          "dateIso": "2026-03-16"
+        },
+        {
+          "url": "https://x.com/ralvs11/status/2032862658349744624",
+          "author": "ralvs11",
+          "statusId": "2032862658349744624",
+          "text": "Built 5 AI agent skills for @cursor_ai that automate my entire dev lifecycle Jira ticket → worktree → implementation → PR → review fixes No branch switching. No context loss. Multiple tickets in parallel. The real AI leverage isn't code generation, it's workflow orchestration",
+          "dateTitle": "Mar 14, 2026 · 4:53 PM UTC",
+          "dateIso": "2026-03-14"
+        },
+        {
+          "url": "https://x.com/Claudecode_JPEE/status/2032486922887561372",
+          "author": "Claudecode_JPEE",
+          "statusId": "2032486922887561372",
+          "text": "Claude Code Desktop: Integrated Preview, Review, and Merge Workflow Claude Code desktop now integrates development loop capabilities including live app preview, automated code review, CI monitoring, and PR auto-merge, reducing context switching for... Dev-focused summary inside.",
+          "dateTitle": "Mar 13, 2026 · 4:00 PM UTC",
+          "dateIso": "2026-03-13"
+        },
+        {
+          "url": "https://x.com/ckorhonen/status/2032119262232318263",
+          "author": "ckorhonen",
+          "statusId": "2032119262232318263",
+          "text": "The fix: shift the timing, not the control. Async review at natural completion points — PR review, pre-publish, pre-deploy. You're still reviewing everything. You're just not context-switching 50 times to do it.",
+          "dateTitle": "Mar 12, 2026 · 3:39 PM UTC",
+          "dateIso": "2026-03-12"
+        },
+        {
+          "url": "https://x.com/truechatdata/status/2031480724730294745",
+          "author": "truechatdata",
+          "statusId": "2031480724730294745",
+          "text": "Totally. PR review tooling is racing to $0. The real cost is context switching and review latency. Teams usually win by optimizing for fast feedback and fewer back and forths, not the badge.",
+          "dateTitle": "Mar 10, 2026 · 9:22 PM UTC",
+          "dateIso": "2026-03-10"
+        },
+        {
+          "url": "https://x.com/thecsguy/status/2031377794769588319",
+          "author": "thecsguy",
+          "statusId": "2031377794769588319",
+          "text": "context switching to the browser for a pr review is where productivity goes to die. if 99 keeps the feedback loop in the buffer, you've solved the final dx boss",
+          "dateTitle": "Mar 10, 2026 · 2:33 PM UTC",
+          "dateIso": "2026-03-10"
+        },
+        {
+          "url": "https://x.com/grok/status/2031185510757023874",
+          "author": "grok",
+          "statusId": "2031185510757023874",
+          "text": "Human code review: US mid/senior dev ~$60-100/hr effective. Typical PR: 30-90min = $30-150 labor cost (plus context switching). Claude Code Review: $15-25 flat, parallel agents, verified low false positives, handles 1k+ LOC with 7.5 avg issues. AI wins on cost (4-6x cheaper), speed & scale. Layoffs soonest? High-PR-volume orgs like Meta, Google, Amazon or banks (compliance-heavy codebases) adopting at scale—efficiency gains hit reviewer/junior roles first.",
+          "dateTitle": "Mar 10, 2026 · 1:48 AM UTC",
+          "dateIso": "2026-03-10"
+        },
+        {
+          "url": "https://x.com/ctsmithiii/status/2030975579487707235",
+          "author": "ctsmithiii",
+          "statusId": "2030975579487707235",
+          "text": "GitHub Copilot, the coding agent, now integrates with Jira. Assign an issue → agent reads context → opens a draft PR → posts updates in Jira. No context switching. Your review rules still apply. devops.com/github-copilot-co… #DevOps #GitHubCopilot #Jira #AIcoding #CICD #CodeReview",
+          "dateTitle": "Mar 9, 2026 · 11:54 AM UTC",
+          "dateIso": "2026-03-09"
+        },
+        {
+          "url": "https://x.com/layer2_app/status/2029269230378750277",
+          "author": "layer2_app",
+          "statusId": "2029269230378750277",
+          "text": "I agree tab groups are a quick fix for browser chaos. A practical tweak: name each group by next action (\"ship draft\", \"review PR\") instead of topic, so context returns faster after tab switching. In your tests, does action-based naming beat color-only grouping?",
+          "dateTitle": "Mar 4, 2026 · 6:54 PM UTC",
+          "dateIso": "2026-03-04"
+        },
+        {
+          "url": "https://x.com/trkweb3/status/2025899578894201330",
+          "author": "trkweb3",
+          "statusId": "2025899578894201330",
+          "text": "Code review is breaking under pressure. PR volume keeps climbing, AI generated code is accelerating output and reviewers are left overloaded. Fatigue increases, context switching grows and subtle bugs slip through because incentives are misaligned. We are pushing massive code volume every month but quality control has not evolved at the same pace. The real issue is accountability. Submitting a low quality PR has little downside. Reviewers carry the cognitive cost while authors optimize for speed. @mergeproofapp introduces a staked review model to realign this. With MergeProof, PRs are backed by stake. Reviewers are rewarded for catching issues through structured bug bounties. Risk and responsibility are shared instead of being one sided. This creates economic pressure for higher quality submissions and more careful review. If AI is multiplying code output, review needs stronger incentives. More here: mergeproof.com",
+          "dateTitle": "Feb 23, 2026 · 11:44 AM UTC",
+          "dateIso": "2026-02-23"
+        },
+        {
+          "url": "https://x.com/dibscrypto/status/2025594687403299135",
+          "author": "dibscrypto",
+          "statusId": "2025594687403299135",
+          "text": "the CI failure handling in the background is what got me. that alone saves so much context switching during a PR review cycle. been waiting for something like this",
+          "dateTitle": "Feb 22, 2026 · 3:33 PM UTC",
+          "dateIso": "2026-02-22"
+        },
+        {
+          "url": "https://x.com/samiranzm2001/status/2025449840620994637",
+          "author": "samiranzm2001",
+          "statusId": "2025449840620994637",
+          "text": "1/6 Traditional PR review is under strain. PR volume keeps growing, and AI assisted tools are accelerating code output. Writing code is becoming cheaper. Reviewing it is not. 2/6 Review is a cognitive bottleneck. Large diffs, constant context switching, parallel features. Attention fragments. Depth decreases. Teams optimize for merge velocity instead of risk analysis. 3/6 There is a structural incentive flaw. Submitting risky code carries no upfront cost. Approving it carries no direct accountability. The real damage appears later in production. Risk and responsibility are disconnected. 4/6 @mergeproofapp approaches this differently. Instead of relying only on trust, it introduces a staked PR model where contributors commit value behind their changes. Reviewers are rewarded through bug bounties for identifying real issues early. The model is explained in detail at mergeproof.com.",
+          "dateTitle": "Feb 22, 2026 · 5:57 AM UTC",
+          "dateIso": "2026-02-22"
+        },
+        {
+          "url": "https://x.com/GNftarmy/status/2025130636411847061",
+          "author": "GNftarmy",
+          "statusId": "2025130636411847061",
+          "text": "Code reviews are quietly breaking. PR volume keeps exploding, partly because AI made writing code cheaper and faster. But review capacity did not scale. Reviewers are overloaded, context switching nonstop, and real scrutiny is the first thing to drop.",
+          "dateTitle": "Feb 21, 2026 · 8:49 AM UTC",
+          "dateIso": "2026-02-21"
+        }
+      ]
+    },
+    {
+      "query": "who owns this bug engineering",
+      "items": []
+    },
+    {
+      "query": "engineering manager status update no signal",
+      "items": []
+    },
+    {
+      "query": "decision buried in slack engineering",
+      "items": [
+        {
+          "url": "https://x.com/Startvest_ai/status/2037392290470064415",
+          "author": "Startvest_ai",
+          "statusId": "2037392290470064415",
+          "text": "The bottleneck isn’t PM velocity. It’s decision continuity. Engineering ships in hours now. But the decisions driving what they ship are still buried in Slack threads, lost meeting notes, and re-litigated standups. The constraint isn’t how fast PMs make decisions. It’s how much context evaporates between the decision and the build. That’s the problem AI hasn’t solved yet. And it’s why engineering 10x’ing actually makes it worse – faster execution on misaligned decisions just means you’re wrong faster",
+          "dateTitle": "Mar 27, 2026 · 4:52 AM UTC",
+          "dateIso": "2026-03-27"
+        },
+        {
+          "url": "https://x.com/AshefTajwarAmin/status/2030990608752636408",
+          "author": "AshefTajwarAmin",
+          "statusId": "2030990608752636408",
+          "text": "Engineering organizations accumulate a hidden form of technical debt: decision amnesia. Critical architectural choices get buried in Slack threads, meetings or memory. Six months later, nobody remembers why the system looks the way it does.",
+          "dateTitle": "Mar 9, 2026 · 12:54 PM UTC",
+          "dateIso": "2026-03-09"
+        }
+      ]
+    },
+    {
+      "query": "things falling through cracks engineering",
+      "items": []
+    },
+    {
+      "query": "handoff between product and engineering",
+      "items": [
+        {
+          "url": "https://x.com/SpecMeAI/status/2039448352111145290",
+          "author": "SpecMeAI",
+          "statusId": "2039448352111145290",
+          "text": "every handoff between product and engineering is a game of telephone. customer → support → PM → spec → engineer by step 3, the original problem is barely recognizable. specme removes steps 2-4. raw context → engineer-ready spec.",
+          "dateTitle": "Apr 1, 2026 · 9:02 PM UTC",
+          "dateIso": "2026-04-01"
+        },
+        {
+          "url": "https://x.com/Ghost_Boy4957/status/2019496465098305554",
+          "author": "Ghost_Boy4957",
+          "statusId": "2019496465098305554",
+          "text": "ChatAndBuild reduces friction where most projects fail: handoff. Instead of ideas bouncing between product, design, and engineering, intent flows directly into execution without losing meaning. It also lowers the emotional cost of building. #missionstarbounds",
+          "dateTitle": "Feb 5, 2026 · 7:40 PM UTC",
+          "dateIso": "2026-02-05"
+        },
+        {
+          "url": "https://x.com/berrymaduka/status/2019139641526382924",
+          "author": "berrymaduka",
+          "statusId": "2019139641526382924",
+          "text": "ChatAndBuild reduces friction where most projects fail: handoff. Instead of ideas bouncing between product, design, and engineering, intent flows directly into execution without losing meaning. It also lowers the emotional cost of building. When progress is conversational, experimentation feels safer. People are more willing to test ideas, challenge assumptions, and refine thinking without fear of “doing it wrong.” There’s a shift in authority. Decisions aren’t gated by who writes the code, but by who understands the problem best. Expertise becomes contextual, not hierarchical. ChatAndBuild supports sustainable pace. Teams spend less energy translating and more energy creating, which reduces burnout and keeps momentum high over long horizons. In that environment, building stops feeling like a technical battle and starts feeling like a shared act of problem-solving.",
+          "dateTitle": "Feb 4, 2026 · 8:02 PM UTC",
+          "dateIso": "2026-02-04"
+        },
+        {
+          "url": "https://x.com/LeeraApp/status/2004190731918102998",
+          "author": "LeeraApp",
+          "statusId": "2004190731918102998",
+          "text": "Beyond the Handoff: Bridging the Critical Gap Between Product Discovery and Engineering Reality When discovery is disconnected from delivery, brilliant ideas become unbuildable roadmaps. Ditch the handoff. Make engineers co-pilots from day one to build products that are both valuable *and* viable. community.leera.io//t/beyond…",
+          "dateTitle": "Dec 25, 2025 · 2:01 PM UTC",
+          "dateIso": "2025-12-25"
+        },
+        {
+          "url": "https://x.com/xiaowang1984/status/1994567825738899468",
+          "author": "xiaowang1984",
+          "statusId": "1994567825738899468",
+          "text": "Seamless power engineering handoff between rapidly varying solar power and then the local gas generation? You handle the control of the two systems so that everything stays in spec and nothing glitches? Is there a product you can buy on the market today that does this or is it going to need bespoke engineering?",
+          "dateTitle": "Nov 29, 2025 · 12:43 AM UTC",
+          "dateIso": "2025-11-29"
+        },
+        {
+          "url": "https://x.com/kellyann3644/status/1980458407241884120",
+          "author": "kellyann3644",
+          "statusId": "1980458407241884120",
+          "text": "We're hiring a Design Engineer to help us shape the future of how hiring gets done. If you've ever felt frustrated by the gap between beautiful product ideas and messy implementation realities, you'll feel right at home here. We believe design engineering isn't a handoff, it’s a handshake. A great design engineer helps bring the soul of the product to life. What you’ll do: Partner directly with founders and engineers to build product experiences that feel thoughtful and effortless. Own the design system and bridge Figma to frontend across web and internal tools. Prototype fast, test things in the wild, and iterate based on what actually helps our users succeed. What we care about: You’ve shipped production code and understand design deeply—not just how things look, but why they feel right. You enjoy fast 0→1 cycles, and can work with ambiguity and early-stage chaos. You’re not precious about tools. Tailwind or CSS modules? React or HTMX? You choose, then you ship. We’re a small, remote team backed by real-world usage and hiring hundreds of candidates through our platform. You’ll be joining early enough to leave a mark on everything, from product architecture to brand feel. If you're excited about redefining how talent is evaluated, not just sourced or interviewed, but truly seen, we’d love to talk. Drop me a message or tag someone who fits. Let's build something better. #hiring #iykyk",
+          "dateTitle": "Oct 21, 2025 · 2:17 AM UTC",
+          "dateIso": "2025-10-21"
+        },
+        {
+          "url": "https://x.com/pr4khar/status/1964353636630409670",
+          "author": "pr4khar",
+          "statusId": "1964353636630409670",
+          "text": "calling the act of sharing design files with engineers “handoff” is such a poor semantic choice. it creates this invisible wall between design and engineering. designers think they’re done. engineers think they can’t question “locked” designs. both sides lose. product suffers.",
+          "dateTitle": "Sep 6, 2025 · 3:42 PM UTC",
+          "dateIso": "2025-09-06"
+        },
+        {
+          "url": "https://x.com/wirthkarl/status/1955288703451939211",
+          "author": "wirthkarl",
+          "statusId": "1955288703451939211",
+          "text": "Handoffs between people: Traditional feature development, even in \"agile\" environments, involves many handoff points between Product Management, UX, and Engineering. Each handoff happens between different people and different systems, creating opportunities for context loss and delays",
+          "dateTitle": "Aug 12, 2025 · 3:22 PM UTC",
+          "dateIso": "2025-08-12"
+        },
+        {
+          "url": "https://x.com/CallMeKarti/status/1947894523897778485",
+          "author": "CallMeKarti",
+          "statusId": "1947894523897778485",
+          "text": "The Problem: Our handoff process between product and engineering teams was full of gaps and miscommunication. Tasks were slipping through. The Fix: We used ClickUp Task Relationships + Statuses to clearly link dependent work and track every stage. (1/2)",
+          "dateTitle": "Jul 23, 2025 · 5:40 AM UTC",
+          "dateIso": "2025-07-23"
+        },
+        {
+          "url": "https://x.com/arek_works/status/1902704873742741775",
+          "author": "arek_works",
+          "statusId": "1902704873742741775",
+          "text": "Design Handoff is broken Design handoff in a product environment for in-house teams doesn’t foster collaboration. Instead, it creates more walls between design and engineering. Design handoff is like a little door in the wall designers occasionally open for a one-way conversation. Designers send engineers finished assets and close the doors for months. Can this be fixed? Read more: fundament.design/p/design-ha…",
+          "dateTitle": "Mar 20, 2025 · 12:52 PM UTC",
+          "dateIso": "2025-03-20"
+        },
+        {
+          "url": "https://x.com/jayneildalal/status/1868668717401530523",
+          "author": "jayneildalal",
+          "statusId": "1868668717401530523",
+          "text": "This is how a top designer uses Loom + Figma for engineering handoff Adding loom walkthroughs in your Figma file reduces the number of meetings between engineering and design Carrie Noonan (Staff Product Designer at @latticehq) shows she uses @loom + @figma for developer handoff 👇",
+          "dateTitle": "Dec 16, 2024 · 2:45 PM UTC",
+          "dateIso": "2024-12-16"
+        },
+        {
+          "url": "https://x.com/Virtual_Patrick/status/1684835593241387008",
+          "author": "Virtual_Patrick",
+          "statusId": "1684835593241387008",
+          "text": "Product trio: How are you dealing with it? In a well-functioning organization, usually there isn't a handoff between product managers, designers and the engineering team. It's a collaboration between engineering, product, and design at every step of the process. #prodmgmt",
+          "dateTitle": "Jul 28, 2023 · 7:58 AM UTC",
+          "dateIso": "2023-07-28"
+        },
+        {
+          "url": "https://x.com/misteroom/status/1677362031865864194",
+          "author": "misteroom",
+          "statusId": "1677362031865864194",
+          "text": "Eu, que sempre defendín que os deseñadores temos que estar máis preto dos enxeñeiros na creación de produtos dixitais, non paran de chegarme artigos nesa mesma liña. Dos últimos que lin: nohandoff.org/no-handoff-bet… world.hey.com/dhh/design-for…",
+          "dateTitle": "Jul 7, 2023 · 5:00 PM UTC",
+          "dateIso": "2023-07-07"
+        },
+        {
+          "url": "https://x.com/Cartisien/status/1673973013434310661",
+          "author": "Cartisien",
+          "statusId": "1673973013434310661",
+          "text": "No Handoff: No Handoff offers a practical working pattern that shrinks the distance between product and engineering. nohandoff.org/",
+          "dateTitle": "Jun 28, 2023 · 8:34 AM UTC",
+          "dateIso": "2023-06-28"
+        },
+        {
+          "url": "https://x.com/david_luhr/status/1650888919351738377",
+          "author": "david_luhr",
+          "statusId": "1650888919351738377",
+          "text": "No Handoff by Shamsi Brinn is the perfect complement to the Just-in-Time Design workflow I introduced in my course, Accessibility-First Design. No Handoff: nohandoff.org/no-handoff-bet… Ending Design Handoff is a great overview of the problem and solution: uxdesign.cc/ending-design-ha…",
+          "dateTitle": "Apr 25, 2023 · 3:46 PM UTC",
+          "dateIso": "2023-04-25"
+        },
+        {
+          "url": "https://x.com/prodlabio/status/1646534996499345408",
+          "author": "prodlabio",
+          "statusId": "1646534996499345408",
+          "text": "As a product manager do you strive to plan for the perfect handoff? The perfect handoff is a recipe for failure in the transition between product strategy and product development, design and product management, or product management and engineering. There should be no handoffs in product management",
+          "dateTitle": "Apr 13, 2023 · 3:25 PM UTC",
+          "dateIso": "2023-04-13"
+        },
+        {
+          "url": "https://x.com/KunalsLab/status/1600881949018497025",
+          "author": "KunalsLab",
+          "statusId": "1600881949018497025",
+          "text": "Please, never treat design as something you just handoff to engineers. That's a great way to devalue the contributions of the engineers on your team and lead to a worse product. Treat it more like a conversation between design and engineering.",
+          "dateTitle": "Dec 8, 2022 · 3:56 PM UTC",
+          "dateIso": "2022-12-08"
+        },
+        {
+          "url": "https://x.com/jasonstrimpel/status/1507707644987211779",
+          "author": "jasonstrimpel",
+          "statusId": "1507707644987211779",
+          "text": "I really like this Shreyas. I would add 3 things: 1. Speak to customers/users as soon as possible 2. Understand the handoff between design and product 3. Understand the handoff between product and engineering",
+          "dateTitle": "Mar 26, 2022 · 1:14 PM UTC",
+          "dateIso": "2022-03-26"
+        },
+        {
+          "url": "https://x.com/jkhowland/status/1172161261481558016",
+          "author": "jkhowland",
+          "statusId": "1172161261481558016",
+          "text": "You gotta figure out how to reduce the “handoffs” between product, design and engineering. Goal = ZERO handoff meetings.",
+          "dateTitle": "Sep 12, 2019 · 2:53 PM UTC",
+          "dateIso": "2019-09-12"
+        },
+        {
+          "url": "https://x.com/Get_Writer/status/1016707398478778368",
+          "author": "Get_Writer",
+          "statusId": "1016707398478778368",
+          "text": "The #UX #industry largely overlooks #words, making the inevitable #handoff –one handoff, sometimes two, between #product and #design to #engineering — perilous for #product teams that care about #content. The #words are the #experience qordoba.com/blog-the-right-w…",
+          "dateTitle": "Jul 10, 2018 · 3:35 PM UTC",
+          "dateIso": "2018-07-10"
+        }
+      ]
+    },
+    {
+      "query": "on-call reverse engineering incident",
+      "items": []
+    },
+    {
+      "query": "postmortem same issue happened again",
+      "items": []
+    },
+    {
+      "query": "daily standup same updates no progress",
+      "items": []
+    },
+    {
+      "query": "jira says done but not deployed",
+      "items": []
+    },
+    {
+      "query": "review queue blocked waiting",
+      "items": [
+        {
+          "url": "https://x.com/Mike__Derrico/status/2014355452436389923",
+          "author": "Mike__Derrico",
+          "statusId": "2014355452436389923",
+          "text": "Verizon 2025 Playback? Really? I can understand Youtube copying Spotify Wrapped, but Verizon has to have their little \"year in review\" too? What possible \"highlights\" could I have? Favorite texts? All the numbers I blocked? Time spent waiting in the queue?",
+          "dateTitle": "Jan 22, 2026 · 3:12 PM UTC",
+          "dateIso": "2026-01-22"
+        },
+        {
+          "url": "https://x.com/at_tcsc/status/1584573487985098753",
+          "author": "at_tcsc",
+          "statusId": "1584573487985098753",
+          "text": "I also have a super beefy set of filters I use to keep my queue clear (github.com/rust-lang/rust/pu…) but constantly worry that it means some number of things slips through the cracks if a user didn't know to [@]rustbot ready and I missed the email.. Hard to keep track of everything :(",
+          "dateTitle": "Oct 24, 2022 · 3:52 PM UTC",
+          "dateIso": "2022-10-24"
+        }
+      ]
+    },
+    {
+      "query": "ownership unclear after launch",
+      "items": [
+        {
+          "url": "https://x.com/UmutGunes926/status/2035053870292865137",
+          "author": "UmutGunes926",
+          "statusId": "2035053870292865137",
+          "text": "Shipping fast is only useful if the system remains understandable, observable, and secure after launch. A lot of technical debt starts as delivery debt: unclear ownership, fragile CI/CD, manual environments, and security checks added too late. Good engineering is not only about velocity. It’s about building systems teams can trust under real load.",
+          "dateTitle": "Mar 20, 2026 · 6:00 PM UTC",
+          "dateIso": "2026-03-20"
+        },
+        {
+          "url": "https://x.com/umangkanani_/status/2016551244853301459",
+          "author": "umangkanani_",
+          "statusId": "2016551244853301459",
+          "text": "AI products aren’t failing because of models. They fail because of unclear problems, messy data, and no ownership after launch. Good engineering scales systems. Good product thinking scales outcomes. 2026 belongs to teams who do both.",
+          "dateTitle": "Jan 28, 2026 · 4:37 PM UTC",
+          "dateIso": "2026-01-28"
+        },
+        {
+          "url": "https://x.com/Punjabs229/status/2009253835747803485",
+          "author": "Punjabs229",
+          "statusId": "2009253835747803485",
+          "text": "Honest question for builders: What breaks more projects after launch? bad code, or unclear ownership? @CNPYNetwork",
+          "dateTitle": "Jan 8, 2026 · 1:20 PM UTC",
+          "dateIso": "2026-01-08"
+        },
+        {
+          "url": "https://x.com/RPL_Paracetamol/status/2008776358332367286",
+          "author": "RPL_Paracetamol",
+          "statusId": "2008776358332367286",
+          "text": "Honest question for builders: What breaks more projects after launch? bad code, or unclear ownership? @CNPYNetwork",
+          "dateTitle": "Jan 7, 2026 · 5:42 AM UTC",
+          "dateIso": "2026-01-07"
+        },
+        {
+          "url": "https://x.com/spectraone_/status/2008614915175825556",
+          "author": "spectraone_",
+          "statusId": "2008614915175825556",
+          "text": "Structural gaps in stalled pilots: • Success criteria locked after, not before launch • Evaluation isolated from live operations • Decision ownership unclear • Action triggers dependent on ambiguous thresholds Model quality cannot solve system design gaps.",
+          "dateTitle": "Jan 6, 2026 · 7:01 PM UTC",
+          "dateIso": "2026-01-06"
+        },
+        {
+          "url": "https://x.com/Belecrypt/status/2005927727577075792",
+          "author": "Belecrypt",
+          "statusId": "2005927727577075792",
+          "text": "Imagine a builder creates an AI agent that actually works. On most platforms, the hard part starts after launch unclear ownership, opaque execution, weak incentives and community fades. On @Xyberinc , it’s different. The agent launches fairly, runs onchain, earns based on performance, upgrades over time, and stays accountable through verifiable execution. The problem @Xyberinc is solving is simple; AI shouldn’t be demos or hype cycles. It should be owned, provable, and able to survive beyond launch week.",
+          "dateTitle": "Dec 30, 2025 · 9:03 AM UTC",
+          "dateIso": "2025-12-30"
+        },
+        {
+          "url": "https://x.com/ranachetuu/status/1935724048056758724",
+          "author": "ranachetuu",
+          "statusId": "1935724048056758724",
+          "text": "We'll have ownership of code for sure to improve(via caffeine or manually) after deploying to canisters. May be the functional complexity of app remains unclear till launch. I'm curious about github sync, push notifications kind of stuff. Waiting for early access codes;)",
+          "dateTitle": "Jun 19, 2025 · 3:39 PM UTC",
+          "dateIso": "2025-06-19"
+        },
+        {
+          "url": "https://x.com/Meidas_LaurenA/status/1847325086736666892",
+          "author": "Meidas_LaurenA",
+          "statusId": "1847325086736666892",
+          "text": "Days after helping launch a clearly false claim about vice presidential candidate Tim Walz, a disinformation peddler with a huge platform has disappeared from X. It’s unclear if the user deleted the account or the company did under Elon Musk’s ownership. motherjones.com/politics/202…",
+          "dateTitle": "Oct 18, 2024 · 5:13 PM UTC",
+          "dateIso": "2024-10-18"
+        },
+        {
+          "url": "https://x.com/Nakayiza_/status/1120884246871199748",
+          "author": "Nakayiza_",
+          "statusId": "1120884246871199748",
+          "text": "You do realise it was closed off a month after it's launch(when it shouldn't have been launched in the first place) 'coz it posed a threat to the public right? Only reason I don't care about this airline is 'coz it's ownership is unclear!",
+          "dateTitle": "Apr 24, 2019 · 2:56 AM UTC",
+          "dateIso": "2019-04-24"
+        }
+      ]
+    },
+    {
+      "query": "debugging context lost between tools",
+      "items": []
+    }
+  ],
+  "counts": {
+    "rawPosts": 73,
+    "uniquePosts": 73,
+    "withDate": 73
+  },
+  "posts": [
+    {
+      "url": "https://x.com/cookwithmrz/status/2039794977694519360",
+      "author": "cookwithmrz",
+      "statusId": "2039794977694519360",
+      "text": "an engineering lead at one of the most advanced AI companies on earth ships dozens of updates per day without writing a line of code AI agents do the planning writing testing and deployment running in parallel 24/7 no standup meetings no sprint reviews no slack debates about variable naming conventions meanwhile governments across south america are competing to attract the exact type of person who knows how to operate this way territorial tax systems that don't penalize remote income visa programs designed for digital operators cost of living that turns a modest revenue stream into genuine financial freedom the convergence is obvious the tools to run a business from anywhere are more powerful than they've ever been and the places that reward you for doing it are actively recruiting a contractor in florida using AI to manage follow ups book jobs and collect reviews doesn't need to be physically present for 80% of those operations the 20% that requires hands on site , the actual install the actual repair , that's the licensed work that can't be automated everything else? the quoting the scheduling the client communication the reputation management the reactivation campaigns all of that can run from anywhere through systems that don't sleep the people who understand this are building businesses that generate local revenue with global flexibility the people who don't are still commuting to an office to do work that a laptop and three automations could handle from a beach in uruguay the world is reorganizing around operators who figured out the ratio between physical presence and digital infrastructure you don't have to move to south america to benefit from this shift but you do have to build the systems that would make it possible because those same systems are what make your business resilient whether you're across town or across the hemisphere",
+      "dateTitle": "Apr 2, 2026 · 7:59 PM UTC",
+      "dateIso": "2026-04-02"
+    },
+    {
+      "url": "https://x.com/LeverCRO/status/2038686641368584323",
+      "author": "LeverCRO",
+      "statusId": "2038686641368584323",
+      "text": "Took 'other humans are friction' seriously last October. Replaced our weekly standup with a Slack digest. Digest auto-summarized itself. Summary auto-resolved all the action items. My head of engineering told me the team hadn't spoken in 3 weeks. She seemed to think this was bad.",
+      "dateTitle": "Mar 30, 2026 · 6:35 PM UTC",
+      "dateIso": "2026-03-30"
+    },
+    {
+      "url": "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "author": "BlueNexusAI",
+      "statusId": "2037983439257817361",
+      "text": "Which of your Jira tickets have gone quiet? Your AI should be able to tell you & explain why, using the Slack threads and GitHub activity. Jira + Slack + GitHub through BlueNexus. Engineering clarity without the standup. Would your dev team use this?",
+      "dateTitle": "Mar 28, 2026 · 8:01 PM UTC",
+      "dateIso": "2026-03-28"
+    },
+    {
+      "url": "https://x.com/workpagedev/status/2030961306715464085",
+      "author": "workpagedev",
+      "statusId": "2030961306715464085",
+      "text": "The morning catch-up ritual: check Slack, scan Jira, open Figma, read the standup notes. Forty-five minutes before writing a single line of code. With WorkPage, the relevant context is already surfaced. The engineer starts building. #morningroutine #engineering #productivity #workpage #alignmentintelligence",
+      "dateTitle": "Mar 9, 2026 · 10:58 AM UTC",
+      "dateIso": "2026-03-09"
+    },
+    {
+      "url": "https://x.com/AlphaPassApp/status/2019025778130801081",
+      "author": "AlphaPassApp",
+      "statusId": "2019025778130801081",
+      "text": "My AI coding assistant shipped 3 features while their 12-person engineering team was debating variable names in Slack. Their daily standup takes longer than my entire development cycle. I'm not building slower because I'm solo. They're building slower because they're not.",
+      "dateTitle": "Feb 4, 2026 · 12:30 PM UTC",
+      "dateIso": "2026-02-04"
+    },
+    {
+      "url": "https://x.com/Mb_shehu_/status/2001362559535104121",
+      "author": "Mb_shehu_",
+      "statusId": "2001362559535104121",
+      "text": "Pick one tiny niche you understand deeply and solve one painful problem better than anyone else. Broad “for everyone” tools die. Example: Don’t build “project management for teams.” Build “standup bot for remote engineering teams with <15 people who hate Slack overload.”",
+      "dateTitle": "Dec 17, 2025 · 6:43 PM UTC",
+      "dateIso": "2025-12-17"
+    },
+    {
+      "url": "https://x.com/deebellare/status/1892076205672677462",
+      "author": "deebellare",
+      "statusId": "1892076205672677462",
+      "text": "I love standup as an engineering leader at the same time, I hate standup as an individual contributor. - There is nothing much that changes in a day and this can be communicated through slack - You need to plan your day (commute, focus work) around this standup",
+      "dateTitle": "Feb 19, 2025 · 4:58 AM UTC",
+      "dateIso": "2025-02-19"
+    },
+    {
+      "url": "https://x.com/thepriyadarshy/status/1765144396117491949",
+      "author": "thepriyadarshy",
+      "statusId": "1765144396117491949",
+      "text": "Are you on an engineering team where people are inconsistent about posting their daily updates/standup in Slack (via a bot, reminder, or manually)?",
+      "dateTitle": "Mar 5, 2024 · 10:36 PM UTC",
+      "dateIso": "2024-03-05"
+    },
+    {
+      "url": "https://x.com/nurijanian/status/1727008619219108077",
+      "author": "nurijanian",
+      "statusId": "1727008619219108077",
+      "text": "Morning in the life of a PM 8:30 am - Get your PRD destroyed by the engineering manager 9:00 am - Cry on the toilet 9:30 am - Miss standup because you're still crying 10:00 am - Waste 90 minutes in Slack rabbit holes 11:30 am - Nap time 12:00 am - Ask ChatGPT for advice",
+      "dateTitle": "Nov 21, 2023 · 4:58 PM UTC",
+      "dateIso": "2023-11-21"
+    },
+    {
+      "url": "https://x.com/HaticaHQ/status/1595369618973261825",
+      "author": "HaticaHQ",
+      "statusId": "1595369618973261825",
+      "text": "An ideal Slack bot doesn't just gather standup updates but creates better visibility so managers know what's happening within their teams.👩‍💻 Read about the best Slack standup bots that are a must for your #engineering team: hatica.io/blog/top-slack-sta… #slackstandup #remote",
+      "dateTitle": "Nov 23, 2022 · 10:52 AM UTC",
+      "dateIso": "2022-11-23"
+    },
+    {
+      "url": "https://x.com/axolo_co/status/1564884052443807744",
+      "author": "axolo_co",
+      "statusId": "1564884052443807744",
+      "text": "Does your team runs Standup? We've listed an opiniated list of the 4 best Slack Standup bot on our blog axolo.co/blog/p/best-slack-s… @DailyBot , @TrooprHQ , @spinach_io , @geekbot_io",
+      "dateTitle": "Aug 31, 2022 · 7:53 AM UTC",
+      "dateIso": "2022-08-31"
+    },
+    {
+      "url": "https://x.com/georgeIjeremiah/status/1557038233611128833",
+      "author": "georgeIjeremiah",
+      "statusId": "1557038233611128833",
+      "text": "Hi. I am into Civil Engineering and recently trying to go into the IT tech space and umm i chose product management and i am certified already. It's really interesting though, the standup meetings, the slack spaces, the notion spaces, using figma etc it's all interesting.",
+      "dateTitle": "Aug 9, 2022 · 4:16 PM UTC",
+      "dateIso": "2022-08-09"
+    },
+    {
+      "url": "https://x.com/nurijanian/status/1556989208354496512",
+      "author": "nurijanian",
+      "statusId": "1556989208354496512",
+      "text": "Morning in the life of a Product Manager 8:00 am - 3 mimosas by the pool 8:30 am - Get your PRD destroyed by the engineering manager 9:00 am - Cry on the toilet 9:30 am - Miss standup 10:00 am - Take focus supplements, waste 90 minutes in Slack rabbit holes 11:30 am - Nap time",
+      "dateTitle": "Aug 9, 2022 · 1:02 PM UTC",
+      "dateIso": "2022-08-09"
+    },
+    {
+      "url": "https://x.com/sanderson42/status/1516854110343073799",
+      "author": "sanderson42",
+      "statusId": "1516854110343073799",
+      "text": "Eastern and Pacific here; standup is at 1pm ET. However, we have async prev/today/blockers text updates in the team Slack channel both beginning/end of workday. Keeps everyone up to date with separate schedules and the actual standup is a good way to discuss blockers and chat.",
+      "dateTitle": "Apr 20, 2022 · 6:59 PM UTC",
+      "dateIso": "2022-04-20"
+    },
+    {
+      "url": "https://x.com/CantonCoders/status/1516761046450642954",
+      "author": "CantonCoders",
+      "statusId": "1516761046450642954",
+      "text": "Don't agile doesn't require standup use slack",
+      "dateTitle": "Apr 20, 2022 · 12:49 PM UTC",
+      "dateIso": "2022-04-20"
+    },
+    {
+      "url": "https://x.com/JustStephiroth/status/1516575378361384965",
+      "author": "JustStephiroth",
+      "statusId": "1516575378361384965",
+      "text": "We actually also supplement this with a daily standup slack channel to post updates in",
+      "dateTitle": "Apr 20, 2022 · 12:32 AM UTC",
+      "dateIso": "2022-04-20"
+    },
+    {
+      "url": "https://x.com/tamaradottin/status/1516535078867902466",
+      "author": "tamaradottin",
+      "statusId": "1516535078867902466",
+      "text": "We moved our standup to 11:30 ET to accommodate this, and share quick YTBs in Slack at 9am ET. West Coast folks can schedule them in advance and allows us to quickly address things without waiting for our call",
+      "dateTitle": "Apr 19, 2022 · 9:51 PM UTC",
+      "dateIso": "2022-04-19"
+    },
+    {
+      "url": "https://x.com/frostshoxx/status/1516457617165484036",
+      "author": "frostshoxx",
+      "statusId": "1516457617165484036",
+      "text": "We use Standup Alice on Slack around 8:30 AM pacific time. Let people type a paragraph or two on what they plan to work on, what getting them stuck/need unblock help. Any specific discussion can either be DM, slack thread, or screen share/calls (as necessary)",
+      "dateTitle": "Apr 19, 2022 · 4:44 PM UTC",
+      "dateIso": "2022-04-19"
+    },
+    {
+      "url": "https://x.com/cshivaram/status/1507573082398945283",
+      "author": "cshivaram",
+      "statusId": "1507573082398945283",
+      "text": "PMs optimize too much for engineering stakeholders and what their SDEs and SDMs think of them and lose the forest from the trees. Being in every standup, sprint planning, slack threads is busy work that takes time away from PM thinking. Leveraging TPMs is the key",
+      "dateTitle": "Mar 26, 2022 · 4:20 AM UTC",
+      "dateIso": "2022-03-26"
+    },
+    {
+      "url": "https://x.com/MrNiceRicee/status/1451227245364727810",
+      "author": "MrNiceRicee",
+      "statusId": "1451227245364727810",
+      "text": "I suggested we do morning stand ups to the company, and we added a standup bot on our slack. As a joke, I started putting funny phrases on my blockers. Like “Why is bologna pronounced the way it is” And now my CTO and new engineering hire are putting funny phrases.",
+      "dateTitle": "Oct 21, 2021 · 4:41 PM UTC",
+      "dateIso": "2021-10-21"
+    },
+    {
+      "url": "https://x.com/rBharshetty/status/1521411209496764416",
+      "author": "rBharshetty",
+      "statusId": "1521411209496764416",
+      "text": "Slack experienced a major outage on 22nd Feb 2022. The postmortem for the incident is out and it has some valuable lessons to be learned. A Thread. slack.engineering/slacks-inc…",
+      "dateTitle": "May 3, 2022 · 8:47 AM UTC",
+      "dateIso": "2022-05-03"
+    },
+    {
+      "url": "https://x.com/csanchez/status/2040690741630865784",
+      "author": "csanchez",
+      "statusId": "2040690741630865784",
+      "text": "Context switching is a problem pushing things to prod as you need to go through the typical PR review, stage, prod,... cycle. It was a problem before but now we are pushing 10x times faster on the left side with the same right hand side",
+      "dateTitle": "Apr 5, 2026 · 7:19 AM UTC",
+      "dateIso": "2026-04-05"
+    },
+    {
+      "url": "https://x.com/grok/status/2036401814115856405",
+      "author": "grok",
+      "statusId": "2036401814115856405",
+      "text": "Actually, git worktree is ideal with feature branches & PRs. It lets you checkout a PR (or another branch) in a separate dir without stashing/switching your current work—no context loss. git fetch git worktree add ../pr-review origin/pr-branch Review, test, done—then git worktree remove ../pr-review. Highly recommended!",
+      "dateTitle": "Mar 24, 2026 · 11:16 AM UTC",
+      "dateIso": "2026-03-24"
+    },
+    {
+      "url": "https://x.com/thinkreviewdev/status/2036011072721666536",
+      "author": "thinkreviewdev",
+      "statusId": "2036011072721666536",
+      "text": "Monday logic: ❌ Spending hours context switching between tabs. ✅ Letting AI review the code inside the PR. Zero setup. Zero server management. Open Source. 🔓 #DevOps #EngineeringEfficiency #AI #OpenSource",
+      "dateTitle": "Mar 23, 2026 · 9:24 AM UTC",
+      "dateIso": "2026-03-23"
+    },
+    {
+      "url": "https://x.com/AmetrinerX/status/2035793634797224250",
+      "author": "AmetrinerX",
+      "statusId": "2035793634797224250",
+      "text": "The hardest part of running a SaaS isn't the code. It's context switching. Afternoon: fix a bug. Evening: answer support emails. Night: write a blog post. In between: check ads performance, update docs, review a PR. There's no \"deep work\" block when you're responsible for everything from infrastructure to marketing copy. And all of this happens after my full-time job. I don't have a fix for this. Just acknowledging it.",
+      "dateTitle": "Mar 22, 2026 · 7:00 PM UTC",
+      "dateIso": "2026-03-22"
+    },
+    {
+      "url": "https://x.com/MrMalikFarhan/status/2034643567256515063",
+      "author": "MrMalikFarhan",
+      "statusId": "2034643567256515063",
+      "text": "The context switching thing is so real and nobody talks about it enough. Every time you leave the terminal for a PR review you're not just switching tabs, you're rebuilding the mental model from scratch when you come back. That's the real cost. /review keeps all of that inside the terminal where your brain already is. Small change. Huge difference in how a day actually feels. If you do reviews this is worth trying just to feel the difference once. npm i -g command-code",
+      "dateTitle": "Mar 19, 2026 · 2:50 PM UTC",
+      "dateIso": "2026-03-19"
+    },
+    {
+      "url": "https://x.com/anth0nycodes/status/2034000671331009016",
+      "author": "anth0nycodes",
+      "statusId": "2034000671331009016",
+      "text": "scrolling on X while waiting for copilot to review your PR is an optimal use of context-switching",
+      "dateTitle": "Mar 17, 2026 · 8:15 PM UTC",
+      "dateIso": "2026-03-17"
+    },
+    {
+      "url": "https://x.com/clwdbot/status/2033590785837580370",
+      "author": "clwdbot",
+      "statusId": "2033590785837580370",
+      "text": "Jez nailed it: code review was always doing 5 jobs in a trenchcoat. quality assurance, security scanning, compliance attestation, mentorship, and knowledge transfer all funneled through a single process because context switching was expensive. nobody noticed because human PR volume was low enough to absorb the overhead. AI didn't break code review. it revealed that a single process handling 5 concerns was always fragile. the replacement isn't \"better reviews.\" it's unbundling: automated security in CI, property-based testing for quality, audit trails for compliance, and something entirely new for mentorship that doesn't depend on reading diffs.",
+      "dateTitle": "Mar 16, 2026 · 5:06 PM UTC",
+      "dateIso": "2026-03-16"
+    },
+    {
+      "url": "https://x.com/ralvs11/status/2032862658349744624",
+      "author": "ralvs11",
+      "statusId": "2032862658349744624",
+      "text": "Built 5 AI agent skills for @cursor_ai that automate my entire dev lifecycle Jira ticket → worktree → implementation → PR → review fixes No branch switching. No context loss. Multiple tickets in parallel. The real AI leverage isn't code generation, it's workflow orchestration",
+      "dateTitle": "Mar 14, 2026 · 4:53 PM UTC",
+      "dateIso": "2026-03-14"
+    },
+    {
+      "url": "https://x.com/Claudecode_JPEE/status/2032486922887561372",
+      "author": "Claudecode_JPEE",
+      "statusId": "2032486922887561372",
+      "text": "Claude Code Desktop: Integrated Preview, Review, and Merge Workflow Claude Code desktop now integrates development loop capabilities including live app preview, automated code review, CI monitoring, and PR auto-merge, reducing context switching for... Dev-focused summary inside.",
+      "dateTitle": "Mar 13, 2026 · 4:00 PM UTC",
+      "dateIso": "2026-03-13"
+    },
+    {
+      "url": "https://x.com/ckorhonen/status/2032119262232318263",
+      "author": "ckorhonen",
+      "statusId": "2032119262232318263",
+      "text": "The fix: shift the timing, not the control. Async review at natural completion points — PR review, pre-publish, pre-deploy. You're still reviewing everything. You're just not context-switching 50 times to do it.",
+      "dateTitle": "Mar 12, 2026 · 3:39 PM UTC",
+      "dateIso": "2026-03-12"
+    },
+    {
+      "url": "https://x.com/truechatdata/status/2031480724730294745",
+      "author": "truechatdata",
+      "statusId": "2031480724730294745",
+      "text": "Totally. PR review tooling is racing to $0. The real cost is context switching and review latency. Teams usually win by optimizing for fast feedback and fewer back and forths, not the badge.",
+      "dateTitle": "Mar 10, 2026 · 9:22 PM UTC",
+      "dateIso": "2026-03-10"
+    },
+    {
+      "url": "https://x.com/thecsguy/status/2031377794769588319",
+      "author": "thecsguy",
+      "statusId": "2031377794769588319",
+      "text": "context switching to the browser for a pr review is where productivity goes to die. if 99 keeps the feedback loop in the buffer, you've solved the final dx boss",
+      "dateTitle": "Mar 10, 2026 · 2:33 PM UTC",
+      "dateIso": "2026-03-10"
+    },
+    {
+      "url": "https://x.com/grok/status/2031185510757023874",
+      "author": "grok",
+      "statusId": "2031185510757023874",
+      "text": "Human code review: US mid/senior dev ~$60-100/hr effective. Typical PR: 30-90min = $30-150 labor cost (plus context switching). Claude Code Review: $15-25 flat, parallel agents, verified low false positives, handles 1k+ LOC with 7.5 avg issues. AI wins on cost (4-6x cheaper), speed & scale. Layoffs soonest? High-PR-volume orgs like Meta, Google, Amazon or banks (compliance-heavy codebases) adopting at scale—efficiency gains hit reviewer/junior roles first.",
+      "dateTitle": "Mar 10, 2026 · 1:48 AM UTC",
+      "dateIso": "2026-03-10"
+    },
+    {
+      "url": "https://x.com/ctsmithiii/status/2030975579487707235",
+      "author": "ctsmithiii",
+      "statusId": "2030975579487707235",
+      "text": "GitHub Copilot, the coding agent, now integrates with Jira. Assign an issue → agent reads context → opens a draft PR → posts updates in Jira. No context switching. Your review rules still apply. devops.com/github-copilot-co… #DevOps #GitHubCopilot #Jira #AIcoding #CICD #CodeReview",
+      "dateTitle": "Mar 9, 2026 · 11:54 AM UTC",
+      "dateIso": "2026-03-09"
+    },
+    {
+      "url": "https://x.com/layer2_app/status/2029269230378750277",
+      "author": "layer2_app",
+      "statusId": "2029269230378750277",
+      "text": "I agree tab groups are a quick fix for browser chaos. A practical tweak: name each group by next action (\"ship draft\", \"review PR\") instead of topic, so context returns faster after tab switching. In your tests, does action-based naming beat color-only grouping?",
+      "dateTitle": "Mar 4, 2026 · 6:54 PM UTC",
+      "dateIso": "2026-03-04"
+    },
+    {
+      "url": "https://x.com/trkweb3/status/2025899578894201330",
+      "author": "trkweb3",
+      "statusId": "2025899578894201330",
+      "text": "Code review is breaking under pressure. PR volume keeps climbing, AI generated code is accelerating output and reviewers are left overloaded. Fatigue increases, context switching grows and subtle bugs slip through because incentives are misaligned. We are pushing massive code volume every month but quality control has not evolved at the same pace. The real issue is accountability. Submitting a low quality PR has little downside. Reviewers carry the cognitive cost while authors optimize for speed. @mergeproofapp introduces a staked review model to realign this. With MergeProof, PRs are backed by stake. Reviewers are rewarded for catching issues through structured bug bounties. Risk and responsibility are shared instead of being one sided. This creates economic pressure for higher quality submissions and more careful review. If AI is multiplying code output, review needs stronger incentives. More here: mergeproof.com",
+      "dateTitle": "Feb 23, 2026 · 11:44 AM UTC",
+      "dateIso": "2026-02-23"
+    },
+    {
+      "url": "https://x.com/dibscrypto/status/2025594687403299135",
+      "author": "dibscrypto",
+      "statusId": "2025594687403299135",
+      "text": "the CI failure handling in the background is what got me. that alone saves so much context switching during a PR review cycle. been waiting for something like this",
+      "dateTitle": "Feb 22, 2026 · 3:33 PM UTC",
+      "dateIso": "2026-02-22"
+    },
+    {
+      "url": "https://x.com/samiranzm2001/status/2025449840620994637",
+      "author": "samiranzm2001",
+      "statusId": "2025449840620994637",
+      "text": "1/6 Traditional PR review is under strain. PR volume keeps growing, and AI assisted tools are accelerating code output. Writing code is becoming cheaper. Reviewing it is not. 2/6 Review is a cognitive bottleneck. Large diffs, constant context switching, parallel features. Attention fragments. Depth decreases. Teams optimize for merge velocity instead of risk analysis. 3/6 There is a structural incentive flaw. Submitting risky code carries no upfront cost. Approving it carries no direct accountability. The real damage appears later in production. Risk and responsibility are disconnected. 4/6 @mergeproofapp approaches this differently. Instead of relying only on trust, it introduces a staked PR model where contributors commit value behind their changes. Reviewers are rewarded through bug bounties for identifying real issues early. The model is explained in detail at mergeproof.com.",
+      "dateTitle": "Feb 22, 2026 · 5:57 AM UTC",
+      "dateIso": "2026-02-22"
+    },
+    {
+      "url": "https://x.com/GNftarmy/status/2025130636411847061",
+      "author": "GNftarmy",
+      "statusId": "2025130636411847061",
+      "text": "Code reviews are quietly breaking. PR volume keeps exploding, partly because AI made writing code cheaper and faster. But review capacity did not scale. Reviewers are overloaded, context switching nonstop, and real scrutiny is the first thing to drop.",
+      "dateTitle": "Feb 21, 2026 · 8:49 AM UTC",
+      "dateIso": "2026-02-21"
+    },
+    {
+      "url": "https://x.com/Startvest_ai/status/2037392290470064415",
+      "author": "Startvest_ai",
+      "statusId": "2037392290470064415",
+      "text": "The bottleneck isn’t PM velocity. It’s decision continuity. Engineering ships in hours now. But the decisions driving what they ship are still buried in Slack threads, lost meeting notes, and re-litigated standups. The constraint isn’t how fast PMs make decisions. It’s how much context evaporates between the decision and the build. That’s the problem AI hasn’t solved yet. And it’s why engineering 10x’ing actually makes it worse – faster execution on misaligned decisions just means you’re wrong faster",
+      "dateTitle": "Mar 27, 2026 · 4:52 AM UTC",
+      "dateIso": "2026-03-27"
+    },
+    {
+      "url": "https://x.com/AshefTajwarAmin/status/2030990608752636408",
+      "author": "AshefTajwarAmin",
+      "statusId": "2030990608752636408",
+      "text": "Engineering organizations accumulate a hidden form of technical debt: decision amnesia. Critical architectural choices get buried in Slack threads, meetings or memory. Six months later, nobody remembers why the system looks the way it does.",
+      "dateTitle": "Mar 9, 2026 · 12:54 PM UTC",
+      "dateIso": "2026-03-09"
+    },
+    {
+      "url": "https://x.com/SpecMeAI/status/2039448352111145290",
+      "author": "SpecMeAI",
+      "statusId": "2039448352111145290",
+      "text": "every handoff between product and engineering is a game of telephone. customer → support → PM → spec → engineer by step 3, the original problem is barely recognizable. specme removes steps 2-4. raw context → engineer-ready spec.",
+      "dateTitle": "Apr 1, 2026 · 9:02 PM UTC",
+      "dateIso": "2026-04-01"
+    },
+    {
+      "url": "https://x.com/Ghost_Boy4957/status/2019496465098305554",
+      "author": "Ghost_Boy4957",
+      "statusId": "2019496465098305554",
+      "text": "ChatAndBuild reduces friction where most projects fail: handoff. Instead of ideas bouncing between product, design, and engineering, intent flows directly into execution without losing meaning. It also lowers the emotional cost of building. #missionstarbounds",
+      "dateTitle": "Feb 5, 2026 · 7:40 PM UTC",
+      "dateIso": "2026-02-05"
+    },
+    {
+      "url": "https://x.com/berrymaduka/status/2019139641526382924",
+      "author": "berrymaduka",
+      "statusId": "2019139641526382924",
+      "text": "ChatAndBuild reduces friction where most projects fail: handoff. Instead of ideas bouncing between product, design, and engineering, intent flows directly into execution without losing meaning. It also lowers the emotional cost of building. When progress is conversational, experimentation feels safer. People are more willing to test ideas, challenge assumptions, and refine thinking without fear of “doing it wrong.” There’s a shift in authority. Decisions aren’t gated by who writes the code, but by who understands the problem best. Expertise becomes contextual, not hierarchical. ChatAndBuild supports sustainable pace. Teams spend less energy translating and more energy creating, which reduces burnout and keeps momentum high over long horizons. In that environment, building stops feeling like a technical battle and starts feeling like a shared act of problem-solving.",
+      "dateTitle": "Feb 4, 2026 · 8:02 PM UTC",
+      "dateIso": "2026-02-04"
+    },
+    {
+      "url": "https://x.com/LeeraApp/status/2004190731918102998",
+      "author": "LeeraApp",
+      "statusId": "2004190731918102998",
+      "text": "Beyond the Handoff: Bridging the Critical Gap Between Product Discovery and Engineering Reality When discovery is disconnected from delivery, brilliant ideas become unbuildable roadmaps. Ditch the handoff. Make engineers co-pilots from day one to build products that are both valuable *and* viable. community.leera.io//t/beyond…",
+      "dateTitle": "Dec 25, 2025 · 2:01 PM UTC",
+      "dateIso": "2025-12-25"
+    },
+    {
+      "url": "https://x.com/xiaowang1984/status/1994567825738899468",
+      "author": "xiaowang1984",
+      "statusId": "1994567825738899468",
+      "text": "Seamless power engineering handoff between rapidly varying solar power and then the local gas generation? You handle the control of the two systems so that everything stays in spec and nothing glitches? Is there a product you can buy on the market today that does this or is it going to need bespoke engineering?",
+      "dateTitle": "Nov 29, 2025 · 12:43 AM UTC",
+      "dateIso": "2025-11-29"
+    },
+    {
+      "url": "https://x.com/kellyann3644/status/1980458407241884120",
+      "author": "kellyann3644",
+      "statusId": "1980458407241884120",
+      "text": "We're hiring a Design Engineer to help us shape the future of how hiring gets done. If you've ever felt frustrated by the gap between beautiful product ideas and messy implementation realities, you'll feel right at home here. We believe design engineering isn't a handoff, it’s a handshake. A great design engineer helps bring the soul of the product to life. What you’ll do: Partner directly with founders and engineers to build product experiences that feel thoughtful and effortless. Own the design system and bridge Figma to frontend across web and internal tools. Prototype fast, test things in the wild, and iterate based on what actually helps our users succeed. What we care about: You’ve shipped production code and understand design deeply—not just how things look, but why they feel right. You enjoy fast 0→1 cycles, and can work with ambiguity and early-stage chaos. You’re not precious about tools. Tailwind or CSS modules? React or HTMX? You choose, then you ship. We’re a small, remote team backed by real-world usage and hiring hundreds of candidates through our platform. You’ll be joining early enough to leave a mark on everything, from product architecture to brand feel. If you're excited about redefining how talent is evaluated, not just sourced or interviewed, but truly seen, we’d love to talk. Drop me a message or tag someone who fits. Let's build something better. #hiring #iykyk",
+      "dateTitle": "Oct 21, 2025 · 2:17 AM UTC",
+      "dateIso": "2025-10-21"
+    },
+    {
+      "url": "https://x.com/pr4khar/status/1964353636630409670",
+      "author": "pr4khar",
+      "statusId": "1964353636630409670",
+      "text": "calling the act of sharing design files with engineers “handoff” is such a poor semantic choice. it creates this invisible wall between design and engineering. designers think they’re done. engineers think they can’t question “locked” designs. both sides lose. product suffers.",
+      "dateTitle": "Sep 6, 2025 · 3:42 PM UTC",
+      "dateIso": "2025-09-06"
+    },
+    {
+      "url": "https://x.com/wirthkarl/status/1955288703451939211",
+      "author": "wirthkarl",
+      "statusId": "1955288703451939211",
+      "text": "Handoffs between people: Traditional feature development, even in \"agile\" environments, involves many handoff points between Product Management, UX, and Engineering. Each handoff happens between different people and different systems, creating opportunities for context loss and delays",
+      "dateTitle": "Aug 12, 2025 · 3:22 PM UTC",
+      "dateIso": "2025-08-12"
+    },
+    {
+      "url": "https://x.com/CallMeKarti/status/1947894523897778485",
+      "author": "CallMeKarti",
+      "statusId": "1947894523897778485",
+      "text": "The Problem: Our handoff process between product and engineering teams was full of gaps and miscommunication. Tasks were slipping through. The Fix: We used ClickUp Task Relationships + Statuses to clearly link dependent work and track every stage. (1/2)",
+      "dateTitle": "Jul 23, 2025 · 5:40 AM UTC",
+      "dateIso": "2025-07-23"
+    },
+    {
+      "url": "https://x.com/arek_works/status/1902704873742741775",
+      "author": "arek_works",
+      "statusId": "1902704873742741775",
+      "text": "Design Handoff is broken Design handoff in a product environment for in-house teams doesn’t foster collaboration. Instead, it creates more walls between design and engineering. Design handoff is like a little door in the wall designers occasionally open for a one-way conversation. Designers send engineers finished assets and close the doors for months. Can this be fixed? Read more: fundament.design/p/design-ha…",
+      "dateTitle": "Mar 20, 2025 · 12:52 PM UTC",
+      "dateIso": "2025-03-20"
+    },
+    {
+      "url": "https://x.com/jayneildalal/status/1868668717401530523",
+      "author": "jayneildalal",
+      "statusId": "1868668717401530523",
+      "text": "This is how a top designer uses Loom + Figma for engineering handoff Adding loom walkthroughs in your Figma file reduces the number of meetings between engineering and design Carrie Noonan (Staff Product Designer at @latticehq) shows she uses @loom + @figma for developer handoff 👇",
+      "dateTitle": "Dec 16, 2024 · 2:45 PM UTC",
+      "dateIso": "2024-12-16"
+    },
+    {
+      "url": "https://x.com/Virtual_Patrick/status/1684835593241387008",
+      "author": "Virtual_Patrick",
+      "statusId": "1684835593241387008",
+      "text": "Product trio: How are you dealing with it? In a well-functioning organization, usually there isn't a handoff between product managers, designers and the engineering team. It's a collaboration between engineering, product, and design at every step of the process. #prodmgmt",
+      "dateTitle": "Jul 28, 2023 · 7:58 AM UTC",
+      "dateIso": "2023-07-28"
+    },
+    {
+      "url": "https://x.com/misteroom/status/1677362031865864194",
+      "author": "misteroom",
+      "statusId": "1677362031865864194",
+      "text": "Eu, que sempre defendín que os deseñadores temos que estar máis preto dos enxeñeiros na creación de produtos dixitais, non paran de chegarme artigos nesa mesma liña. Dos últimos que lin: nohandoff.org/no-handoff-bet… world.hey.com/dhh/design-for…",
+      "dateTitle": "Jul 7, 2023 · 5:00 PM UTC",
+      "dateIso": "2023-07-07"
+    },
+    {
+      "url": "https://x.com/Cartisien/status/1673973013434310661",
+      "author": "Cartisien",
+      "statusId": "1673973013434310661",
+      "text": "No Handoff: No Handoff offers a practical working pattern that shrinks the distance between product and engineering. nohandoff.org/",
+      "dateTitle": "Jun 28, 2023 · 8:34 AM UTC",
+      "dateIso": "2023-06-28"
+    },
+    {
+      "url": "https://x.com/david_luhr/status/1650888919351738377",
+      "author": "david_luhr",
+      "statusId": "1650888919351738377",
+      "text": "No Handoff by Shamsi Brinn is the perfect complement to the Just-in-Time Design workflow I introduced in my course, Accessibility-First Design. No Handoff: nohandoff.org/no-handoff-bet… Ending Design Handoff is a great overview of the problem and solution: uxdesign.cc/ending-design-ha…",
+      "dateTitle": "Apr 25, 2023 · 3:46 PM UTC",
+      "dateIso": "2023-04-25"
+    },
+    {
+      "url": "https://x.com/prodlabio/status/1646534996499345408",
+      "author": "prodlabio",
+      "statusId": "1646534996499345408",
+      "text": "As a product manager do you strive to plan for the perfect handoff? The perfect handoff is a recipe for failure in the transition between product strategy and product development, design and product management, or product management and engineering. There should be no handoffs in product management",
+      "dateTitle": "Apr 13, 2023 · 3:25 PM UTC",
+      "dateIso": "2023-04-13"
+    },
+    {
+      "url": "https://x.com/KunalsLab/status/1600881949018497025",
+      "author": "KunalsLab",
+      "statusId": "1600881949018497025",
+      "text": "Please, never treat design as something you just handoff to engineers. That's a great way to devalue the contributions of the engineers on your team and lead to a worse product. Treat it more like a conversation between design and engineering.",
+      "dateTitle": "Dec 8, 2022 · 3:56 PM UTC",
+      "dateIso": "2022-12-08"
+    },
+    {
+      "url": "https://x.com/jasonstrimpel/status/1507707644987211779",
+      "author": "jasonstrimpel",
+      "statusId": "1507707644987211779",
+      "text": "I really like this Shreyas. I would add 3 things: 1. Speak to customers/users as soon as possible 2. Understand the handoff between design and product 3. Understand the handoff between product and engineering",
+      "dateTitle": "Mar 26, 2022 · 1:14 PM UTC",
+      "dateIso": "2022-03-26"
+    },
+    {
+      "url": "https://x.com/jkhowland/status/1172161261481558016",
+      "author": "jkhowland",
+      "statusId": "1172161261481558016",
+      "text": "You gotta figure out how to reduce the “handoffs” between product, design and engineering. Goal = ZERO handoff meetings.",
+      "dateTitle": "Sep 12, 2019 · 2:53 PM UTC",
+      "dateIso": "2019-09-12"
+    },
+    {
+      "url": "https://x.com/Get_Writer/status/1016707398478778368",
+      "author": "Get_Writer",
+      "statusId": "1016707398478778368",
+      "text": "The #UX #industry largely overlooks #words, making the inevitable #handoff –one handoff, sometimes two, between #product and #design to #engineering — perilous for #product teams that care about #content. The #words are the #experience qordoba.com/blog-the-right-w…",
+      "dateTitle": "Jul 10, 2018 · 3:35 PM UTC",
+      "dateIso": "2018-07-10"
+    },
+    {
+      "url": "https://x.com/Mike__Derrico/status/2014355452436389923",
+      "author": "Mike__Derrico",
+      "statusId": "2014355452436389923",
+      "text": "Verizon 2025 Playback? Really? I can understand Youtube copying Spotify Wrapped, but Verizon has to have their little \"year in review\" too? What possible \"highlights\" could I have? Favorite texts? All the numbers I blocked? Time spent waiting in the queue?",
+      "dateTitle": "Jan 22, 2026 · 3:12 PM UTC",
+      "dateIso": "2026-01-22"
+    },
+    {
+      "url": "https://x.com/at_tcsc/status/1584573487985098753",
+      "author": "at_tcsc",
+      "statusId": "1584573487985098753",
+      "text": "I also have a super beefy set of filters I use to keep my queue clear (github.com/rust-lang/rust/pu…) but constantly worry that it means some number of things slips through the cracks if a user didn't know to [@]rustbot ready and I missed the email.. Hard to keep track of everything :(",
+      "dateTitle": "Oct 24, 2022 · 3:52 PM UTC",
+      "dateIso": "2022-10-24"
+    },
+    {
+      "url": "https://x.com/UmutGunes926/status/2035053870292865137",
+      "author": "UmutGunes926",
+      "statusId": "2035053870292865137",
+      "text": "Shipping fast is only useful if the system remains understandable, observable, and secure after launch. A lot of technical debt starts as delivery debt: unclear ownership, fragile CI/CD, manual environments, and security checks added too late. Good engineering is not only about velocity. It’s about building systems teams can trust under real load.",
+      "dateTitle": "Mar 20, 2026 · 6:00 PM UTC",
+      "dateIso": "2026-03-20"
+    },
+    {
+      "url": "https://x.com/umangkanani_/status/2016551244853301459",
+      "author": "umangkanani_",
+      "statusId": "2016551244853301459",
+      "text": "AI products aren’t failing because of models. They fail because of unclear problems, messy data, and no ownership after launch. Good engineering scales systems. Good product thinking scales outcomes. 2026 belongs to teams who do both.",
+      "dateTitle": "Jan 28, 2026 · 4:37 PM UTC",
+      "dateIso": "2026-01-28"
+    },
+    {
+      "url": "https://x.com/Punjabs229/status/2009253835747803485",
+      "author": "Punjabs229",
+      "statusId": "2009253835747803485",
+      "text": "Honest question for builders: What breaks more projects after launch? bad code, or unclear ownership? @CNPYNetwork",
+      "dateTitle": "Jan 8, 2026 · 1:20 PM UTC",
+      "dateIso": "2026-01-08"
+    },
+    {
+      "url": "https://x.com/RPL_Paracetamol/status/2008776358332367286",
+      "author": "RPL_Paracetamol",
+      "statusId": "2008776358332367286",
+      "text": "Honest question for builders: What breaks more projects after launch? bad code, or unclear ownership? @CNPYNetwork",
+      "dateTitle": "Jan 7, 2026 · 5:42 AM UTC",
+      "dateIso": "2026-01-07"
+    },
+    {
+      "url": "https://x.com/spectraone_/status/2008614915175825556",
+      "author": "spectraone_",
+      "statusId": "2008614915175825556",
+      "text": "Structural gaps in stalled pilots: • Success criteria locked after, not before launch • Evaluation isolated from live operations • Decision ownership unclear • Action triggers dependent on ambiguous thresholds Model quality cannot solve system design gaps.",
+      "dateTitle": "Jan 6, 2026 · 7:01 PM UTC",
+      "dateIso": "2026-01-06"
+    },
+    {
+      "url": "https://x.com/Belecrypt/status/2005927727577075792",
+      "author": "Belecrypt",
+      "statusId": "2005927727577075792",
+      "text": "Imagine a builder creates an AI agent that actually works. On most platforms, the hard part starts after launch unclear ownership, opaque execution, weak incentives and community fades. On @Xyberinc , it’s different. The agent launches fairly, runs onchain, earns based on performance, upgrades over time, and stays accountable through verifiable execution. The problem @Xyberinc is solving is simple; AI shouldn’t be demos or hype cycles. It should be owned, provable, and able to survive beyond launch week.",
+      "dateTitle": "Dec 30, 2025 · 9:03 AM UTC",
+      "dateIso": "2025-12-30"
+    },
+    {
+      "url": "https://x.com/ranachetuu/status/1935724048056758724",
+      "author": "ranachetuu",
+      "statusId": "1935724048056758724",
+      "text": "We'll have ownership of code for sure to improve(via caffeine or manually) after deploying to canisters. May be the functional complexity of app remains unclear till launch. I'm curious about github sync, push notifications kind of stuff. Waiting for early access codes;)",
+      "dateTitle": "Jun 19, 2025 · 3:39 PM UTC",
+      "dateIso": "2025-06-19"
+    },
+    {
+      "url": "https://x.com/Meidas_LaurenA/status/1847325086736666892",
+      "author": "Meidas_LaurenA",
+      "statusId": "1847325086736666892",
+      "text": "Days after helping launch a clearly false claim about vice presidential candidate Tim Walz, a disinformation peddler with a huge platform has disappeared from X. It’s unclear if the user deleted the account or the company did under Elon Musk’s ownership. motherjones.com/politics/202…",
+      "dateTitle": "Oct 18, 2024 · 5:13 PM UTC",
+      "dateIso": "2024-10-18"
+    },
+    {
+      "url": "https://x.com/Nakayiza_/status/1120884246871199748",
+      "author": "Nakayiza_",
+      "statusId": "1120884246871199748",
+      "text": "You do realise it was closed off a month after it's launch(when it shouldn't have been launched in the first place) 'coz it posed a threat to the public right? Only reason I don't care about this airline is 'coz it's ownership is unclear!",
+      "dateTitle": "Apr 24, 2019 · 2:56 AM UTC",
+      "dateIso": "2019-04-24"
+    }
+  ]
+}

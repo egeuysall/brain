@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-05
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 6 - dependency audit blind spot ownership risk
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/gothburz/status/2038966977742446659
+
+## Post Text (Key Excerpt)
+
+```text
+On Tuesday morning my dependency audit caught Axios. Axios. 300 million weekly downloads. The HTTP library in every JavaScript project since 2016. The one nobody audits because auditing Axios is like auditing gravity. It was there before you got hired. I am a security… pic.twitter.com/csYJci1toH
+```
+
+## Why It Matches Ryva ICP
+
+This is concrete engineering risk in a live stack: critical dependency exposure was effectively ownerless because everyone assumed it was safe.
+
+## Underlying Problem
+
+Shared dependencies lack explicit ownership and review cadence, creating silent risk accumulation.
+
+## Suggested Public Response (Copy)
+
+```text
+Great example of hidden ownership risk. “Core” dependencies often become invisible because everyone assumes someone else is watching them. A simple control is assigning dependency owners with review cadence and escalation triggers before incidents force it.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Who owns dependency risk review in your team today, and how is that ownership visible during release cycles?
+```
+
+## Snapshot
+
+- Author: @gothburz
+- Captured date label: 2026-03-31
+- Recency window: within past 14 days (past week preferred where available)

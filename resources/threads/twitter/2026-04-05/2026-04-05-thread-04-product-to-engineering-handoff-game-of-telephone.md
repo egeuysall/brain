@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-05
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 4 - product to engineering handoff game of telephone
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/SpecMeAI/status/2039448352111145290
+
+## Post Text (Key Excerpt)
+
+```text
+every handoff between product and engineering is a game of telephone. customer → support → PM → spec → engineer by step 3, the original problem is barely recognizable. specme removes steps 2-4. raw context → engineer-ready spec.
+```
+
+## Why It Matches Ryva ICP
+
+It describes a classic cross-functional failure mode between support, PM, and engineering where customer context degrades before implementation starts.
+
+## Underlying Problem
+
+Multi-step handoffs compress and distort problem context, creating avoidable rework.
+
+## Suggested Public Response (Copy)
+
+```text
+“Game of telephone” is exactly the handoff failure pattern. By the time engineering receives the work, intent and constraints are often diluted. Teams reduce rework when raw customer context, decision notes, and implementation scope stay linked end-to-end.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Where does original customer context live once a request becomes a spec and then an engineering task?
+```
+
+## Snapshot
+
+- Author: @SpecMeAI
+- Captured date label: 2026-04-01
+- Recency window: within past 14 days (past week preferred where available)
