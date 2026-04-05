@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "how-ship-fast-at-15",
-  "generatedAt": "2026-04-03",
+  "generatedAt": "2026-04-05",
   "entry": {
     "id": "how-ship-fast-at-15",
     "url": "https://egeuysal.com/blog/how-ship-fast-at-15/",
@@ -11,7 +11,11 @@
     "description": "Most people make shipping harder than it needs to be. They spend weeks debating features, setting up infrastructure, or rewriting the same boilerplate code....",
     "publishedAt": "2025-09-20",
     "updatedAt": null,
-    "tags": ["coding", "tutorial", "technology"],
+    "tags": [
+      "coding",
+      "tutorial",
+      "technology"
+    ],
     "image": "https://images.pexels.com/photos/38519/macbook-laptop-ipad-apple-38519.jpeg",
     "readingTime": 3,
     "body": "Most people make shipping harder than it needs to be. They spend weeks debating features, setting up infrastructure, or rewriting the same boilerplate code. I like to keep it simple. My process is built around systems that remove friction and let me move quickly. Here is exactly how I ship products fast without burning out.\n\n---\n\n### Step 1: Start With Sketches, Not Code\n\nI never open my editor first. Instead, I grab a pen and sketch wireframes. Nothing fancy, just quick drawings that show the flow. From there, I map user journeys so I know how someone would actually move through the product. This forces me to simplify and focus on solving one clear problem.\n\n---\n\n### Step 2: Build in Figma With My Design System\n\nNext, I take the sketches into Figma. Since I already have a design system, I do not waste time redesigning buttons, inputs, or layouts. I drag in my custom components and assemble the screens. Within a few hours, I have something that looks polished and professional.\n\nMy design system is my speed multiplier. It keeps everything consistent, lets me iterate quickly, and frees me from decision fatigue.\n\n---\n\n### Step 3: Prototype and Test Early\n\nBefore touching code, I turn those screens into a clickable prototype in Figma. This lets me actually use the product flow, catch weak points, and simplify the design before a single line of code is written. It is all about usability, not perfection.\n\n---\n\n### Step 4: Code With My Pre-Built Stack\n\nWhen I am ready to code, I start from my open source repo called **Foundry**. It already has my stack set up:\n\n- **Next.js** for frontend\n- **Supabase** for backend, auth, and database\n- **Go** for server logic when I need performance\n- My **custom UI components** that match the design system\n\nInstead of spending days on setup, I clone Foundry and start building features immediately. It feels like dropping into the middle of the project with no wasted effort.\n\n---\n\n### Step 5: Automate the Repetitive Work With AI\n\nRepetitive coding slows everything down. Whenever I see patterns I have already solved, I use AI to generate or refactor. Things like validation, boilerplate handlers, or documentation. AI does not replace me, it amplifies me. I focus on architecture and creative logic while AI handles the boring parts.\n\n---\n\n### Step 6: Ship, Learn, Iterate\n\nWith design and setup out of the way, I can ship an MVP quickly. Once it is live, I care less about polishing and more about learning. Real feedback always teaches me more than guessing. Every release is a chance to test, improve, and grow.\n\n---\n\n### Why This Works\n\n- **Constraints**: focus on one problem and one user flow.\n- **Systems**: design system and Foundry repo remove decision fatigue.\n- **Leverage**: AI accelerates the grind so I can stay focused on what matters.\n\nThat combination keeps me fast without sacrificing quality.\n\n---\n\n### Closing\n\nIf you want to ship faster, stop reinventing the wheel. Build systems once, reuse them forever, and do not be afraid to cut features. Perfection is slow. Shipping creates momentum."
