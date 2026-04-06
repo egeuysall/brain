@@ -13,11 +13,13 @@ Yesterday’s diary entry for me was about behavior change through repeated runs
 Today’s fresh signal was different: fundraising pain plus recurring chatter about context scattered across Slack.
 
 Pattern I keep seeing in early teams:
+
 - Progress gets narrated
 - Unresolved decisions stay invisible
 - That invisibility becomes fundraising friction, rework, and slower cycles
 
 Quick operator check before your next investor update:
+
 - 1 clear action
 - 2 missing decisions
 - 1 risk with owner and date
@@ -31,6 +33,7 @@ Body:
 Curious how product teams handle this in practice.
 
 Do you run a weekly check like this:
+
 - one action everyone agrees is next
 - two unresolved decisions with owners
 - one concrete risk for this week
