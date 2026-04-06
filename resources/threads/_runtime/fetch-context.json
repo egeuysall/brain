@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-05T14:26:06.546660+00:00",
+  "generatedAt": "2026-04-06T22:44:35.127352+00:00",
   "kind": "outreach-fetch-context",
   "runtime": {
     "budgetSeconds": 170,
-    "elapsedSeconds": 128.25,
+    "elapsedSeconds": 102.43,
     "withinBudget": true
   },
   "sources": {
@@ -18,7 +18,7 @@
       "outputFile": "resources/threads/_runtime/agents-context.json"
     },
     "xCandidates": {
-      "ok": true,
+      "ok": false,
       "fallbackUsed": true,
       "primary": {
         "command": [
@@ -57,13 +57,13 @@
         ],
         "timeoutSeconds": 45,
         "ok": true,
-        "durationSeconds": 41.42,
+        "durationSeconds": 16.24,
         "exitCode": 0,
-        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 63,\n    \"uniqueLinks\": 50,\n    \"hydratedPosts\": 50\n  }\n}\n",
+        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 0,\n    \"uniqueLinks\": 0,\n    \"hydratedPosts\": 0\n  }\n}\n",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/x-candidates.json"
       },
-      "postCount": 50,
+      "postCount": 0,
       "outputFile": "resources/threads/_runtime/x-candidates.json"
     },
     "redditCandidates": {
@@ -88,21 +88,21 @@
           "--output-json",
           "resources/threads/_runtime/reddit-candidates.json"
         ],
-        "timeoutSeconds": 43,
+        "timeoutSeconds": 68,
         "ok": true,
-        "durationSeconds": 6.43,
+        "durationSeconds": 5.98,
         "exitCode": 0,
         "stdoutTail": "",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/reddit-candidates.json"
       },
-      "postCount": 1,
+      "postCount": 2,
       "outputFile": "resources/threads/_runtime/reddit-candidates.json"
     }
   },
   "totals": {
-    "xPosts": 50,
-    "redditPosts": 1,
+    "xPosts": 0,
+    "redditPosts": 2,
     "anyUsableSignals": true
   },
   "files": {

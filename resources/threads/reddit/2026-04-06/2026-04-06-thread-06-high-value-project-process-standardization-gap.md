@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-06
+author: Codex
+tags: [outreach, reddit, icp, projectmanagement, workflow, ownership]
+source: https://www.reddit.com/r/projectmanagement/comments/1sccj33/what_is_your_step_by_step_process_in_your/
+---
+
+# Thread 6: High Value Project Process Standardization Gap
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/projectmanagement/comments/1sccj33/what_is_your_step_by_step_process_in_your/
+
+## Full Post Text (Key Excerpt)
+
+"What is your step by step process in your industry from beginning of project to end of project in which you managed your highest dollar amount on a project to present date?"
+
+## Why This Matches Ryva ICP
+
+Execution operators asking for end-to-end process models indicate recurring handoff and visibility gaps in complex projects.
+
+## Underlying Problem
+
+Critical workflow steps are tribal knowledge, so large projects depend on individual memory rather than an explicit operational sequence.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is exactly where expensive projects fail quietly: the process exists in people, not in a shared operating model. Documenting stage gates with owner, decision artifact, and handoff condition per phase usually prevents late surprises.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+In your highest-risk projects, which phase fails most often: discovery-to-plan handoff or execution-to-reporting handoff?
+```

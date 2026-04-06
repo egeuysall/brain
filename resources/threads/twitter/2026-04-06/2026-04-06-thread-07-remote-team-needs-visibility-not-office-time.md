@@ -1,0 +1,53 @@
+---
+type: note
+date: 2026-04-06
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 7 - remote team needs visibility not office time
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/marty_kausas/status/2039372483145408585
+
+## Original Post (Key Excerpt)
+
+```text
+Starting today, Pylon is moving to fully remote.
+
+Turns out working next to other ambitious, likeable peers isn't productive.
+
+The team is having too much fun.
+```
+
+## Why It Matches Ryva ICP
+
+It is a team-operations signal that productivity depends more on execution clarity than on physical proximity or time spent together.
+
+## Underlying Problem
+
+Co-located teams still need explicit state, priorities, and ownership; otherwise office time only hides the visibility gap.
+
+## Suggested Public Response (Copy)
+
+```text
+Remote vs in-person usually hides the real question: can the team see state clearly without asking around? If the answer is no, office proximity just masks the coordination problem for a while.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+What changed in your team once visibility moved from being implicit in the room to needing a system?
+```
+
+## Snapshot
+
+- Author: @marty_kausas
+- Captured date label: April 1, 2026
+- Recency window: within past 14 days
