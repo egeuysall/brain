@@ -1,7 +1,7 @@
 X:
 Fresh signal today: two r/startups founders had deep research but were still stuck at MVP + capital.
 
-My read: this is usually a sequencing problem, not an effort problem.
+You have a sequencing problem, not an effort problem.
 
 If your week does not end with one user, one narrow workflow, and one proof metric, fundraising gets harder.
 
