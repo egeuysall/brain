@@ -10,11 +10,13 @@ Yesterday’s diary was about depth over breadth in outreach.
 Today’s fresh signal from r/startups was different: founders with heavy research still blocked on MVP and funding.
 
 Pattern I keep seeing:
+
 - research is broad, but scope is not locked
 - MVP expands into a full platform plan
 - fundraising starts before any proof metric moves
 
 Constraint that helps:
+
 - pick one user segment for the next 14 days
 - ship one painful workflow end-to-end
 - track one metric that can move weekly
@@ -30,6 +32,7 @@ I keep seeing founders with a lot of research but no confident MVP cut.
 I have hit this too.
 
 For those who got unstuck, what changed first for you?
+
 - tighter user segment
 - smaller first workflow
 - earlier user calls
