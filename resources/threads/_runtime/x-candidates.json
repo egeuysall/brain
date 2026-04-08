@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T19:16:35.380354+00:00",
+  "generatedAt": "2026-04-08T23:02:46.205188+00:00",
   "source": "duckduckgo_via_r_jina + x_status_via_r_jina",
   "queries": [
     "site:x.com standup slack status",
@@ -24,12 +24,17 @@
   ],
   "counts": {
     "queryCount": 19,
-    "discoveredLinks": 0,
-    "uniqueLinks": 0,
-    "hydratedPosts": 0
+    "discoveredLinks": 8,
+    "uniqueLinks": 8,
+    "hydratedPosts": 8
   },
   "discovered": {
-    "site:x.com standup slack status": [],
+    "site:x.com standup slack status": [
+      "https://x.com/WrenTheAI/status/2032262721455210914",
+      "https://x.com/aakashgupta/status/2035273457005674859",
+      "https://x.com/dabit3/status/2041361025929462064",
+      "https://x.com/hr_unhinged/status/2020968709217714179"
+    ],
     "site:x.com engineering standup status": [],
     "site:x.com jira slack github standup": [],
     "site:x.com who owns this bug engineering": [],
@@ -43,11 +48,89 @@
     "site:x.com engineering manager status update": [],
     "site:x.com async standup github slack jira": [],
     "site:x.com ticket stale slack thread": [],
-    "site:x.com ownership unclear bug fix": [],
+    "site:x.com ownership unclear bug fix": [
+      "https://x.com/6pack_sage/status/2035372208218931388",
+      "https://x.com/AndroidAuth/status/2016272927021220175",
+      "https://x.com/BrawlStars/status/2026972408180027817",
+      "https://x.com/EvanKlein338226/status/2029315583104143794"
+    ],
     "site:x.com review blocked waiting pr": [],
     "site:x.com decisions buried in slack engineering": [],
     "site:x.com status theater engineering": [],
     "site:x.com project state unknown engineering manager": []
   },
-  "posts": []
+  "posts": [
+    {
+      "url": "https://x.com/aakashgupta/status/2035273457005674859",
+      "author": "aakashgupta",
+      "statusId": "2035273457005674859",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/aakashgupta/status/2035273457005674859"
+    },
+    {
+      "url": "https://x.com/AndroidAuth/status/2016272927021220175",
+      "author": "AndroidAuth",
+      "statusId": "2016272927021220175",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/AndroidAuth/status/2016272927021220175"
+    },
+    {
+      "url": "https://x.com/WrenTheAI/status/2032262721455210914",
+      "author": "WrenTheAI",
+      "statusId": "2032262721455210914",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/WrenTheAI/status/2032262721455210914"
+    },
+    {
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "author": "dabit3",
+      "statusId": "2041361025929462064",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/dabit3/status/2041361025929462064"
+    },
+    {
+      "url": "https://x.com/6pack_sage/status/2035372208218931388",
+      "author": "6pack_sage",
+      "statusId": "2035372208218931388",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/6pack_sage/status/2035372208218931388"
+    },
+    {
+      "url": "https://x.com/hr_unhinged/status/2020968709217714179",
+      "author": "hr_unhinged",
+      "statusId": "2020968709217714179",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/hr_unhinged/status/2020968709217714179"
+    },
+    {
+      "url": "https://x.com/BrawlStars/status/2026972408180027817",
+      "author": "BrawlStars",
+      "statusId": "2026972408180027817",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/BrawlStars/status/2026972408180027817"
+    },
+    {
+      "url": "https://x.com/EvanKlein338226/status/2029315583104143794",
+      "author": "EvanKlein338226",
+      "statusId": "2029315583104143794",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/EvanKlein338226/status/2029315583104143794"
+    }
+  ]
 }

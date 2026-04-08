@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-08T19:16:40.367992+00:00",
+  "generatedAt": "2026-04-08T23:03:49.414478+00:00",
   "kind": "outreach-fetch-context",
   "runtime": {
     "budgetSeconds": 170,
-    "elapsedSeconds": 100.58,
+    "elapsedSeconds": 130.87,
     "withinBudget": true
   },
   "sources": {
@@ -56,15 +56,12 @@
           "6"
         ],
         "timeoutSeconds": 45,
-        "ok": true,
-        "durationSeconds": 15.42,
-        "exitCode": 0,
-        "stdoutTail": "{\n  \"out\": \"resources/threads/_runtime/x-candidates.json\",\n  \"counts\": {\n    \"queryCount\": 19,\n    \"discoveredLinks\": 0,\n    \"uniqueLinks\": 0,\n    \"hydratedPosts\": 0\n  }\n}\n",
-        "stderrTail": "",
-        "outputFile": "resources/threads/_runtime/x-candidates.json"
+        "ok": false,
+        "durationSeconds": 45.01,
+        "error": "Step timed out after 45s"
       },
       "postCount": 0,
-      "outputFile": "resources/threads/_runtime/x-candidates.json"
+      "outputFile": null
     },
     "redditCandidates": {
       "ok": true,
@@ -88,9 +85,9 @@
           "--output-json",
           "resources/threads/_runtime/reddit-candidates.json"
         ],
-        "timeoutSeconds": 69,
+        "timeoutSeconds": 39,
         "ok": true,
-        "durationSeconds": 4.97,
+        "durationSeconds": 5.68,
         "exitCode": 0,
         "stdoutTail": "",
         "stderrTail": "",
@@ -107,7 +104,7 @@
   },
   "files": {
     "agentsContext": "resources/threads/_runtime/agents-context.json",
-    "xCandidates": "resources/threads/_runtime/x-candidates.json",
+    "xCandidates": null,
     "redditCandidates": "resources/threads/_runtime/reddit-candidates.json"
   }
 }
