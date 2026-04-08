@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-08
+author: Codex
+tags: [outreach, reddit, icp, engineeringmanagers, workflow, ownership]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1sd43fg/hey_eng_managers_has_anyone_actually_let_an_ai/
+---
+
+# Thread 2: Ai Agent Slack Access Governance Boundary
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/EngineeringManagers/comments/1sd43fg/hey_eng_managers_has_anyone_actually_let_an_ai/
+
+## Full Post Text (Key Excerpt)
+
+"Asking whether teams are allowing AI agents to read and write in company Slack with MCP access."
+
+## Why This Matches Ryva ICP
+
+Clear AI governance and coordination risk discussed by engineering managers operating real production communication flows.
+
+## Underlying Problem
+
+Authority boundaries are undefined for agent actions in communication systems, creating security and ownership ambiguity.
+
+## Suggested Public Reply (Copy)
+
+```text
+Allowing an agent into Slack is less about tooling and more about authority boundaries. Teams stay safe when they define what the agent can read, what it can write, and which actions require explicit human approval.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Are you blocked more by security policy or by uncertainty on who owns agent decisions?
+```

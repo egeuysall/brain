@@ -1,0 +1,19 @@
+{
+  "generatedAt": "2026-04-08T19:30:43.780911+00:00",
+  "candidates": [
+    {
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "author": "dabit3",
+      "date": "2026-04-07",
+      "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent d",
+      "score": 8
+    },
+    {
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "author": "techopsasia",
+      "date": "2026-04-05",
+      "text": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL ## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity att",
+      "score": 8
+    }
+  ]
+}

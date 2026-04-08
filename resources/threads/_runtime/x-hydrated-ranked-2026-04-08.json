@@ -1,0 +1,1803 @@
+{
+  "generatedAt": "2026-04-08T19:27:18.747377+00:00",
+  "hydrated": [
+    {
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "ok": true,
+      "author": "dabit3",
+      "date": "2026-04-08",
+      "title": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes",
+      "excerpt": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent d",
+      "score": 8,
+      "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent d"
+    },
+    {
+      "url": "https://x.com/nothiingf4/status/2033995665613984233",
+      "ok": true,
+      "author": "nothiingf4",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know."
+    },
+    {
+      "url": "https://x.com/0xlelouch_/status/2029552258191339624",
+      "ok": true,
+      "author": "0xlelouch_",
+      "date": "",
+      "title": "Life in Bangalore as a software engineer, on a normal weekday: 1. 7:30am: wake up, quick filter coffee then check Slack 2. 8:30am: leave early or waste 2 hrs in traffic 3. 9:30am: standup, \u201cblocked by dependency\u201d 4. 11:00am: deep work if you mute WhatsApp groups 5. 1:00pm:",
+      "excerpt": "# Abhishek Singh on X: \"Life in Bangalore as a software engineer, on a normal weekday: 1. 7:30am: wake up, quick filter coffee then check Slack 2. 8:30am: leave early or waste 2 hrs in traffic 3. 9:30am: standup, \u201cblocked by dependency\u201d 4. 11:00am: deep work if you mute WhatsApp groups 5. 1:00pm:\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/"
+    },
+    {
+      "url": "https://x.com/dblockdotorg/status/2031730586834870311",
+      "ok": true,
+      "author": "dblockdotorg",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know."
+    },
+    {
+      "url": "https://x.com/aakashgupta/status/2035273457005674859",
+      "ok": true,
+      "author": "aakashgupta",
+      "date": "",
+      "title": "I spent 2 hours with Naman Pandey breaking down exactly how he set up OpenClaw as a PM. Most people use AI to rewrite Jira tickets. Naman built a system that automates his stand-ups at 9 a.m., monitors competitors on a schedule, routes bugs by customer tier, and runs security https://t.co/8ZNf6sodkX",
+      "excerpt": "## Post I spent 2 hours with Naman Pandey breaking down exactly how he set up OpenClaw as a PM. Most people use AI to rewrite Jira tickets. Naman built a system that automates his stand-ups at 9 a.m., monitors competitors on a schedule, routes bugs by customer tier, and runs security audits on its own codebase. The setup takes 15 minutes. Three terminal commands. Pick your LLM. Connect to Slack. Once it's running, th"
+    },
+    {
+      "url": "https://x.com/Bouazizalex/status/2020159203382550530",
+      "ok": true,
+      "author": "Bouazizalex",
+      "date": "",
+      "title": "You can build a $10B+ company fully remotely",
+      "excerpt": "As Deel went from zero to $1B ARR, countless well-wishers asked us to 'grow-up' and build an HQ and an office. We grew fast not despite being remote but because of it. Storytime: This is a picture of me and my friend Sami in 2014 taking a 2-hour nap during a hackathon in London. This photo encapsulates the 'hacker-bedroom energy' that was characteristic of early Deel (though this was taken much before). I'm writing t"
+    },
+    {
+      "url": "https://x.com/trq212/status/2033949937936085378",
+      "ok": true,
+      "author": "trq212",
+      "date": "",
+      "title": "Lessons from Building Claude Code: How We Use Skills",
+      "excerpt": "Skills have become one of the most used extension points in Claude Code. They\u2019re flexible, easy to make, and simple to distribute. But this flexibility also makes it hard to know what works best. What type of skills are worth making? What's the secret to writing a good skill? When do you share them with others? We've been using skills in Claude Code extensively at Anthropic with hundreds of them in active use. These "
+    },
+    {
+      "url": "https://x.com/0xlelouch_/status/2033180146723938439",
+      "ok": true,
+      "author": "0xlelouch_",
+      "date": "",
+      "title": "Who is smartest in the room? 1. The project manager who is talking about his wife and kids 2. The tech lead getting ready for the insults and getting ready for a breakup on valentine's 3. The old product guy who has survived 4 restructures 4. The scrum master master of excel and",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. Who is smartest in the room? 1. The project manager who is talking about his wife and kids 2. The tech lead getting ready for the insults and getting ready for a breakup on valentine's 3. The old product guy who has survived 4 restructures 4. The scrum master master of excel and enjoying reels all day after daily standup 5. The engineering manager saying "
+    },
+    {
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "ok": true,
+      "author": "techopsasia",
+      "date": "2026-04-08",
+      "title": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL",
+      "excerpt": "## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity att",
+      "score": 8,
+      "text": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL ## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity att"
+    },
+    {
+      "url": "https://x.com/K_Allen1981/status/2037960250284810512",
+      "ok": true,
+      "author": "K_Allen1981",
+      "date": "",
+      "title": "Is Your Proposal Process Helping or Costing You Revenue? This short assessment evaluates the structure, ownership, and effectiveness of your proposal operations. Used by organizations tired of late nights, rushed submissions, and unclear ownership. https://t.co/dL5MsVi0KT",
+      "excerpt": "# Kelly Allen on X: \"Is Your Proposal Process Helping or Costing You Revenue? This short assessment evaluates the structure, ownership, and effectiveness of your proposal operations. Used by organizations tired of late nights, rushed submissions, and unclear ownership. https://t.co/dL5MsVi0KT\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow"
+    },
+    {
+      "url": "https://x.com/archersec/status/2029255705862017365",
+      "ok": true,
+      "author": "archersec",
+      "date": "2026-04-08",
+      "title": "In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp",
+      "excerpt": "# Archer on X: \"In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](",
+      "score": 8,
+      "text": "In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp # Archer on X: \"In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up]("
+    },
+    {
+      "url": "https://x.com/Rubelislam2023/status/2038921204233596987",
+      "ok": true,
+      "author": "Rubelislam2023",
+      "date": "",
+      "title": "Rialo Designing Systems That Keep Ownership Clear Confusion starts where ownership ends when no one knows who owns what systems slow down and mistakes increase @RialoHQ is built to keep ownership clear at every level Unclear ownership creates risk when responsibility is vague https://t.co/NPGsflNN48",
+      "excerpt": "## Post Rialo Designing Systems That Keep Ownership Clear Confusion starts where ownership ends when no one knows who owns what systems slow down and mistakes increase is built to keep ownership clear at every level Unclear ownership creates risk when responsibility is vague issues stay unresolved decisions get delayed and accountability disappears small problems slowly turn into bigger failures Every component needs"
+    },
+    {
+      "url": "https://x.com/vikasz_/status/2030175524182757880",
+      "ok": true,
+      "author": "vikasz_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Checkmarx/status/2032217149339492682",
+      "ok": true,
+      "author": "Checkmarx",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033375780026081746",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/chemishield/status/2031743902881882494",
+      "ok": true,
+      "author": "chemishield",
+      "date": "",
+      "title": "\ud83d\udea9Unlabelled containers = staff misunderstand requirements. \ud83d\udea9Inconsistent segregation = lack of clear processes. \ud83d\udea9Waste hoarding = unclear ownership. \ud83d\udea9Vendor over-reliance = accountability pushed downstream. \ud83d\udea9Spreadsheet-driven compliance = using tools that do not scale.",
+      "excerpt": "## Post [Chemishield ![Image 1: \ud83e\uddea](https://abs-0.twimg.com/emoji/v2/svg/1f9ea.svg)](https://x.com/chemishield) [@chemishield](https://x.com/chemishield) ![Image 2: \ud83d\udea9](https://abs-0.twimg.com/emoji/v2/svg/1f6a9.svg)Unlabelled containers = staff misunderstand requirements. ![Image 3: \ud83d\udea9](https://abs-0.twimg.com/emoji/v2/svg/1f6a9.svg)Inconsistent segregation = lack of clear processes. ![Image 4: \ud83d\udea9](https://abs-0.twimg.c"
+    },
+    {
+      "url": "https://x.com/Vtrivedy10/status/2041940332460360035",
+      "ok": true,
+      "author": "Vtrivedy10",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/heynavtoor/status/2027054100807106829",
+      "ok": true,
+      "author": "heynavtoor",
+      "date": "",
+      "title": "I Tested All 21 Claude Cowork Plugins. Here\u2019s the Tier List Nobody\u2019s Publishing.",
+      "excerpt": "Anthropic just shipped 21 plugins for Claude Cowork. The original 11 launched January 30. Ten more dropped February 24. Between those two dates, $285 billion in software stock value evaporated. Thomson Reuters fell 18%. LegalZoom crashed 20%. Jefferies traders started calling it the SaaSpocalypse. All because of a GitHub repo and a blog post. But here\u2019s the thing almost nobody is talking about: some of these plugins "
+    },
+    {
+      "url": "https://x.com/JIACHENLIU8/status/2034398199541317814",
+      "ok": true,
+      "author": "JIACHENLIU8",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/law_ninja/status/2041199543233200402",
+      "ok": true,
+      "author": "law_ninja",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/nicbstme/status/2026366805154140494",
+      "ok": true,
+      "author": "nicbstme",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/omkar_jagdale/status/2028407316534485305",
+      "ok": true,
+      "author": "omkar_jagdale",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/it_unprofession/status/2019122507421294951",
+      "ok": true,
+      "author": "it_unprofession",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/NAndriievskyi/status/2040746349054861338",
+      "ok": true,
+      "author": "NAndriievskyi",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/nyk_builderz/status/2031581912071127158",
+      "ok": true,
+      "author": "nyk_builderz",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/HRVisionEvent/status/2039284382331023729",
+      "ok": true,
+      "author": "HRVisionEvent",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/cookwithmrz/status/2039794977694519360",
+      "ok": true,
+      "author": "cookwithmrz",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/LeverCRO/status/2038686641368584323",
+      "ok": true,
+      "author": "LeverCRO",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/BlueNexusAI/status/2037983439257817361",
+      "ok": true,
+      "author": "BlueNexusAI",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/workpagedev/status/2030961306715464085",
+      "ok": true,
+      "author": "workpagedev",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Mb_shehu_/status/2001362559535104121",
+      "ok": true,
+      "author": "Mb_shehu_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AlphaPassApp/status/2019025778130801081",
+      "ok": true,
+      "author": "AlphaPassApp",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/deebellare/status/1892076205672677462",
+      "ok": true,
+      "author": "deebellare",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/nurijanian/status/1727008619219108077",
+      "ok": true,
+      "author": "nurijanian",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/thepriyadarshy/status/1765144396117491949",
+      "ok": true,
+      "author": "thepriyadarshy",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/HaticaHQ/status/1595369618973261825",
+      "ok": true,
+      "author": "HaticaHQ",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/axolo_co/status/1564884052443807744",
+      "ok": true,
+      "author": "axolo_co",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/georgeIjeremiah/status/1557038233611128833",
+      "ok": true,
+      "author": "georgeIjeremiah",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/nurijanian/status/1556989208354496512",
+      "ok": true,
+      "author": "nurijanian",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/sanderson42/status/1516854110343073799",
+      "ok": true,
+      "author": "sanderson42",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/CantonCoders/status/1516761046450642954",
+      "ok": true,
+      "author": "CantonCoders",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/JustStephiroth/status/1516575378361384965",
+      "ok": true,
+      "author": "JustStephiroth",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/frostshoxx/status/1516457617165484036",
+      "ok": true,
+      "author": "frostshoxx",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/tamaradottin/status/1516535078867902466",
+      "ok": true,
+      "author": "tamaradottin",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/cshivaram/status/1507573082398945283",
+      "ok": true,
+      "author": "cshivaram",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/GergelyOrosz/status/2029295486574747872",
+      "ok": true,
+      "author": "GergelyOrosz",
+      "date": "",
+      "title": "What does it mean for software engineering when we no longer write the code? Here's the take from Boris Cherny (@bcherny), the creator of Claude Code. Timestamps: 00:00 Intro 11:15 Lessons from Meta 19:46 Joining Anthropic 23:08 The origins of Claude Code 32:55 Boris's Claude https://t.co/jwPODLIZ4b",
+      "excerpt": "What does it mean for software engineering when we no longer write the code? Here's the take from Boris Cherny ( ), the creator of Claude Code. Timestamps: [00:00](https://x.com/GergelyOrosz/status/2029295486574747872?t=0) Intro [11:15](https://x.com/GergelyOrosz/status/2029295486574747872?t=675) Lessons from Meta [19:46](https://x.com/GergelyOrosz/status/2029295486574747872?t=1186) Joining Anthropic [23:08](https://"
+    },
+    {
+      "url": "https://x.com/MrNiceRicee/status/1451227245364727810",
+      "ok": true,
+      "author": "MrNiceRicee",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/rBharshetty/status/1521411209496764416",
+      "ok": true,
+      "author": "rBharshetty",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/csanchez/status/2040690741630865784",
+      "ok": true,
+      "author": "csanchez",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/thinkreviewdev/status/2036011072721666536",
+      "ok": true,
+      "author": "thinkreviewdev",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AmetrinerX/status/2035793634797224250",
+      "ok": true,
+      "author": "AmetrinerX",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/grok/status/2036401814115856405",
+      "ok": true,
+      "author": "grok",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/MrMalikFarhan/status/2034643567256515063",
+      "ok": true,
+      "author": "MrMalikFarhan",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/clwdbot/status/2033590785837580370",
+      "ok": true,
+      "author": "clwdbot",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ralvs11/status/2032862658349744624",
+      "ok": true,
+      "author": "ralvs11",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/anth0nycodes/status/2034000671331009016",
+      "ok": true,
+      "author": "anth0nycodes",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Claudecode_JPEE/status/2032486922887561372",
+      "ok": true,
+      "author": "Claudecode_JPEE",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AcsaraHealth/status/2011809468515029162",
+      "ok": true,
+      "author": "AcsaraHealth",
+      "date": "",
+      "title": "Hiring another admin is often the default response to overload in independent practices. Most bottlenecks are structural: interruptions, unclear ownership, and broken flow, not headcount. https://t.co/AscWte4jLW",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. Hiring another admin is often the default response to overload in independent practices. Most bottlenecks are structural: interruptions, unclear ownership, and broken flow, not headcount. [acsara.com/practice-pulse](https://t.co/AscWte4jLW) to X? Sign up now to get your own personalized timeline! now \u2019s happening Sports \u00b7 Trending Joey Bart Trending in Un"
+    },
+    {
+      "url": "https://x.com/truechatdata/status/2031480724730294745",
+      "ok": true,
+      "author": "truechatdata",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ckorhonen/status/2032119262232318263",
+      "ok": true,
+      "author": "ckorhonen",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/thecsguy/status/2031377794769588319",
+      "ok": true,
+      "author": "thecsguy",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/grok/status/2031185510757023874",
+      "ok": true,
+      "author": "grok",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ctsmithiii/status/2030975579487707235",
+      "ok": true,
+      "author": "ctsmithiii",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/layer2_app/status/2029269230378750277",
+      "ok": true,
+      "author": "layer2_app",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/trkweb3/status/2025899578894201330",
+      "ok": true,
+      "author": "trkweb3",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/dibscrypto/status/2025594687403299135",
+      "ok": true,
+      "author": "dibscrypto",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/samiranzm2001/status/2025449840620994637",
+      "ok": true,
+      "author": "samiranzm2001",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/GNftarmy/status/2025130636411847061",
+      "ok": true,
+      "author": "GNftarmy",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AshefTajwarAmin/status/2030990608752636408",
+      "ok": true,
+      "author": "AshefTajwarAmin",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/SpecMeAI/status/2039448352111145290",
+      "ok": true,
+      "author": "SpecMeAI",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Startvest_ai/status/2037392290470064415",
+      "ok": true,
+      "author": "Startvest_ai",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Ghost_Boy4957/status/2019496465098305554",
+      "ok": true,
+      "author": "Ghost_Boy4957",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/berrymaduka/status/2019139641526382924",
+      "ok": true,
+      "author": "berrymaduka",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/xiaowang1984/status/1994567825738899468",
+      "ok": true,
+      "author": "xiaowang1984",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/LeeraApp/status/2004190731918102998",
+      "ok": true,
+      "author": "LeeraApp",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/kellyann3644/status/1980458407241884120",
+      "ok": true,
+      "author": "kellyann3644",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/pr4khar/status/1964353636630409670",
+      "ok": true,
+      "author": "pr4khar",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/arek_works/status/1902704873742741775",
+      "ok": true,
+      "author": "arek_works",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/CallMeKarti/status/1947894523897778485",
+      "ok": true,
+      "author": "CallMeKarti",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/wirthkarl/status/1955288703451939211",
+      "ok": true,
+      "author": "wirthkarl",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jayneildalal/status/1868668717401530523",
+      "ok": true,
+      "author": "jayneildalal",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Virtual_Patrick/status/1684835593241387008",
+      "ok": true,
+      "author": "Virtual_Patrick",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Cartisien/status/1673973013434310661",
+      "ok": true,
+      "author": "Cartisien",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/misteroom/status/1677362031865864194",
+      "ok": true,
+      "author": "misteroom",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/david_luhr/status/1650888919351738377",
+      "ok": true,
+      "author": "david_luhr",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/prodlabio/status/1646534996499345408",
+      "ok": true,
+      "author": "prodlabio",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/KunalsLab/status/1600881949018497025",
+      "ok": true,
+      "author": "KunalsLab",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jkhowland/status/1172161261481558016",
+      "ok": true,
+      "author": "jkhowland",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jasonstrimpel/status/1507707644987211779",
+      "ok": true,
+      "author": "jasonstrimpel",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Get_Writer/status/1016707398478778368",
+      "ok": true,
+      "author": "Get_Writer",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Mike__Derrico/status/2014355452436389923",
+      "ok": true,
+      "author": "Mike__Derrico",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/at_tcsc/status/1584573487985098753",
+      "ok": true,
+      "author": "at_tcsc",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/umangkanani_/status/2016551244853301459",
+      "ok": true,
+      "author": "umangkanani_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/RPL_Paracetamol/status/2008776358332367286",
+      "ok": true,
+      "author": "RPL_Paracetamol",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Punjabs229/status/2009253835747803485",
+      "ok": true,
+      "author": "Punjabs229",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/spectraone_/status/2008614915175825556",
+      "ok": true,
+      "author": "spectraone_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Belecrypt/status/2005927727577075792",
+      "ok": true,
+      "author": "Belecrypt",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Meidas_LaurenA/status/1847325086736666892",
+      "ok": true,
+      "author": "Meidas_LaurenA",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ranachetuu/status/1935724048056758724",
+      "ok": true,
+      "author": "ranachetuu",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Nakayiza_/status/1120884246871199748",
+      "ok": true,
+      "author": "Nakayiza_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/kapilansh_twt/status/2034321489428926522",
+      "ok": true,
+      "author": "kapilansh_twt",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jasonlk/status/2039720330546266356",
+      "ok": true,
+      "author": "jasonlk",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/marty_kausas/status/2039372483145408585",
+      "ok": true,
+      "author": "marty_kausas",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/engineers_feed/status/1432376805395206144",
+      "ok": true,
+      "author": "engineers_feed",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/iamlukethedev/status/2031902498663866513",
+      "ok": true,
+      "author": "iamlukethedev",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/desksetup7/status/2022719320074101134",
+      "ok": true,
+      "author": "desksetup7",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/mikefutia/status/2039366843463569873",
+      "ok": true,
+      "author": "mikefutia",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Akintola_steve/status/2036760591885369814",
+      "ok": true,
+      "author": "Akintola_steve",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/OldBayBro/status/2029666907264041357",
+      "ok": true,
+      "author": "OldBayBro",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/fr0gger_/status/2034209115636224371",
+      "ok": true,
+      "author": "fr0gger_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/luna_moretti_/status/2039093551246475772",
+      "ok": true,
+      "author": "luna_moretti_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2040071010896973873",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/aroussi/status/2037984956312326624",
+      "ok": true,
+      "author": "aroussi",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/riosgeorge/status/2039006058371223675",
+      "ok": true,
+      "author": "riosgeorge",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/leifthunder/status/2026684612441772474",
+      "ok": true,
+      "author": "leifthunder",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Morlouda/status/2037908300088631355",
+      "ok": true,
+      "author": "Morlouda",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/firstadopter/status/2019781507649257534",
+      "ok": true,
+      "author": "firstadopter",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/akoratana/status/2036111467016319074",
+      "ok": true,
+      "author": "akoratana",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Bencera/status/2038721350618206478",
+      "ok": true,
+      "author": "Bencera",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/RetardedNi85688/status/2032476496237851106",
+      "ok": true,
+      "author": "RetardedNi85688",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/GergelyOrosz/status/2032509692069527723",
+      "ok": true,
+      "author": "GergelyOrosz",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/code_rams/status/2038730268199010336",
+      "ok": true,
+      "author": "code_rams",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Zephyr_hg/status/2036139041331015991",
+      "ok": true,
+      "author": "Zephyr_hg",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/gaulinvader/status/2024404225455997337",
+      "ok": true,
+      "author": "gaulinvader",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/PregameEmpire/status/1503830434651721736",
+      "ok": true,
+      "author": "PregameEmpire",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/snow_w_lee/status/2026870769704452460",
+      "ok": true,
+      "author": "snow_w_lee",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ayushagarwal/status/2032440038953226279",
+      "ok": true,
+      "author": "ayushagarwal",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/karankendre/status/2036358984941134023",
+      "ok": true,
+      "author": "karankendre",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/newlinedotco/status/2032149071138316348",
+      "ok": true,
+      "author": "newlinedotco",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/thesystemsboss/status/2029557545610649605",
+      "ok": true,
+      "author": "thesystemsboss",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/KayhanB21/status/1955886187467726959",
+      "ok": true,
+      "author": "KayhanB21",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AoiNakamur81455/status/2029962499068678500",
+      "ok": true,
+      "author": "AoiNakamur81455",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/IcarusHermes/status/2037030845635084785",
+      "ok": true,
+      "author": "IcarusHermes",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/LittlebirdAI/status/2016662322857865597",
+      "ok": true,
+      "author": "LittlebirdAI",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/adxtyahq/status/2036118696285053129",
+      "ok": true,
+      "author": "adxtyahq",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/rohanpaul_ai/status/2036119340794384407",
+      "ok": true,
+      "author": "rohanpaul_ai",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/_adityaa21/status/2030329350965653731",
+      "ok": true,
+      "author": "_adityaa21",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/thetripathi58/status/2037914593394360757",
+      "ok": true,
+      "author": "thetripathi58",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/affaanmustafa/status/2014040193557471352",
+      "ok": true,
+      "author": "affaanmustafa",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ProfTomYeh/status/2020879143802487269",
+      "ok": true,
+      "author": "ProfTomYeh",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2032854067358167382",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/github/status/2024900639734616482",
+      "ok": true,
+      "author": "github",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Lumabullet/status/2031072244315598910",
+      "ok": true,
+      "author": "Lumabullet",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/nickbaumann_/status/2033650050845577616",
+      "ok": true,
+      "author": "nickbaumann_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/mrwtffacts/status/1434193818853777414",
+      "ok": true,
+      "author": "mrwtffacts",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/KWaldersee/status/2032385777628217652",
+      "ok": true,
+      "author": "KWaldersee",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/CodevolutionWeb/status/2029581688104440096",
+      "ok": true,
+      "author": "CodevolutionWeb",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/milan_milanovic/status/2029474496646717846",
+      "ok": true,
+      "author": "milan_milanovic",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/mattshumer_/status/2021256989876109403",
+      "ok": true,
+      "author": "mattshumer_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/mattpocockuk/status/2036842294939201862",
+      "ok": true,
+      "author": "mattpocockuk",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/hysterianorris/status/2038149388355228150",
+      "ok": true,
+      "author": "hysterianorris",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/hwchase17/status/2033978553499607160",
+      "ok": true,
+      "author": "hwchase17",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Meer_AIIT/status/2027509711722188976",
+      "ok": true,
+      "author": "Meer_AIIT",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/SLCScanner/status/2035985647979086121",
+      "ok": true,
+      "author": "SLCScanner",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/devrimozcy/status/2039785595480776813",
+      "ok": true,
+      "author": "devrimozcy",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/0xJsum/status/2039198679815565508",
+      "ok": true,
+      "author": "0xJsum",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AIPandaX/status/2037122632123113731",
+      "ok": true,
+      "author": "AIPandaX",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/brndxix/status/2024156222627213380",
+      "ok": true,
+      "author": "brndxix",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/aye_aye_kaplan/status/2029605288840679739",
+      "ok": true,
+      "author": "aye_aye_kaplan",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Saboo_Shubham_/status/2032333737707651147",
+      "ok": true,
+      "author": "Saboo_Shubham_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/i/status/2029961661092909183",
+      "ok": true,
+      "author": "i",
+      "date": "",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different answers. \"Drive\" \"Notion\" \"Slack\" \"Email\" \"Which one?\" Same team. Same document. Zero alignment. This is what scattered tools create: \u2014 Multiple versions \u2014 Multiple realities \u2014 Multiple problems One workspac https://t.co/hhZYDmtsub",
+      "excerpt": "## Post Asked my team: \"Where's the latest proposal?\" 5 people. 5 different answers. \"Drive\" \"Notion\" \"Slack\" \"Email\" \"Which one?\" Same team. Same document. Zero alignment. This is what scattered tools create: \u2014 Multiple versions \u2014 Multiple realities \u2014 Multiple problems One workspac [![Image 1: Image](https://pbs.twimg.com/media/HCvfX2DaUAMP8aW?format=jpg&name=small)](https://x.com/emmamartin9012/status/2029961661092"
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2032547549848936653",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/cjc/status/2024160762554700145",
+      "ok": true,
+      "author": "cjc",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/mrkaran_/status/2032113612811317378",
+      "ok": true,
+      "author": "mrkaran_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jeli_io/status/1699485117259841728",
+      "ok": true,
+      "author": "jeli_io",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know."
+    },
+    {
+      "url": "https://x.com/ScottJenningsKY/status/1945484676790988856",
+      "ok": true,
+      "author": "ScottJenningsKY",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jason_coder0/status/2035286878933725572",
+      "ok": true,
+      "author": "jason_coder0",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/withmartian/status/2036844557359603761",
+      "ok": true,
+      "author": "withmartian",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/OutmanShowmore/status/2033389773436682605",
+      "ok": true,
+      "author": "OutmanShowmore",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/openclawedin/status/2031097285187350964",
+      "ok": true,
+      "author": "openclawedin",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/elvissun/status/2025920521871716562",
+      "ok": true,
+      "author": "elvissun",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ChiefEngineerCE/status/2026347949135954218",
+      "ok": true,
+      "author": "ChiefEngineerCE",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TheMeltdownAsym/status/2038465368931336638",
+      "ok": true,
+      "author": "TheMeltdownAsym",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/_TheAfolabi/status/2033944506953826379",
+      "ok": true,
+      "author": "_TheAfolabi",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Simon_Ingari/status/2033529376134820101",
+      "ok": true,
+      "author": "Simon_Ingari",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/sahilypatel/status/2028419692768182648",
+      "ok": true,
+      "author": "sahilypatel",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/sewerynkalemba/status/2032091355262910632",
+      "ok": true,
+      "author": "sewerynkalemba",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/iamdevloper/status/1509158380270723087",
+      "ok": true,
+      "author": "iamdevloper",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/bigdatasumit/status/2039946541151199722",
+      "ok": true,
+      "author": "bigdatasumit",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/i/status/2029962499068678500",
+      "ok": true,
+      "author": "i",
+      "date": "",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different answers. \"Drive\" \"Notion\" \"Slack\" \"Email\" \"Which one?\" Same team. Same document. Zero alignment. This is what scattered tools create: \u2014 Multiple versions \u2014 Multiple realities \u2014 Multiple problems https://t.co/WZdZkLA0rw",
+      "excerpt": "## Post Asked my team: \"Where's the latest proposal?\" 5 people. 5 different answers. \"Drive\" \"Notion\" \"Slack\" \"Email\" \"Which one?\" Same team. Same document. Zero alignment. This is what scattered tools create: \u2014 Multiple versions \u2014 Multiple realities \u2014 Multiple problems [![Image 1: Image](https://pbs.twimg.com/media/HCvgIqZaUAAVjjM?format=jpg&name=small)](https://x.com/AoiNakamur81455/status/2029962499068678500/photo"
+    },
+    {
+      "url": "https://x.com/syedsibtain_/status/2036825239859208448",
+      "ok": true,
+      "author": "syedsibtain_",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/akinstouch/status/2038942913049014515",
+      "ok": true,
+      "author": "akinstouch",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/UnityNodesIO/status/2006135043165470911",
+      "ok": true,
+      "author": "UnityNodesIO",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/JulianGoldieSEO/status/2034203681034568127",
+      "ok": true,
+      "author": "JulianGoldieSEO",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/architjn/status/2034933982111179079",
+      "ok": true,
+      "author": "architjn",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/patrickshuff/status/2021427154580353406",
+      "ok": true,
+      "author": "patrickshuff",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/spikeysanju/status/2023030609216729590",
+      "ok": true,
+      "author": "spikeysanju",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/cassidoo/status/2038993995708133777",
+      "ok": true,
+      "author": "cassidoo",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ashpreetbedi/status/2024885969250394191",
+      "ok": true,
+      "author": "ashpreetbedi",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/coworkerapp/status/2026707860282122469",
+      "ok": true,
+      "author": "coworkerapp",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/markwitt_me/status/2034238930569007610",
+      "ok": true,
+      "author": "markwitt_me",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/snow_w_lee/status/2038045772168757579",
+      "ok": true,
+      "author": "snow_w_lee",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/AndroidAuth/status/2016272927021220175",
+      "ok": true,
+      "author": "AndroidAuth",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/EvanKlein338226/status/2029315583104143794",
+      "ok": true,
+      "author": "EvanKlein338226",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/G4br1ello/status/1838454358125470076",
+      "ok": true,
+      "author": "G4br1ello",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/6pack_sage/status/2035372208218931388",
+      "ok": true,
+      "author": "6pack_sage",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/BrawlStars/status/2026972408180027817",
+      "ok": true,
+      "author": "BrawlStars",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/Argona0x/status/2036491606107332654",
+      "ok": true,
+      "author": "Argona0x",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/UnraidOfficial/status/2024994171371577587",
+      "ok": true,
+      "author": "UnraidOfficial",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ahmedeldrshawy/status/2036353257698652395",
+      "ok": true,
+      "author": "ahmedeldrshawy",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/jeffscottward/status/2029233102405489037",
+      "ok": true,
+      "author": "jeffscottward",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/izqui9/status/2034237278923407475",
+      "ok": true,
+      "author": "izqui9",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/art_daat98987/status/2028062589503054224",
+      "ok": true,
+      "author": "art_daat98987",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/art_daat98987/status/2030210477922353304",
+      "ok": true,
+      "author": "art_daat98987",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/geminatecs/status/2012132733989146980",
+      "ok": true,
+      "author": "geminatecs",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/cognition/status/2030035855046496571",
+      "ok": true,
+      "author": "cognition",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/github/status/2034017579279520071",
+      "ok": true,
+      "author": "github",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2031807169788572006",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033893168354095595",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/KatakwiDistrict/status/2029196883017470390",
+      "ok": true,
+      "author": "KatakwiDistrict",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2035380456380665885",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2032261407433978304",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2034100788088148035",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2033293460984181160",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/matt_pkl/status/2033242015295791517",
+      "ok": true,
+      "author": "matt_pkl",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/newlinedotco/status/2032358600346083456",
+      "ok": true,
+      "author": "newlinedotco",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/RITtigers/status/2008337356638597313",
+      "ok": true,
+      "author": "RITtigers",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/TechLayoffLover/status/2030452231779004693",
+      "ok": true,
+      "author": "TechLayoffLover",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/ArthurMacwaters/status/2035483350643974588",
+      "ok": true,
+      "author": "ArthurMacwaters",
+      "date": "",
+      "title": "",
+      "excerpt": ""
+    },
+    {
+      "url": "https://x.com/UmutGunes926/status/2035053870292865137",
+      "ok": true,
+      "author": "UmutGunes926",
+      "date": "",
+      "title": "Shipping fast is only useful if the system remains understandable, observable, and secure after launch. A lot of technical debt starts as delivery debt: unclear ownership, fragile CI/CD, manual environments, and security checks added too late. Good engineering is not only about",
+      "excerpt": "# Umut G\u00fcne\u015f on X: \"Shipping fast is only useful if the system remains understandable, observable, and secure after launch. A lot of technical debt starts as delivery debt: unclear ownership, fragile CI/CD, manual environments, and security checks added too late. Good engineering is not only about\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i"
+    }
+  ],
+  "kept": [
+    {
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "ok": true,
+      "author": "dabit3",
+      "date": "2026-04-08",
+      "title": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes",
+      "excerpt": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent d",
+      "score": 8,
+      "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent d"
+    },
+    {
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "ok": true,
+      "author": "techopsasia",
+      "date": "2026-04-08",
+      "title": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL",
+      "excerpt": "## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity att",
+      "score": 8,
+      "text": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL ## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity att"
+    },
+    {
+      "url": "https://x.com/archersec/status/2029255705862017365",
+      "ok": true,
+      "author": "archersec",
+      "date": "2026-04-08",
+      "title": "In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp",
+      "excerpt": "# Archer on X: \"In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](",
+      "score": 8,
+      "text": "In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp # Archer on X: \"In critical infrastructure, unclear ownership between IT, OT, compliance, and leadership creates governance gaps. Define who makes risk decisions, approves acceptance, aligns IT/OT, and informs the board\u2014or risk falls through the cracks. \ud83d\udce9 contact@archerint.com #AskArcher https://t.co/JIOHeaN7bp\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up]("
+    }
+  ]
+}

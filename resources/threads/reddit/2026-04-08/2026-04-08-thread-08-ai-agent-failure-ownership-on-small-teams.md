@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-08
+author: Codex
+tags: [outreach, reddit, icp, engineeringmanagers, workflow, ownership]
+source: https://www.reddit.com/r/EngineeringManagers/comments/1segy74/how_are_small_teams_actually_handling_ai_agent/
+---
+
+# Thread 8: Ai Agent Failure Ownership On Small Teams
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/EngineeringManagers/comments/1segy74/how_are_small_teams_actually_handling_ai_agent/
+
+## Full Post Text (Key Excerpt)
+
+"Small-team engineering leadership asking who owns failures when AI agents break workflows."
+
+## Why This Matches Ryva ICP
+
+Manager-led ownership and incident-responsibility pain in practical AI-assisted delivery settings.
+
+## Underlying Problem
+
+Failure ownership for agent behavior is undefined, which slows recovery and increases cross-team blame loops.
+
+## Suggested Public Reply (Copy)
+
+```text
+AI agent failures become expensive fast when ownership is implicit. Small teams need a named owner for each agent workflow plus rollback responsibility before automation ships.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Right now, who owns agent failures in your team: platform, feature owner, or whoever notices first?
+```

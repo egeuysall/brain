@@ -1,0 +1,958 @@
+{
+  "generatedAt": "2026-04-08T19:29:53.064752+00:00",
+  "queries": [
+    "site:x.com standup slack engineering team",
+    "site:x.com engineering manager standup status updates",
+    "site:x.com jira slack github coordination engineering",
+    "site:x.com PR review queue blocked engineering",
+    "site:x.com who owns this bug engineering team",
+    "site:x.com context switching engineering team",
+    "site:x.com handoff issue engineering slack",
+    "site:x.com release blocked waiting review",
+    "site:x.com incident timeline slack engineering",
+    "site:x.com postmortem ownership engineering",
+    "site:x.com decision log engineering team",
+    "site:x.com too many meetings engineering team",
+    "site:x.com standup could have been a slack message",
+    "site:x.com status theater engineering manager",
+    "site:x.com things falling through cracks engineering",
+    "site:x.com team visibility engineering work",
+    "site:x.com unclear ownership engineering manager",
+    "site:x.com project state unknown engineering team",
+    "site:x.com release retro action items engineering",
+    "site:x.com blocker in PR review engineering"
+  ],
+  "links": [
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/plainsupport/status/1853846573928628398"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/awilkinson/status/1334168595266379776"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/betalist/status/968539066676457473"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/slackhq/status/1247667995519987714"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/undefinedTwts/status/1975118082831167668"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/axolo_co/status/1413505581789372418"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/iamdevloper/status/953402445727645698"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/brankopetric00/status/1983762117858599168"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/thetechstartups/status/2019043364562219349"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/slackhq/status/1245434413405487104"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/emmabostian/status/1466415279370608654"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/bitsinbio/status/1855333689506566542"
+    },
+    {
+      "query": "site:x.com standup slack engineering team",
+      "url": "https://x.com/keen_io/status/545324036822016000"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/QRACorp/status/1117791479307669506"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/betterhn20/status/1866436347482845539"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/patkua/status/2021978048652853645"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/requestmethod/status/1752757317278253128"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/JemYoung/status/1743021811158421701"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/rivian/status/997558167490977792"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/ilfconsultants/status/439075906762444800"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/gitlab/status/1059812657128243201"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/sfid/status/1497334926034808840"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/moengage/status/1302898870909833218"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/meeshotech/status/1181527858151165952"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/olgaloiek/status/1769991497921990749"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/SamSiff/status/1975063125343994334"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/memenetes/status/1457831277214814208"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/carlvellotti/status/1828826199839457719"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/courtneynash/status/1363945774808059905"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/teammanara/status/1549402971452088321"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/wirecutter/status/873180262099800067"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/uniface/status/1377955991543820289"
+    },
+    {
+      "query": "site:x.com engineering manager standup status updates",
+      "url": "https://x.com/_tessr/status/1165383036642312192"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/notionhq/status/1520194120517656579"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/Axel_bitblaze69/status/2037978621684621428"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/betalist/status/968539066676457473"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/CorgeaInc/status/1707452480454340711"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/Workato/status/2019461111427334402"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/gadbenram/status/2019521641156632619"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/DhruvalGolakiya/status/2018570924166152601"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/nurijanian/status/1965066894983237902"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/finbarr/status/1940097761505939506"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/gothburz/status/2038966977742446659"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/berman66/status/2019818438282133667"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/deedydas/status/1632572966897856514"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/lennysan/status/2040067371478454445"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/ymrl/status/1937462741306114179"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/slackhq/status/846771977389916160"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/TrustClawApp/status/2023261383832260777"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/alexbunardzic/status/1967652003099898065"
+    },
+    {
+      "query": "site:x.com jira slack github coordination engineering",
+      "url": "https://x.com/mimurchison/status/2022368529417224480"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/robzolkos/status/2016949842325504257"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/jlongster/status/1400511441556459523"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/RichardWinz/status/1982532492059173130"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/0xBlockDeep/status/1957817134618210654"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/ryancarson/status/2022888381823242594"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/EliotAndres/status/1800853939254104450"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/ITRevBooks/status/2008645018156728728"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/modrinth/status/1565294509432373250"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/elijahmuraoka_/status/1965507968230883822"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/Aviator_co_/status/1800566711932072021"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/pluginalliance/status/1603839064809082898"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/jazzychad/status/2032851848005140744"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/prcs25/status/2037240131971698718"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/fffiloni/status/1841569179951853846"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/vercel/status/1763213060947284313"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/stylosa/status/1471611598976475137"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/_sumeetc/status/2028737572286157291"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/ingress/status/1927843030238638543"
+    },
+    {
+      "query": "site:x.com PR review queue blocked engineering",
+      "url": "https://x.com/githubstatus/status/1910115289917776213"
+    }
+  ],
+  "hydrated": [
+    {
+      "url": "https://x.com/iamdevloper/status/953402445727645698",
+      "ok": true,
+      "author": "iamdevloper",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know.",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/undefinedTwts/status/1975118082831167668",
+      "ok": true,
+      "author": "undefinedTwts",
+      "date": "",
+      "title": "So teams is not working we are having the Monday standup on slack huddle \ud83d\ude2d",
+      "excerpt": "So teams is not working we are having the Monday standup on slack huddle \ud83d\ude2d",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/slackhq/status/1247667995519987714",
+      "ok": true,
+      "author": "slackhq",
+      "date": "2026-04-08",
+      "title": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt",
+      "excerpt": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt",
+      "query": "site:x.com standup slack engineering team",
+      "score": 8,
+      "text": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt"
+    },
+    {
+      "url": "https://x.com/thetechstartups/status/2019043364562219349",
+      "ok": true,
+      "author": "thetechstartups",
+      "date": "",
+      "title": "@Meta shut down Workplace. Now its former engineers are back with an AI-driven replacement. \ud83d\udcac\u27a1\ufe0f\ud83e\udd16 Their new startup, Slashwork, just raises $3.5M from Slack\u2019s co-founder and Sheryl Sandberg\u2019s VC to build an AI-first rival to Slack and @Microsoft Teams \u2014 built for how teams https://t.co/gJAApQd6mE",
+      "excerpt": "@Meta shut down Workplace. Now its former engineers are back with an AI-driven replacement. \ud83d\udcac\u27a1\ufe0f\ud83e\udd16 Their new startup, Slashwork, just raises $3.5M from Slack\u2019s co-founder and Sheryl Sandberg\u2019s VC to build an AI-first rival to Slack and @Microsoft Teams \u2014 built for how teams https://t.co/gJAApQd6mE",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/plainsupport/status/1853846573928628398",
+      "ok": true,
+      "author": "plainsupport",
+      "date": "",
+      "title": "Announcing: Improvements to Slack Digests \u2728 With Slack Digests, you get daily insights about your support queue delivered to your Slack every weekday. We\u2019ve updated the original Digest \u2013 now called Daily Standup \u2013 to give you a brief overview of your outstanding support https://t.co/Pb6OlLVm2p",
+      "excerpt": "Announcing: Improvements to Slack Digests \u2728 With Slack Digests, you get daily insights about your support queue delivered to your Slack every weekday. We\u2019ve updated the original Digest \u2013 now called Daily Standup \u2013 to give you a brief overview of your outstanding support https://t.co/Pb6OlLVm2p",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/betalist/status/968539066676457473",
+      "ok": true,
+      "author": "betalist",
+      "date": "",
+      "title": "Nextup Scrum: The standup bot for Slack with deep integration to Jira https://t.co/fb29vULJce https://t.co/MP7ZVX5PdT",
+      "excerpt": "Nextup Scrum: The standup bot for Slack with deep integration to Jira https://t.co/fb29vULJce https://t.co/MP7ZVX5PdT",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/slackhq/status/1245434413405487104",
+      "ok": true,
+      "author": "slackhq",
+      "date": "",
+      "title": "",
+      "excerpt": "# X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow/signup) # [](http://x.com/) See new posts Hmm...this page doesn\u2019t exist. Try searching for something else.[Search](http://x.com/search)",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/awilkinson/status/1334168595266379776",
+      "ok": true,
+      "author": "awilkinson",
+      "date": "",
+      "title": "We worked like crazy and did our best to set it apart. We tried to make Slack feel fun and different from other products. Like a video game. The team hit it out of the park and defined the DNA of what became a smash hit. Much of the original design still defines the product",
+      "excerpt": "We worked like crazy and did our best to set it apart. We tried to make Slack feel fun and different from other products. Like a video game. The team hit it out of the park and defined the DNA of what became a smash hit. Much of the original design still defines the product",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/axolo_co/status/1413505581789372418",
+      "ok": true,
+      "author": "axolo_co",
+      "date": "",
+      "title": "4/ Better Software Engineering Community We launched our own Slack community Better #SoftwareEngineering. Our goal is to create a place where engineers share their thoughts and recommendation to improve everyone's code development.",
+      "excerpt": "4/ Better Software Engineering Community We launched our own Slack community Better #SoftwareEngineering. Our goal is to create a place where engineers share their thoughts and recommendation to improve everyone's code development.",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/brankopetric00/status/1983762117858599168",
+      "ok": true,
+      "author": "brankopetric00",
+      "date": "2026-04-08",
+      "title": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after",
+      "excerpt": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after",
+      "query": "site:x.com standup slack engineering team",
+      "score": 10,
+      "text": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after"
+    },
+    {
+      "url": "https://x.com/emmabostian/status/1466415279370608654",
+      "ok": true,
+      "author": "emmabostian",
+      "date": "",
+      "title": "*A day in the life of a developer* 1. Read Slack 2. Standup 3. Coffee break 4. Lunch break 5. Nap 6. Coffee break 7. Water cooler gossip 8. Go home",
+      "excerpt": "*A day in the life of a developer* 1. Read Slack 2. Standup 3. Coffee break 4. Lunch break 5. Nap 6. Coffee break 7. Water cooler gossip 8. Go home",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/gitlab/status/1059812657128243201",
+      "ok": true,
+      "author": "gitlab",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/sfid/status/1497334926034808840",
+      "ok": true,
+      "author": "sfid",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/moengage/status/1302898870909833218",
+      "ok": true,
+      "author": "moengage",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/meeshotech/status/1181527858151165952",
+      "ok": true,
+      "author": "meeshotech",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/olgaloiek/status/1769991497921990749",
+      "ok": true,
+      "author": "olgaloiek",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/SamSiff/status/1975063125343994334",
+      "ok": true,
+      "author": "SamSiff",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/betterhn20/status/1866436347482845539",
+      "ok": true,
+      "author": "betterhn20",
+      "date": "",
+      "title": "",
+      "excerpt": "# X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow/signup) # [](http://x.com/) See new posts Hmm...this page doesn\u2019t exist. Try searching for something else.[Search](http://x.com/search)",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/memenetes/status/1457831277214814208",
+      "ok": true,
+      "author": "memenetes",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/patkua/status/2021978048652853645",
+      "ok": true,
+      "author": "patkua",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know.",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/keen_io/status/545324036822016000",
+      "ok": true,
+      "author": "keen_io",
+      "date": "",
+      "title": "9 Slack Hacks for Engineering Teams @pagerduty @runscope @datadoghq @screenhero @getsentry https://t.co/kinwrhNsOq \u2026 http://t.co/4i4X7J1DC4",
+      "excerpt": "9 Slack Hacks for Engineering Teams @pagerduty @runscope @datadoghq @screenhero @getsentry https://t.co/kinwrhNsOq \u2026 http://t.co/4i4X7J1DC4",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/carlvellotti/status/1828826199839457719",
+      "ok": true,
+      "author": "carlvellotti",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/teammanara/status/1549402971452088321",
+      "ok": true,
+      "author": "teammanara",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/courtneynash/status/1363945774808059905",
+      "ok": true,
+      "author": "courtneynash",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/wirecutter/status/873180262099800067",
+      "ok": true,
+      "author": "wirecutter",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/uniface/status/1377955991543820289",
+      "ok": true,
+      "author": "uniface",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/_tessr/status/1165383036642312192",
+      "ok": true,
+      "author": "_tessr",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/notionhq/status/1520194120517656579",
+      "ok": true,
+      "author": "notionhq",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/Axel_bitblaze69/status/2037978621684621428",
+      "ok": true,
+      "author": "Axel_bitblaze69",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/CorgeaInc/status/1707452480454340711",
+      "ok": true,
+      "author": "CorgeaInc",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/gadbenram/status/2019521641156632619",
+      "ok": true,
+      "author": "gadbenram",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/Workato/status/2019461111427334402",
+      "ok": true,
+      "author": "Workato",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/DhruvalGolakiya/status/2018570924166152601",
+      "ok": true,
+      "author": "DhruvalGolakiya",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/nurijanian/status/1965066894983237902",
+      "ok": true,
+      "author": "nurijanian",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/gothburz/status/2038966977742446659",
+      "ok": true,
+      "author": "gothburz",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/finbarr/status/1940097761505939506",
+      "ok": true,
+      "author": "finbarr",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/rivian/status/997558167490977792",
+      "ok": true,
+      "author": "rivian",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know.",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/berman66/status/2019818438282133667",
+      "ok": true,
+      "author": "berman66",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/deedydas/status/1632572966897856514",
+      "ok": true,
+      "author": "deedydas",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/lennysan/status/2040067371478454445",
+      "ok": true,
+      "author": "lennysan",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/ymrl/status/1937462741306114179",
+      "ok": true,
+      "author": "ymrl",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/slackhq/status/846771977389916160",
+      "ok": true,
+      "author": "slackhq",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/mimurchison/status/2022368529417224480",
+      "ok": true,
+      "author": "mimurchison",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/TrustClawApp/status/2023261383832260777",
+      "ok": true,
+      "author": "TrustClawApp",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/alexbunardzic/status/1967652003099898065",
+      "ok": true,
+      "author": "alexbunardzic",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com jira slack github coordination engineering"
+    },
+    {
+      "url": "https://x.com/robzolkos/status/2016949842325504257",
+      "ok": true,
+      "author": "robzolkos",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/jlongster/status/1400511441556459523",
+      "ok": true,
+      "author": "jlongster",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/bitsinbio/status/1855333689506566542",
+      "ok": true,
+      "author": "bitsinbio",
+      "date": "",
+      "title": "Excited to announce the resumption of our @bitsinbio Q&As! These are AMA style interviews that happen on Slack and allow you to engage with scientists and engineers working on cool problems! Our next one will be on Tuesday November 12 at 10am PT with @ronalfa of @NOETIK_ai",
+      "excerpt": "Excited to announce the resumption of our @bitsinbio Q&As! These are AMA style interviews that happen on Slack and allow you to engage with scientists and engineers working on cool problems! Our next one will be on Tuesday November 12 at 10am PT with @ronalfa of @NOETIK_ai",
+      "query": "site:x.com standup slack engineering team"
+    },
+    {
+      "url": "https://x.com/0xBlockDeep/status/1957817134618210654",
+      "ok": true,
+      "author": "0xBlockDeep",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/ryancarson/status/2022888381823242594",
+      "ok": true,
+      "author": "ryancarson",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/RichardWinz/status/1982532492059173130",
+      "ok": true,
+      "author": "RichardWinz",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/EliotAndres/status/1800853939254104450",
+      "ok": true,
+      "author": "EliotAndres",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/requestmethod/status/1752757317278253128",
+      "ok": true,
+      "author": "requestmethod",
+      "date": "",
+      "title": "Design and engineering management are dead end career paths. Middle management is already starting to disappear. Future software development teams will be extremely lean: - mostly remote IC generalists that thrive on efficiency - senior ICs will take on tech lead and PM",
+      "excerpt": "Design and engineering management are dead end career paths. Middle management is already starting to disappear. Future software development teams will be extremely lean: - mostly remote IC generalists that thrive on efficiency - senior ICs will take on tech lead and PM",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/modrinth/status/1565294509432373250",
+      "ok": true,
+      "author": "modrinth",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/ITRevBooks/status/2008645018156728728",
+      "ok": true,
+      "author": "ITRevBooks",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/elijahmuraoka_/status/1965507968230883822",
+      "ok": true,
+      "author": "elijahmuraoka_",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/Aviator_co_/status/1800566711932072021",
+      "ok": true,
+      "author": "Aviator_co_",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/pluginalliance/status/1603839064809082898",
+      "ok": true,
+      "author": "pluginalliance",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/jazzychad/status/2032851848005140744",
+      "ok": true,
+      "author": "jazzychad",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/prcs25/status/2037240131971698718",
+      "ok": true,
+      "author": "prcs25",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/fffiloni/status/1841569179951853846",
+      "ok": true,
+      "author": "fffiloni",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/vercel/status/1763213060947284313",
+      "ok": true,
+      "author": "vercel",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/stylosa/status/1471611598976475137",
+      "ok": true,
+      "author": "stylosa",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/_sumeetc/status/2028737572286157291",
+      "ok": true,
+      "author": "_sumeetc",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/githubstatus/status/1910115289917776213",
+      "ok": true,
+      "author": "githubstatus",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/ingress/status/1927843030238638543",
+      "ok": true,
+      "author": "ingress",
+      "date": "",
+      "title": "",
+      "excerpt": "",
+      "query": "site:x.com PR review queue blocked engineering"
+    },
+    {
+      "url": "https://x.com/JemYoung/status/1743021811158421701",
+      "ok": true,
+      "author": "JemYoung",
+      "date": "2026-04-08",
+      "title": "",
+      "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know.",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/ilfconsultants/status/439075906762444800",
+      "ok": true,
+      "author": "ilfconsultants",
+      "date": "2026-04-08",
+      "title": "2/2 if interested in the Process Engineering Manager position, email careers@ridgeline-eng.com #yyc #engineering",
+      "excerpt": "2/2 if interested in the Process Engineering Manager position, email careers@ridgeline-eng.com #yyc #engineering",
+      "query": "site:x.com engineering manager standup status updates"
+    },
+    {
+      "url": "https://x.com/QRACorp/status/1117791479307669506",
+      "ok": true,
+      "author": "QRACorp",
+      "date": "",
+      "title": "It fits #MotivationMonday to have our Software Engineering Manager, Kishore Majety update us on all of the great progress that's been made on #QVscribe! Also check out that presenter pose - he's a natural. https://t.co/aRqcTuBE15",
+      "excerpt": "It fits #MotivationMonday to have our Software Engineering Manager, Kishore Majety update us on all of the great progress that's been made on #QVscribe! Also check out that presenter pose - he's a natural. https://t.co/aRqcTuBE15",
+      "query": "site:x.com engineering manager standup status updates"
+    }
+  ],
+  "kept": [
+    {
+      "url": "https://x.com/brankopetric00/status/1983762117858599168",
+      "ok": true,
+      "author": "brankopetric00",
+      "date": "2026-04-08",
+      "title": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after",
+      "excerpt": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after",
+      "query": "site:x.com standup slack engineering team",
+      "score": 10,
+      "text": "Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after Automated our code review reminders. Pull request merge time dropped from 4 days to 8 hours. The problem: - PRs sitting for days - Engineers forgetting to review - Blocked work piling up - Manual pings in Slack The automation: - Bot checks open PRs hourly - Tags reviewers after"
+    },
+    {
+      "url": "https://x.com/slackhq/status/1247667995519987714",
+      "ok": true,
+      "author": "slackhq",
+      "date": "2026-04-08",
+      "title": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt",
+      "excerpt": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt",
+      "query": "site:x.com standup slack engineering team",
+      "score": 8,
+      "text": "With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt With the daily standup template, you can set up reminders that prompt your team or project channel for things like updates on work or \u2026 pets. Speaking of which, won\u2019t you send us some pics of those pets? \ud83d\udc36\ud83d\udc31 https://t.co/uw6tPFkXgt"
+    }
+  ]
+}

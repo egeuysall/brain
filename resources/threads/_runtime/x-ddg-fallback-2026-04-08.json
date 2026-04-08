@@ -1,0 +1,567 @@
+{
+  "generatedAt": "2026-04-08T19:25:37.879856+00:00",
+  "queries": [
+    "site:x.com standup slack engineering",
+    "site:x.com \"engineering manager\" \"standup\"",
+    "site:x.com \"daily standup\" \"software team\"",
+    "site:x.com \"slack\" \"jira\" \"engineering team\"",
+    "site:x.com \"PR review\" \"blocked\" \"engineering\"",
+    "site:x.com \"pull request\" \"waiting for review\"",
+    "site:x.com \"who owns this bug\" engineering",
+    "site:x.com \"unclear ownership\" engineering",
+    "site:x.com \"context switching\" \"engineering\"",
+    "site:x.com \"handoff\" \"engineering team\"",
+    "site:x.com \"incident\" \"timeline\" \"slack\"",
+    "site:x.com \"postmortem\" \"engineering\" \"slack\"",
+    "site:x.com \"release\" \"blocked\" \"engineering\"",
+    "site:x.com \"things falling through\" \"engineering team\"",
+    "site:x.com \"status update\" \"engineering manager\"",
+    "site:x.com \"decision\" \"buried\" \"slack\" \"engineering\"",
+    "site:x.com \"project state\" \"unknown\" engineering",
+    "site:x.com \"alignment\" engineering team slack",
+    "site:x.com \"ship\" \"blocked\" \"review\"",
+    "site:x.com \"standup\" \"nothing from me\"",
+    "site:x.com \"we had to jump on a call\" engineering",
+    "site:x.com \"could have been a slack message\" engineering",
+    "site:x.com \"team visibility\" engineering",
+    "site:x.com \"release train\" engineering blocker",
+    "site:x.com \"retro\" \"action items\" engineering",
+    "site:x.com \"coordination\" engineering team",
+    "site:x.com \"follow-up\" engineering decision",
+    "site:x.com \"slack threads\" engineering chaos",
+    "site:x.com \"too many meetings\" engineering",
+    "site:x.com \"missed handoff\" engineering"
+  ],
+  "rows": [
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/aakashgupta/status/2035273457005674859",
+      "author": "aakashgupta",
+      "date": "2026-03-21",
+      "title": "I spent 2 hours with Naman Pandey breaking down exactly how he set up ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/trq212/status/2033949937936085378",
+      "author": "trq212",
+      "date": "2026-03-17",
+      "title": "Thariq (@trq212) on X",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "author": "dabit3",
+      "date": "2026-04-07",
+      "title": "At Cognition we're seeing coding agents handling the entire SDLC, going ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/nothiingf4/status/2033995665613984233",
+      "author": "nothiingf4",
+      "date": "2026-03-17",
+      "title": "The engineers who win aren't writing better prompts. They're building ...",
+      "snippet": "![Image 4](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/heynavtoor/status/2027054100807106829",
+      "author": "heynavtoor",
+      "date": "2026-02-26",
+      "title": "Nav Toor (@heynavtoor) on X",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/Bouazizalex/status/2020159203382550530",
+      "author": "Bouazizalex",
+      "date": "2026-02-07",
+      "title": "Alex Bouaziz (@Bouazizalex) on X",
+      "snippet": "![Image 7](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/dblockdotorg/status/2031730586834870311",
+      "author": "dblockdotorg",
+      "date": "2026-03-11",
+      "title": "I used to pride myself for writing clear code that was easy to ...",
+      "snippet": "![Image 8](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/0xlelouch_/status/2029552258191339624",
+      "author": "0xlelouch_",
+      "date": "2026-03-05",
+      "title": "Life in Bangalore as a software engineer, on a normal weekday: 1. 7 ...",
+      "snippet": "![Image 10](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"engineering manager\" \"standup\"",
+      "url": "https://x.com/0xlelouch_/status/2033180146723938439",
+      "author": "0xlelouch_",
+      "date": "2026-03-15",
+      "title": "Who is smartest in the room? 1. The project manager who is talking ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/archersec/status/2029255705862017365",
+      "author": "archersec",
+      "date": "2026-03-04",
+      "title": "In critical infrastructure, unclear ownership between IT, OT ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/chemishield/status/2031743902881882494",
+      "author": "chemishield",
+      "date": "2026-03-11",
+      "title": "Unlabelled containers = staff misunderstand requirements.",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/Rubelislam2023/status/2038921204233596987",
+      "author": "Rubelislam2023",
+      "date": "2026-03-31",
+      "title": "Rialo Designing Systems That Keep Ownership Clear Confusion starts ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/K_Allen1981/status/2037960250284810512",
+      "author": "K_Allen1981",
+      "date": "2026-03-28",
+      "title": "Is Your Proposal Process Helping or Costing You Revenue? This short ...",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/AcsaraHealth/status/2011809468515029162",
+      "author": "AcsaraHealth",
+      "date": "2026-01-15",
+      "title": "Hiring another admin is often the default response to overload in ...",
+      "snippet": "![Image 7](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"context switching\" \"engineering\"",
+      "url": "https://x.com/GergelyOrosz/status/2029295486574747872",
+      "author": "GergelyOrosz",
+      "date": "2026-03-04",
+      "title": "What does it mean for software engineering when we no longer write the ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"context switching\" \"engineering\"",
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "author": "techopsasia",
+      "date": "",
+      "title": "Context switching. Right now we have 4 projects on the go and while ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"incident\" \"timeline\" \"slack\"",
+      "url": "https://x.com/jeli_io/status/1699485117259841728",
+      "author": "jeli_io",
+      "date": "",
+      "title": "Join us for a hands-on technical workshop on Wed Sept 20! \u200d Our ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/i/status/2029961661092909183",
+      "author": "i",
+      "date": "2026-03-06",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/i/status/2029962499068678500",
+      "author": "i",
+      "date": "2026-03-06",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/vikasz_/status/2030175524182757880",
+      "author": "vikasz_",
+      "date": "2026-03-07",
+      "title": "Vikas Z (@vikasz_) on X",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/Checkmarx/status/2032217149339492682",
+      "author": "Checkmarx",
+      "date": "",
+      "title": "AI-driven development is forcing a new level of alignment between ...",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"standup\" \"nothing from me\"",
+      "url": "https://x.com/TechLayoffLover/status/2033375780026081746",
+      "author": "TechLayoffLover",
+      "date": "2026-03-16",
+      "title": "Software \"engineers\" blown the fuck out. There's like 200 of them that ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/Vtrivedy10/status/2041940332460360035",
+      "author": "Vtrivedy10",
+      "date": "2026-04-08",
+      "title": "Curriculum Learning for harnesses - should we teach agents how we teach ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/JIACHENLIU8/status/2034398199541317814",
+      "author": "JIACHENLIU8",
+      "date": "2026-03-18",
+      "title": "Amber Liu (@JIACHENLIU8) on X",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/law_ninja/status/2041199543233200402",
+      "author": "law_ninja",
+      "date": "2026-04-06",
+      "title": "A doctor from Nagpur told me something about how she is implementing AI ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/nicbstme/status/2026366805154140494",
+      "author": "nicbstme",
+      "date": "2026-02-24",
+      "title": "Nicolas Bustamante (@nicbstme) on X",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/it_unprofession/status/2019122507421294951",
+      "author": "it_unprofession",
+      "date": "2026-02-04",
+      "title": "I'm pretty sure everyone at my company saw this article and now they ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/omkar_jagdale/status/2028407316534485305",
+      "author": "omkar_jagdale",
+      "date": "2026-03-02",
+      "title": "The next trillion-dollar enterprise platform won't store customers or ...",
+      "snippet": "![Image 4](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/NAndriievskyi/status/2040746349054861338",
+      "author": "NAndriievskyi",
+      "date": "2026-04-05",
+      "title": "Six things I'd tell every ecom brand and marketing agency right now: 1 ...",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/nyk_builderz/status/2031581912071127158",
+      "author": "nyk_builderz",
+      "date": "2026-03-11",
+      "title": "Context Engineering Is The Only Engineering That Matters Now",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    },
+    {
+      "query": "site:x.com \"too many meetings\" engineering",
+      "url": "https://x.com/HRVisionEvent/status/2039284382331023729",
+      "author": "HRVisionEvent",
+      "date": "2026-04-01",
+      "title": "Too many meetings, too much admin, outdated ways of working. Teams feel ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)"
+    }
+  ],
+  "candidates": [
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/aakashgupta/status/2035273457005674859",
+      "author": "aakashgupta",
+      "date": "2026-03-21",
+      "title": "I spent 2 hours with Naman Pandey breaking down exactly how he set up ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/trq212/status/2033949937936085378",
+      "author": "trq212",
+      "date": "2026-03-17",
+      "title": "Thariq (@trq212) on X",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "author": "dabit3",
+      "date": "2026-04-07",
+      "title": "At Cognition we're seeing coding agents handling the entire SDLC, going ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/nothiingf4/status/2033995665613984233",
+      "author": "nothiingf4",
+      "date": "2026-03-17",
+      "title": "The engineers who win aren't writing better prompts. They're building ...",
+      "snippet": "![Image 4](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/heynavtoor/status/2027054100807106829",
+      "author": "heynavtoor",
+      "date": "2026-02-26",
+      "title": "Nav Toor (@heynavtoor) on X",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/Bouazizalex/status/2020159203382550530",
+      "author": "Bouazizalex",
+      "date": "2026-02-07",
+      "title": "Alex Bouaziz (@Bouazizalex) on X",
+      "snippet": "![Image 7](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/dblockdotorg/status/2031730586834870311",
+      "author": "dblockdotorg",
+      "date": "2026-03-11",
+      "title": "I used to pride myself for writing clear code that was easy to ...",
+      "snippet": "![Image 8](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com standup slack engineering",
+      "url": "https://x.com/0xlelouch_/status/2029552258191339624",
+      "author": "0xlelouch_",
+      "date": "2026-03-05",
+      "title": "Life in Bangalore as a software engineer, on a normal weekday: 1. 7 ...",
+      "snippet": "![Image 10](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"engineering manager\" \"standup\"",
+      "url": "https://x.com/0xlelouch_/status/2033180146723938439",
+      "author": "0xlelouch_",
+      "date": "2026-03-15",
+      "title": "Who is smartest in the room? 1. The project manager who is talking ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/archersec/status/2029255705862017365",
+      "author": "archersec",
+      "date": "2026-03-04",
+      "title": "In critical infrastructure, unclear ownership between IT, OT ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/chemishield/status/2031743902881882494",
+      "author": "chemishield",
+      "date": "2026-03-11",
+      "title": "Unlabelled containers = staff misunderstand requirements.",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/Rubelislam2023/status/2038921204233596987",
+      "author": "Rubelislam2023",
+      "date": "2026-03-31",
+      "title": "Rialo Designing Systems That Keep Ownership Clear Confusion starts ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/K_Allen1981/status/2037960250284810512",
+      "author": "K_Allen1981",
+      "date": "2026-03-28",
+      "title": "Is Your Proposal Process Helping or Costing You Revenue? This short ...",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"unclear ownership\" engineering",
+      "url": "https://x.com/AcsaraHealth/status/2011809468515029162",
+      "author": "AcsaraHealth",
+      "date": "2026-01-15",
+      "title": "Hiring another admin is often the default response to overload in ...",
+      "snippet": "![Image 7](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"context switching\" \"engineering\"",
+      "url": "https://x.com/GergelyOrosz/status/2029295486574747872",
+      "author": "GergelyOrosz",
+      "date": "2026-03-04",
+      "title": "What does it mean for software engineering when we no longer write the ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"context switching\" \"engineering\"",
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "author": "techopsasia",
+      "date": "",
+      "title": "Context switching. Right now we have 4 projects on the go and while ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 2
+    },
+    {
+      "query": "site:x.com \"incident\" \"timeline\" \"slack\"",
+      "url": "https://x.com/jeli_io/status/1699485117259841728",
+      "author": "jeli_io",
+      "date": "",
+      "title": "Join us for a hands-on technical workshop on Wed Sept 20! \u200d Our ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 2
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/i/status/2029961661092909183",
+      "author": "i",
+      "date": "2026-03-06",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/i/status/2029962499068678500",
+      "author": "i",
+      "date": "2026-03-06",
+      "title": "Asked my team: \"Where's the latest proposal?\" 5 people. 5 different ...",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/vikasz_/status/2030175524182757880",
+      "author": "vikasz_",
+      "date": "2026-03-07",
+      "title": "Vikas Z (@vikasz_) on X",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"alignment\" engineering team slack",
+      "url": "https://x.com/Checkmarx/status/2032217149339492682",
+      "author": "Checkmarx",
+      "date": "",
+      "title": "AI-driven development is forcing a new level of alignment between ...",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 2
+    },
+    {
+      "query": "site:x.com \"standup\" \"nothing from me\"",
+      "url": "https://x.com/TechLayoffLover/status/2033375780026081746",
+      "author": "TechLayoffLover",
+      "date": "2026-03-16",
+      "title": "Software \"engineers\" blown the fuck out. There's like 200 of them that ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/Vtrivedy10/status/2041940332460360035",
+      "author": "Vtrivedy10",
+      "date": "2026-04-08",
+      "title": "Curriculum Learning for harnesses - should we teach agents how we teach ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/JIACHENLIU8/status/2034398199541317814",
+      "author": "JIACHENLIU8",
+      "date": "2026-03-18",
+      "title": "Amber Liu (@JIACHENLIU8) on X",
+      "snippet": "![Image 2](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/law_ninja/status/2041199543233200402",
+      "author": "law_ninja",
+      "date": "2026-04-06",
+      "title": "A doctor from Nagpur told me something about how she is implementing AI ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"follow-up\" engineering decision",
+      "url": "https://x.com/nicbstme/status/2026366805154140494",
+      "author": "nicbstme",
+      "date": "2026-02-24",
+      "title": "Nicolas Bustamante (@nicbstme) on X",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/it_unprofession/status/2019122507421294951",
+      "author": "it_unprofession",
+      "date": "2026-02-04",
+      "title": "I'm pretty sure everyone at my company saw this article and now they ...",
+      "snippet": "![Image 3](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/omkar_jagdale/status/2028407316534485305",
+      "author": "omkar_jagdale",
+      "date": "2026-03-02",
+      "title": "The next trillion-dollar enterprise platform won't store customers or ...",
+      "snippet": "![Image 4](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/NAndriievskyi/status/2040746349054861338",
+      "author": "NAndriievskyi",
+      "date": "2026-04-05",
+      "title": "Six things I'd tell every ecom brand and marketing agency right now: 1 ...",
+      "snippet": "![Image 5](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"slack threads\" engineering chaos",
+      "url": "https://x.com/nyk_builderz/status/2031581912071127158",
+      "author": "nyk_builderz",
+      "date": "2026-03-11",
+      "title": "Context Engineering Is The Only Engineering That Matters Now",
+      "snippet": "![Image 6](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    },
+    {
+      "query": "site:x.com \"too many meetings\" engineering",
+      "url": "https://x.com/HRVisionEvent/status/2039284382331023729",
+      "author": "HRVisionEvent",
+      "date": "2026-04-01",
+      "title": "Too many meetings, too much admin, outdated ways of working. Teams feel ...",
+      "snippet": "![Image 1](http://external-content.duckduckgo.com/ip3/x.com.ico)",
+      "_s": 3
+    }
+  ],
+  "kept": []
+}

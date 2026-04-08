@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-08
+author: Codex
+tags: [outreach, reddit, icp, productmanagement, workflow, ownership]
+source: https://www.reddit.com/r/ProductManagement/comments/1sfza3z/nontechnical_product_managers_how_do_you/
+---
+
+# Thread 9: Nontechnical Pm Dev Team Orchestration Gap
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/ProductManagement/comments/1sfza3z/nontechnical_product_managers_how_do_you/
+
+## Full Post Text (Key Excerpt)
+
+"Non-technical PM asking for practical ways to orchestrate engineering teams without direct technical authority."
+
+## Why This Matches Ryva ICP
+
+Direct PM-to-engineering coordination problem with clear role-boundary and execution-risk implications.
+
+## Underlying Problem
+
+Orchestration depends on informal alignment rather than explicit decision rights and handoff contracts.
+
+## Suggested Public Reply (Copy)
+
+```text
+Non-technical PMs can orchestrate well when decision rights and handoff contracts are explicit. The common failure is relying on ad hoc chat alignment.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Would a one-page decision map between PM, EM, and tech lead remove most of the friction?
+```
