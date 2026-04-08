@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-08
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 3 - cross repo breakage missed by diff only review
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/heyshrutimishra/status/2038707917973795177
+
+## Original Post (Key Excerpt)
+
+```text
+I ran Qodo on a production repo for 3 weeks. It caught breaking changes 3 repos away that human reviewers and AI tools both missed. Most review tools see a diff. Qodo sees your entire codebase, cross-repo dependencies, PR history, team standards, architectural context. The same AI that writes your code is now reviewing it. Here's the problem:
+```
+
+## Why It Matches Ryva ICP
+
+Production engineering teams dealing with cross-repo dependencies and PR review quality. High-fit signal for teams where regressions escape despite review coverage.
+
+## Underlying Problem
+
+Review systems optimize for local diffs, while failures emerge from cross-repo coupling and historical constraints that are not surfaced during review.
+
+## Suggested Public Response (Copy)
+
+```text
+The core issue is review scope, not reviewer effort. If the review context ends at the diff, teams will miss dependency breakage that sits outside the PR boundary. A better review loop attaches affected systems, prior incidents, and ownership context to the same change before approval.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When a PR lands, how does your team currently surface downstream repos or services that can break from that change?
+```
+
+## Snapshot
+
+- Author: @heyshrutimishra
+- Captured date label: March 30, 2026
+- Recency window: within past 14 days

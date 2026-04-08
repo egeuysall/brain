@@ -1,0 +1,33 @@
+{
+  "generatedAt": "2026-04-08T19:36:02.935987+00:00",
+  "candidates": [
+    {
+      "url": "https://x.com/dabit3/status/2041361025929462064",
+      "author": "dabit3",
+      "date": "2026-04-07",
+      "text": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent directly to you via Slack. [x.com/ryancarson/sta](https://x.com/ryancarson/status/2041119517527425058?s=20) 2. Auto-triaging production errors: it's easy to wire Sentry (or other) webhooks so new errors get root-caused, fixed, and shipped with a regression test before an on-call e",
+      "score": 9
+    },
+    {
+      "url": "https://x.com/ryancarson/status/2039336630713033157",
+      "author": "ryancarson",
+      "date": "2026-04-01",
+      "text": "OpenClaw Pro Tip: How to fix your claw with Tailscale + Codex Hey everyone, I wanted to share a couple of cool tips and a big unlock I discovered today while troubleshooting my setup. Ryan Carson @ryancarson Power tip for all you fans If you are running your own OpenClaw, these workflow tweaks will save you a lot of headaches. I use Slack to communicate with R2, my OpenClaw agent. A simple but massive improvement to this workflow is to always use threads. Instead of dumping everything into one massive ongoing thread (or hitting `/new`, start a new thread for each specific task or project. Why do this? * Tight Context: It keeps your claw's context window focused strictly on the task at hand. * Better Tracking: It makes it much easier for you to visually",
+      "score": 9
+    },
+    {
+      "url": "https://x.com/techopsasia/status/2040712917075579172",
+      "author": "techopsasia",
+      "date": "2026-04-05",
+      "text": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL ## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity attack surfaces changing. What this week's supply chain attack on Axios showed us: AI is enabling much more sophisticated attacks on top of social engineering. In order to lure the Axios dev they have created a whole fake universe in Teams. Red teamers like Jamieson O'Reilly have be",
+      "score": 8
+    },
+    {
+      "url": "https://x.com/om_patel5/status/2039518876636168278",
+      "author": "om_patel5",
+      "date": "2026-04-02",
+      "text": "ANTHROPIC JUST ADMITTED THE ENTIRE CLAUDE CODE LEAK WAS FAKE IT WAS AN APRIL FOOLS PRANK > the \"leaked\" source code was fabricated > the Mythos model benchmarks were made up > the 3,000 internal documents were planted on purpose anthropic deliberately seeded fake assets in a https://t.co/2snVS9BVrl ANTHROPIC JUST ADMITTED THE ENTIRE CLAUDE CODE LEAK WAS FAKE IT WAS AN APRIL FOOLS PRANK > the \"leaked\" source code was fabricated > the Mythos model benchmarks were made up > the 3,000 internal documents were planted on purpose anthropic deliberately seeded fake assets in a staging environment they intentionally left unsecured. the npm source map pointed to a completely fabricated codebase 44 fictional feature flags. invented codenames. just enough sloppy details to make it irresistible to post about the tamagotchi pet system. the undercover mode. the engineer named ollie. all fake. they called the project \"Capybara\" internally because capybaras sit calmly while everything around them escal",
+      "score": 6
+    }
+  ]
+}

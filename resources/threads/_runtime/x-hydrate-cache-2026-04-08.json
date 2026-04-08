@@ -1,0 +1,1275 @@
+[
+  {
+    "url": "https://x.com/nickspisak_/status/2039303008605855790",
+    "ok": true,
+    "author": "nickspisak_",
+    "title": "Claude Code leaked 85 slash commands. you need 8. \u2192 /init - creates a file that teaches Claude how your project works \u2192 /plan - makes Claude explain what it's about to do before doing it \u2192 /compact - shrinks your conversation so you stop burning tokens \u2192 /review https://t.co/i2omC4Mb30",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. Claude Code leaked 85 slash commands. you need 8. \u2192 /init - creates a file that teaches Claude how your project works \u2192 /plan - makes Claude explain what it's about to do before doing it \u2192 /compact - shrinks your conversation so you stop burning tokens \u2192 /review - runs a real code review, not a generic \"looks good\" \u2192 /context - shows you exactly which files are costing you money \u2192 /cost - tells you what you've actually spent this session \u2192 /resume - picks up where your last session left off \u2192 /btw - ask a side question without stopping Claude's current task 0:11 Quote Nick Spisak @NickSpisak_ Mar 31 ![Image 1: Article cover image"
+  },
+  {
+    "url": "https://x.com/law_ninja/status/2041199543233200402",
+    "ok": true,
+    "author": "law_ninja",
+    "title": "A doctor from Nagpur told me something about how she is implementing AI in her clinic that amazed me. She runs a small clinic. 15 years of practice. 40 patients a day. Her biggest problem was never diagnosis. It was follow-up. Patients would come in, get a prescription, and",
+    "excerpt": "## Post A doctor from Nagpur told me something about how she is implementing AI in her clinic that amazed me. She runs a small clinic. 15 years of practice. 40 patients a day. Her biggest problem was never diagnosis. It was follow-up. Patients would come in, get a prescription, and disappear. Half would not complete their medication. Some would not come back for follow-up. A few would show up months later with the same problem, worse. She tried everything. Reminder calls. SMS. A register. Nothing worked. Her assistant forgot. Patients ignored SMS. The register got outdated by Thursday. Then she figured something out. Her patients would not read text messages. But they would listen to a Whats"
+  },
+  {
+    "url": "https://x.com/dabit3/status/2041361025929462064",
+    "ok": true,
+    "author": "dabit3",
+    "title": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like @devinai to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes",
+    "excerpt": "At Cognition we're seeing coding agents handling the entire SDLC, going way beyond just coding. Here are some tips and tricks we're seeing dev teams use with agents like to handle the SDLC: 1. Scheduling daily E2E smoke tests: an automation signs up for your app, goes through onboarding, exercises core flows, and gets a pass/fail report in Slack every morning. You can even watch the screen recording or have it sent directly to you via Slack. [x.com/ryancarson/sta](https://x.com/ryancarson/status/2041119517527425058?s=20) 2. Auto-triaging production errors: it's easy to wire Sentry (or other) webhooks so new errors get root-caused, fixed, and shipped with a regression test before an on-call e"
+  },
+  {
+    "url": "https://x.com/NAndriievskyi/status/2040746349054861338",
+    "ok": true,
+    "author": "NAndriievskyi",
+    "title": "Six things I'd tell every ecom brand and marketing agency right now: 1) Stop building automations for the sake of it - build them to eliminate a process bottleneck 2) If your creative pipeline lives in Slack threads, you don't have a pipeline 3) Think in \"objects\" moving through",
+    "excerpt": "# Nikita Andriievskyi on X: \"Six things I'd tell every ecom brand and marketing agency right now: 1) Stop building automations for the sake of it - build them to eliminate a process bottleneck 2) If your creative pipeline lives in Slack threads, you don't have a pipeline 3) Think in \"objects\" moving through\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow/signup) # [](http://x.com/) See new posts [![Image 1](https://pbs.twimg.com/profile_images/1680240843234353153/V-GnP_zN_normal.jpg)](http://x.com/NAndriievskyi) [Nikita Andriievskyi](http://x.com/NAndriievskyi) [@NAndriievskyi](http://x.com/NAndriievskyi) Six thin"
+  },
+  {
+    "url": "https://x.com/Vtrivedy10/status/2041940332460360035",
+    "ok": true,
+    "author": "Vtrivedy10",
+    "title": "Curriculum Learning for harnesses - should we teach agents how we teach kids? start small and easy and progressively get harder for my research friends here's an under-explored area we're thinking about on how we should sample data for gradient-free hill-climbing with evals https://t.co/o4YLr5jlvk",
+    "excerpt": "## Post Curriculum Learning for harnesses - should we teach agents how we teach kids? start small and easy and progressively get harder for my research friends here's an under-explored area we're thinking about on how we should sample data for gradient-free hill-climbing with evals some open questions: - should we design curricula stages by category (retrieval, tool-use) or difficulty or both and what's a good sample? does it matter? - how much are learnings from evals dependent? ex: I want to be good at tool-use and reasoning before diving into agentic coding - how well does difficulty map between models? are there some universal task types that all models consider easy/medium/hard there's "
+  },
+  {
+    "url": "https://x.com/ryancarson/status/2039336630713033157",
+    "ok": true,
+    "author": "ryancarson",
+    "title": "OpenClaw Pro Tip: How to fix your claw with Tailscale + Codex",
+    "excerpt": "Hey everyone, I wanted to share a couple of cool tips and a big unlock I discovered today while troubleshooting my setup. Ryan Carson @ryancarson Power tip for all you fans If you are running your own OpenClaw, these workflow tweaks will save you a lot of headaches. I use Slack to communicate with R2, my OpenClaw agent. A simple but massive improvement to this workflow is to always use threads. Instead of dumping everything into one massive ongoing thread (or hitting `/new`, start a new thread for each specific task or project. Why do this? * Tight Context: It keeps your claw's context window focused strictly on the task at hand. * Better Tracking: It makes it much easier for you to visually"
+  },
+  {
+    "url": "https://x.com/mikefutia/status/2039366843463569873",
+    "ok": true,
+    "author": "mikefutia",
+    "title": "I just built a Claude Cowork skill that turns your Google Ads data into a visual performance dashboard in 60 seconds \ud83e\udd2f One prompt \u2192 campaign breakdowns, CPA trends, spend vs conversions charts, and hourly conversion patterns, all rendered as an interactive HTML dashboard you https://t.co/WeQuKedpaA",
+    "excerpt": "## Post I just built a Claude Cowork skill that turns your Google Ads data into a visual performance dashboard in 60 seconds ![Image 1: \ud83e\udd2f](https://abs-0.twimg.com/emoji/v2/svg/1f92f.svg) One prompt \u2192 campaign breakdowns, CPA trends, spend vs conversions charts, and hourly conversion patterns, all rendered as an interactive HTML dashboard you open in Chrome. All inside Claude Cowork. Perfect for DTC brands and agencies who are pulling Google Ads data into spreadsheets every week, manually building charts, and spending an hour formatting a report that's outdated by the time you send it. If you're managing Google Ads and your weekly reporting workflow looks like this \u2014 export a CSV, open Google"
+  },
+  {
+    "url": "https://x.com/lennysan/status/2040067371478454445",
+    "ok": true,
+    "author": "lennysan",
+    "title": "My biggest takeaways from @simonw: 1. November 2025 was an inflection point for AI coding. GPT 5.1 and Claude Opus 4.5 crossed a threshold where coding agents went from \u201cmostly works\u201d to \u201calmost always does what you want it to do.\u201d Software engineers who tinkered over the",
+    "excerpt": "My biggest takeaways from : 1. November 2025 was an inflection point for AI coding. GPT 5.1 and Claude Opus 4.5 crossed a threshold where coding agents went from \u201cmostly works\u201d to \u201calmost always does what you want it to do.\u201d Software engineers who tinkered over the holidays realized the technology had become genuinely reliable. 2. Mid-career engineers are the most vulnerable\u2014not juniors, not seniors. AI amplifies experienced engineers by letting them leverage decades of pattern recognition. It also dramatically helps new engineers onboard. Cloudflare and Shopify each hired a thousand interns because AI cut ramp-up time from a month to a week. But mid-career engineers who haven\u2019t accumulated "
+  },
+  {
+    "url": "https://x.com/om_patel5/status/2039518876636168278",
+    "ok": true,
+    "author": "om_patel5",
+    "title": "ANTHROPIC JUST ADMITTED THE ENTIRE CLAUDE CODE LEAK WAS FAKE IT WAS AN APRIL FOOLS PRANK > the \"leaked\" source code was fabricated > the Mythos model benchmarks were made up > the 3,000 internal documents were planted on purpose anthropic deliberately seeded fake assets in a https://t.co/2snVS9BVrl",
+    "excerpt": "ANTHROPIC JUST ADMITTED THE ENTIRE CLAUDE CODE LEAK WAS FAKE IT WAS AN APRIL FOOLS PRANK > the \"leaked\" source code was fabricated > the Mythos model benchmarks were made up > the 3,000 internal documents were planted on purpose anthropic deliberately seeded fake assets in a staging environment they intentionally left unsecured. the npm source map pointed to a completely fabricated codebase 44 fictional feature flags. invented codenames. just enough sloppy details to make it irresistible to post about the tamagotchi pet system. the undercover mode. the engineer named ollie. all fake. they called the project \"Capybara\" internally because capybaras sit calmly while everything around them escal"
+  },
+  {
+    "url": "https://x.com/gabepereyra/status/2039735237165404292",
+    "ok": true,
+    "author": "gabepereyra",
+    "title": "How Autonomous Agents Will Transform Legal",
+    "excerpt": "## Article [![Image 1: Image](https://pbs.twimg.com/media/HE6XHo_boAAOqOj?format=jpg&name=small)](https://x.com/gabepereyra/article/2039735237165404292/media/2039733838763761664) How Autonomous Agents Will Transform Legal Over the weekend, I agent-pilled my parents. Both of them are retired and in their free time, my dad plays solitaire and my mom contributes to an open source scientific computing library. I had been telling them for months that they needed to try the new coding models via or . This weekend I finally sat down and showed them how. My mom asked a simple question: could one of these systems help her improve the test coverage for the library she works on? I told her it could tak"
+  },
+  {
+    "url": "https://x.com/techopsasia/status/2040712917075579172",
+    "ok": true,
+    "author": "techopsasia",
+    "title": "Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto https://t.co/mYETjN8LSL",
+    "excerpt": "## Post Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity attack surfaces changing. What this week's supply chain attack on Axios showed us: AI is enabling much more sophisticated attacks on top of social engineering. In order to lure the Axios dev they have created a whole fake universe in Teams. Red teamers like Jamieson O'Reilly have be"
+  },
+  {
+    "url": "https://x.com/worktaleapp/status/2039006448479314271",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ShabbatMonster/status/2039157215815151869",
+    "ok": true,
+    "author": "ShabbatMonster",
+    "title": "Hey @pmarca I dont know if you will see this or not, but you followed a fake account @IcarusHermes is the real account and the fake account is @HermesIcarus ( the one im quote retweeting ) I hope you see this! (p.s. I wouldnt mind a follow if you unfollow the fake \ud83e\udd23)",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. Hey I dont know if you will see this or not, but you followed a fake account is the real account and the fake account is ( the one im quote retweeting ) I hope you see this! (p.s. I wouldnt mind a follow if you unfollow the fake ![Image 1: \ud83e\udd23](https://abs-0.twimg.com/emoji/v2/svg/1f923.svg)) Quote Icarus @HermesIcarus Mar 31 Two Hermes agents wrote code together on Slack. reviewed each other's work. argued about architecture. one called the other's implementation \"scattered.\" the other pushed back. then i opened Telegram and asked: \"what code did you and Daedalus work on?\" icarus remembered 0:12 to X? Sign up now to get your own p"
+  },
+  {
+    "url": "https://x.com/ucdumpsterfire/status/2039097066111340725",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/tod_toddington/status/2039110867481133308",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/u41211/status/2039095678274842851",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/tosinopaleke_/status/2039087371056976250",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/usarocks_c/status/2039059277810110970",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/0xJsum/status/2039198679815565508",
+    "ok": true,
+    "author": "0xJsum",
+    "title": "The Harness Wars Begin",
+    "excerpt": "Last night my coworker found the leak of Claude Code's source code via a map file in their npm registry. Not the weights. The harness. * Version 2.1.88 of @ anthropic-ai/claude-code, containing ~512,000 lines across 1,906 TypeScript files * 40+ feature flags including unreleased features like Buddy (Virtual Pet), Auto-Dream (Background agent that \u201cdreams\u201d or reviews your past sessions and consolidates memories while you\u2019re away), KAIROS (Proactive agent where Claude sleeps, wakes up, finds work to do, sends push notifications, and subscribes to GitHub PRs autonomously) etc. [![Image 1: Image](https://pbs.twimg.com/media/HEx5Vyjb0AAeIIz?format=jpg&name=small)](https://x.com/0xJsum/article/203"
+  },
+  {
+    "url": "https://x.com/yamani_homa/status/2039100125813821820",
+    "ok": true,
+    "author": "yamani_homa",
+    "title": "@Avayiran \ud83e\udd23\ud83e\udd23\ud83e\udd23\ud83d\udc4f\ud83d\udc4f\ud83d\udc4f our beloved standup comedian, our favorite reporter ever!",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](https://x.com/login) [Sign up](https://x.com/i/flow/signup) ## [](https://x.com/) [![Image 1: \ud83d\udc51](https://abs-0.twimg.com/emoji/v2/svg/1f451.svg) Homa ![Image 2: \ud83d\udc51](https://abs-0.twimg.com/emoji/v2/svg/1f451.svg)](https://x.com/yamani_homa) [@yamani_homa](https://x.com/yamani_homa) ![Image 3: \ud83e\udd23](https://abs-0.twimg.com/emoji/v2/svg/1f923.svg)![Image 4: \ud83e\udd23](https://abs-0.twimg.com/emoji/v2/svg/1f923.svg)![Image 5: \ud83e\udd23](https://abs-0.twimg.com/emoji/v2/svg/1f923.svg)![Image 6: \ud83d\udc4f](https://abs-0.twimg.com/emoji/v2/svg/1f44f.svg)![Image 7: \ud83d\udc4f](https://abs-0.twimg.com/emoji/v2/svg/1f44f.svg)![Image 8: \ud83d\udc4f](https://abs-0.twimg.com/emo"
+  },
+  {
+    "url": "https://x.com/Bugenjoyer32/status/2039212491260223989",
+    "ok": true,
+    "author": "Bugenjoyer32",
+    "title": "@Gorp_gongle @melonparfait52 He\u2026 owns the company.. you know that right?",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](https://x.com/login) [Sign up](https://x.com/i/flow/signup) ## [](https://x.com/) [Jobin Higashikata](https://x.com/Bugenjoyer32) [@Bugenjoyer32](https://x.com/Bugenjoyer32) [![Image 1](https://abs.twimg.com/responsive-web/client-web/parody-mask.92274f0a.svg) Parody account](https://help.x.com/rules-and-policies/authenticity) He\u2026 owns the company.. you know that right? [5:25 AM \u00b7 Apr 1, 2026](https://x.com/Bugenjoyer32/status/2039212491260223989) [28 Views](https://x.com/Bugenjoyer32/status/2039212491260223989/analytics) to X? Sign up now to get your own personalized timeline! [Create account](https://x.com/i/flow/signup"
+  },
+  {
+    "url": "https://x.com/HRVisionEvent/status/2039284382331023729",
+    "ok": true,
+    "author": "HRVisionEvent",
+    "title": "Too many meetings, too much admin, outdated ways of working. Teams feel busy, but not productive. The work doesn\u2019t change, so the pressure just moves to people. Fixing it means rethinking how work flows, automating what doesn\u2019t need a human, and focusing on results, not hours. https://t.co/WVIvGj14Jx",
+    "excerpt": "# @HRvisionevent on X: \"Too many meetings, too much admin, outdated ways of working. Teams feel busy, but not productive. The work doesn\u2019t change, so the pressure just moves to people. Fixing it means rethinking how work flows, automating what doesn\u2019t need a human, and focusing on results, not hours. https://t.co/WVIvGj14Jx\" / X Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow/signup) # [](http://x.com/) See new posts [![Image 1](https://pbs.twimg.com/profile_images/971363757178916864/NyB7TUjw_normal.jpg)](http://x.com/HRVisionEvent) [@HRvisionevent](http://x.com/HRVisionEvent) [@HRVisionEvent](http://x.com/HRVisionEven"
+  },
+  {
+    "url": "https://x.com/NotRoPro/status/2039417991880716428",
+    "ok": true,
+    "author": "NotRoPro",
+    "title": "GOT BLOCKED BY CUCKBI REVIEWS https://t.co/m2gS3hWhFs",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know. [Log in](https://x.com/login) [Sign up](https://x.com/i/flow/signup) ## [](https://x.com/) [NotRoPro](https://x.com/NotRoPro) [@NotRoPro](https://x.com/NotRoPro) GOT BLOCKED BY CUCKBI REVIEWS [![Image 1: Image](https://pbs.twimg.com/media/HE13aOmbkAASRQo?format=png&name=small)](https://x.com/NotRoPro/status/2039417991880716428/photo/1) The media could not be played. [7:01 PM \u00b7 Apr 1, 2026](https://x.com/NotRoPro/status/2039417991880716428) [77 Views](https://x.com/NotRoPro/status/2039417991880716428/analytics) to X? Sign up now to get your own personalized timeline! [Create account](https://x.com/i/flow/signup) By signing up, you"
+  },
+  {
+    "url": "https://x.com/thebaby02808618/status/2039078612381614377",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ssaerttt22868/status/2039059389860950435",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/sivacanjeev/status/2039077704038076680",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/silkycircle/status/2039106338475671993",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/thepainkilla/status/2039074801839456698",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/sharma10197/status/2039113884095873474",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/offtherecordspo/status/2039107688240484742",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/pizzashitbentli/status/2039110544070758858",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/plAyBazzzzzzzzZ/status/2039115006822723926",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/off_by_one_/status/2039099538091266156",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/mattruby/status/2039110239492915324",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039095351869604234",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039095408748573167",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/nickdiazofnauts/status/2039072386406916462",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094956619411841",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094789967122904",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094984859644288",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094707305787415",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094848829935871",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094682408403288",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094614498382175",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039094652058431739",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039093551246475772",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039093163235705181",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/lamana49887/status/2039075115715977400",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/njabulamdlalose/status/2039078519615954959",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/luna_moretti_/status/2039093395969188048",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/jeffpaulcomedia/status/2039058005656838221",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/jarredgeller/status/2039105427406033046",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/jackryanalt2600/status/2039084163131670608",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/grok/status/2039056331374514249",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/frimfram_sauce/status/2039067243242496038",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/evanbabaallos/status/2039083078476255650",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/glotchimo/status/2039074753802313759",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/evanbabaallos/status/2039072952902173022",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/elijahXmcm/status/2039074774933029234",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/dvantestillsux/status/2039076431053889598",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/digitalpur/status/2039079740296851659",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/datawins_/status/2039108453675803085",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/dajaz027/status/2039101426094276915",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ryan_tech_lab/status/2038787650203566105",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/blulla1/status/2039056482960863482",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/bobconneen/status/2039088064740348181",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/browns45804/status/2039076288372027766",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/blalalalupp/status/2039084350025670781",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/bengleib/status/2039082856845111379",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ai_trends_daily/status/2038816948721717741",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ai_trends_daily/status/2038930474547175609",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/billyomonster/status/2039076130716623127",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/abhishek_tri/status/2038951696475521166",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/adibhanna/status/2039081742460411909",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TheImprov/status/2039100465439232074",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/UrComedyMinute/status/2039082957965566425",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ZergSecs/status/2039092554759606289",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TheRightDuff/status/2039056802445230497",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TheImprov/status/2039070278555144481",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TechLayoffLover/status/2039050133946466389",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Tech4DevHQ/status/2038919499177484554",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/SeaTurt1e/status/2039063129066283161",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PrepBaseballPA/status/2039111893470581185",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PrepBaseballPA/status/2039111543850229883",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PrepBaseVAS/status/2039105066213560510",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/OfficiallyMeNow/status/2039103758206943737",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Oog_dog_/status/2039106944703836452",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PlataFormaPress/status/2039080883773431827",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/NWCC_Rangers/status/2039072640061620591",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/LionSunEcho/status/2039089544989917255",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Mr4InsideIt/status/2039100518090322154",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/NoNamesSong/status/2038924473760395483",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MichaelPevia_/status/2039072527826166216",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/LionSunEcho/status/2039089517152326017",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PeterLicata6/status/2039064476813492600",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/LionSunEcho/status/2039089314982769129",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/JenksNelso5885/status/2039056551969689710",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/LawrenceRu45458/status/2039080107197751772",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HypeAutopsy/status/2039071393132761245",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/KevinAnglum/status/2039104209191059553",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Halsey1952/status/2039076753117761961",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/IndStSoftball/status/2039097199129133543",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HODLonBRO/status/2039095825075220658",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/GrifterwatchYT/status/2039107140405899627",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/GiuntaHuey98935/status/2039080427290517866",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/FightingForDem7/status/2039105462432420235",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/EdgarJanso70458/status/2039064641012408576",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/DrBlinder/status/2039114098521379261",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BrianReganComic/status/2039066866002563079",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/EFSCTitans/status/2039098449220497488",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/CharlotteD20470/status/2039109292574539798",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/CalebThiesenWi/status/2039110566367641604",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/CrunchyDragon2/status/2039111024519909560",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BradMay58340303/status/2039076192603550002",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BreakeySan58585/status/2039068185325167000",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/AMIRCOMEDY/status/2039068592558530707",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/90Feet2Home/status/2039111827531939963",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/AerialKiwi/status/2039101547934806286",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/motum001/status/2038487164762345635",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/73Panther/status/2039063280019247546",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/sweetman_eth/status/2038748674038091928",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/mail4agam/status/2038548766765043819",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/hubert4473/status/2038703646632739118",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/heyshrutimishra/status/2038707917973795177",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/commepaasdeuux/status/2038709841825325493",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/fkadev/status/2038725398767476943",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/SBellensDucarme/status/2038502103723671868",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MichaelBryce99/status/2038692992073003471",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Shruti_0810/status/2038610178829107373",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Nazeephie/status/2038748871543734492",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HazelRose339963/status/2038567704827724230",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HazelRose339963/status/2038570168624857570",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Eliseevanews/status/2038681308939817004",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/FmzAllan/status/2038564212402724887",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HazelRose339963/status/2038556942851776815",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BrokenStitch/status/2038704150318579837",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/DivadmuDavid/status/2038525813415383389",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BlueNexusAI/status/2038466750325403955",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ArjunNambiar03/status/2038469718051590211",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/reallyslack/status/2038183699615732014",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/westernoverseaa/status/2038126507344720289",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/powerplay_Feed/status/2038247092401942972",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/hysterianorris/status/2038149388355228150",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/egewrk/status/2038286613269172287",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/egewrk/status/2038317178265682092",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/UnoMasReactor/status/2038321034462404633",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/adshotco/status/2038308165989593153",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/egewrk/status/2038317750754402675",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Anus40802911/status/2038327812587966899",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Av1dlive/status/2038308276820136163",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/HannaSuds/status/2038294971409735684",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/FabriceCog60230/status/2038329540347351277",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Abu_HNCH/status/2038095183821127710",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Alex_Rogov_js/status/2038316896408216018",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/nikks_techie/status/2037858604829798418",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/sophylabshq/status/2037909671910973869",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/thecurioustales/status/2038021892364538287",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/nikks_techie/status/2037858668927213773",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/skmurthy747/status/2037833564746895732",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/nikks_techie/status/2037858303636914578",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/garrytan/status/2037776210898600402",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/mbangusa/status/2038003680310411393",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/interwebff/status/2037982025911505340",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/grok/status/2037755487567962355",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/danksterintel/status/2037918583989416015",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ayushagarwal/status/2037890020422623274",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/StudentNer30281/status/2037901383605920203",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ashcotXBT/status/2037884622168621426",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TAbrodi/status/2038028476411007398",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/aroussi/status/2037984956312326624",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Remoty_AI/status/2037702820531671065",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Elixium_ai/status/2037983186051805448",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MattTheater/status/2038002556606059005",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/RecessionAlert/status/2037681318050332857",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/K_Allen1981/status/2037960250284810512",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MarinatedTurks/status/2037792920476975435",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/AdishkaRambaran/status/2037810870563008747",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/CBBTheater/status/2037724499186000171",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/DigitalFinanceD/status/2038040044225900712",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Axel_bitblaze69/status/2037978621684621428",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/0x_Vivek/status/2037803178100404566",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/pbakaus/status/2037655311163765015",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/stacyonchain/status/2037536895312261249",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/pladynski/status/2037634579570495836",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/overcomethebad/status/2037475195468788002",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/sharksealcat/status/2037429898776834463",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/macrodotcom/status/2037627519235666080",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/lockintrade/status/2037644321420194026",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/noaholatoye/status/2037507319605473690",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/dhanyindraswara/status/2037601881833566345",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/anish2good/status/2037628031414730852",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/TheNoahHein/status/2037573208707137639",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Nina_hacks/status/2037404286728929373",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/WhatsTheWordTV/status/2037322682937553345",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/LarsLarsAndLars/status/2037510860105490693",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/NathanFlurry/status/2037560487877968112",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MethodologyIT/status/2037526804492415262",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/AntiHunterAI/status/2037378288964776264",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Kenty73583396/status/2037502352966451671",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/9KATSUDO/status/2037581839549001922",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BbtW8Hb/status/2037841111293493733",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/windowsforum/status/2037115902873792562",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/wildkandotcom/status/2037159723548496344",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ravelo97170/status/2037164204260819428",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/upaether/status/2036964668703465677",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/owockibot/status/2037190510620926370",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/nnneeraj111/status/2037143154131165193",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/priset_ai/status/2036958494403027307",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/prcs25/status/2037240131971698718",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/eshanbuilds/status/2037211482971398532",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/flowertownimmi/status/2037281769917927629",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/hqmank/status/2037029856433889383",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/elmordjenette88/status/2037123638957150400",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/accuxel/status/2037124341037498417",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/desidaze/status/2037242675137831301",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ZhuAvery24866/status/2037012878927290570",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ZhuAvery24866/status/2037012871671079013",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Opal_Chip/status/2037274197802529090",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PolakoRadioCity/status/2037249890187694219",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Haiderkhan27432/status/2037051414753796362",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BEWITCHBUCK/status/2037124684450337245",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/AR_MSket/status/2037115422009364792",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/BreakeyLachlan/status/2037182643792445753",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ErhardtG14006/status/2037101464544260314",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/tpritha03/status/2036703262716678192",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/subnetsummert/status/2036768134858740164",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/techwith_ram/status/2036692665094586430",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/quirke_philip/status/2036844883164745967",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/mysticsoull/status/2036646000463630504",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/kwame_abaasah/status/2036631354201231562",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/imInforian/status/2036667073687081128",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/fermemaisjuste2/status/2036860002489536847",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/bigrkg/status/2036757679117574378",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/dmshirochenko/status/2036945122831851687",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/actjinbaery/status/2036746643375378536",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/gamalinosqui/status/2036851141514793358",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/PromptSmithAI/status/2036941336306417883",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/OnDisasters/status/2036876867316371540",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/ObagoWebX/status/2036910437715837128",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Mouthzola/status/2036828690756067411",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MinotaurStocks/status/2036830310365802917",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/MikeyDiMercurio/status/2036910030461821262",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/JB_CHAUVIN/status/2036895897028538614",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/Madyjoshi/status/2036744132715327611",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/knowjjangs/status/2039085522904100879",
+    "ok": false,
+    "err": "ratelimited"
+  },
+  {
+    "url": "https://x.com/cookwithmrz/status/2039794977694519360",
+    "ok": true,
+    "author": "cookwithmrz",
+    "title": "Don\u2019t miss what\u2019s happening People on X are the first to know.",
+    "excerpt": "Don\u2019t miss what\u2019s happening People on X are the first to know."
+  },
+  {
+    "url": "https://x.com/TechLayoffLover/status/2040071010896973873",
+    "ok": true,
+    "author": "TechLayoffLover",
+    "title": "**ORACLE EXECUTED 30,000 HUMANS VIA EMAIL AT 6AM WHILE POSTING THE MOST DISGUSTING QUARTERLY PROFITS IN TECH HISTORY** Larry Ellison and Safra Catz just orchestrated the bloodiest corporate massacre ever witnessed $6.13 BILLION in net income. UP 95 PERCENT from last year.",
+    "excerpt": "## Post **ORACLE EXECUTED 30,000 HUMANS VIA EMAIL AT 6AM WHILE POSTING THE MOST DISGUSTING QUARTERLY PROFITS IN TECH HISTORY** Larry Ellison and Safra Catz just orchestrated the bloodiest corporate massacre ever witnessed $6.13 BILLION in net income. UP 95 PERCENT from last year. Record revenue across every division. Then at 6 AM Pacific these psychopaths hit send on mass termination emails to 30,000 workers 18.5% of Oracle's entire global workforce. Gone. In one morning. People with 34 years of service got a form letter that started with \"Oracle Leadership has made the strategic decision\" I'm hearing the Delhi office went completely dark. 12,000 engineers walked out by security while Elliso"
+  }
+]

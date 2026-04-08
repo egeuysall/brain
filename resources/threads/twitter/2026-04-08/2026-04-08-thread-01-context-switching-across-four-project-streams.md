@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-08
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 1 - context switching across four project streams
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/techopsasia/status/2040712917075579172
+
+## Original Post (Key Excerpt)
+
+```text
+Context switching. Right now we have 4 projects on the go and while they all have cloud engineering at the heart they are across so many verticals like video, gaming, agents and web. I'm building OpenClaw automations, then building my own product and deploying it, and then onto deploying Unreal streaming servers and cloning people with ComfyUI. At the same time I must focus on the future and cybersecurity attack surfaces changing.
+```
+
+## Why It Matches Ryva ICP
+
+Founder/operator handling multiple engineering streams with cloud, deployments, and security pressure. Strong fit for teams where execution context is fragmented across tools and threads.
+
+## Underlying Problem
+
+Project state is split across parallel workstreams, so teams lose continuity and spend time reconstructing intent, ownership, and risk at each handoff.
+
+## Suggested Public Response (Copy)
+
+```text
+The line that matters is context-switching across four active tracks. Once teams juggle multiple live streams, status gets reconstructed from memory instead of a shared execution record. The fix is not another meeting, it is one visible chain per workstream: owner, latest decision, current risk, and next action.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When you switch between those 4 projects, where does the current owner + decision + risk live so someone else can resume without a Slack archaeology session?
+```
+
+## Snapshot
+
+- Author: @techopsasia
+- Captured date label: April 5, 2026
+- Recency window: within past 14 days

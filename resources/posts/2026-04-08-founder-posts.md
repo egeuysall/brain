@@ -1,0 +1,53 @@
+X:
+Fresh signal from r/EngineeringManagers: measuring AI impact is hard.
+
+Most teams still track PR count and lines changed.
+I track decision latency:
+
+- time from blocker to owner
+- age of unresolved decisions
+- reopen rate after merge
+
+If those do not improve, AI is just faster chaos.
+
+LinkedIn:
+Yesterday in my diary I wrote that quality moved more than volume.
+Today I saw a fresh EngineeringManagers thread on how hard AI impact is to measure.
+
+I think we are measuring the wrong thing.
+
+Most teams track:
+
+- lines changed
+- PR count
+- story points closed
+
+Those can rise while rework also rises.
+
+What I am testing now:
+
+- blocker to owner assignment time
+- unresolved decision age
+- post-merge reopen rate
+
+If these go down week over week, AI is helping execution.
+If not, we are just producing activity faster.
+
+What metric do you trust most for AI impact on your team?
+
+Reddit:
+Subreddit: r/EngineeringManagers
+Title: What metric actually tells you AI is helping your engineering team?
+Body:
+I saw the recent thread here about how hard AI impact is to measure, and I relate.
+
+I keep bouncing between vanity metrics and outcome metrics.
+Right now I am testing three:
+
+- time from blocker to clear owner
+- how long unresolved decisions stay open
+- reopen rate after merge
+
+Has anyone found a better metric that actually predicts less rework a sprint later?
+
+Would love practical examples, especially from teams with mixed seniority.
