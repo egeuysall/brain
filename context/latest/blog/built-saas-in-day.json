@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "built-saas-in-day",
-  "generatedAt": "2026-04-07",
+  "generatedAt": "2026-04-08",
   "entry": {
     "id": "built-saas-in-day",
     "url": "https://egeuysal.com/blog/built-saas-in-day/",
@@ -11,7 +11,11 @@
     "description": "Yesterday I asked myself a simple question.",
     "publishedAt": "2026-02-16",
     "updatedAt": null,
-    "tags": ["technology", "coding", "tutorial"],
+    "tags": [
+      "technology",
+      "coding",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/36182401/pexels-photo-36182401.png",
     "readingTime": 2,
     "body": "Yesterday I asked myself a simple question.\n\nIf I had a new idea on Friday night, could I ship a real SaaS by the weekend?\n\nNot a demo.  \nNot a half-finished starter.  \nSomething I would actually launch.\n\nBy the end of the day, the answer was yes.\n\n## What This Is\n\nThis is Shipr.\n\nA clean, production-ready SaaS platform inspired by the way products like Vercel feel. Serious design. Real infrastructure. No shortcuts.\n\nIt is fully open source and built so founders can test ideas fast without rebuilding the same things every time.\n\nGitHub: https://github.com/egeuysall/shipr  \nWebsite: https://shipr.egeuysal.com\n\nIf you have ideas but get stuck setting up the basics, this is for you.\n\n## What’s Included\n\nEverything here works. Nothing is mocked.\n\nAuthentication with Clerk  \nAI chat using the Vercel AI SDK  \nFile uploads and management  \nBilling with Clerk Billing  \nOnboarding flow  \nWaitlist  \nEmail system  \nRate limiting  \nHealth check API\n\nAnalytics with PostHog  \nError tracking with Sentry\n\nFull marketing site  \nLegal pages  \nSEO done properly\n\nDark mode  \nTheme system  \nReal documentation\n\n## The Part That Matters\n\nThe feature list is not the point.\n\nWhat matters is that everything is connected.\n\nAuth flows into billing.  \nBilling flows into onboarding.  \nOnboarding flows into analytics.\n\nNo placeholder pages.  \nNo “we’ll add this later.”\n\nThis was built like a real product from the start.\n\n## Why I Built This\n\nMost SaaS starters solve the easy parts.\n\nThey get you to a dashboard, then stop.\n\nShipr exists so you can go further without slowing down.\n\nIf I can build this in a day, anyone with a good idea can ship something real.\n\n## This Is Not a Throwaway\n\nYou do not outgrow this.\n\nYou build on it.  \nYou launch with it.  \nYou charge money with it.\n\nAnd because it is open source, you can see exactly how everything works.\n\n## Final Thought\n\nThis is not about speed.\n\nIt is about standards.\n\nMove fast.  \nDo not build garbage.\n\nI plan to build companies for a long time.  \nOne of them will be worth a billion dollars.\n\nThis is how it starts."
