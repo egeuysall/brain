@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "my-first-hackathon-everything",
-  "generatedAt": "2026-04-08",
+  "generatedAt": "2026-04-09",
   "entry": {
     "id": "my-first-hackathon-everything",
     "url": "https://egeuysal.com/blog/my-first-hackathon-everything/",
@@ -11,7 +11,11 @@
     "description": "Yesterday I participated in my first hackathon. It was called Solaris, a 24 hour online hackathon. I went in excited and nervous because I had no idea what...",
     "publishedAt": "2025-10-12",
     "updatedAt": null,
-    "tags": ["technology", "coding", "tutorial"],
+    "tags": [
+      "technology",
+      "coding",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/7988742/pexels-photo-7988742.jpeg",
     "readingTime": 2,
     "body": "Yesterday I participated in my first hackathon. It was called Solaris, a 24 hour online hackathon. I went in excited and nervous because I had no idea what to expect.\n\nSpoiler: we didn't even submit on time.\n\n### What We Built\n\nThe hackathon had a theme around space colonization, so we had to think of something in that direction. We ended up building a Fiverr-like platform for moon colonizations. People could offer services or find help for whatever they needed on the moon.\n\nI teamed up with a friend who was less experienced than me. That became a problem later.\n\n### Everything That Went Wrong\n\nFirst, our VPS wouldn't connect to the database. Spent way too much time debugging that.\n\nThen because my teammate was still learning, the setup took forever. By the time we actually started building the real features, we only had 6 hours left out of 24.\n\nThe final blow was Docker. Right when we were trying to submit, the deployment started throwing errors. We couldn't fix it in time.\n\nWe missed the deadline.\n\n### What I Actually Learned\n\nEven though we didn't submit, this hackathon was worth it. I spent a lot of time teaching my teammate and helping them understand how everything worked. That was valuable.\n\nI also learned how hackathons actually work. The time pressure, the technical issues, the chaos. Now I know what to expect next time.\n\nThe funny part? After the hackathon ended, I checked the project gallery. Our project was genuinely better than 90% of the submissions. We just couldn't get it deployed in time.\n\n### Will I Do Another One?\n\nYeah, definitely. This first one was mostly about understanding how hackathons work and what the environment is like.\n\nNext time I'll be more prepared. Better teammate coordination, simpler deployment strategy, and actually finishing on time.\n\nFirst hackathons are messy. That's fine. You learn way more from the chaos than from winning anyway."
