@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "failed-with-saas-again",
-  "generatedAt": "2026-04-09",
+  "generatedAt": "2026-04-10",
   "entry": {
     "id": "failed-with-saas-again",
     "url": "https://egeuysal.com/blog/failed-with-saas-again/",
@@ -11,7 +11,11 @@
     "description": "A few weeks ago, I launched my SaaS, Huesly.",
     "publishedAt": "2026-02-16",
     "updatedAt": null,
-    "tags": ["technology", "saas", "entrepreneurship"],
+    "tags": [
+      "technology",
+      "saas",
+      "entrepreneurship"
+    ],
     "image": "https://images.pexels.com/photos/36182617/pexels-photo-36182617.png",
     "readingTime": 2,
     "body": "A few weeks ago, I launched my SaaS, Huesly.\n\nI pushed it everywhere.  \nTwitter. DMs. Emails. Communities.  \nI built a clean landing page and polished the product.\n\nIt got over 800 views.\n\nSix users signed up.\n\nZero conversions.\n\nIf you are curious, it still lives here at [huesly.app](https://huesly.app)\n\n## What Actually Went Wrong\n\nAt first, I thought it was friction.\n\nMaybe the signup flow was bad.  \nMaybe OAuth was confusing.\n\nSo I added email logins.\n\nNothing changed.\n\nThat is when I realized the problem was deeper.\n\n## I Solved a Problem I Personally Had\n\nI built Huesly because I lived the problem.\n\nDesign systems were painful for me.  \nKeeping things consistent felt annoying.  \nI assumed every founder felt the same way.\n\nThat assumption was wrong.\n\nSome people literally asked me what a design system even was.\n\nEven the users who tried the product never came back.\n\nNot because it was bad.  \nBecause the problem was too niche.\n\nIt was a real pain point, but it happened maybe once a month.\n\nThat is not something most people pay for.\n\n## You Cannot Force a Bad Idea to Work\n\nI tried everything.\n\nPosting everywhere.  \nEmailing users.  \nImproving onboarding.  \nRefining copy.\n\nNone of it mattered.\n\nWhen the problem is not strong enough, effort does not save you.\n\nThis one truth hurt.\n\n## The Lesson I Took Away\n\nValidation is not optional.\n\nYou need:\n\n- A problem users feel often\n- A solution that is clearly better than alternatives\n- Proof people care before you go deep\n\nSkill does not replace validation.  \nClean design does not replace validation.  \nHard work does not replace validation.\n\n## Why This Failure Still Matters\n\nEven though Huesly failed, something important happened.\n\nI shipped.\n\nI did not overthink forever.  \nI did not hide behind preparation.\n\nAnd that failure directly led to Shipr.\n\nShipr exists because I needed a way to validate ideas faster, cheaper, and more honestly.\n\nThis time, I am not guessing.\n\n## Final Thought\n\nThis post is uncomfortable to write.\n\nBut it is real.\n\nIf you are building something right now, ask yourself one question early.\n\nDo people feel this problem every day, or only when it is convenient?\n\nThat answer decides everything."
