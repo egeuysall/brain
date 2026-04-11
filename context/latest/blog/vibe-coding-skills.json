@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "vibe-coding-skills",
-  "generatedAt": "2026-04-10",
+  "generatedAt": "2026-04-11",
   "entry": {
     "id": "vibe-coding-skills",
     "url": "https://egeuysal.com/blog/vibe-coding-skills/",
@@ -11,7 +11,11 @@
     "description": "I recently experimented with vibe coding by using AI to help build a Three.js animation that follows the cursor. I ran Mistral's devstral small 2 model...",
     "publishedAt": "2025-12-14",
     "updatedAt": null,
-    "tags": ["technology", "coding", "tutorial"],
+    "tags": [
+      "technology",
+      "coding",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/8022862/pexels-photo-8022862.jpeg",
     "readingTime": 3,
     "body": "I recently experimented with vibe coding by using AI to help build a Three.js animation that follows the cursor. I ran Mistral's devstral-small-2 model locally, and honestly? It did surprisingly well. The AI handled most of the heavy lifting, but it couldn't fix the colors. I had to jump in and manually adjust them myself.\n\nThat moment perfectly captures what vibe coding actually is. It's not magic, and it's definitely not going to replace developers. It's a tool, but only if you know how to use it.\n\n### Context is Everything\n\nThe difference between AI generating clean, working code versus complete garbage comes down to context. Bad context looks like not explaining error messages, skipping logs, forgetting to provide recent docs, or not telling the AI where your files and folders are. Tools like the context7 MCP server help here. You can even give it specific line numbers by selecting code.\n\nGood context is the exact opposite. Clear error messages, relevant logs, proper documentation, file structure details. When you give the AI what it needs, it performs. When you don't, it flails.\n\n### The Productivity Paradox\n\nVibe coding makes me more productive. It automates the boring stuff and speeds up iteration. But it also makes me forget important details sometimes. Occasionally, the error is so simple to fix, but the AI overcomplicates it or just can't find it. In those moments, it actually slows you down.\n\nThat's why everything AI generates should be reviewed before it's committed. Use pre-commit hooks, pre-push hooks, branches, and especially git worktrees to ensure nothing breaks. Tools like GitHub Copilot's code review are exceptionally strong for catching issues most of the time.\n\n### Why Non-Developers Can't Just Vibe Code Their Way to Success\n\nIf someone who doesn't know how to code tries vibe coding, it'll look great at first. But once things get complex like auth, payment processing, or business logic, the AI will stall. You can't just throw a prompt at it and expect a production-ready app.\n\nEven if you somehow got an app built with one massive prompt, it wouldn't be scalable. If you don't understand Docker instances, backups, caching, Redis, or even basic project architecture, your app will eventually fall apart. That's why configuring CI/CD pipelines and reviewing pull requests isn't optional.\n\n### The Real Misconception\n\nThe biggest misconception about vibe coding is that AI is going to take our jobs.\n\nIt's not. AI is a tool, and it's nowhere close to replacing developers who actually understand context. You can't build a whole app with one prompt and expect it to scale. Without knowing what you're doing, without being able to guide the AI, review its output, and fix what it misses, it's useless."
