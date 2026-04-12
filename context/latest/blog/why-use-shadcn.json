@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "why-use-shadcn",
-  "generatedAt": "2026-04-11",
+  "generatedAt": "2026-04-12",
   "entry": {
     "id": "why-use-shadcn",
     "url": "https://egeuysal.com/blog/why-use-shadcn/",
@@ -11,7 +11,11 @@
     "description": "I started using Shadcn because its components are ridiculously easy to set up and they actually look good out of the box. But the real game changer? time...",
     "publishedAt": "2025-11-08",
     "updatedAt": null,
-    "tags": ["technology", "coding", "tutorial"],
+    "tags": [
+      "technology",
+      "coding",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/221185/pexels-photo-221185.jpeg",
     "readingTime": 1,
     "body": "I started using Shadcn because its components are ridiculously easy to set up and they actually look good out of the box. But the real game-changer? **time saved**. Setting up UI used to be a chore; now I can focus on building features instead of fighting with styles.\n\n### Why Shadcn Works for Me\n\n- **Rapid buttons:** The button component is my most-used element. Shadcn gives variants and styles instantly, so I can drop in buttons everywhere without tweaking endlessly.\n- **Customizable design:** I don’t stick with the defaults. Everything would look the same otherwise. Using [TweakCN](https://tweakcn.com/themes/cmhgpw1mq000e04l23dq71qti), I tweak the dark mode theme to match my aesthetic.\n- **Professional & fast:** Every project feels more polished instantly. Consistent spacing, typography, and colors make my apps look intentional rather than thrown together.\n\n### Pro Tips\n\n- Combine Shadcn with other UI libraries like Magic UI or your own component library for missing pieces. I built [AstraUI](https://www.astraui.me/) to cover components Shadcn doesn’t have, like code blocks or newsletter signup forms.\n- Leverage Tailwind variants and themes to make components feel unique and cohesive.\n\n**Takeaway:**  \nIf you’re building React or Next.js apps and hate wasting time on UI, Shadcn is a no-brainer. It’s fast, clean, and flexible, but pairing it with small tweaks or extra libraries takes your apps to the next level."
