@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-04-08T23:03:49.414478+00:00",
+  "generatedAt": "2026-04-12T01:50:31.277720+00:00",
   "kind": "outreach-fetch-context",
   "runtime": {
     "budgetSeconds": 170,
-    "elapsedSeconds": 130.87,
+    "elapsedSeconds": 130.3,
     "withinBudget": true
   },
   "sources": {
@@ -87,19 +87,19 @@
         ],
         "timeoutSeconds": 39,
         "ok": true,
-        "durationSeconds": 5.68,
+        "durationSeconds": 5.1,
         "exitCode": 0,
         "stdoutTail": "",
         "stderrTail": "",
         "outputFile": "resources/threads/_runtime/reddit-candidates.json"
       },
-      "postCount": 1,
+      "postCount": 3,
       "outputFile": "resources/threads/_runtime/reddit-candidates.json"
     }
   },
   "totals": {
     "xPosts": 0,
-    "redditPosts": 1,
+    "redditPosts": 3,
     "anyUsableSignals": true
   },
   "files": {
