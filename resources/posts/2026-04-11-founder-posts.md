@@ -13,6 +13,7 @@ Yesterday I wrote that this weekend would be a heavier outbound push.
 Today’s fresh signal made the next angle obvious.
 
 I reviewed three new posts:
+
 - A PM team drowning in Slack workflow noise
 - A lead who got alignment only after explicitly cutting scope
 - A founder warning about months lost on the wrong build
@@ -23,6 +24,7 @@ teams track tasks, but they do not force decision ownership early enough.
 One operating rule I am using this week:
 
 For every active initiative, write 3 lines:
+
 1. Decision owner
 2. Decision deadline
 3. What gets delayed if this stays open
@@ -43,6 +45,7 @@ Then the same team hits leadership with “we cannot do all of this,” and alig
 Are you seeing this too?
 
 What has worked best for you:
+
 - stricter ownership rules on decisions
 - fewer automated updates
 - hard WIP limits

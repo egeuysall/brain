@@ -5,11 +5,13 @@ Date: 2026-04-11
 Repo found at: `/Users/egeuysal/yc-scraper`
 
 Step 1 already done:
+
 - `start_urls.txt` exists at `/Users/egeuysal/yc-scraper/scrapy-project/ycombinator/start_urls.txt`
 
 ## Goal
 
 Use YC scraper output to find:
+
 - B2B / technical companies
 - small teams: 5-15
 - at least 2 engineers likely
@@ -29,6 +31,7 @@ scrapy runspider ycombinator/spiders/yscraper.py -o /Users/egeuysal/Developer/br
 ```
 
 Notes:
+
 - Output path points back into this repo.
 - `.jl` best for big runs.
 
@@ -99,11 +102,13 @@ PY
 ## Step 4: enrich for strict outreach use
 
 Need add 3 missing checks before DM:
+
 - role = CEO or CTO
 - recent trigger <= 60d
 - active posting history
 
 Best manual order:
+
 1. Open founder LinkedIn / X from `founder_details`
 2. Check recent post for standups / async / blockers / hiring / process pain
 3. Reject if no fresh trigger
@@ -112,6 +117,7 @@ Best manual order:
 ## Strong post-search terms
 
 Use on founder profile or web search:
+
 - `standup`
 - `async`
 - `blocker`
@@ -128,6 +134,7 @@ Use on founder profile or web search:
 ## Tight final filters
 
 Reject if:
+
 - solo founder
 - team size outside 5-15
 - no social posting history
@@ -136,6 +143,7 @@ Reject if:
 - no fresh trigger
 
 Keep if:
+
 - founder clearly hands-on
 - company technical enough that eng coordination matters
 - post gives believable DM opener
@@ -143,9 +151,11 @@ Keep if:
 ## Nice follow-up artifact
 
 After `yc-shortlist.csv`, next file to generate:
+
 - `yc-shortlist-enriched.md`
 
 Format:
+
 - Name
 - Role
 - Company

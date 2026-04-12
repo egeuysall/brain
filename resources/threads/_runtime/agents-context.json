@@ -14,11 +14,7 @@
     "idealTeamSize": "3-15",
     "stage": "working_product_with_active_distribution",
     "focus": "interest_to_repeated_usage_loops",
-    "distribution": [
-      "reddit",
-      "x",
-      "linkedin"
-    ],
+    "distribution": ["reddit", "x", "linkedin"],
     "loops": {
       "firstRun": "curiosity",
       "secondRun": "habit",
@@ -76,12 +72,7 @@
         "publishedAt": "2026-04-05",
         "title": "Six Hours to never Lose Context Again",
         "signal": "ibx, www, and brain: three open-source repos that document my startup journey automatically so I never lose context again.",
-        "tags": [
-          "building",
-          "tooling",
-          "saas",
-          "ibx"
-        ]
+        "tags": ["building", "tooling", "saas", "ibx"]
       },
       {
         "id": "the-cost-of-wanting-to-be-everything",
@@ -89,11 +80,7 @@
         "publishedAt": "2026-04-04",
         "title": "The Cost of Wanting to Be Everything",
         "signal": "The strange burden of being someone who can always build a solution, and the quiet universe where I never wanted to become a billionaire.",
-        "tags": [
-          "life",
-          "reflection",
-          "founder"
-        ]
+        "tags": ["life", "reflection", "founder"]
       },
       {
         "id": "the-aha-moment",
@@ -101,12 +88,7 @@
         "publishedAt": "2026-03-29",
         "title": "The Aha Moment",
         "signal": "The aha moment is not something that happens to your users. It is something you engineer. Here is how we built Ryva around a single insight that changes how teams see their own work.",
-        "tags": [
-          "startups",
-          "saas",
-          "founder",
-          "product"
-        ]
+        "tags": ["startups", "saas", "founder", "product"]
       },
       {
         "id": "i-was-spending-25-minutes-a-day-on-image-uploads",
@@ -114,11 +96,7 @@
         "publishedAt": "2026-03-28",
         "title": "I Was Spending 25 Minutes a Day on Image Uploads",
         "signal": "A single bash script eliminated one of the most annoying parts of my publishing workflow. Here is exactly what changed and how it works.",
-        "tags": [
-          "coding",
-          "productivity",
-          "tutorial"
-        ]
+        "tags": ["coding", "productivity", "tutorial"]
       },
       {
         "id": "the-gap-nobody-talks-about",
@@ -126,11 +104,7 @@
         "publishedAt": "2026-03-27",
         "title": "The Gap Nobody Talks About",
         "signal": "Everyone says they want to build something that matters. Almost nobody is willing to pay the actual price. Here's what separates the two.",
-        "tags": [
-          "startups",
-          "founder",
-          "mindset"
-        ]
+        "tags": ["startups", "founder", "mindset"]
       },
       {
         "id": "convex-multitenancy-ryva",
@@ -138,13 +112,7 @@
         "publishedAt": "2026-03-25",
         "title": "Convex, Multi-Tenancy, and AI for Ryva",
         "signal": "I picked Convex for Ryva expecting good DX. I didn't expect it to also be the most AI-friendly database I've ever worked with. Here's why.",
-        "tags": [
-          "convex",
-          "saas",
-          "typescript",
-          "architecture",
-          "ai"
-        ]
+        "tags": ["convex", "saas", "typescript", "architecture", "ai"]
       },
       {
         "id": "the-real-reason-ryva-is-hard-to-copy",
@@ -152,12 +120,7 @@
         "publishedAt": "2026-03-24",
         "title": "The Real Reason Ryva Is Hard to Copy",
         "signal": "Why Ryva's moat comes from compounding project memory, not a one-shot prompt.",
-        "tags": [
-          "startups",
-          "saas",
-          "ai",
-          "product"
-        ]
+        "tags": ["startups", "saas", "ai", "product"]
       },
       {
         "id": "i-asked-my-lead-if-it-was-a-bot-it-was-best-gtm-day-yet",
@@ -165,12 +128,7 @@
         "publishedAt": "2026-03-23",
         "title": "I Asked My Lead If It Was a Bot. Best GTM Day.",
         "signal": "Zero paying customers. Eight cold runs sent. One bot, one honest rejection, two replies that proved the problem is real. Here's what actually moved today.",
-        "tags": [
-          "startups",
-          "gtm",
-          "founder",
-          "saas"
-        ]
+        "tags": ["startups", "gtm", "founder", "saas"]
       }
     ],
     "diary": [
@@ -180,13 +138,7 @@
         "date": "2026-04-10",
         "day": 36,
         "signal": "Quality day: old-DM reactivation and second-run signal",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-09",
@@ -194,13 +146,7 @@
         "date": "2026-04-09",
         "day": 35,
         "signal": "Owner inference stabilized, IBX cleanup, and outbound",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-08",
@@ -208,13 +154,7 @@
         "date": "2026-04-08",
         "day": 34,
         "signal": "Stall diagnosis, stronger rerun proof, and IBX execution",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-07",
@@ -222,13 +162,7 @@
         "date": "2026-04-07",
         "day": 33,
         "signal": "Stronger run quality, repo trust, and growth momentum",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-06",
@@ -236,13 +170,7 @@
         "date": "2026-04-06",
         "day": 32,
         "signal": "Multi-run depth, warm conversions, and stronger signal",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-05",
@@ -250,13 +178,7 @@
         "date": "2026-04-05",
         "day": 31,
         "signal": "Content engine, IBX updates, and second-run conversions",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-04",
@@ -264,13 +186,7 @@
         "date": "2026-04-04",
         "day": 30,
         "signal": "Second runs, behavior change, and outreach depth",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-03",
@@ -278,13 +194,7 @@
         "date": "2026-04-03",
         "day": 29,
         "signal": "Heavy build day: IBX shipped, Ryva paused, clarity reset",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-02",
@@ -292,13 +202,7 @@
         "date": "2026-04-02",
         "day": 28,
         "signal": "Light strategy day: cleanup and execution lock",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-04-01",
@@ -306,13 +210,7 @@
         "date": "2026-04-01",
         "day": 27,
         "signal": "Second-run pressure, trust signal, and depth shift",
-        "tags": [
-          "ryva",
-          "outreach",
-          "pmf",
-          "execution",
-          "daily"
-        ]
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       },
       {
         "id": "2026-03-31",
@@ -320,13 +218,7 @@
         "date": "2026-03-31",
         "day": 26,
         "signal": "Behavior unlock with fast and second-run inevitability",
-        "tags": [
-          "ryva",
-          "execution",
-          "pmf",
-          "outreach",
-          "strategy"
-        ]
+        "tags": ["ryva", "execution", "pmf", "outreach", "strategy"]
       },
       {
         "id": "2026-03-30",
@@ -334,12 +226,7 @@
         "date": "2026-03-30",
         "day": 25,
         "signal": "Decision agent, output quality, and safer defaults",
-        "tags": [
-          "ryva",
-          "execution",
-          "pmf",
-          "engineering"
-        ]
+        "tags": ["ryva", "execution", "pmf", "engineering"]
       }
     ],
     "ibx": {
