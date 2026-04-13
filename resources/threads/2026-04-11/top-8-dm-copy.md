@@ -3,6 +3,7 @@
 Date: 2026-04-12
 
 Use:
+
 - send as email, not DM
 - only use `repo-run` line if you actually ran it on their public repo
 - if no public repo, delete that paragraph
@@ -27,6 +28,7 @@ If you want to take a quick look, happy to share it here or hop on a short call:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger post](https://www.linkedin.com/posts/marquis-guillaume_most-people-dont-like-running-evals-honestly-activity-7437503296614965248-jR2t)
 
 ## 2. Alexandre Berkovic, Sphinx
@@ -48,6 +50,7 @@ If you want to see it, happy to share or jump on a quick call:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger post](https://www.linkedin.com/posts/alexandreberkovic_you-gotta-be-able-to-save-my-butt-thats-activity-7428170791059423233-YScT)
 
 ## 3. Steve Ancheta, Zig.ai
@@ -69,6 +72,7 @@ If useful, happy to share it or walk through it quickly:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger post](https://www.linkedin.com/posts/steve-ancheta-b9615541_gtm-b2bsales-revenueoperations-activity-7439385008022380544-OWBu)
 
 ## 4. Rohan Katyal, Milana
@@ -90,6 +94,7 @@ If you want to check it out, happy to send it over or hop on a quick call:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [profile](https://www.linkedin.com/in/rohankatyal)
 
 ## 5. Chrisjan Wust, Sphinx
@@ -111,6 +116,7 @@ If useful, here is my calendar:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger thread](https://www.linkedin.com/posts/alexandreberkovic_we-just-raised-71m-to-build-every-financial-activity-7429510104988790786-p8dw)
 
 ## 6. Akshay Chalana, Saphira AI
@@ -132,6 +138,7 @@ If useful, happy to share or jump on a quick call:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger post](https://www.linkedin.com/posts/akshaychalana_ai-functionalsafety-engineering-activity-7422170610409037824-Jnd3)
 
 ## 7. Bastien Beurier, Nango
@@ -153,6 +160,7 @@ If useful, I can send the link or walk through it quickly:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [trigger post](https://www.linkedin.com/posts/bastienbeurier_github-pr-pmprpm-the-universal-registry-activity-7392236905112707072-PR-I)
 
 ## 8. Caroline Walerud, AirForestry
@@ -174,4 +182,5 @@ If useful, happy to send it or walk through it here:
 https://cal.com/egeuysall/chat
 
 Source:
+
 - [announcement](https://www.airforestry.com/en/airforestry-announces-caroline-walerud-as-ceo-to-drive-the-next-phase-of-scale-and-growth/)
