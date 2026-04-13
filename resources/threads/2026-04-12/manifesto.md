@@ -1,0 +1,25 @@
+# What Changes Starting Today
+
+One thing.
+
+Stop doing anything that is not directly connected to getting a reply from someone on the list this week.
+
+No blog posts. No IBX improvements. No diary entries. No tooling. No Reddit posting. No X posting. Not until you have sent runs to at least 5 people on the list and followed up on every reply.
+
+Everything else is feeling productive without moving the needle. The diary proves this pattern exists. Days where IBX got shipped, three posts went out, 40 Reddit DMs got sent, and the actual PMF metric did not move at all.
+
+The change is not a new strategy. It is ruthless subtraction.
+
+## Today
+
+Run Ryva on s2.dev, 21st.dev, and Notte. Find the sharpest gap in each one. Find the founder email. Send three messages before doing anything else.
+
+## Tomorrow
+
+Do the same with Trigger.dev, Moss, and Kernel.
+
+That is it. Everything else waits until someone replies.
+
+The founders who break out of the valley are not the ones who find a better strategy. They are the ones who stop doing the ten things that feel like progress and do the one thing that actually is.
+
+The one thing right now is getting a reply from someone on that list. Everything else waits.
