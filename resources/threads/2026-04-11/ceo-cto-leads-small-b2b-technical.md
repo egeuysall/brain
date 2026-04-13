@@ -1,8 +1,13 @@
-# CEO/CTO leads for Ryva
+# CEO/CTO email copy for Ryva
 
-Date: 2026-04-11
+Date: 2026-04-12
 
-Note: Top 11 most DM-ready. Bottom 4 softer on size or trigger. If running strict-first, use 1-11 first.
+Use:
+
+- send as email, not DM
+- only use `repo-run` line if you actually ran it on their public repo
+- if no public repo, delete that paragraph
+- if no verified founder email, use `hello@`, `founders@`, or site contact form
 
 ## Ranked table
 
