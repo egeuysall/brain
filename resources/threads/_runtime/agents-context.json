@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11",
+  "generatedAt": "2026-04-13",
   "profile": {
     "name": "Ege Uysal",
     "role": "Founder",
@@ -14,7 +14,11 @@
     "idealTeamSize": "3-15",
     "stage": "working_product_with_active_distribution",
     "focus": "interest_to_repeated_usage_loops",
-    "distribution": ["reddit", "x", "linkedin"],
+    "distribution": [
+      "reddit",
+      "x",
+      "linkedin"
+    ],
     "loops": {
       "firstRun": "curiosity",
       "secondRun": "habit",
@@ -22,7 +26,7 @@
     },
     "strategy": {
       "priority": "depth_with_selective_scale",
-      "activeTeamsTarget": 5,
+      "activeTeamsTarget": 6,
       "conversionView": "behavioral_not_transactional"
     },
     "worldview": [
@@ -48,31 +52,49 @@
   },
   "context": {
     "latest": {
-      "blogDate": "2026-04-05",
-      "diaryDate": "2026-04-10"
+      "blogDate": "2026-04-11",
+      "diaryDate": "2026-04-12"
     },
     "recurringTags": [
+      "daily",
       "execution",
+      "outreach",
       "pmf",
       "ryva",
-      "outreach",
-      "daily",
       "saas",
+      "ai",
       "founder",
       "startups",
-      "ai",
+      "building",
       "product",
-      "architecture",
-      "building"
+      "productivity"
     ],
     "blog": [
+      {
+        "id": "how-i-actually-vibecode",
+        "url": "https://egeuysal.com/blog/how-i-actually-vibecode/",
+        "publishedAt": "2026-04-11",
+        "title": "How I Actually Vibecode",
+        "signal": "Everyone talks about vibecoding like it's just opening Cursor and typing. Here's the real stack, the real workflow, and what actually makes agents useful.",
+        "tags": [
+          "ai",
+          "productivity",
+          "building",
+          "agents"
+        ]
+      },
       {
         "id": "six-hours-to-never-lose-context-again",
         "url": "https://egeuysal.com/blog/six-hours-to-never-lose-context-again/",
         "publishedAt": "2026-04-05",
         "title": "Six Hours to never Lose Context Again",
         "signal": "ibx, www, and brain: three open-source repos that document my startup journey automatically so I never lose context again.",
-        "tags": ["building", "tooling", "saas", "ibx"]
+        "tags": [
+          "building",
+          "tooling",
+          "saas",
+          "ibx"
+        ]
       },
       {
         "id": "the-cost-of-wanting-to-be-everything",
@@ -80,7 +102,11 @@
         "publishedAt": "2026-04-04",
         "title": "The Cost of Wanting to Be Everything",
         "signal": "The strange burden of being someone who can always build a solution, and the quiet universe where I never wanted to become a billionaire.",
-        "tags": ["life", "reflection", "founder"]
+        "tags": [
+          "life",
+          "reflection",
+          "founder"
+        ]
       },
       {
         "id": "the-aha-moment",
@@ -88,7 +114,12 @@
         "publishedAt": "2026-03-29",
         "title": "The Aha Moment",
         "signal": "The aha moment is not something that happens to your users. It is something you engineer. Here is how we built Ryva around a single insight that changes how teams see their own work.",
-        "tags": ["startups", "saas", "founder", "product"]
+        "tags": [
+          "startups",
+          "saas",
+          "founder",
+          "product"
+        ]
       },
       {
         "id": "i-was-spending-25-minutes-a-day-on-image-uploads",
@@ -96,7 +127,11 @@
         "publishedAt": "2026-03-28",
         "title": "I Was Spending 25 Minutes a Day on Image Uploads",
         "signal": "A single bash script eliminated one of the most annoying parts of my publishing workflow. Here is exactly what changed and how it works.",
-        "tags": ["coding", "productivity", "tutorial"]
+        "tags": [
+          "coding",
+          "productivity",
+          "tutorial"
+        ]
       },
       {
         "id": "the-gap-nobody-talks-about",
@@ -104,7 +139,11 @@
         "publishedAt": "2026-03-27",
         "title": "The Gap Nobody Talks About",
         "signal": "Everyone says they want to build something that matters. Almost nobody is willing to pay the actual price. Here's what separates the two.",
-        "tags": ["startups", "founder", "mindset"]
+        "tags": [
+          "startups",
+          "founder",
+          "mindset"
+        ]
       },
       {
         "id": "convex-multitenancy-ryva",
@@ -112,7 +151,13 @@
         "publishedAt": "2026-03-25",
         "title": "Convex, Multi-Tenancy, and AI for Ryva",
         "signal": "I picked Convex for Ryva expecting good DX. I didn't expect it to also be the most AI-friendly database I've ever worked with. Here's why.",
-        "tags": ["convex", "saas", "typescript", "architecture", "ai"]
+        "tags": [
+          "convex",
+          "saas",
+          "typescript",
+          "architecture",
+          "ai"
+        ]
       },
       {
         "id": "the-real-reason-ryva-is-hard-to-copy",
@@ -120,25 +165,56 @@
         "publishedAt": "2026-03-24",
         "title": "The Real Reason Ryva Is Hard to Copy",
         "signal": "Why Ryva's moat comes from compounding project memory, not a one-shot prompt.",
-        "tags": ["startups", "saas", "ai", "product"]
-      },
-      {
-        "id": "i-asked-my-lead-if-it-was-a-bot-it-was-best-gtm-day-yet",
-        "url": "https://egeuysal.com/blog/i-asked-my-lead-if-it-was-a-bot-it-was-best-gtm-day-yet/",
-        "publishedAt": "2026-03-23",
-        "title": "I Asked My Lead If It Was a Bot. Best GTM Day.",
-        "signal": "Zero paying customers. Eight cold runs sent. One bot, one honest rejection, two replies that proved the problem is real. Here's what actually moved today.",
-        "tags": ["startups", "gtm", "founder", "saas"]
+        "tags": [
+          "startups",
+          "saas",
+          "ai",
+          "product"
+        ]
       }
     ],
     "diary": [
+      {
+        "id": "2026-04-12",
+        "url": "https://egeuysal.com/diary/2026-04-12/",
+        "date": "2026-04-12",
+        "day": 38,
+        "signal": "Light day, but clear sticky-team plan and tighter second-run focus",
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
+      },
+      {
+        "id": "2026-04-11",
+        "url": "https://egeuysal.com/diary/2026-04-11/",
+        "date": "2026-04-11",
+        "day": 37,
+        "signal": "Quality stayed high, limited time",
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
+      },
       {
         "id": "2026-04-10",
         "url": "https://egeuysal.com/diary/2026-04-10/",
         "date": "2026-04-10",
         "day": 36,
         "signal": "Quality day: old-DM reactivation and second-run signal",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-09",
@@ -146,7 +222,13 @@
         "date": "2026-04-09",
         "day": 35,
         "signal": "Owner inference stabilized, IBX cleanup, and outbound",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-08",
@@ -154,7 +236,13 @@
         "date": "2026-04-08",
         "day": 34,
         "signal": "Stall diagnosis, stronger rerun proof, and IBX execution",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-07",
@@ -162,7 +250,13 @@
         "date": "2026-04-07",
         "day": 33,
         "signal": "Stronger run quality, repo trust, and growth momentum",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-06",
@@ -170,7 +264,13 @@
         "date": "2026-04-06",
         "day": 32,
         "signal": "Multi-run depth, warm conversions, and stronger signal",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-05",
@@ -178,7 +278,13 @@
         "date": "2026-04-05",
         "day": 31,
         "signal": "Content engine, IBX updates, and second-run conversions",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-04",
@@ -186,7 +292,13 @@
         "date": "2026-04-04",
         "day": 30,
         "signal": "Second runs, behavior change, and outreach depth",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-03",
@@ -194,7 +306,13 @@
         "date": "2026-04-03",
         "day": 29,
         "signal": "Heavy build day: IBX shipped, Ryva paused, clarity reset",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-02",
@@ -202,7 +320,13 @@
         "date": "2026-04-02",
         "day": 28,
         "signal": "Light strategy day: cleanup and execution lock",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       },
       {
         "id": "2026-04-01",
@@ -210,202 +334,125 @@
         "date": "2026-04-01",
         "day": 27,
         "signal": "Second-run pressure, trust signal, and depth shift",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
-      },
-      {
-        "id": "2026-03-31",
-        "url": "https://egeuysal.com/diary/2026-03-31/",
-        "date": "2026-03-31",
-        "day": 26,
-        "signal": "Behavior unlock with fast and second-run inevitability",
-        "tags": ["ryva", "execution", "pmf", "outreach", "strategy"]
-      },
-      {
-        "id": "2026-03-30",
-        "url": "https://egeuysal.com/diary/2026-03-30/",
-        "date": "2026-03-30",
-        "day": 25,
-        "signal": "Decision agent, output quality, and safer defaults",
-        "tags": ["ryva", "execution", "pmf", "engineering"]
+        "tags": [
+          "ryva",
+          "outreach",
+          "pmf",
+          "execution",
+          "daily"
+        ]
       }
     ],
     "ibx": {
       "enabled": true,
       "source": "https://ibx.egeuysal.com",
-      "fetchedAt": "2026-04-11T03:18:44.608Z",
-      "today": "2026-04-10",
+      "fetchedAt": "2026-04-13T03:27:06.513Z",
+      "today": "2026-04-12",
       "auth": {
         "authType": "apiKey",
         "permission": "read"
       },
       "stats": {
-        "total": 204,
-        "open": 40,
-        "done": 164,
-        "highPriorityOpen": 19,
-        "dueToday": 6,
+        "total": 266,
+        "open": 64,
+        "done": 202,
+        "highPriorityOpen": 25,
+        "dueToday": 0,
         "overdueOpen": 0,
-        "gtmOpen": 9
+        "gtmOpen": 17
       },
       "recent": [
         {
-          "id": "jn797b90g49eycf2bc2t265vax84n7an",
-          "title": "Blog / content block (draft + publish prep)",
+          "id": "jn720h9wc7vwqysv93cmmykz4184szdb",
+          "title": "new targets Active Threads to Manage CyberMinds warm intro, ask today, first thing. One yes from them is worth more than all outreach can",
           "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn74hsebfdvzgach5x7qyskpr184nckp",
-          "title": "Outreach send block (personalized messages)",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
-          "isGtm": true
-        },
-        {
-          "id": "jn74wfrty49z5zr14wd5q1j62584n4re",
-          "title": "Ryva execution block (diagnosis + outreach improvements)",
-          "status": "open",
-          "dueDate": "2026-04-10",
+          "dueDate": "2026-04-13",
           "priority": 1,
           "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
+          "createdAt": "2026-04-13T03:23:20.131Z",
           "isGtm": true
         },
         {
-          "id": "jn752znq5w63x3fbb8apwasc7h84ms4t",
-          "title": "Publish first Rands/CTO Craft post",
+          "id": "jn77qpdwqdrnnfyppkf7ayg9ks84smnr",
+          "title": "Sun 4/19: Review week — did one person ask for next run unprompted?",
           "status": "open",
-          "dueDate": "2026-04-11",
-          "priority": 2,
-          "recurrence": "daily",
+          "dueDate": "2026-04-19",
+          "priority": 1,
+          "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:09:29.606Z",
+          "createdAt": "2026-04-13T03:23:20.131Z",
           "isGtm": false
         },
         {
-          "id": "jn7bgbs6b2jfagxv2rvej9q2gd84me9p",
-          "title": "Add replacement-sync line to outreach",
+          "id": "jn7e91xmzencbep25cgjcy6k3984rpze",
+          "title": "Sun 4/19: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
           "status": "open",
-          "dueDate": "2026-04-11",
+          "dueDate": "2026-04-19",
           "priority": 2,
-          "recurrence": "daily",
+          "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:09:24.961Z",
+          "createdAt": "2026-04-13T03:23:20.131Z",
           "isGtm": true
         },
         {
-          "id": "jn74p9tya5skgazrq994gg8npd84njbe",
-          "title": "Start podcast-only during work, the saas podcasT + startups for the rest of us",
+          "id": "jn7fdkfxmaj7g122djd7y9g6s184sf0q",
+          "title": "Sun 4/19: egeuysal.com blog post (write + publish) under 30 min; do not bleed into Monday",
           "status": "open",
-          "dueDate": "2026-04-11",
+          "dueDate": "2026-04-19",
           "priority": 2,
-          "recurrence": "daily",
+          "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:09:22.642Z",
+          "createdAt": "2026-04-13T03:23:20.131Z",
           "isGtm": false
         },
         {
-          "id": "jn708c5h1pszphx5c88vfc63rn84mttn",
-          "title": "Run Ryva again for Reddit user (chatiJY2XxEu)",
+          "id": "jn72y86phkg89msh5ma1p0q2q984s4nd",
+          "title": "Sat 4/18: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
           "status": "open",
-          "dueDate": "2026-04-11",
+          "dueDate": "2026-04-18",
           "priority": 2,
-          "recurrence": "daily",
+          "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:09:19.504Z",
+          "createdAt": "2026-04-13T03:23:20.131Z",
           "isGtm": true
         },
         {
-          "id": "jn76qekbwpyz2abs3ryznmsrbn84nzt2",
-          "title": "Draft topic for ryva ICP-triggering post",
+          "id": "jn7eyg80fxt1ayahkdda6x9e4h84sr1x",
+          "title": "Sat 4/18: Light follow-ups only; no new repo runs",
+          "status": "open",
+          "dueDate": "2026-04-18",
+          "priority": 2,
+          "recurrence": "none",
+          "source": "ai",
+          "createdAt": "2026-04-13T03:23:20.131Z",
+          "isGtm": false
+        },
+        {
+          "id": "jn72heezdg1x6h19s2pjn5c61984scqx",
+          "title": "Fri 4/17: Verify totals — 10 runs sent + unprompted next-run metric check",
+          "status": "open",
+          "dueDate": "2026-04-17",
+          "priority": 1,
+          "recurrence": "none",
+          "source": "ai",
+          "createdAt": "2026-04-13T03:23:20.131Z",
+          "isGtm": false
+        },
+        {
+          "id": "jn76x4dv6nfjs5b3906efw52w584s7tw",
+          "title": "Fri 4/17: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
           "status": "open",
           "dueDate": "2026-04-17",
           "priority": 2,
-          "recurrence": "weekly",
+          "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-11T03:08:45.476Z",
-          "isGtm": false
+          "createdAt": "2026-04-13T03:23:20.131Z",
+          "isGtm": true
         }
       ],
-      "todayTasks": [
-        {
-          "id": "jn797b90g49eycf2bc2t265vax84n7an",
-          "title": "Blog / content block (draft + publish prep)",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn74hsebfdvzgach5x7qyskpr184nckp",
-          "title": "Outreach send block (personalized messages)",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
-          "isGtm": true
-        },
-        {
-          "id": "jn74wfrty49z5zr14wd5q1j62584n4re",
-          "title": "Ryva execution block (diagnosis + outreach improvements)",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 1,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-11T03:09:57.574Z",
-          "isGtm": true
-        },
-        {
-          "id": "jn7fwfg1tzr9nfk96wfw8re2as84dm8w",
-          "title": "Read the English book",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 1,
-          "recurrence": "daily",
-          "source": "ai",
-          "createdAt": "2026-04-07T22:14:26.995Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn7962a22rpzwt8dyjfrxxex2x8485k1",
-          "title": "Plan Chicago architecture photo trip, charge camera",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 3,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-05T02:58:43.095Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn7fteefzxnsbbcpdahe7g84ds849r4t",
-          "title": "Start AI Research Paper relating Ryva",
-          "status": "open",
-          "dueDate": "2026-04-10",
-          "priority": 3,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-05T02:48:35.739Z",
-          "isGtm": false
-        }
-      ]
+      "todayTasks": []
     }
   },
-  "prompt": "You are the execution operator for Ege Uysal, a 16-year-old founder building Ryva.\nRyva is early-stage B2B SaaS for small dev teams (3-15) and reconstructs project state from GitHub + Slack.\nRyva output must surface: decisions made, missing decisions, blockers, next actions.\nDo not optimize for first-run wow. Optimize for second-run habit, then third-run dependency.\nUse /diary for short-term GTM + product deltas. Use /blog for stable worldview and positioning.\n\nCurrent stage: working_product_with_active_distribution.\nPrimary goal: interest_to_repeated_usage_loops.\nPrimary channels: reddit, x, linkedin conversations around standups, lost context, Jira drift.\nOffer rule: continuation over commitment. Push for real data/repo context early; avoid hard selling.\n\nPositioning constraints:\n- Standups are a symptom of invisible project state.\n- Issue tracking is an artifact of broken handoffs.\n- Context is the next software layer; Ryva reveals blind spots teams miss.\n- Make people feel blind without Ryva, not impressed by Ryva.\n\nExecution constraints:\n- Depth over breadth: prioritize 5 active teams over shallow top-of-funnel volume.\n- Keep outputs short, specific, and action-first.\n- No fluff, no long explanation, no generic summaries.\n\nOutput contract for every message:\n1. Reference the latest run.\n2. State what changed vs what is unresolved.\n3. Tie one unresolved item to a clear risk or cost.\n4. Ask exactly one forced binary question.\n5. Set a concrete time anchor for the next run.\n\nBehavior cautions:\n- Do not over-explain.\n- Do not force second-run language unnaturally.\n- Focus on making outputs indispensable, not just interesting."
+  "prompt": "You are the execution operator for Ege Uysal, a 16-year-old founder building Ryva.\nRyva is early-stage B2B SaaS for small dev teams (3-15) and reconstructs project state from GitHub + Slack.\nRyva output must surface: decisions made, missing decisions, blockers, next actions.\nDo not optimize for first-run wow. Optimize for second-run habit, then third-run dependency.\nUse /diary for short-term GTM + product deltas. Use /blog for stable worldview and positioning.\n\nCurrent stage: working_product_with_active_distribution.\nPrimary goal: interest_to_repeated_usage_loops.\nPrimary channels: reddit, x, linkedin conversations around standups, lost context, Jira drift.\nOffer rule: continuation over commitment. Push for real data/repo context early; avoid hard selling.\n\nPositioning constraints:\n- Standups are a symptom of invisible project state.\n- Issue tracking is an artifact of broken handoffs.\n- Context is the next software layer; Ryva reveals blind spots teams miss.\n- Make people feel blind without Ryva, not impressed by Ryva.\n\nExecution constraints:\n- Depth over breadth: prioritize 6 active teams over shallow top-of-funnel volume.\n- Keep outputs short, specific, and action-first.\n- No fluff, no long explanation, no generic summaries.\n\nOutput contract for every message:\n1. Reference the latest run.\n2. State what changed vs what is unresolved.\n3. Tie one unresolved item to a clear risk or cost.\n4. Ask exactly one forced binary question.\n5. Set a concrete time anchor for the next run.\n\nBehavior cautions:\n- Do not over-explain.\n- Do not force second-run language unnaturally.\n- Focus on making outputs indispensable, not just interesting."
 }

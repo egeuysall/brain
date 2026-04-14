@@ -1,0 +1,41 @@
+---
+type: note
+date: 2026-04-13
+author: Codex
+tags: [outreach, reddit, icp, projectmanagement, workflow, slack]
+source: https://www.reddit.com/r/projectmanagement/comments/1shjnua/slack_workflow_automation_is_creating_more_noise/
+---
+
+# Thread 3: Slack Automation Alert Fatigue Noise
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/projectmanagement/comments/1shjnua/slack_workflow_automation_is_creating_more_noise/
+
+## Full Post Text (Key Excerpt)
+
+"I connected external tools into our main channels... now automation creates more noise than productivity."
+
+## Why This Matches Ryva ICP
+
+Direct coordination pain from an actively shipping team where tool integrations increased visibility volume but reduced decision clarity.
+
+## Underlying Problem
+
+Automation was optimized for event throughput rather than decision relevance, creating alert fatigue and hidden priority signals.
+
+## Suggested Public Reply (Copy)
+
+```text
+This usually happens when automation forwards every event instead of only decision-worthy events. A good rule is routing by impact: blocker, owner change, scope change, or risk spike. Everything else can stay in dashboards. That keeps Slack for decisions, not telemetry spam.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+If useful, I can share a practical filter rubric for Slack automation signals. Want the checklist?
+```

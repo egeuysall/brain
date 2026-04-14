@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-08T23:02:46.205188+00:00",
+  "generatedAt": "2026-04-14T01:13:28.913387+00:00",
   "source": "duckduckgo_via_r_jina + x_status_via_r_jina",
   "queries": [
     "site:x.com standup slack status",
@@ -30,10 +30,10 @@
   },
   "discovered": {
     "site:x.com standup slack status": [
+      "https://x.com/SlackStatus/status/1034508072759115776",
       "https://x.com/WrenTheAI/status/2032262721455210914",
       "https://x.com/aakashgupta/status/2035273457005674859",
-      "https://x.com/dabit3/status/2041361025929462064",
-      "https://x.com/hr_unhinged/status/2020968709217714179"
+      "https://x.com/jasonlk/status/2039720330546266356"
     ],
     "site:x.com engineering standup status": [],
     "site:x.com jira slack github standup": [],
@@ -41,19 +41,19 @@
     "site:x.com bug ownership engineering team": [],
     "site:x.com context scattered slack engineering": [],
     "site:x.com had to jump on a call engineering": [],
-    "site:x.com pull request review context switch": [],
+    "site:x.com pull request review context switch": [
+      "https://x.com/Meer_AIIT/status/2027509711722188976",
+      "https://x.com/PawelHuryn/status/2031367857628430475",
+      "https://x.com/affaanmustafa/status/2014040193557471352",
+      "https://x.com/exploraX_/status/2041839658787541004"
+    ],
     "site:x.com incident timeline slack thread": [],
     "site:x.com startup engineering standup jira": [],
     "site:x.com dev team standup daily update": [],
     "site:x.com engineering manager status update": [],
     "site:x.com async standup github slack jira": [],
     "site:x.com ticket stale slack thread": [],
-    "site:x.com ownership unclear bug fix": [
-      "https://x.com/6pack_sage/status/2035372208218931388",
-      "https://x.com/AndroidAuth/status/2016272927021220175",
-      "https://x.com/BrawlStars/status/2026972408180027817",
-      "https://x.com/EvanKlein338226/status/2029315583104143794"
-    ],
+    "site:x.com ownership unclear bug fix": [],
     "site:x.com review blocked waiting pr": [],
     "site:x.com decisions buried in slack engineering": [],
     "site:x.com status theater engineering": [],
@@ -70,13 +70,31 @@
       "source": "https://r.jina.ai/http://x.com/aakashgupta/status/2035273457005674859"
     },
     {
-      "url": "https://x.com/AndroidAuth/status/2016272927021220175",
-      "author": "AndroidAuth",
-      "statusId": "2016272927021220175",
+      "url": "https://x.com/SlackStatus/status/1034508072759115776",
+      "author": "SlackStatus",
+      "statusId": "1034508072759115776",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/AndroidAuth/status/2016272927021220175"
+      "source": "https://r.jina.ai/http://x.com/SlackStatus/status/1034508072759115776"
+    },
+    {
+      "url": "https://x.com/jasonlk/status/2039720330546266356",
+      "author": "jasonlk",
+      "statusId": "2039720330546266356",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/jasonlk/status/2039720330546266356"
+    },
+    {
+      "url": "https://x.com/PawelHuryn/status/2031367857628430475",
+      "author": "PawelHuryn",
+      "statusId": "2031367857628430475",
+      "text": "",
+      "dateLabel": null,
+      "dateIso": null,
+      "source": "https://r.jina.ai/http://x.com/PawelHuryn/status/2031367857628430475"
     },
     {
       "url": "https://x.com/WrenTheAI/status/2032262721455210914",
@@ -88,49 +106,31 @@
       "source": "https://r.jina.ai/http://x.com/WrenTheAI/status/2032262721455210914"
     },
     {
-      "url": "https://x.com/dabit3/status/2041361025929462064",
-      "author": "dabit3",
-      "statusId": "2041361025929462064",
+      "url": "https://x.com/Meer_AIIT/status/2027509711722188976",
+      "author": "Meer_AIIT",
+      "statusId": "2027509711722188976",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/dabit3/status/2041361025929462064"
+      "source": "https://r.jina.ai/http://x.com/Meer_AIIT/status/2027509711722188976"
     },
     {
-      "url": "https://x.com/6pack_sage/status/2035372208218931388",
-      "author": "6pack_sage",
-      "statusId": "2035372208218931388",
+      "url": "https://x.com/affaanmustafa/status/2014040193557471352",
+      "author": "affaanmustafa",
+      "statusId": "2014040193557471352",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/6pack_sage/status/2035372208218931388"
+      "source": "https://r.jina.ai/http://x.com/affaanmustafa/status/2014040193557471352"
     },
     {
-      "url": "https://x.com/hr_unhinged/status/2020968709217714179",
-      "author": "hr_unhinged",
-      "statusId": "2020968709217714179",
+      "url": "https://x.com/exploraX_/status/2041839658787541004",
+      "author": "exploraX_",
+      "statusId": "2041839658787541004",
       "text": "",
       "dateLabel": null,
       "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/hr_unhinged/status/2020968709217714179"
-    },
-    {
-      "url": "https://x.com/BrawlStars/status/2026972408180027817",
-      "author": "BrawlStars",
-      "statusId": "2026972408180027817",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/BrawlStars/status/2026972408180027817"
-    },
-    {
-      "url": "https://x.com/EvanKlein338226/status/2029315583104143794",
-      "author": "EvanKlein338226",
-      "statusId": "2029315583104143794",
-      "text": "",
-      "dateLabel": null,
-      "dateIso": null,
-      "source": "https://r.jina.ai/http://x.com/EvanKlein338226/status/2029315583104143794"
+      "source": "https://r.jina.ai/http://x.com/exploraX_/status/2041839658787541004"
     }
   ]
 }
