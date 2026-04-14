@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-04-14T01:29:38.045443+00:00",
+  "queryCount": 20,
+  "discoveredUrls": 106,
+  "filteredUrls": 22,
+  "queries": [
+    "site:x.com PR review queue blocked engineering slack",
+    "site:x.com standup status theater engineering manager",
+    "site:x.com jira slack github engineering handoff",
+    "site:x.com incident timeline slack thread engineering",
+    "site:x.com on-call context switching engineering",
+    "site:x.com waiting for review pull request engineering",
+    "site:x.com engineering manager blocked requirements",
+    "site:x.com daily standup github jira outlook",
+    "site:x.com release blocked waiting review engineering",
+    "site:x.com owner unclear bug fix engineering",
+    "site:x.com postmortem ownership action items engineering",
+    "site:x.com no context switching slack engineering team",
+    "site:x.com retro action items never done engineering",
+    "site:x.com async standup slack engineering",
+    "site:x.com PR description test plan rollout engineering",
+    "site:x.com code review SLA business hours engineering",
+    "site:x.com product engineering handoff game of telephone",
+    "site:x.com engineering tickets stale no owner",
+    "site:x.com who owns this incident engineering team",
+    "site:x.com software team status updates buried in slack"
+  ],
+  "urls": [
+    {
+      "url": "https://x.com/nithin_k_anil/status/2039707937527275941",
+      "author": "nithin_k_anil",
+      "statusId": "2039707937527275941",
+      "dateIso": "2026-04-02"
+    },
+    {
+      "url": "https://x.com/hsprafrique/status/2039962800240447556",
+      "author": "hsprafrique",
+      "statusId": "2039962800240447556",
+      "dateIso": "2026-04-03"
+    },
+    {
+      "url": "https://x.com/_SEAL_Org/status/2040974923607249099",
+      "author": "_SEAL_Org",
+      "statusId": "2040974923607249099",
+      "dateIso": "2026-04-06"
+    },
+    {
+      "url": "https://x.com/NavodyaLak52108/status/2041093782842876381",
+      "author": "NavodyaLak52108",
+      "statusId": "2041093782842876381",
+      "dateIso": "2026-04-06"
+    },
+    {
+      "url": "https://x.com/zikriAJ/status/2041653272533201265",
+      "author": "zikriAJ",
+      "statusId": "2041653272533201265",
+      "dateIso": "2026-04-07"
+    },
+    {
+      "url": "https://x.com/faustianwigger/status/2042441257738264974",
+      "author": "faustianwigger",
+      "statusId": "2042441257738264974",
+      "dateIso": "2026-04-10"
+    },
+    {
+      "url": "https://x.com/hiteshydv88/status/2038656583127949707",
+      "author": "hiteshydv88",
+      "statusId": "2038656583127949707",
+      "dateIso": "2026-03-30"
+    },
+    {
+      "url": "https://x.com/Geiger_Capital/status/2038729125653819515",
+      "author": "Geiger_Capital",
+      "statusId": "2038729125653819515",
+      "dateIso": "2026-03-30"
+    },
+    {
+      "url": "https://x.com/danshipper/status/2038952867030036572",
+      "author": "danshipper",
+      "statusId": "2038952867030036572",
+      "dateIso": "2026-03-31"
+    },
+    {
+      "url": "https://x.com/aixbt_agent/status/2041939266591453425",
+      "author": "aixbt_agent",
+      "statusId": "2041939266591453425",
+      "dateIso": "2026-04-08"
+    },
+    {
+      "url": "https://x.com/kevinkern/status/2042576048479432863",
+      "author": "kevinkern",
+      "statusId": "2042576048479432863",
+      "dateIso": "2026-04-10"
+    },
+    {
+      "url": "https://x.com/jiohnne/status/2042119047647785136",
+      "author": "jiohnne",
+      "statusId": "2042119047647785136",
+      "dateIso": "2026-04-09"
+    },
+    {
+      "url": "https://x.com/PlanetaryPluto/status/2039118016235860471",
+      "author": "PlanetaryPluto",
+      "statusId": "2039118016235860471",
+      "dateIso": "2026-03-31"
+    },
+    {
+      "url": "https://x.com/MR_MukundRathi/status/2038740725563806065",
+      "author": "MR_MukundRathi",
+      "statusId": "2038740725563806065",
+      "dateIso": "2026-03-30"
+    },
+    {
+      "url": "https://x.com/mitoledano/status/2042421589291987177",
+      "author": "mitoledano",
+      "statusId": "2042421589291987177",
+      "dateIso": "2026-04-10"
+    },
+    {
+      "url": "https://x.com/ardan_blade/status/2041577882057875864",
+      "author": "ardan_blade",
+      "statusId": "2041577882057875864",
+      "dateIso": "2026-04-07"
+    },
+    {
+      "url": "https://x.com/AnalogDreamDev/status/2040888405555372247",
+      "author": "AnalogDreamDev",
+      "statusId": "2040888405555372247",
+      "dateIso": "2026-04-05"
+    },
+    {
+      "url": "https://x.com/ron_ecomm/status/2042343805970760111",
+      "author": "ron_ecomm",
+      "statusId": "2042343805970760111",
+      "dateIso": "2026-04-09"
+    },
+    {
+      "url": "https://x.com/GenAI_Now/status/2038506744511689072",
+      "author": "GenAI_Now",
+      "statusId": "2038506744511689072",
+      "dateIso": "2026-03-30"
+    },
+    {
+      "url": "https://x.com/exploraX_/status/2042272063918854363",
+      "author": "exploraX_",
+      "statusId": "2042272063918854363",
+      "dateIso": "2026-04-09"
+    },
+    {
+      "url": "https://x.com/santtiagom_/status/2041942795951218752",
+      "author": "santtiagom_",
+      "statusId": "2041942795951218752",
+      "dateIso": "2026-04-08"
+    },
+    {
+      "url": "https://x.com/anorth_chen/status/2043694726764003817",
+      "author": "anorth_chen",
+      "statusId": "2043694726764003817",
+      "dateIso": "2026-04-13"
+    }
+  ]
+}

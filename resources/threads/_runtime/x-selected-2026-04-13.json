@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-04-14T01:33:46.072204+00:00",
+  "count": 10,
+  "posts": [
+    {
+      "url": "https://x.com/NAndriievskyi/status/2040746349054861338",
+      "author": "NAndriievskyi",
+      "statusId": "2040746349054861338",
+      "dateIso": "2026-04-05",
+      "dateLabel": "",
+      "title": "Six things I'd tell every ecom brand and marketing agency right now: 1) Stop building automations for the sake of it - build them to eliminate a process bottleneck 2) If your creative pipeline lives in Slack threads, you don't have a pipeline 3) Think in \"objects\" moving through",
+      "excerpt": "# Nikita Andriievskyi on X: \"Six things I'd tell every ecom brand and marketing agency right now: 1) Stop building automations for the sake of it - build them to eliminate a process bottleneck 2) If your creative pipeline lives in Slack threads, you don't have a pipeline 3) Think in \"objects\" moving through\" / X Don’t miss what’s happening People on X are the first to know. [Log in](http://x.com/login) [Sign up](http://x.com/i/flow/signup) # [](http://x.com/) See new posts [![Image 1](https://pb..."
+    },
+    {
+      "url": "https://x.com/BlueNexusAI/status/2038466750325403955",
+      "author": "BlueNexusAI",
+      "statusId": "2038466750325403955",
+      "dateIso": "2026-03-30",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "Marketing team. Context scattered across: 🔀 Slack (feedback, decisions) ↩️ Notion (brand guidelines) 🔃 Drive (reports, briefs) 🔄 Email (client conversations) 2022: 6 tabs, read back a month, hope you remembered the important bits. 2026: \"Draft a campaign brief from Q1 performance + brand guidelines + last client call.\" AI pulls all four. Cross-references. Returns grounded output. No copy-paste. No re-explaining. Just context enhanced workflows."
+    },
+    {
+      "url": "https://x.com/ArjunNambiar03/status/2038469718051590211",
+      "author": "ArjunNambiar03",
+      "statusId": "2038469718051590211",
+      "dateIso": "2026-03-30",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "GitHub Copilot just hit 60 million+ PR reviews. Insane growth. They also moved to an agentic architecture - it reads repo context now, not just the diff. But here's the thing most people miss: most code reviewers do the same thing Copilot used to do. They review the change. Not the system the change is breaking. \"This logic looks fine\", yeah, in isolation. But does it break the invariant 3 services upstream? Does it race with the job that runs every 5 minutes? That's not a diff problem. That's a..."
+    },
+    {
+      "url": "https://x.com/FmzAllan/status/2038564212402724887",
+      "author": "FmzAllan",
+      "statusId": "2038564212402724887",
+      "dateIso": "2026-03-30",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "Next: `commands/` This is your custom slash command library. You define `/deploy`, `/review-pr`, `/add-feature` — whatever your team repeats. Claude executes them like built-in commands. Most teams spend 30 minutes a day explaining the same context to Claude. `commands/` makes"
+    },
+    {
+      "url": "https://x.com/evanbabaallos/status/2039072952902173022",
+      "author": "evanbabaallos",
+      "statusId": "2039072952902173022",
+      "dateIso": "2026-03-31",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "@ardent__dev Validating http://standupready.com. Auto-generates your daily standup from GitHub, Jira, and Outlook. For devs who spend more time writing about work than doing it."
+    },
+    {
+      "url": "https://x.com/mail4agam/status/2038548766765043819",
+      "author": "mail4agam",
+      "statusId": "2038548766765043819",
+      "dateIso": "2026-03-30",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "@probiex007 Context-aware agents (dev, tester, PM) that actually know what the others are working on + a centralized task board managed by a team lead who delegates properly.Each agent spinning up its own worktree keeps things isolated and clean. This is how you turn individual agents into a"
+    },
+    {
+      "url": "https://x.com/ryan_tech_lab/status/2038787650203566105",
+      "author": "ryan_tech_lab",
+      "statusId": "2038787650203566105",
+      "dateIso": "2026-03-31",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "@mustafa_ramax @om_patel5 @Anthropic fair frustration. Anthropic owns the bug, not you. The npx workaround helps in some cases but its not a fix. The only right answer here is them patching it fast."
+    },
+    {
+      "url": "https://x.com/dajaz027/status/2039101426094276915",
+      "author": "dajaz027",
+      "statusId": "2039101426094276915",
+      "dateIso": "2026-03-31",
+      "dateLabel": "",
+      "title": "",
+      "excerpt": "That Monday morning standup....To be a fly on that wall. https://cybernews.com/news/intoxalock-hack-breathalyzer-devices-cars-wont-start-us/"
+    },
+    {
+      "url": "https://x.com/MR_MukundRathi/status/2038740725563806065",
+      "author": "MR_MukundRathi",
+      "statusId": "2038740725563806065",
+      "dateIso": "2026-03-30",
+      "dateLabel": "",
+      "title": "Mukund Rathi on X: \"The real win with AI agents isn't speed. It's that you stop context-switching.",
+      "excerpt": "Mukund Rathi on X: \"The real win with AI agents isn't speed. It's that you stop context-switching."
+    },
+    {
+      "url": "https://x.com/zikriAJ/status/2041653272533201265",
+      "author": "zikriAJ",
+      "statusId": "2041653272533201265",
+      "dateIso": "2026-04-07",
+      "dateLabel": "",
+      "title": "Young Master Chamberlain on X: \"@github I am an AI Engineer paying $39/mo for Copilot Pro+ with a successful payment on March 20, 2026. My account was flagged on April 6th, 2026, for no reason. I am completely blocked from my work. Ticket #4249955. Please investigate this false positive. https://t.co/SFqmdEfYwT\" / X",
+      "excerpt": "Young Master Chamberlain on X: \"@github I am an AI Engineer paying $39/mo for Copilot Pro+ with a successful payment on March 20, 2026. My account was flagged on April 6th, 2026, for no reason. I am completely blocked from my work. Ticket #4249955. Please investigate this false positive. https://t.co/SFqmdEfYwT\" / X"
+    }
+  ]
+}

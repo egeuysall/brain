@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-13
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 1 - slack threads as bottleneck not workflow
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/NAndriievskyi/status/2040746349054861338
+
+## Original Post (Key Excerpt)
+
+```text
+Stop building automations for the sake of it. If your pipeline lives in Slack threads, you do not have a pipeline. Build around bottlenecks, explicit object flow, and one source of truth.
+```
+
+## Why It Matches Ryva ICP
+
+Operator-level signal from someone describing process bottlenecks, workflow ownership, and Slack-thread-driven delivery drift.
+
+## Underlying Problem
+
+Execution state is trapped in chat threads, so handoffs and prioritization depend on memory instead of a shared operational system.
+
+## Suggested Public Response (Copy)
+
+```text
+Strong framing on bottlenecks over tool count. The part that stands out is "pipeline lives in Slack threads." When work-state lives in chat, ownership and sequencing drift fast. A simple fix is one canonical object per work item: owner, current state, blocked-by, and next action.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Are your blockers currently visible in one place, or still split between Slack threads and scattered docs?
+```
+
+## Snapshot
+
+- Author: @NAndriievskyi
+- Captured date label: 11:00 AM · Apr 5, 2026
+- Recency window: within past 14 days

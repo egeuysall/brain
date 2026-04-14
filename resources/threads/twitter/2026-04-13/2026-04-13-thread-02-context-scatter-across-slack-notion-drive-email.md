@@ -1,0 +1,49 @@
+---
+type: note
+date: 2026-04-13
+author: Codex
+tags: [outreach, x, icp, standup, slack, jira, ownership, review]
+source: internal-research
+---
+
+# Thread 2 - context scatter across slack notion drive email
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/BlueNexusAI/status/2038466750325403955
+
+## Original Post (Key Excerpt)
+
+```text
+Context scattered across Slack, Notion, Drive, and email turns simple execution into tab-hopping and memory reconstruction.
+```
+
+## Why It Matches Ryva ICP
+
+Clear coordination pain: decisions and artifacts split across multiple tools with no reliable handoff layer.
+
+## Underlying Problem
+
+Work can be tracked, but decision context is fragmented, so teams lose continuity and re-ask the same questions every cycle.
+
+## Suggested Public Response (Copy)
+
+```text
+This is the real cost of tool sprawl: decision latency. Teams usually think they have a prioritization problem, but it is often a context-routing problem. If each work item does not carry its latest decision and owner, every handoff becomes a rediscovery loop.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Which handoff fails most right now: request intake, ownership transfer, or final approval?
+```
+
+## Snapshot
+
+- Author: @BlueNexusAI
+- Captured date label: 7:52 AM · Mar 30, 2026
+- Recency window: within past 14 days
