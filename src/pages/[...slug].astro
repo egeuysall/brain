@@ -8,25 +8,13 @@ export async function getStaticPaths() {
   return docs.flatMap(doc => {
     const filePath = doc.filePath ?? doc.id
     const cleanPath = toRoutePath(filePath)
-    const filePathWithExtension = filePath.endsWith(".mdx")
-      ? filePath
-      : `${filePath}.mdx`
-    const variants = new Set([
-      cleanPath,
-      `${cleanPath}.mdx`,
-      filePath,
-      filePathWithExtension,
-      `src/content/docs/${cleanPath}`,
-      `src/content/docs/${cleanPath}.mdx`,
-      `src/content/docs/${filePath}`,
-      `src/content/docs/${filePathWithExtension}`
-    ])
-
-    return [...variants].map(slug => ({
-      params: {
-        slug
+    return [
+      {
+        params: {
+          slug: cleanPath
+        }
       }
-    }))
+    ]
   })
 }
 

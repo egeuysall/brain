@@ -10,13 +10,13 @@ export async function getStaticPaths() {
     const cleanSlug = filePath
       .replace(/^resources\//, "")
       .replace(/\.(md|mdx)$/i, "")
-    const variants = new Set([cleanSlug, `${cleanSlug}.mdx`])
-
-    return [...variants].map(slug => ({
-      params: {
-        slug
+    return [
+      {
+        params: {
+          slug: cleanSlug
+        }
       }
-    }))
+    ]
   })
 }
 
