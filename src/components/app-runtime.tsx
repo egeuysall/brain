@@ -6,6 +6,14 @@ import { toast, Toaster } from "sonner"
 
 export function AppRuntime() {
   React.useEffect(() => {
+    if (!("serviceWorker" in navigator)) {
+      return
+    }
+
+    void navigator.serviceWorker.register("/sw.js")
+  }, [])
+
+  React.useEffect(() => {
     const cleanups: Array<() => void> = []
     const blocks = document.querySelectorAll<HTMLElement>("[data-doc-body] pre")
     const links = document.querySelectorAll<HTMLAnchorElement>("[data-doc-body] a[href]")
@@ -16,7 +24,13 @@ export function AppRuntime() {
     for (const link of links) {
       const href = link.getAttribute("href")
 
-      if (!href || href.startsWith("#") || href.startsWith("http")) {
+      if (!href || href.startsWith("#")) {
+        continue
+      }
+
+      if (href.startsWith("http://") || href.startsWith("https://")) {
+        link.setAttribute("target", "_blank")
+        link.setAttribute("rel", "noopener noreferrer")
         continue
       }
 
@@ -27,6 +41,9 @@ export function AppRuntime() {
       if (normalizedHref !== href) {
         link.setAttribute("href", normalizedHref)
       }
+
+      link.setAttribute("target", "_blank")
+      link.setAttribute("rel", "noopener noreferrer")
     }
 
     const handleArrowNavigation = (event: KeyboardEvent) => {
