@@ -1,3 +1,7 @@
 tooling/shortcuts/*.shortcut
 tooling/.DS_Store
 tooling/__pycache__/
+.astro/
+dist/
+.venv/
+src/content/docs/

@@ -1,0 +1,184 @@
+{
+  "generatedAt": "2026-04-15T00:54:01.098019+00:00",
+  "kind": "outreach-fetch-context",
+  "runtime": {
+    "budgetSeconds": 170,
+    "elapsedSeconds": 130.26,
+    "withinBudget": true
+  },
+  "sources": {
+    "agentsContextUrl": "https://egeuysal.com/agents.json",
+    "xDaysWindow": 2,
+    "redditDaysWindow": 2,
+    "xQueries": [
+      "site:x.com CTO standups useless engineering team",
+      "site:x.com engineering manager PR review queue unclear ownership",
+      "site:x.com CTO context lost between Slack GitHub Jira",
+      "site:x.com engineering manager idle team unclear decisions",
+      "site:x.com tech lead standup status theatre",
+      "site:x.com VP engineering review latency blocked decisions"
+    ],
+    "subreddits": ["EngineeringManagers", "ExperiencedDevs", "devops"],
+    "redditIncludeAny": [
+      "standup",
+      "review",
+      "code review",
+      "pull request",
+      "pull requests",
+      "github",
+      "slack",
+      "jira",
+      "linear",
+      "context",
+      "handoff",
+      "decision",
+      "owner",
+      "ownership",
+      "blocked",
+      "bottleneck"
+    ],
+    "redditExcludeAny": [
+      "hiring",
+      "job",
+      "self promotion",
+      "fundraising",
+      "salary",
+      "resume",
+      "vendor",
+      "event",
+      "layoff",
+      "burnout",
+      "burning out"
+    ]
+  },
+  "results": {
+    "agentsContext": {
+      "ok": true,
+      "error": "",
+      "outputFile": "resources/threads/_runtime/agents-context.json"
+    },
+    "xCandidates": {
+      "ok": false,
+      "fallbackUsed": true,
+      "primary": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/fetch_x_posts_via_jina_ddg.py",
+          "--out",
+          "resources/threads/_runtime/x-candidates.json",
+          "--queries",
+          "site:x.com CTO standups useless engineering team,site:x.com engineering manager PR review queue unclear ownership,site:x.com CTO context lost between Slack GitHub Jira,site:x.com engineering manager idle team unclear decisions,site:x.com tech lead standup status theatre,site:x.com VP engineering review latency blocked decisions",
+          "--max-links-per-query",
+          "6",
+          "--max-hydrated",
+          "80",
+          "--sleep-ms",
+          "80",
+          "--days",
+          "2"
+        ],
+        "timeoutSeconds": 80,
+        "ok": false,
+        "durationSeconds": 80.01,
+        "error": "Step timed out after 80s"
+      },
+      "fallback": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/find_x_candidates_quick.py",
+          "--out",
+          "resources/threads/_runtime/x-candidates.json",
+          "--max-links-per-query",
+          "4",
+          "--max-hydrate",
+          "50",
+          "--workers",
+          "6"
+        ],
+        "timeoutSeconds": 45,
+        "ok": false,
+        "durationSeconds": 45.01,
+        "error": "Step timed out after 45s"
+      },
+      "postCount": 0,
+      "outputFile": null
+    },
+    "redditCandidates": {
+      "ok": true,
+      "fallbackUsed": true,
+      "primary": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/reddit_harvest.py",
+          "--subreddits",
+          "EngineeringManagers,ExperiencedDevs,devops",
+          "--min-hours",
+          "0",
+          "--max-hours",
+          "48",
+          "--timeout-seconds",
+          "10",
+          "--sleep-seconds",
+          "0.1",
+          "--no-body",
+          "--only-high-signal",
+          "--include-any",
+          "standup,review,code review,pull request,pull requests,github,slack,jira,linear,context,handoff,decision,owner,ownership,blocked,bottleneck",
+          "--exclude-any",
+          "hiring,job,self promotion,fundraising,salary,resume,vendor,event,layoff,burnout,burning out",
+          "--output-json",
+          "resources/threads/_runtime/reddit-candidates.json"
+        ],
+        "timeoutSeconds": 39,
+        "ok": true,
+        "durationSeconds": 2.46,
+        "exitCode": 0,
+        "stdoutTail": "",
+        "stderrTail": "",
+        "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+      },
+      "fallback": {
+        "command": [
+          "/opt/homebrew/opt/python@3.14/bin/python3.14",
+          "tooling/scripts/reddit_harvest.py",
+          "--subreddits",
+          "EngineeringManagers,ExperiencedDevs,devops",
+          "--min-hours",
+          "0",
+          "--max-hours",
+          "48",
+          "--timeout-seconds",
+          "10",
+          "--sleep-seconds",
+          "0.1",
+          "--no-body",
+          "--include-any",
+          "standup,review,code review,pull request,pull requests,github,slack,jira,linear,context,handoff,decision,owner,ownership,blocked,bottleneck",
+          "--exclude-any",
+          "hiring,job,self promotion,fundraising,salary,resume,vendor,event,layoff,burnout,burning out",
+          "--output-json",
+          "resources/threads/_runtime/reddit-candidates.json"
+        ],
+        "timeoutSeconds": 35,
+        "ok": true,
+        "durationSeconds": 2.56,
+        "exitCode": 0,
+        "stdoutTail": "",
+        "stderrTail": "",
+        "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+      },
+      "postCount": 2,
+      "outputFile": "resources/threads/_runtime/reddit-candidates.json"
+    }
+  },
+  "totals": {
+    "xPosts": 0,
+    "redditPosts": 2,
+    "anyUsableSignals": true
+  },
+  "files": {
+    "agentsContext": "resources/threads/_runtime/agents-context.json",
+    "xCandidates": null,
+    "redditCandidates": "resources/threads/_runtime/reddit-candidates.json"
+  }
+}

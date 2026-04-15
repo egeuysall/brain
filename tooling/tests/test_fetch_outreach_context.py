@@ -6,6 +6,7 @@ from pathlib import Path
 from tooling.scripts.fetch_outreach_context import (
     count_reddit_posts,
     count_x_posts,
+    parse_csv_arg,
     remaining_seconds,
     validate_agents_context,
     write_json,
@@ -58,6 +59,15 @@ class FetchOutreachContextTests(unittest.TestCase):
             write_json(output, payload)
             self.assertTrue(output.exists())
             self.assertIn('"ok": true', output.read_text(encoding="utf-8"))
+
+    def test_parse_csv_arg_uses_default_for_none_or_empty(self) -> None:
+        default = ["EngineeringManagers", "devops"]
+        self.assertEqual(parse_csv_arg(None, default), default)
+        self.assertEqual(parse_csv_arg("", default), default)
+
+    def test_parse_csv_arg_trims_and_filters_values(self) -> None:
+        parsed = parse_csv_arg(" CTO , EngineeringManagers, , devops ", ["fallback"])
+        self.assertEqual(parsed, ["CTO", "EngineeringManagers", "devops"])
 
 
 if __name__ == "__main__":

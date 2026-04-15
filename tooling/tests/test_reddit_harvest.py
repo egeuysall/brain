@@ -3,6 +3,8 @@ import unittest
 from tooling.scripts.reddit_harvest import (
     extract_op_body_from_post_html,
     extract_posts_from_new_html,
+    matches_text_filters,
+    parse_term_list,
     score_candidate,
 )
 
@@ -48,6 +50,17 @@ class RedditHarvestParsingTests(unittest.TestCase):
         self.assertTrue(flags["first_person"])
         self.assertTrue(flags["pain_signal"])
         self.assertTrue(flags["coordination_signal"])
+
+    def test_parse_term_list(self) -> None:
+        self.assertEqual(parse_term_list(None), [])
+        self.assertEqual(parse_term_list(" standup, review , , jira "), ["standup", "review", "jira"])
+
+    def test_matches_text_filters(self) -> None:
+        include_any = ["standup", "review", "context"]
+        exclude_any = ["hiring", "job"]
+        self.assertTrue(matches_text_filters("Code review is broken again", include_any, exclude_any))
+        self.assertFalse(matches_text_filters("We are hiring engineering managers", include_any, exclude_any))
+        self.assertFalse(matches_text_filters("Leadership update and roadmap", include_any, exclude_any))
 
 
 if __name__ == "__main__":

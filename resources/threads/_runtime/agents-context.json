@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-13",
+  "generatedAt": "2026-04-14",
   "profile": {
     "name": "Ege Uysal",
     "role": "Founder",
@@ -14,7 +14,7 @@
     "idealTeamSize": "3-15",
     "stage": "working_product_with_active_distribution",
     "focus": "interest_to_repeated_usage_loops",
-    "distribution": ["reddit", "x", "linkedin"],
+    "distribution": ["email", "reddit", "x"],
     "loops": {
       "firstRun": "curiosity",
       "secondRun": "habit",
@@ -49,7 +49,7 @@
   "context": {
     "latest": {
       "blogDate": "2026-04-11",
-      "diaryDate": "2026-04-12"
+      "diaryDate": "2026-04-13"
     },
     "recurringTags": [
       "daily",
@@ -132,6 +132,14 @@
       }
     ],
     "diary": [
+      {
+        "id": "2026-04-13",
+        "url": "https://egeuysal.com/diary/2026-04-13/",
+        "date": "2026-04-13",
+        "day": 39,
+        "signal": "Stronger proof, product cleanup, and real second-run momentum",
+        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
+      },
       {
         "id": "2026-04-12",
         "url": "https://egeuysal.com/diary/2026-04-12/",
@@ -219,126 +227,118 @@
         "day": 28,
         "signal": "Light strategy day: cleanup and execution lock",
         "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
-      },
-      {
-        "id": "2026-04-01",
-        "url": "https://egeuysal.com/diary/2026-04-01/",
-        "date": "2026-04-01",
-        "day": 27,
-        "signal": "Second-run pressure, trust signal, and depth shift",
-        "tags": ["ryva", "outreach", "pmf", "execution", "daily"]
       }
     ],
     "ibx": {
       "enabled": true,
       "source": "https://ibx.egeuysal.com",
-      "fetchedAt": "2026-04-13T03:27:06.513Z",
-      "today": "2026-04-12",
+      "fetchedAt": "2026-04-14T03:29:41.067Z",
+      "today": "2026-04-13",
       "auth": {
         "authType": "apiKey",
         "permission": "read"
       },
       "stats": {
-        "total": 266,
+        "total": 284,
         "open": 64,
-        "done": 202,
-        "highPriorityOpen": 25,
+        "done": 220,
+        "highPriorityOpen": 21,
         "dueToday": 0,
         "overdueOpen": 0,
         "gtmOpen": 17
       },
       "recent": [
         {
-          "id": "jn720h9wc7vwqysv93cmmykz4184szdb",
-          "title": "new targets Active Threads to Manage CyberMinds warm intro, ask today, first thing. One yes from them is worth more than all outreach can",
+          "id": "jn7ffrytkap09gz1h4babvfj8s84v2ye",
+          "title": "Get Mac to school (Thursday)",
           "status": "open",
-          "dueDate": "2026-04-13",
+          "dueDate": "2026-04-16",
+          "priority": 2,
+          "recurrence": "none",
+          "source": "ai",
+          "createdAt": "2026-04-14T03:29:31.486Z",
+          "isGtm": false
+        },
+        {
+          "id": "jn7cc6dspxq7tgsnbzbyvf83cx84tz1g",
+          "title": "run ryva for 21st.dev again today, email the same dude who replied and ensure he replies back",
+          "status": "open",
+          "dueDate": "2026-04-16",
           "priority": 1,
           "recurrence": "none",
           "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
+          "createdAt": "2026-04-14T03:12:52.898Z",
+          "isGtm": false
+        },
+        {
+          "id": "jn70mdjjsx3f1jbph77ns1bs4584taff",
+          "title": "Mon 4/13: Proof + outreach-lite, 10 ICP replies X/Reddit under 1 hour",
+          "status": "open",
+          "dueDate": "2026-04-14",
+          "priority": 2,
+          "recurrence": "daily",
+          "source": "ai",
+          "createdAt": "2026-04-14T03:09:22.531Z",
           "isGtm": true
         },
         {
-          "id": "jn77qpdwqdrnnfyppkf7ayg9ks84smnr",
-          "title": "Sun 4/19: Review week — did one person ask for next run unprompted?",
+          "id": "jn7128f56sgeypfcnmjw6cg90584tcm1",
+          "title": "Start podcast-only during work, the saas podcasT + startups for the rest of us",
           "status": "open",
-          "dueDate": "2026-04-19",
+          "dueDate": "2026-04-14",
+          "priority": 2,
+          "recurrence": "daily",
+          "source": "ai",
+          "createdAt": "2026-04-14T03:09:16.559Z",
+          "isGtm": false
+        },
+        {
+          "id": "jn77t7rb6td8vn3kmz6st237zs84tjb7",
+          "title": "Add replacement-sync line to outreach",
+          "status": "open",
+          "dueDate": "2026-04-14",
+          "priority": 3,
+          "recurrence": "daily",
+          "source": "ai",
+          "createdAt": "2026-04-14T03:09:15.051Z",
+          "isGtm": true
+        },
+        {
+          "id": "jn7aejzc9z28g3mmetpc17pzsn84vhzt",
+          "title": "Send Reddit replies (today)",
+          "status": "open",
+          "dueDate": "2026-04-14",
+          "priority": 2,
+          "recurrence": "none",
+          "source": "ai",
+          "createdAt": "2026-04-14T03:09:01.772Z",
+          "isGtm": true
+        },
+        {
+          "id": "jn724tya6hwchrf6vw4mtvmb9s84v3g3",
+          "title": "Send 10 outreach messages",
+          "status": "open",
+          "dueDate": "2026-04-14",
           "priority": 1,
-          "recurrence": "none",
+          "recurrence": "daily",
           "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn7e91xmzencbep25cgjcy6k3984rpze",
-          "title": "Sun 4/19: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
-          "status": "open",
-          "dueDate": "2026-04-19",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
+          "createdAt": "2026-04-14T01:37:55.424Z",
           "isGtm": true
         },
         {
-          "id": "jn7fdkfxmaj7g122djd7y9g6s184sf0q",
-          "title": "Sun 4/19: egeuysal.com blog post (write + publish) under 30 min; do not bleed into Monday",
+          "id": "jn7av8efjd6bnwd9qpat82694d84vege",
+          "title": "Drive 2nd-run usage through teams",
           "status": "open",
-          "dueDate": "2026-04-19",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn72y86phkg89msh5ma1p0q2q984s4nd",
-          "title": "Sat 4/18: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
-          "status": "open",
-          "dueDate": "2026-04-18",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
-          "isGtm": true
-        },
-        {
-          "id": "jn7eyg80fxt1ayahkdda6x9e4h84sr1x",
-          "title": "Sat 4/18: Light follow-ups only; no new repo runs",
-          "status": "open",
-          "dueDate": "2026-04-18",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn72heezdg1x6h19s2pjn5c61984scqx",
-          "title": "Fri 4/17: Verify totals — 10 runs sent + unprompted next-run metric check",
-          "status": "open",
-          "dueDate": "2026-04-17",
+          "dueDate": "2026-04-14",
           "priority": 1,
-          "recurrence": "none",
+          "recurrence": "daily",
           "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
-          "isGtm": false
-        },
-        {
-          "id": "jn76x4dv6nfjs5b3906efw52w584s7tw",
-          "title": "Fri 4/17: Proof + outreach-lite — 10 ICP replies X/Reddit under 1 hour",
-          "status": "open",
-          "dueDate": "2026-04-17",
-          "priority": 2,
-          "recurrence": "none",
-          "source": "ai",
-          "createdAt": "2026-04-13T03:23:20.131Z",
+          "createdAt": "2026-04-14T01:37:30.927Z",
           "isGtm": true
         }
       ],
       "todayTasks": []
     }
   },
-  "prompt": "You are the execution operator for Ege Uysal, a 16-year-old founder building Ryva.\nRyva is early-stage B2B SaaS for small dev teams (3-15) and reconstructs project state from GitHub + Slack.\nRyva output must surface: decisions made, missing decisions, blockers, next actions.\nDo not optimize for first-run wow. Optimize for second-run habit, then third-run dependency.\nUse /diary for short-term GTM + product deltas. Use /blog for stable worldview and positioning.\n\nCurrent stage: working_product_with_active_distribution.\nPrimary goal: interest_to_repeated_usage_loops.\nPrimary channels: reddit, x, linkedin conversations around standups, lost context, Jira drift.\nOffer rule: continuation over commitment. Push for real data/repo context early; avoid hard selling.\n\nPositioning constraints:\n- Standups are a symptom of invisible project state.\n- Issue tracking is an artifact of broken handoffs.\n- Context is the next software layer; Ryva reveals blind spots teams miss.\n- Make people feel blind without Ryva, not impressed by Ryva.\n\nExecution constraints:\n- Depth over breadth: prioritize 6 active teams over shallow top-of-funnel volume.\n- Keep outputs short, specific, and action-first.\n- No fluff, no long explanation, no generic summaries.\n\nOutput contract for every message:\n1. Reference the latest run.\n2. State what changed vs what is unresolved.\n3. Tie one unresolved item to a clear risk or cost.\n4. Ask exactly one forced binary question.\n5. Set a concrete time anchor for the next run.\n\nBehavior cautions:\n- Do not over-explain.\n- Do not force second-run language unnaturally.\n- Focus on making outputs indispensable, not just interesting."
+  "prompt": "You are the execution operator for Ege Uysal, a 16-year-old founder building Ryva.\nRyva is early-stage B2B SaaS for small dev teams (3-15) and reconstructs project state from GitHub + Slack.\nRyva output must surface: decisions made, missing decisions, blockers, next actions.\nDo not optimize for first-run wow. Optimize for second-run habit, then third-run dependency.\nUse /diary for short-term GTM + product deltas. Use /blog for stable worldview and positioning.\n\nCurrent stage: working_product_with_active_distribution.\nPrimary goal: interest_to_repeated_usage_loops.\nPrimary channels: email, reddit, x conversations around standups, lost context, Jira drift.\nOffer rule: continuation over commitment. Push for real data/repo context early; avoid hard selling.\n\nPositioning constraints:\n- Standups are a symptom of invisible project state.\n- Issue tracking is an artifact of broken handoffs.\n- Context is the next software layer; Ryva reveals blind spots teams miss.\n- Make people feel blind without Ryva, not impressed by Ryva.\n\nExecution constraints:\n- Depth over breadth: prioritize 6 active teams over shallow top-of-funnel volume.\n- Keep outputs short, specific, and action-first.\n- No fluff, no long explanation, no generic summaries.\n\nOutput contract for every message:\n1. Reference the latest run.\n2. State what changed vs what is unresolved.\n3. Tie one unresolved item to a clear risk or cost.\n4. Ask exactly one forced binary question.\n5. Set a concrete time anchor for the next run.\n\nBehavior cautions:\n- Do not over-explain.\n- Do not force second-run language unnaturally.\n- Focus on making outputs indispensable, not just interesting."
 }

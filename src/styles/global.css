@@ -1,0 +1,222 @@
+@import "tailwindcss";
+
+:root {
+  --background: #f5f2e8;
+  --foreground: #111111;
+  --muted: #5e5a52;
+  --line: #d7d0c2;
+  --panel: rgba(255, 252, 245, 0.82);
+  --accent: #111111;
+  --accent-foreground: #f5f2e8;
+  --radius: 0;
+  --font-sans:
+    "IBM Plex Sans", "Neue Haas Grotesk Text", "Helvetica Neue", Helvetica,
+    Arial, sans-serif;
+  --font-mono:
+    "IBM Plex Mono", "Geist Mono", "SFMono-Regular", Consolas,
+    "Liberation Mono", monospace;
+  color-scheme: light;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-border: var(--line);
+  --color-input: var(--line);
+  --color-ring: var(--foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted);
+  --color-line: var(--line);
+  --color-panel: var(--panel);
+  --color-primary: var(--foreground);
+  --color-primary-foreground: var(--background);
+  --color-secondary: color-mix(in srgb, var(--background) 65%, white 35%);
+  --color-secondary-foreground: var(--foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: #7a1e1e;
+  --font-sans: var(--font-sans);
+  --font-mono: var(--font-mono);
+  --radius-sm: 0;
+  --radius-md: 0;
+  --radius-lg: 0;
+}
+
+html,
+body {
+  min-height: 100%;
+  background:
+    linear-gradient(to bottom, rgba(255, 255, 255, 0.65), transparent 14rem),
+    var(--background);
+}
+
+body {
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  text-rendering: optimizeLegibility;
+}
+
+::selection {
+  background: var(--foreground);
+  color: var(--background);
+}
+
+a {
+  color: inherit;
+}
+
+.row-link {
+  position: relative;
+  border-bottom: 1px solid var(--line);
+}
+
+.row-link::after {
+  content: "";
+  position: absolute;
+  inset-inline: 0;
+  bottom: -1px;
+  height: 1px;
+  background: var(--foreground);
+  transform: scaleX(0);
+  transform-origin: left center;
+  transition: transform 180ms ease;
+}
+
+.row-link:hover::after,
+.row-link:focus-within::after,
+.row-link[data-active="true"]::after {
+  transform: scaleX(1);
+}
+
+.doc-prose {
+  color: var(--foreground);
+  font-size: 0.92rem;
+  line-height: 1.92;
+}
+
+.doc-prose > :first-child {
+  margin-top: 0;
+}
+
+.doc-prose h1,
+.doc-prose h2,
+.doc-prose h3,
+.doc-prose h4 {
+  color: var(--foreground);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+  scroll-margin-top: 6rem;
+}
+
+.doc-prose h1 {
+  margin-top: 0;
+  font-size: clamp(1.45rem, 1.7vw, 2rem);
+  line-height: 1.06;
+  text-transform: uppercase;
+}
+
+.doc-prose h2 {
+  margin-top: 2.6rem;
+  font-size: 0.84rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.doc-prose h3 {
+  margin-top: 2.2rem;
+  font-size: 0.94rem;
+}
+
+.doc-prose p,
+.doc-prose ul,
+.doc-prose ol,
+.doc-prose blockquote {
+  margin-top: 1.35rem;
+}
+
+.doc-prose ul,
+.doc-prose ol {
+  padding-left: 1.25rem;
+}
+
+.doc-prose li {
+  margin-top: 0.7rem;
+}
+
+.doc-prose a {
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.22rem;
+}
+
+.doc-prose blockquote {
+  border-left: 2px solid var(--foreground);
+  padding-left: 1rem;
+  color: var(--muted);
+}
+
+.doc-prose hr {
+  margin-top: 2rem;
+  border: 0;
+  border-top: 1px solid var(--line);
+}
+
+.doc-prose :not(pre) > code {
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.55);
+  padding: 0.1rem 0.35rem;
+  font-family: var(--font-mono);
+  font-size: 0.9em;
+}
+
+.doc-prose pre {
+  position: relative;
+  margin-top: 1.5rem;
+  overflow-x: auto;
+  border: 1px solid var(--foreground);
+  background: #fbf8ef;
+  padding: 1.1rem;
+}
+
+.doc-prose pre code {
+  border: 0;
+  background: transparent;
+  padding: 0;
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+}
+
+.copy-code-button {
+  position: absolute;
+  top: 0.75rem;
+  right: 0.75rem;
+  border: 1px solid var(--foreground);
+  background: var(--background);
+  padding: 0.25rem 0.55rem;
+  font-family: var(--font-mono);
+  font-size: 0.68rem;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.copy-code-button:hover,
+.copy-code-button:focus-visible {
+  background: var(--foreground);
+  color: var(--background);
+}
+
+@media (max-width: 900px) {
+  .doc-prose h1 {
+    font-size: 1.55rem;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+    animation-duration: 0.01ms !important;
+  }
+}

@@ -279,6 +279,21 @@ def score_candidate(title: str, body: str) -> tuple[int, dict[str, bool]]:
     }
 
 
+def parse_term_list(value: str | None) -> list[str]:
+    if not value:
+        return []
+    return [item.strip().lower() for item in value.split(",") if item.strip()]
+
+
+def matches_text_filters(text: str, include_any: list[str], exclude_any: list[str]) -> bool:
+    haystack = text.lower()
+    if include_any and not any(term in haystack for term in include_any):
+        return False
+    if exclude_any and any(term in haystack for term in exclude_any):
+        return False
+    return True
+
+
 def write_json_atomic(path: Path, data: object) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     temp_path = path.with_suffix(path.suffix + ".tmp")
@@ -313,6 +328,8 @@ def harvest(
     include_body: bool,
     request_sleep: float,
     now_utc: datetime,
+    include_any: list[str],
+    exclude_any: list[str],
 ) -> list[Candidate]:
     candidates: list[Candidate] = []
 
@@ -340,6 +357,11 @@ def harvest(
             if age_hours < min_hours or age_hours > max_hours:
                 continue
 
+            if not include_body and not matches_text_filters(
+                post["title"], include_any, exclude_any
+            ):
+                continue
+
             op_body = ""
             if include_body:
                 old_post_url = post["url"].replace("https://www.reddit.com", "https://old.reddit.com")
@@ -363,6 +385,11 @@ def harvest(
                     op_body = ""
                 if request_sleep > 0:
                     time.sleep(request_sleep)
+
+            if include_body and not matches_text_filters(
+                f"{post['title']} {op_body}".strip(), include_any, exclude_any
+            ):
+                continue
 
             score, flags = score_candidate(post["title"], op_body)
             high_signal = score >= 3 and not flags["promotional_signal"]
@@ -431,6 +458,18 @@ def build_parser() -> argparse.ArgumentParser:
         help="Optional output markdown report path.",
     )
     parser.add_argument(
+        "--include-any",
+        type=str,
+        default=None,
+        help="Comma-separated terms; at least one must appear in the title/body.",
+    )
+    parser.add_argument(
+        "--exclude-any",
+        type=str,
+        default=None,
+        help="Comma-separated terms; if any appear in the title/body the post is rejected.",
+    )
+    parser.add_argument(
         "--now",
         type=str,
         default=None,
@@ -454,6 +493,8 @@ def main() -> int:
         raise SystemExit("No subreddits provided.")
 
     now_utc = parse_now(args.now)
+    include_any = parse_term_list(args.include_any)
+    exclude_any = parse_term_list(args.exclude_any)
 
     try:
         data = harvest(
@@ -466,6 +507,8 @@ def main() -> int:
             include_body=not args.no_body,
             request_sleep=args.sleep_seconds,
             now_utc=now_utc,
+            include_any=include_any,
+            exclude_any=exclude_any,
         )
 
         if args.only_high_signal:
@@ -474,6 +517,7 @@ def main() -> int:
         payload = {
             "generated_at": now_utc.isoformat(),
             "window": {"min_hours": args.min_hours, "max_hours": args.max_hours},
+            "filters": {"includeAny": include_any, "excludeAny": exclude_any},
             "count": len(data),
             "items": [asdict(c) for c in data],
         }

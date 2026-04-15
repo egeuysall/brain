@@ -46,6 +46,13 @@ DEFAULT_SUBREDDITS = [
 ]
 
 
+def parse_csv_arg(value: str | None, default: list[str]) -> list[str]:
+    if value is None:
+        return list(default)
+    parsed = [item.strip() for item in value.split(",") if item.strip()]
+    return parsed or list(default)
+
+
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -74,6 +81,30 @@ def parse_args() -> argparse.Namespace:
         type=int,
         default=80,
         help="Max hydrated X posts before truncation.",
+    )
+    parser.add_argument(
+        "--subreddits",
+        type=str,
+        default=None,
+        help="Comma-separated subreddit allowlist for Reddit candidate fetches.",
+    )
+    parser.add_argument(
+        "--x-queries",
+        type=str,
+        default=None,
+        help="Comma-separated X search queries for candidate discovery.",
+    )
+    parser.add_argument(
+        "--reddit-include-any",
+        type=str,
+        default=None,
+        help="Comma-separated terms; Reddit candidate titles/bodies must match at least one.",
+    )
+    parser.add_argument(
+        "--reddit-exclude-any",
+        type=str,
+        default=None,
+        help="Comma-separated terms; Reddit candidate titles/bodies matching any are rejected.",
     )
     return parser.parse_args()
 
@@ -269,7 +300,8 @@ def main() -> int:
     # Step 2: X candidates with fallback
     x_step: dict[str, Any] = {"ok": False, "fallbackUsed": False}
     x_payload: dict[str, Any] | None = None
-    x_queries_arg = ",".join(DEFAULT_X_QUERIES)
+    x_queries = parse_csv_arg(args.x_queries, DEFAULT_X_QUERIES)
+    x_queries_arg = ",".join(x_queries)
     x_timeout = int(max(0, min(80, remaining_seconds(start, args.budget_seconds) - 45)))
     if x_timeout >= 20:
         primary_cmd = [
@@ -335,13 +367,19 @@ def main() -> int:
         max(0, min(70, remaining_seconds(start, args.budget_seconds) - 5))
     )
     reddit_step: dict[str, Any] = {"ok": False, "fallbackUsed": False}
+    subreddits = parse_csv_arg(args.subreddits, DEFAULT_SUBREDDITS)
+    subreddit_arg = ",".join(subreddits)
+    reddit_include_any = parse_csv_arg(args.reddit_include_any, [])
+    reddit_exclude_any = parse_csv_arg(args.reddit_exclude_any, [])
+    reddit_include_arg = ",".join(reddit_include_any)
+    reddit_exclude_arg = ",".join(reddit_exclude_any)
     if reddit_timeout >= 15:
         max_hours = max(24.0, float(args.days_window) * 24.0)
         reddit_cmd = [
             sys.executable,
             "tooling/scripts/reddit_harvest.py",
             "--subreddits",
-            ",".join(DEFAULT_SUBREDDITS),
+            subreddit_arg,
             "--min-hours",
             "0",
             "--max-hours",
@@ -352,9 +390,17 @@ def main() -> int:
             "0.1",
             "--no-body",
             "--only-high-signal",
+        ]
+        if reddit_include_any:
+            reddit_cmd.extend(["--include-any", reddit_include_arg])
+        if reddit_exclude_any:
+            reddit_cmd.extend(["--exclude-any", reddit_exclude_arg])
+        reddit_cmd.extend(
+            [
             "--output-json",
             str(reddit_out),
-        ]
+            ]
+        )
         reddit_run = run_step(
             reddit_cmd,
             cwd=root,
@@ -378,7 +424,7 @@ def main() -> int:
                         sys.executable,
                         "tooling/scripts/reddit_harvest.py",
                         "--subreddits",
-                        ",".join(DEFAULT_SUBREDDITS),
+                        subreddit_arg,
                         "--min-hours",
                         "0",
                         "--max-hours",
@@ -388,9 +434,12 @@ def main() -> int:
                         "--sleep-seconds",
                         "0.1",
                         "--no-body",
-                        "--output-json",
-                        str(reddit_out),
                     ]
+                    if reddit_include_any:
+                        fallback_cmd.extend(["--include-any", reddit_include_arg])
+                    if reddit_exclude_any:
+                        fallback_cmd.extend(["--exclude-any", reddit_exclude_arg])
+                    fallback_cmd.extend(["--output-json", str(reddit_out)])
                     fallback_run = run_step(
                         fallback_cmd,
                         cwd=root,
@@ -426,6 +475,10 @@ def main() -> int:
             "agentsContextUrl": AGENTS_CONTEXT_URL,
             "xDaysWindow": max(1, args.days_window),
             "redditDaysWindow": max(1, args.days_window),
+            "xQueries": x_queries,
+            "subreddits": subreddits,
+            "redditIncludeAny": reddit_include_any,
+            "redditExcludeAny": reddit_exclude_any,
         },
         "results": steps,
         "totals": {
