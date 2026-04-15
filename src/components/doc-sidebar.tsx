@@ -20,9 +20,8 @@ type DocSidebarProps = {
   selectedPath?: string
 }
 
-const TREE_STORAGE_KEY = "ryva-brain:file-tree-expanded:v1"
+const TREE_STORAGE_KEY = "ryva-brain:file-tree-expanded:v2"
 const DEFAULT_EXPANDED_PATHS = new Set([
-  "posts",
   "threads",
   "threads/reddit",
   "threads/twitter"
@@ -43,9 +42,28 @@ function getAncestorPaths(path?: string) {
 
 export function DocSidebar({ docs, selectedPath }: DocSidebarProps) {
   const [query, setQuery] = React.useState("")
-  const [isReady, setIsReady] = React.useState(false)
   const [expandedPaths, setExpandedPaths] = React.useState<Set<string>>(
-    () => new Set(DEFAULT_EXPANDED_PATHS)
+    () => {
+      if (typeof window === "undefined") {
+        return new Set(DEFAULT_EXPANDED_PATHS)
+      }
+
+      try {
+        const savedValue = window.localStorage.getItem(TREE_STORAGE_KEY)
+        if (!savedValue) {
+          return new Set(DEFAULT_EXPANDED_PATHS)
+        }
+
+        const parsedPaths = JSON.parse(savedValue)
+        if (Array.isArray(parsedPaths)) {
+          return new Set(parsedPaths)
+        }
+      } catch {
+        window.localStorage.removeItem(TREE_STORAGE_KEY)
+      }
+
+      return new Set(DEFAULT_EXPANDED_PATHS)
+    }
   )
   const deferredQuery = React.useDeferredValue(query)
   const tokens = deferredQuery
@@ -60,36 +78,11 @@ export function DocSidebar({ docs, selectedPath }: DocSidebarProps) {
       : docs.filter(doc => tokens.every(token => doc.keywords.includes(token)))
 
   React.useEffect(() => {
-    const savedValue = window.localStorage.getItem(TREE_STORAGE_KEY)
-
-    if (!savedValue) {
-      setIsReady(true)
-      return
-    }
-
-    try {
-      const parsedPaths = JSON.parse(savedValue)
-
-      if (Array.isArray(parsedPaths)) {
-        setExpandedPaths(new Set(parsedPaths))
-      }
-    } catch {
-      window.localStorage.removeItem(TREE_STORAGE_KEY)
-    }
-
-    setIsReady(true)
-  }, [])
-
-  React.useEffect(() => {
-    if (!isReady) {
-      return
-    }
-
     window.localStorage.setItem(
       TREE_STORAGE_KEY,
       JSON.stringify([...expandedPaths])
     )
-  }, [expandedPaths, isReady])
+  }, [expandedPaths])
 
   const tree = buildFileTree(
     filteredDocs.map(doc => ({
