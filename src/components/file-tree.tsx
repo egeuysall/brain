@@ -130,11 +130,13 @@ function FileTreeBranch({
           data-active={isActive ? "true" : "false"}
           className="row-link block py-1"
         >
-          <p className={cn("text-[0.86rem] leading-tight", isActive && "font-medium")}>
+          <p
+            className={cn(
+              "text-[0.72rem] leading-tight",
+              isActive && "font-medium"
+            )}
+          >
             {node.title ?? node.name}
-          </p>
-          <p className="text-muted mt-0.5 font-mono text-[0.6rem] tracking-[0.04em]">
-            {node.name}
           </p>
         </a>
       </li>

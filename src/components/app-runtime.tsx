@@ -46,12 +46,16 @@ export function AppRuntime() {
         return
       }
 
-      if (event.key === "ArrowLeft" && previousHref) {
+      if ((event.key === "ArrowLeft" || event.key === "ArrowUp") && previousHref) {
+        event.preventDefault()
         window.location.assign(previousHref)
+        return
       }
 
-      if (event.key === "ArrowRight" && nextHref) {
+      if ((event.key === "ArrowRight" || event.key === "ArrowDown") && nextHref) {
+        event.preventDefault()
         window.location.assign(nextHref)
+        return
       }
     }
 
