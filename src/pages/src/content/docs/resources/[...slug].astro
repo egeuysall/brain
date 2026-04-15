@@ -1,0 +1,41 @@
+---
+import DocsApp from "@/components/docs-app.astro"
+import { getDocsView, listDocs, normalizeDocPath } from "@/lib/docs"
+
+export async function getStaticPaths() {
+  const docs = await listDocs()
+
+  return docs.flatMap(doc => {
+    const filePath = doc.filePath ?? doc.id
+    const cleanSlug = filePath
+      .replace(/^resources\//, "")
+      .replace(/\.(md|mdx)$/i, "")
+    const variants = new Set([cleanSlug, `${cleanSlug}.mdx`])
+
+    return [...variants].map(slug => ({
+      params: {
+        slug
+      }
+    }))
+  })
+}
+
+const legacySlug = Array.isArray(Astro.params.slug)
+  ? Astro.params.slug.join("/")
+  : Astro.params.slug ?? ""
+const selectedPath = normalizeDocPath(`resources/${legacySlug}`)
+const { currentDoc, rendered, sidebarDocs } = await getDocsView(selectedPath)
+
+if (
+  !currentDoc ||
+  normalizeDocPath(currentDoc.filePath ?? currentDoc.id) !== selectedPath
+) {
+  Astro.response.status = 404
+}
+---
+
+<DocsApp
+  currentDoc={currentDoc}
+  rendered={rendered}
+  sidebarDocs={sidebarDocs}
+/>

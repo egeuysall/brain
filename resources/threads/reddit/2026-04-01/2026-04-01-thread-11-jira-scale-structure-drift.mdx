@@ -1,0 +1,51 @@
+---
+type: note
+date: '2026-04-01'
+author: Codex
+tags:
+  - outreach
+  - reddit
+  - jira
+  - dependency-tracking
+  - ownership
+  - visibility
+source: >-
+  https://www.reddit.com/r/agile/comments/1s8x56k/why_does_jira_always_turn_into_a_mess_at_scale/
+title: 'Thread 11: Jira Scale Structure Drift'
+description: Reddit
+updatedAt: '2026-04-01T00:55:52.924Z'
+---
+
+# Thread 11: Jira Scale Structure Drift
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/agile/comments/1s8x56k/why_does_jira_always_turn_into_a_mess_at_scale/
+
+## Full Post Text (Key Excerpt)
+
+"In large delivery environments, Jira setups become messy over time because teams structure work differently, RAID gets tracked outside Jira, and dependencies surface too late. Governance turns into cleanup after things already drifted."
+
+## Why This Matches Ryva ICP
+
+This is a direct coordination breakdown in engineering delivery: context is split across tools, dependencies are implicit, and status artifacts stop reflecting real project state.
+
+## Underlying Problem
+
+The tracker stores tasks but not explicit dependency and ownership decisions, so teams discover blockers only after slip begins.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is the exact failure mode teams hit at scale: Jira becomes a record of activity, not a map of dependency risk. A lightweight fix is forcing each cross-team ticket to carry explicit owner, dependency, and unblock condition fields so blockers surface before review week.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your Jira breakdown description is very real. If useful, I can share a compact dependency hygiene checklist (owner + dependent team + next unblock action) that teams run weekly to stop silent drift without adding more meetings.
+```

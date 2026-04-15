@@ -5,8 +5,13 @@ import { defineConfig } from "astro/config"
 
 export default defineConfig({
   integrations: [mdx(), react()],
+  markdown: {
+    shikiConfig: {
+      theme: "github-light"
+    }
+  },
   server: {
-    host: "localhost",
+    host: "0.0.0.0",
     port: 3000
   },
   vite: {

@@ -1,0 +1,120 @@
+---
+type: note
+date: '2026-03-23'
+author: Codex
+tags:
+  - reddit
+  - team-coordination
+  - pm
+  - engineering
+  - pain-signals
+source: internal-research
+title: 'Top 5 High-Signal Team Coordination Pain Posts (Reddit, Last 48-72h)'
+description: >-
+  | #   | Thread                                         | Reddit
+  Link                                                                                                          
+  | Local Notes                                                          |
+updatedAt: '2026-03-27T03:30:40.661Z'
+---
+
+# Top 5 High-Signal Team Coordination Pain Posts (Reddit, Last 48-72h)
+
+## Quick Access
+
+| #   | Thread                                         | Reddit Link                                                                                                           | Local Notes                                                          |
+| --- | ---------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
+| 1   | Feature not working - HELP                     | [Open](https://www.reddit.com/r/ProductManagement/comments/1rzoco8/feature_not_working_help/)                         | [Open local](./2026-03-23-thread-1-feature-not-working-help.mdx)      |
+| 2   | Getting deeper understanding of business logic | [Open](https://www.reddit.com/r/ProductManagement/comments/1rz877r/getting_deeper_understanding_of_business_logic/)   | [Open local](./2026-03-23-thread-2-business-logic-meeting-gap.mdx)    |
+| 3   | Need feedback                                  | [Open](https://www.reddit.com/r/ProductManagement/comments/1rzk8lq/need_feedback/)                                    | [Open local](./2026-03-23-thread-3-need-feedback-context-latency.mdx) |
+| 4   | Scaling from Trello to GHL pipelines           | [Open](https://www.reddit.com/r/projectmanagement/comments/1rz5jf5/scaling_from_trello_to_ghl_pipelines_anyone_else/) | [Open local](./2026-03-23-thread-4-scaling-trello-to-ghl.mdx)         |
+| 5   | Cloud cost fixes surviving sprint planning     | [Open](https://www.reddit.com/r/devops/comments/1rz607q/what_cloud_cost_fixes_actually_survive_sprint/)               | [Open local](./2026-03-23-thread-5-cloud-cost-fixes-sprint-loss.mdx)  |
+
+## Thread 1 - Feature not working - HELP
+
+- Posted: 2026-03-21T10:43:45+00:00 (~53.9h old at collection)
+- Pain summary: PM says a payment-flow launch has dragged for a year with no QA owner, no staging, and repeated regressions.
+- Why high-signal: Strong first-person operational pain, clear team coordination failures, and blockers surfacing too late.
+
+### Copy Reply
+
+```text
+That sounds brutal. You are doing QA, triage, and PM at once, and the feedback loop is broken if fixes only fail with real users. The fix-one-break-one cycle usually means missing release gates, not just bad tickets.
+```
+
+### Copy DM
+
+```text
+Your post resonated. I have seen the same pattern when there is no staging and QA ownership is split. If useful, I can share a lightweight rollout checklist we used to stop regression loops before user tests. No pitch, just process that helped.
+```
+
+## Thread 2 - Getting deeper understanding of business logic
+
+- Posted: 2026-03-20T21:01:40+00:00 (~67.6h old at collection)
+- Pain summary: PM cannot follow highly technical requirement calls in real time; AI answers arrive too late and force more meetings.
+- Why high-signal: Real first-person context loss during active decision-making.
+
+### Copy Reply
+
+```text
+I know this exact feeling. By the time you type the question, the room has moved and you are carrying unresolved context into the next call. That loop creates meeting debt fast, especially when requirements are still evolving.
+```
+
+### Copy DM
+
+```text
+If helpful, I can share a simple pattern PMs used with engineers: log unknowns live, assign one owner per unknown, and close them async before the next call. It reduced our extra clarification meetings a lot.
+```
+
+## Thread 3 - Need feedback
+
+- Posted: 2026-03-21T06:22:07+00:00 (~58.3h old at collection)
+- Pain summary: PM tries pulling context from docs/code/data during meetings, but answer latency causes missed timing.
+- Why high-signal: Concrete coordination pain from real-time context lag.
+
+### Copy Reply
+
+```text
+Totally get this. The hardest part is not lack of data, it is timing. When answers arrive after the discussion moves on, teams make decisions with partial context and revisit them later.
+```
+
+### Copy DM
+
+```text
+Your post hit a real issue. We saw improvement once we split meeting questions into needs-answer-now vs answer-async-by-EOD, with named owners. Happy to share the exact template if useful.
+```
+
+## Thread 4 - Scaling from Trello to GHL pipelines
+
+- Posted: 2026-03-20T19:19:51+00:00 (~69.3h old at collection)
+- Pain summary: A 10-person team consolidated tools but day-to-day pipeline management became slower and clunkier.
+- Why high-signal: Practical small-team coordination friction, not abstract theory.
+
+### Copy Reply
+
+```text
+You are not imagining it. This is classic growth pain: consolidation reduces context switching in theory, but day-to-day tracking gets slower and the team loses flow. That tradeoff hits hardest once more people touch the same pipeline.
+```
+
+### Copy DM
+
+```text
+Very relatable post. We hit a similar point at around 10 people. What helped was defining one system of record plus a narrow set of operations that could stay in the secondary tool. I can share the decision rubric if useful.
+```
+
+## Thread 5 - Cloud cost fixes surviving sprint planning
+
+- Posted: 2026-03-20T19:37:35+00:00 (~69.0h old at collection)
+- Pain summary: Infra/devops lead says savings are easy to identify but repeatedly lose to feature work in planning.
+- Why high-signal: Recurring cross-team prioritization failure with explicit ownership gaps.
+
+### Copy Reply
+
+```text
+This is a real pain point. Detection is easy; getting ownership and sprint slots is the hard part. The everyone-agrees, ticket-gets-created, then dies quietly pattern usually means no explicit cost-governance lane.
+```
+
+### Copy DM
+
+```text
+I felt this thread. We saw better follow-through when each cost item had a named owner, expected savings, and an expiry date if unclaimed. Happy to share the lightweight planning format we used.
+```

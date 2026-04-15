@@ -1,4 +1,5 @@
 ---
+import { AppRuntime } from "@/components/app-runtime"
 import "@/styles/global.css"
 
 interface Props {
@@ -8,7 +9,7 @@ interface Props {
 
 const {
   title = "Ryva Brain",
-  description = "Swiss-style content browser for repo markdown mirrored into MDX."
+  description = "Swiss-style MDX browser for the repo."
 } = Astro.props
 ---
 
@@ -23,46 +24,6 @@ const {
   </head>
   <body>
     <slot />
-    <script is:inline>
-      const enhanceCodeBlocks = () => {
-        const blocks = document.querySelectorAll("[data-doc-body] pre")
-
-        for (const block of blocks) {
-          if (block.querySelector(".copy-code-button")) continue
-
-          const code = block.querySelector("code")
-          if (!code) continue
-
-          const button = document.createElement("button")
-          button.type = "button"
-          button.className = "copy-code-button"
-          button.textContent = "Copy"
-          button.addEventListener("click", async () => {
-            try {
-              await navigator.clipboard.writeText(code.textContent ?? "")
-              button.textContent = "Copied"
-              window.setTimeout(() => {
-                button.textContent = "Copy"
-              }, 1200)
-            } catch {
-              button.textContent = "Error"
-              window.setTimeout(() => {
-                button.textContent = "Copy"
-              }, 1200)
-            }
-          })
-
-          block.append(button)
-        }
-      }
-
-      if (document.readyState === "loading") {
-        document.addEventListener("DOMContentLoaded", enhanceCodeBlocks, {
-          once: true
-        })
-      } else {
-        enhanceCodeBlocks()
-      }
-    </script>
+    <AppRuntime client:only="react" />
   </body>
 </html>

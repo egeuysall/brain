@@ -4,20 +4,18 @@ import { z } from "zod"
 
 const docs = defineCollection({
   loader: glob({
-    pattern: "**/*.mdx",
-    base: "./src/content/docs"
+    base: "./",
+    pattern: ["resources/**/*.mdx"],
+    generateId: ({ entry }) => entry.replace(/\\/g, "/")
   }),
   schema: z
     .object({
-      title: z.string(),
+      title: z.string().optional(),
       description: z.string().optional(),
       date: z.string().optional(),
       tags: z.array(z.string()).optional(),
-      generatedPath: z.string(),
-      sourcePath: z.string(),
-      sourceDir: z.string(),
-      kind: z.string(),
-      generated: z.boolean().default(true)
+      kind: z.string().optional(),
+      updatedAt: z.string().optional()
     })
     .catchall(z.unknown())
 })

@@ -1,3 +1,5 @@
+"use client"
+
 import * as React from "react"
 
 import { cn } from "@/lib/utils"
@@ -5,6 +7,7 @@ import { cn } from "@/lib/utils"
 export type FileTreeNode = {
   name: string
   path: string
+  routePath?: string
   title?: string
   href?: string
   kind: "folder" | "file"
@@ -13,13 +16,16 @@ export type FileTreeNode = {
 
 type FileTreeEntry = {
   title: string
-  generatedPath: string
+  path: string
+  routePath: string
   href: string
 }
 
 type FileTreeProps = {
   nodes: FileTreeNode[]
   selectedPath?: string
+  expandedPaths?: Set<string>
+  onExpandedChange?: (expandedPaths: Set<string>) => void
 }
 
 function sortNodes(nodes: FileTreeNode[]) {
@@ -37,7 +43,7 @@ export function buildFileTree(entries: FileTreeEntry[]): FileTreeNode[] {
   const folders = new Map<string, FileTreeNode>()
 
   for (const entry of entries) {
-    const segments = entry.generatedPath.split("/")
+    const segments = entry.path.split("/")
     let currentLevel = roots
     let currentPath = ""
 
@@ -48,7 +54,8 @@ export function buildFileTree(entries: FileTreeEntry[]): FileTreeNode[] {
       if (isLast) {
         currentLevel.push({
           name: segment,
-          path: entry.generatedPath,
+          path: entry.path,
+          routePath: entry.routePath,
           title: entry.title,
           href: entry.href,
           kind: "file"
@@ -89,35 +96,31 @@ export function buildFileTree(entries: FileTreeEntry[]): FileTreeNode[] {
   return roots
 }
 
-function nodeContainsSelection(
-  node: FileTreeNode,
-  selectedPath?: string
-): boolean {
-  if (!selectedPath) {
-    return false
-  }
-
-  if (node.path === selectedPath) {
-    return true
-  }
-
-  return (
-    node.children?.some(child => nodeContainsSelection(child, selectedPath)) ??
-    false
-  )
-}
-
 function FileTreeBranch({
   node,
   selectedPath,
-  depth
+  expandedPaths,
+  onExpandedChange
 }: {
   node: FileTreeNode
   selectedPath?: string
-  depth: number
+  expandedPaths: Set<string>
+  onExpandedChange: (expandedPaths: Set<string>) => void
 }) {
   const isActive = node.path === selectedPath
-  const isExpanded = nodeContainsSelection(node, selectedPath) || depth === 0
+  const isExpanded = expandedPaths.has(node.path)
+
+  const toggleFolder = React.useCallback(() => {
+    const nextExpandedPaths = new Set(expandedPaths)
+
+    if (isExpanded) {
+      nextExpandedPaths.delete(node.path)
+    } else {
+      nextExpandedPaths.add(node.path)
+    }
+
+    onExpandedChange(nextExpandedPaths)
+  }, [expandedPaths, isExpanded, node.path, onExpandedChange])
 
   if (node.kind === "file") {
     return (
@@ -125,12 +128,12 @@ function FileTreeBranch({
         <a
           href={node.href}
           data-active={isActive ? "true" : "false"}
-          className="row-link block py-2"
+          className="row-link block py-1"
         >
-          <p className={cn("text-sm leading-tight", isActive && "font-medium")}>
+          <p className={cn("text-[0.86rem] leading-tight", isActive && "font-medium")}>
             {node.title ?? node.name}
           </p>
-          <p className="text-muted mt-0.5 font-mono text-[0.62rem] tracking-[0.14em] uppercase">
+          <p className="text-muted mt-0.5 font-mono text-[0.6rem] tracking-[0.04em]">
             {node.name}
           </p>
         </a>
@@ -140,39 +143,59 @@ function FileTreeBranch({
 
   return (
     <li className="list-none">
-      <details open={isExpanded} className="group">
-        <summary className="text-foreground cursor-pointer list-none py-1.5 font-mono text-[0.66rem] tracking-[0.16em] uppercase marker:hidden">
-          <span className="inline-flex items-center gap-2">
-            <span className="text-muted inline-block transition-transform duration-150 group-open:rotate-90">
-              -
-            </span>
-            <span>{node.name}</span>
+      <div className="group">
+        <button
+          type="button"
+          onClick={toggleFolder}
+          className="text-foreground flex w-full cursor-pointer items-center gap-2 py-0.5 text-left font-mono text-[0.66rem] tracking-[0.04em]"
+          aria-expanded={isExpanded}
+        >
+          <span
+            className={cn(
+              "text-muted inline-flex size-3 items-center justify-center transition-transform duration-150",
+              isExpanded && "rotate-90"
+            )}
+          >
+            -
           </span>
-        </summary>
-        <ul className="border-line ml-2.5 border-l pl-3">
+          <span>{node.name}</span>
+        </button>
+        <ul
+          className={cn(
+            "border-line ml-1.5 border-l pl-2",
+            !isExpanded && "hidden"
+          )}
+        >
           {node.children?.map(child => (
             <FileTreeBranch
               key={child.path}
               node={child}
               selectedPath={selectedPath}
-              depth={depth + 1}
+              expandedPaths={expandedPaths}
+              onExpandedChange={onExpandedChange}
             />
           ))}
         </ul>
-      </details>
+      </div>
     </li>
   )
 }
 
-export function FileTree({ nodes, selectedPath }: FileTreeProps) {
+export function FileTree({
+  nodes,
+  selectedPath,
+  expandedPaths = new Set(),
+  onExpandedChange = () => {}
+}: FileTreeProps) {
   return (
-    <ul className="space-y-0.5 px-4 pb-4">
+    <ul className="space-y-0 px-3 py-1.5">
       {nodes.map(node => (
         <FileTreeBranch
           key={node.path}
           node={node}
           selectedPath={selectedPath}
-          depth={0}
+          expandedPaths={expandedPaths}
+          onExpandedChange={onExpandedChange}
         />
       ))}
     </ul>

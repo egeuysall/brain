@@ -1,0 +1,17 @@
+---
+title: 'Automation Memory: find-10-outreach-posts'
+description: 'Last updated: 2026-04-08T19:21:42Z'
+updatedAt: '2026-04-08T19:21:42.705Z'
+---
+# Automation Memory: find-10-outreach-posts
+
+Last updated: 2026-04-08T19:21:42Z
+
+- Ran required fetch command: `python3 tooling/scripts/fetch_outreach_context.py --out resources/threads/_runtime/fetch-context.json --budget-seconds 170`.
+- Strict fetch yielded 1 Reddit candidate; completed a bounded supplemental Reddit harvest (same subreddit set, 14-day window, no-body) to reach 10 high-signal posts.
+- Selected 10 Reddit posts all within the last 7 days, unique authors, excluded disallowed user `HiSimpy`, and verified zero URL collisions with existing thread files.
+- Wrote output set under `resources/threads/reddit/2026-04-08/`:
+  - `2026-04-08-top-10-outreach-posts.md`
+  - `2026-04-08-thread-01` through `2026-04-08-thread-10` files with platform, link, excerpt, ICP match reason, underlying problem, and copy-ready public reply + DM blocks.
+- Validation summary: `thread_files=10`, `unique_urls=10`, `collisions=0`, `unique_authors=10`, `violations=[]`.
+- Approx run duration: ~7 minutes total wall time.

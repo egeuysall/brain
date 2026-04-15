@@ -1,0 +1,62 @@
+---
+type: note
+date: '2026-03-25'
+author: Codex
+tags:
+  - outreach
+  - reddit
+  - icp
+  - dev-coordination
+source: >-
+  https://www.reddit.com/r/ExperiencedDevs/comments/1s28box/why_do_ci_pipeline_failures_keep_blocking/
+title: Thread 1 - ci failures ownership gap
+description: >-
+  Why do ci pipeline failures keep blocking deployments when nobody can agree on
+  who owns the fix
+updatedAt: '2026-03-27T03:30:40.718Z'
+---
+
+# Thread 1 - ci failures ownership gap
+
+## Platform
+
+- Reddit
+
+## Link
+
+- https://www.reddit.com/r/ExperiencedDevs/comments/1s28box/why_do_ci_pipeline_failures_keep_blocking/
+
+## Post Text (Key Excerpt)
+
+```text
+Why do ci pipeline failures keep blocking deployments when nobody can agree on who owns the fix
+
+There's a specific kind of organizational dysfunction where ci failures become normalized background noise. The pipeline goes red, nobody knows who owns the fix, someone overrides it to unblock themselves, and the underlying issue stays unfixed until it causes something worse downstream. Part of the problem is that ci ownership is often ambiguous. Whoever set it up originally isnt necessarily resp...
+```
+
+## Why It Matches Ryva ICP
+
+This is direct dev-team operational pain: CI keeps blocking releases, ownership is unclear, and people bypass the system to unblock themselves. It maps tightly to Ryva's ICP around unclear ownership and implicit decisions.
+
+## Underlying Problem
+
+CI ownership is undefined, so failures become recurring noise instead of resolved engineering work.
+
+## Suggested Public Response (Copy)
+
+```text
+This is ownership debt, not just pipeline debt. When CI can fail without a named owner and escalation path, teams optimize for local unblocking and quietly ship risk downstream.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your CI example is exactly the pattern we keep seeing: red pipeline, no clear owner, then override-and-move-on. If useful, I can share a compact ownership/escalation template that makes this visible before release day.
+```
+
+## Snapshot
+
+- Subreddit: r/ExperiencedDevs
+- Author: u/BedMelodic5524
+- Age: 0.13 days (past week)
+- Comments: 64

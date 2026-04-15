@@ -1,0 +1,51 @@
+---
+type: note
+date: '2026-04-04'
+author: Codex
+tags:
+  - outreach
+  - reddit
+  - icp
+  - ownership
+  - context
+  - execution
+source: >-
+  https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/
+title: 'Thread 1: Microservices Incident Context Fragmentation'
+description: Reddit
+updatedAt: '2026-04-03T14:57:46.696Z'
+---
+
+# Thread 1: Microservices Incident Context Fragmentation
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/devops/comments/1rx502f/weve_been_running_into_a_lot_of_friction_trying/
+
+## Full Post Text (Key Excerpt)
+
+"We scaled out more microservices and everything is spread across different logging and metrics tools... we flipped between Kubernetes logs, SIEM exports, and cloud metrics trying to line up timestamps."
+
+## Why This Matches Ryva ICP
+
+This is direct execution pain in an active engineering team: context is scattered across tools, timeline reconstruction is manual, and ownership of incident state is unclear in the moment.
+
+## Underlying Problem
+
+Project-state truth is fragmented across systems, so outage investigations depend on manual reconstruction instead of shared context.
+
+## Suggested Public Reply (Copy)
+
+```text
+You are describing the exact failure mode most teams hit after service growth: data exists, but incident context is not queryable as one timeline. Standardize join keys (trace/request ID, deploy ID, service, env) and enforce them in CI so every spike has one reconstructable path instead of dashboard archaeology.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your post nails the real issue: not lack of data, lack of coherent incident context. If useful, I can share a lightweight incident schema teams use to align logs/metrics/deploy events without adding another tool.
+```

@@ -1,0 +1,101 @@
+---
+import { DocSidebar } from "@/components/doc-sidebar"
+import BaseLayout from "@/layouts/BaseLayout.astro"
+import { toRoutePath, toTreePath } from "@/lib/docs"
+
+interface SidebarDoc {
+  title: string
+  path: string
+  routePath: string
+  href: string
+  description: string
+  keywords: string
+}
+
+interface Props {
+  currentDoc: any
+  rendered: any
+  sidebarDocs: SidebarDoc[]
+}
+
+const { currentDoc, rendered, sidebarDocs } = Astro.props
+const currentPath = currentDoc ? toTreePath(currentDoc.filePath ?? currentDoc.id) : ""
+const currentRoutePath = currentDoc
+  ? toRoutePath(currentDoc.filePath ?? currentDoc.id)
+  : ""
+const currentTitle =
+  currentDoc?.data?.title ??
+  (currentDoc
+    ? sidebarDocs.find(doc => doc.path === currentPath)?.title
+    : undefined) ??
+  "Document"
+const getParentPath = (path: string) => path.split("/").slice(0, -1).join("/")
+const siblingDocs = currentRoutePath
+  ? sidebarDocs
+      .filter(doc => getParentPath(doc.routePath) === getParentPath(currentRoutePath))
+      .sort((left, right) => left.routePath.localeCompare(right.routePath))
+  : []
+const currentIndex = siblingDocs.findIndex(doc => doc.routePath === currentRoutePath)
+const previousDocHref =
+  currentIndex > 0 ? siblingDocs[currentIndex - 1]?.href : undefined
+const nextDocHref =
+  currentIndex >= 0 && currentIndex < siblingDocs.length - 1
+    ? siblingDocs[currentIndex + 1]?.href
+    : undefined
+---
+
+<BaseLayout title={currentDoc ? `${currentTitle} | resources` : "resources"}>
+  <div class="mx-auto h-[100dvh] max-w-[1540px] px-2.5 py-2 sm:px-3 sm:py-2.5">
+    <header class="border border-line bg-panel mb-2 flex h-10 items-center justify-between px-3.5">
+      <p class="font-mono text-[0.67rem] tracking-[0.05em] text-muted">
+        resources
+      </p>
+      <p class="font-mono text-[0.62rem] tracking-[0.04em] text-muted">
+        ← prev · next →
+      </p>
+    </header>
+
+    <main class="grid h-[calc(100dvh-3.5rem)] gap-2 lg:grid-cols-[22rem_minmax(0,1fr)]">
+      <DocSidebar
+        docs={sidebarDocs}
+        selectedPath={currentPath || undefined}
+        client:load
+      />
+
+      <section
+        class="border border-line bg-panel min-h-0 overflow-hidden"
+        data-doc-nav
+        data-prev-href={previousDocHref}
+        data-next-href={nextDocHref}
+      >
+        {currentDoc && rendered ? (
+          <div class="h-full overflow-y-auto">
+            <div class="border-b border-line p-4 sm:px-5 sm:py-4">
+              <h1 class="max-w-4xl text-[1rem] leading-[1.1] font-medium tracking-[-0.01em] sm:text-[1.2rem]">
+                {currentTitle}
+              </h1>
+            </div>
+
+            <div class="p-3.5 sm:p-4">
+              <article
+                class="doc-prose prose prose-sm prose-neutral max-w-none"
+                data-doc-body
+              >
+                <rendered.Content />
+              </article>
+            </div>
+          </div>
+        ) : (
+          <div class="p-8">
+            <p class="font-mono text-[0.7rem] tracking-[0.08em] text-muted">
+              missing doc
+            </p>
+            <p class="mt-3 max-w-xl text-base">
+              That document path does not exist in the current MDX collection.
+            </p>
+          </div>
+        )}
+      </section>
+    </main>
+  </div>
+</BaseLayout>

@@ -1,0 +1,64 @@
+---
+type: note
+date: '2026-04-01'
+author: Codex
+tags:
+  - outreach
+  - x
+  - icp
+  - standup
+  - slack
+  - jira
+  - pr
+  - ownership
+source: internal-research
+title: Thread 11 - pr review context rehydration after comments
+description: >-
+  claude code has a --from-pr flag that resumes the exact session that created a
+  pull request. so when you get review comments 3 days later you don't have to
+  rebuild all the context. the agent already knows what tradeoffs it made and
+  why. saves so much time on back and forth
+updatedAt: '2026-04-01T00:54:33.471Z'
+---
+
+# Thread 11 - pr review context rehydration after comments
+
+## Platform
+
+- X
+
+## Link
+
+- https://x.com/dmshirochenko/status/2036572972601979053
+
+## Post Text (Key Excerpt)
+
+```text
+claude code has a --from-pr flag that resumes the exact session that created a pull request. so when you get review comments 3 days later you don't have to rebuild all the context. the agent already knows what tradeoffs it made and why. saves so much time on back and forth
+```
+
+## Why It Matches Ryva ICP
+
+It describes a real PR workflow failure: reviewers arrive days later and context has to be reconstructed from scattered artifacts. That is exactly the coordination tax Ryva targets.
+
+## Underlying Problem
+
+PR feedback loops stall because decision context is not preserved where the team executes.
+
+## Suggested Public Response (Copy)
+
+```text
+That “3 days later” context rebuild is the expensive part of review, not the code diff itself. Teams move faster when every PR carries explicit decision context, tradeoffs, and owner notes so reviewers don't have to reverse engineer intent from Slack and commits.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+When review comments come in late on your team, where does context usually get rebuilt from first: Slack, PR history, or memory?
+```
+
+## Snapshot
+
+- Author: @dmshirochenko
+- Captured date label: 2026-03-24
+- Recency window: within past 7 days

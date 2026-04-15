@@ -1,0 +1,178 @@
+---
+type: doc
+author: Codex
+tags:
+  - research
+  - reddit
+  - sourcing
+  - workflow
+  - tooling
+title: Thread Research Playbook
+description: >-
+  This playbook is for agents collecting high-signal Reddit/LinkedIn pain posts
+  for outreach.
+updatedAt: '2026-03-27T03:30:40.784Z'
+---
+
+# Thread Research Playbook
+
+This playbook is for agents collecting high-signal Reddit/LinkedIn pain posts for outreach.
+
+## Objectives
+
+- Find recent first-person pain posts (not generic discussions).
+- Keep evidence quality high: source links, timestamps, and context snippets.
+- Output copy-ready replies/DMs with clear formatting.
+
+## Source Strategy (Recommended)
+
+1. Use Exa MCP for discovery breadth.
+2. Verify every candidate directly on source pages before final inclusion.
+3. Prefer `old.reddit.com` HTML verification for Reddit recency and body extraction.
+4. Never trust Exa recency labels alone for strict 48-72h windows.
+
+## Should Agents Use Exa MCP?
+
+Use Exa MCP for candidate generation, not final truth.
+
+- Good for:
+- quickly finding likely posts across many communities
+- finding long-tail threads not obvious from one subreddit scan
+
+- Not sufficient for:
+- strict recency windows (48-72h)
+- final inclusion decisions
+- confirmation that post is not removed, edited, or promotional
+
+Final inclusion must be based on direct page verification.
+
+## Why Direct Reddit JSON Often Fails
+
+Common failure modes:
+
+- `429` rate limits on `reddit.com/*.json`
+- malformed/hostile payloads for strict parsers
+- stale or inconsistent result snapshots from external indices
+
+Mitigation:
+
+- prefer `old.reddit.com/r/&lt;sub>/new/` HTML listings
+- fetch post pages from `old.reddit.com` for OP body
+- use JSON sanitation only as fallback path
+
+## Tooling Added
+
+### 1) `tooling/scripts/reddit_fix_json.py`
+
+Purpose: sanitize malformed JSON by removing C0 control chars and re-validate.
+
+Examples:
+
+```bash
+python3 tooling/scripts/reddit_fix_json.py --input /tmp/raw.json --output /tmp/clean.json --stats
+python3 tooling/scripts/reddit_fix_json.py --input /tmp/raw.json --pretty > /tmp/pretty.json
+curl -sL 'https://www.reddit.com/r/EngineeringManagers/new.json?limit=25' | python3 tooling/scripts/reddit_fix_json.py --stats --allow-invalid > /tmp/clean-ish.json
+```
+
+### 2) `tooling/scripts/reddit_harvest.py`
+
+Purpose: harvest candidates from `old.reddit.com`, filter by age window, score high-signal patterns, and export JSON/Markdown.
+
+Examples:
+
+```bash
+python3 tooling/scripts/reddit_harvest.py \
+  --subreddits EngineeringManagers,ExperiencedDevs,ProductManagement,projectmanagement,devops \
+  --min-hours 48 \
+  --max-hours 72 \
+  --output-json resources/threads/2026-03-24/candidates.json \
+  --output-md resources/threads/2026-03-24/candidates.md
+
+python3 tooling/scripts/reddit_harvest.py \
+  --subreddits EngineeringManagers,ExperiencedDevs,ProductManagement \
+  --only-high-signal \
+  --output-json resources/threads/2026-03-24/high_signal.json
+```
+
+## Daily Output Structure
+
+Create a dated folder per run:
+
+- `resources/threads/YYYY-MM-DD/`
+
+Recommended files:
+
+- `YYYY-MM-DD-top-5-team-coordination-pain.md`
+- `YYYY-MM-DD-thread-1-*.md` ... `YYYY-MM-DD-thread-5-*.md`
+- `candidates.json` (machine-readable)
+- `high_signal.json` (machine-readable filtered)
+- `candidates.md` (quick review table)
+
+## Markdown Formatting Rules
+
+For each selected thread file:
+
+1. `Quick Actions` section
+
+- direct Reddit link
+- link back to daily top-5 file
+
+2. `Snapshot`
+
+- role signal (PM/EM/founder/senior engineer)
+- timestamp in ISO-8601
+- why it qualifies for date window
+
+3. `Pain Summary`
+
+- 1-2 sentences grounded in concrete events
+
+4. `Why This Is High-Signal`
+
+- specific evidence, not abstract claims
+
+5. `Suggested Public Reply (Copy)`
+
+- fenced `text` block
+- under 80 words
+
+6. `Suggested DM (Copy)`
+
+- fenced `text` block
+- under 80 words
+
+7. `Personalization Notes`
+
+- 2-3 bullets for quick tailoring
+
+## Inclusion/Exclusion Filters
+
+Include only if all are true:
+
+- first-person ownership (`I`, `we`, `our`, `my`)
+- real operating situation (not generic philosophy)
+- explicit pain/friction (misses, blockers, rework, confusion)
+- small-team or practical operator context
+
+Exclude:
+
+- “what tools do you use” threads
+- broad thought-leadership posts
+- obvious promo/demo asks
+- pure hiring/career advice without coordination pain
+
+## Security + Operational Safeguards
+
+- Use HTTPS only.
+- Use explicit user-agent in scripted requests.
+- Apply size limits on fetched payloads.
+- Apply retries with backoff on `429`/network errors.
+- Fail closed when JSON remains invalid after sanitation.
+
+## Quality Checklist Before Publishing Top 5
+
+- All 5 links open and are not removed.
+- Timestamps verified directly from source pages.
+- Each post has concrete pain evidence in OP text.
+- Replies and DMs are each `&lt;80` words.
+- Final markdown includes copy-ready fenced `text` blocks.

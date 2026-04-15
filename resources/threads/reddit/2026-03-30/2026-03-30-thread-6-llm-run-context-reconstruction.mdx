@@ -1,0 +1,52 @@
+---
+type: note
+date: '2026-03-30'
+author: Codex
+tags:
+  - outreach
+  - reddit
+  - icp
+  - devops
+  - context
+  - incident-response
+  - ownership
+source: >-
+  https://www.reddit.com/r/devops/comments/1s4fk1p/we_built_a_selfhosted_execution_layer_after/
+title: 'Thread 6: LLM Run Context Reconstruction'
+description: Reddit
+updatedAt: '2026-03-29T15:22:23.278Z'
+---
+
+# Thread 6: LLM Run Context Reconstruction
+
+## Platform
+
+Reddit
+
+## Link
+
+https://www.reddit.com/r/devops/comments/1s4fk1p/we_built_a_selfhosted_execution_layer_after/
+
+## Key Excerpt
+
+"A run touched 6-8 steps across systems... retries and side effects made basic questions hard: what happened, which step did what, can we safely resume... we kept finding calls with no execution context attached."
+
+## Why This Matches Ryva ICP
+
+Strong multi-team execution visibility pain: context is spread across services and tools, ownership is unclear at failure boundaries, and incident review becomes reconstruction work.
+
+## Underlying Problem
+
+Execution traces are not organized around accountable workflow state, so teams cannot reliably answer what happened or what should happen next.
+
+## Suggested Public Reply (Copy)
+
+```text
+This is a real observability-to-accountability gap. Logs can tell you events happened, but not always who owned the decision path or whether a retry is safe. Once workflows cross teams, reconstruction debt compounds fast.
+```
+
+## Suggested DM Idea (Copy)
+
+```text
+Your writeup highlights a pattern we see often: technical telemetry exists, but execution ownership context is missing at incident time. Happy to share a practical model for tying run state to owner + decision trail without heavyweight workflow rewrites.
+```

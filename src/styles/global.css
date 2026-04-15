@@ -1,4 +1,5 @@
 @import "tailwindcss";
+@plugin "@tailwindcss/typography";
 
 :root {
   --background: #f5f2e8;
@@ -68,6 +69,7 @@ a {
 .row-link {
   position: relative;
   border-bottom: 1px solid var(--line);
+  padding-inline: 0.1rem;
 }
 
 .row-link::after {
@@ -88,10 +90,14 @@ a {
   transform: scaleX(1);
 }
 
+.row-link[data-active="true"] {
+  background: rgba(255, 255, 255, 0.42);
+}
+
 .doc-prose {
   color: var(--foreground);
-  font-size: 0.92rem;
-  line-height: 1.92;
+  font-size: 0.88rem;
+  line-height: 1.62;
 }
 
 .doc-prose > :first-child {
@@ -104,34 +110,31 @@ a {
 .doc-prose h4 {
   color: var(--foreground);
   font-weight: 500;
-  letter-spacing: -0.03em;
+  letter-spacing: -0.015em;
   scroll-margin-top: 6rem;
 }
 
 .doc-prose h1 {
   margin-top: 0;
-  font-size: clamp(1.45rem, 1.7vw, 2rem);
-  line-height: 1.06;
-  text-transform: uppercase;
+  font-size: clamp(1.22rem, 1.45vw, 1.7rem);
+  line-height: 1.02;
 }
 
 .doc-prose h2 {
-  margin-top: 2.6rem;
-  font-size: 0.84rem;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
+  margin-top: 1.55rem;
+  font-size: 0.98rem;
 }
 
 .doc-prose h3 {
-  margin-top: 2.2rem;
-  font-size: 0.94rem;
+  margin-top: 1.35rem;
+  font-size: 0.9rem;
 }
 
 .doc-prose p,
 .doc-prose ul,
 .doc-prose ol,
 .doc-prose blockquote {
-  margin-top: 1.35rem;
+  margin-top: 0.72rem;
 }
 
 .doc-prose ul,
@@ -140,7 +143,7 @@ a {
 }
 
 .doc-prose li {
-  margin-top: 0.7rem;
+  margin-top: 0.45rem;
 }
 
 .doc-prose a {
@@ -156,7 +159,7 @@ a {
 }
 
 .doc-prose hr {
-  margin-top: 2rem;
+  margin-top: 1.5rem;
   border: 0;
   border-top: 1px solid var(--line);
 }
@@ -171,11 +174,12 @@ a {
 
 .doc-prose pre {
   position: relative;
-  margin-top: 1.5rem;
+  margin-top: 0.85rem;
   overflow-x: auto;
-  border: 1px solid var(--foreground);
-  background: #fbf8ef;
-  padding: 1.1rem;
+  border: 1px solid var(--line);
+  background: rgba(255, 255, 255, 0.5) !important;
+  padding: 0.85rem 0.95rem;
+  color: var(--foreground);
 }
 
 .doc-prose pre code {
@@ -183,31 +187,53 @@ a {
   background: transparent;
   padding: 0;
   font-family: var(--font-mono);
-  font-size: 0.9rem;
+  font-size: 0.86rem;
 }
 
-.copy-code-button {
-  position: absolute;
-  top: 0.75rem;
-  right: 0.75rem;
-  border: 1px solid var(--foreground);
-  background: var(--background);
-  padding: 0.25rem 0.55rem;
+.doc-prose .astro-code {
+  border: 1px solid var(--line) !important;
+  background: rgba(255, 255, 255, 0.5) !important;
+}
+
+.copy-code-surface {
+  cursor: copy;
+  transition:
+    border-color 140ms ease,
+    background-color 140ms ease;
+}
+
+.copy-code-surface:hover,
+.copy-code-surface:focus-visible {
+  border-color: var(--foreground);
+  background: rgba(255, 255, 255, 0.5) !important;
+  outline: none;
+}
+
+.copy-code-surface ::selection {
+  background: rgba(17, 17, 17, 0.14);
+  color: inherit;
+}
+
+.toaster [data-sonner-toast] {
+  border: 1px solid var(--line);
+  background: rgba(255, 252, 245, 0.96);
+  box-shadow: none;
   font-family: var(--font-mono);
-  font-size: 0.68rem;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
+  font-size: 0.72rem;
+  letter-spacing: 0.04em;
 }
 
-.copy-code-button:hover,
-.copy-code-button:focus-visible {
-  background: var(--foreground);
-  color: var(--background);
+.toaster [data-sonner-toast][data-styled="true"] {
+  padding: 0.75rem 0.9rem;
+}
+
+.toaster [data-description] {
+  display: none;
 }
 
 @media (max-width: 900px) {
   .doc-prose h1 {
-    font-size: 1.55rem;
+    font-size: 1.35rem;
   }
 }
 
