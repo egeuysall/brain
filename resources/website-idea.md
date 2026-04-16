@@ -14,7 +14,7 @@ no solely scroll based animations everything must be smooth and the scroll shoul
 
 we need an effect and hover close to this but light mode instead and should look more swiss design style, the parralaz effect is invaluable to the overall experience since it adds depth and interactivity without overwhelming the minimalist aesthetic.
 
-there should be sound and sound design as well check the igloo case studt to learn more
+there should be sound and sound design as well check the igloo case studt to learn more, also should have a custom cursor etc of course, a mono font + a very clean sans font should be used for all text elements, mono for small items and clean sans should actually be clean and more modern than inter, probably geometric. btw you should follow all neobrutalist / dither / grain / most importantly the swiss design style across the entire app
 
 ```md
 ## Igloo Inc: Case Study
@@ -97,3 +97,17 @@ Abeto is a small, specialised team of technical artists creating interactive web
 ```
 
 !["Screenshot 2026-04-15"](https://cdn.egeuysal.com/content/2026/04/15/asset-01.jpeg)
+
+https://4wide.jp/
+https://ascendmarketing.xyz/
+https://srg.ava-digital.site/en
+
+and a photos etc page as well, mainly wireframed for all, thats our design
+
+!["Screenshot 2026-04-15"](https://cdn.egeuysal.com/content/2026/04/15/asset-02.jpeg)
+
+and there should be some 2d items like these which are actually 3d items as well, as i told you, mouse's current place should determine all text geometry etc
+
+!["Screenshot 2026-04-15"](https://cdn.egeuysal.com/content/2026/04/15/asset-03.png)
+
+![vid](https://cdn.dribbble.com/userupload/13555619/file/original-201878a57e6c96368911d57fd5451ef8.mp4)
