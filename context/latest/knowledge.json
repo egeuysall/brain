@@ -1,7 +1,7 @@
 {
   "schemaVersion": 3,
   "kind": "ryva-knowledge-context",
-  "syncedAt": "2026-04-15T11:54:25Z",
+  "syncedAt": "2026-04-16T11:57:17Z",
   "queryPolicy": {
     "defaultContext": [
       "context/latest/knowledge.json",
@@ -36,10 +36,11 @@
     }
   },
   "resources": {
-    "totalFiles": 105,
+    "totalFiles": 108,
     "byCategory": {
       "posts": 7,
-      "threads": 98
+      "threads": 98,
+      "uncategorized": 3
     },
     "files": [
       {
@@ -566,6 +567,21 @@
         "path": "resources/threads/reddit/2026-04-01/filtered-with-json-body.json",
         "category": "threads",
         "sizeBytes": 26848
+      },
+      {
+        "path": "resources/website-idea.md",
+        "category": "uncategorized",
+        "sizeBytes": 7730
+      },
+      {
+        "path": "resources/website-master-prompt.md",
+        "category": "uncategorized",
+        "sizeBytes": 7826
+      },
+      {
+        "path": "resources/website-plan.md",
+        "category": "uncategorized",
+        "sizeBytes": 6642
       }
     ]
   },
@@ -573,7 +589,7 @@
     "entries": 100,
     "diary": 40,
     "blog": 60,
-    "manualResources": 105
+    "manualResources": 108
   },
   "entries": [
     {
