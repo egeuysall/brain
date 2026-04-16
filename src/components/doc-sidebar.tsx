@@ -42,35 +42,29 @@ function getAncestorPaths(path?: string) {
 
 export function DocSidebar({ docs, selectedPath }: DocSidebarProps) {
   const [query, setQuery] = React.useState("")
-  const [expandedPaths, setExpandedPaths] = React.useState<Set<string>>(
-    () => {
-      if (typeof window === "undefined") {
+  const [expandedPaths, setExpandedPaths] = React.useState<Set<string>>(() => {
+    if (typeof window === "undefined") {
+      return new Set(DEFAULT_EXPANDED_PATHS)
+    }
+
+    try {
+      const savedValue = window.localStorage.getItem(TREE_STORAGE_KEY)
+      if (!savedValue) {
         return new Set(DEFAULT_EXPANDED_PATHS)
       }
 
-      try {
-        const savedValue = window.localStorage.getItem(TREE_STORAGE_KEY)
-        if (!savedValue) {
-          return new Set(DEFAULT_EXPANDED_PATHS)
-        }
-
-        const parsedPaths = JSON.parse(savedValue)
-        if (Array.isArray(parsedPaths)) {
-          return new Set(parsedPaths)
-        }
-      } catch {
-        window.localStorage.removeItem(TREE_STORAGE_KEY)
+      const parsedPaths = JSON.parse(savedValue)
+      if (Array.isArray(parsedPaths)) {
+        return new Set(parsedPaths)
       }
-
-      return new Set(DEFAULT_EXPANDED_PATHS)
+    } catch {
+      window.localStorage.removeItem(TREE_STORAGE_KEY)
     }
-  )
+
+    return new Set(DEFAULT_EXPANDED_PATHS)
+  })
   const deferredQuery = React.useDeferredValue(query)
-  const tokens = deferredQuery
-    .trim()
-    .toLowerCase()
-    .split(/\s+/)
-    .filter(Boolean)
+  const tokens = deferredQuery.trim().toLowerCase().split(/\s+/).filter(Boolean)
 
   const filteredDocs =
     tokens.length === 0
@@ -105,8 +99,8 @@ export function DocSidebar({ docs, selectedPath }: DocSidebarProps) {
   ])
 
   return (
-    <aside className="border border-line bg-panel flex h-full min-h-0 flex-col overflow-hidden">
-      <div className="border-b border-line p-2.5">
+    <aside className="border-line bg-panel flex h-full min-h-0 flex-col overflow-hidden border">
+      <div className="border-line border-b p-2.5">
         <Input
           value={query}
           onChange={event => setQuery(event.target.value)}
@@ -127,7 +121,7 @@ export function DocSidebar({ docs, selectedPath }: DocSidebarProps) {
             onExpandedChange={setExpandedPaths}
           />
         ) : (
-          <div className="p-3 font-mono text-[0.65rem] tracking-[0.04em] text-muted">
+          <div className="text-muted p-3 font-mono text-[0.65rem] tracking-[0.04em]">
             no files
           </div>
         )}

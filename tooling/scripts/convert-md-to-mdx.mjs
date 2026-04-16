@@ -143,7 +143,10 @@ function rewriteMarkdownLinks(content, sourcePath, knownFiles, renamedTargets) {
       }
 
       const relativeTarget = path
-        .relative(path.dirname(renamedTargets.get(sourcePath) ?? sourcePath), rewrittenTarget)
+        .relative(
+          path.dirname(renamedTargets.get(sourcePath) ?? sourcePath),
+          rewrittenTarget
+        )
         .replace(/\\/g, "/")
 
       const normalizedRelativeTarget = relativeTarget.startsWith(".")
@@ -187,7 +190,9 @@ async function collectMarkdownFiles(currentDir, files = []) {
     }
 
     const absolutePath = path.join(currentDir, entry.name)
-    const relativePath = path.relative(repoRoot, absolutePath).replace(/\\/g, "/")
+    const relativePath = path
+      .relative(repoRoot, absolutePath)
+      .replace(/\\/g, "/")
 
     if (entry.isDirectory()) {
       await collectMarkdownFiles(absolutePath, files)

@@ -16,7 +16,9 @@ export function AppRuntime() {
   React.useEffect(() => {
     const cleanups: Array<() => void> = []
     const blocks = document.querySelectorAll<HTMLElement>("[data-doc-body] pre")
-    const links = document.querySelectorAll<HTMLAnchorElement>("[data-doc-body] a[href]")
+    const links = document.querySelectorAll<HTMLAnchorElement>(
+      "[data-doc-body] a[href]"
+    )
     const docNavRoot = document.querySelector<HTMLElement>("[data-doc-nav]")
     const previousHref = docNavRoot?.dataset.prevHref
     const nextHref = docNavRoot?.dataset.nextHref
@@ -47,7 +49,12 @@ export function AppRuntime() {
     }
 
     const handleArrowNavigation = (event: KeyboardEvent) => {
-      if (event.defaultPrevented || event.metaKey || event.ctrlKey || event.altKey) {
+      if (
+        event.defaultPrevented ||
+        event.metaKey ||
+        event.ctrlKey ||
+        event.altKey
+      ) {
         return
       }
 
@@ -63,13 +70,19 @@ export function AppRuntime() {
         return
       }
 
-      if ((event.key === "ArrowLeft" || event.key === "ArrowUp") && previousHref) {
+      if (
+        (event.key === "ArrowLeft" || event.key === "ArrowUp") &&
+        previousHref
+      ) {
         event.preventDefault()
         window.location.assign(previousHref)
         return
       }
 
-      if ((event.key === "ArrowRight" || event.key === "ArrowDown") && nextHref) {
+      if (
+        (event.key === "ArrowRight" || event.key === "ArrowDown") &&
+        nextHref
+      ) {
         event.preventDefault()
         window.location.assign(nextHref)
         return
@@ -77,7 +90,9 @@ export function AppRuntime() {
     }
 
     window.addEventListener("keydown", handleArrowNavigation)
-    cleanups.push(() => window.removeEventListener("keydown", handleArrowNavigation))
+    cleanups.push(() =>
+      window.removeEventListener("keydown", handleArrowNavigation)
+    )
 
     for (const block of blocks) {
       const code = block.querySelector("code")

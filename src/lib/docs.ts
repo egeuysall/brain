@@ -14,15 +14,11 @@ export function normalizeDocPath(slug?: string | string[]) {
     .replace(/^src\/content\/docs\//, "")
     .replace(/\.(md|mdx)$/i, "")
 
-  return normalizedPath.startsWith(RESOURCE_PREFIX)
-    ? normalizedPath
-    : undefined
+  return normalizedPath.startsWith(RESOURCE_PREFIX) ? normalizedPath : undefined
 }
 
 export function toRoutePath(path: string) {
-  return path
-    .replace(/^src\/content\/docs\//, "")
-    .replace(/\.(md|mdx)$/i, "")
+  return path.replace(/^src\/content\/docs\//, "").replace(/\.(md|mdx)$/i, "")
 }
 
 export function toDocHref(path: string) {
@@ -40,19 +36,22 @@ export async function listDocs() {
   const docs = await getCollection("docs")
 
   return docs
-    .filter(doc => !EXCLUDED_ROUTE_PATHS.has(toRoutePath(doc.filePath ?? doc.id)))
+    .filter(
+      doc => !EXCLUDED_ROUTE_PATHS.has(toRoutePath(doc.filePath ?? doc.id))
+    )
     .sort((left, right) =>
       (left.filePath ?? left.id).localeCompare(right.filePath ?? right.id)
     )
 }
 
 function fallbackTitle(filePath: string) {
-  const fileName = filePath.split("/").at(-1)?.replace(/\.(md|mdx)$/i, "") ?? filePath
+  const fileName =
+    filePath
+      .split("/")
+      .at(-1)
+      ?.replace(/\.(md|mdx)$/i, "") ?? filePath
 
-  return fileName
-    .replace(/[-_]+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim()
+  return fileName.replace(/[-_]+/g, " ").replace(/\s+/g, " ").trim()
 }
 
 export async function getDocsView(selectedPath?: string) {
@@ -60,10 +59,7 @@ export async function getDocsView(selectedPath?: string) {
 
   const currentDoc =
     (selectedPath
-      ? docs.find(
-          doc =>
-            toRoutePath(doc.filePath ?? doc.id) === selectedPath
-        )
+      ? docs.find(doc => toRoutePath(doc.filePath ?? doc.id) === selectedPath)
       : undefined) ??
     docs[0] ??
     null
