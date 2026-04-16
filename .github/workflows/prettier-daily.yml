@@ -32,17 +32,16 @@ jobs:
           fetch-depth: 0
           ref: master
 
-      - name: Setup Node
-        uses: actions/setup-node@v6
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
         with:
-          node-version: "24"
-          cache: npm
+          bun-version: "1.3.12"
 
       - name: Install formatter dependencies
-        run: npm ci
+        run: bun install --frozen-lockfile
 
       - name: Run Prettier
-        run: npm run format
+        run: bun run format
 
       - name: Commit and push changes
         if: env.ACT != 'true'
