@@ -1,0 +1,334 @@
+{
+  "problems": [
+    {
+      "id": "p001",
+      "title": "AI context loss",
+      "description": "Agents re-explain themselves every session. No memory, no continuity across runs.",
+      "category": "ai_infrastructure",
+      "audience": ["developers", "power_users"],
+      "monetization_potential": "high",
+      "tags": ["memory", "context", "agents"]
+    },
+    {
+      "id": "p002",
+      "title": "Agent setup complexity",
+      "description": "MCP, Claude, and similar tools are too technical for non-developers. Setup friction kills adoption.",
+      "category": "ai_infrastructure",
+      "audience": ["non_technical_users"],
+      "monetization_potential": "high",
+      "tags": ["onboarding", "ux", "agents"]
+    },
+    {
+      "id": "p003",
+      "title": "Calorie tracking still broken",
+      "description": "cal.ai and MyFitnessPal exist but tracking sauces, mixed dishes, and custom meals remains unreliable.",
+      "category": "health_fitness",
+      "audience": ["fitness_enthusiasts", "general_consumers"],
+      "monetization_potential": "medium",
+      "tags": ["nutrition", "tracking", "b2c"]
+    },
+    {
+      "id": "p004",
+      "title": "Workout tracking is too manual",
+      "description": "Logging sets, reps, and progress requires too much manual input. Should be more automated.",
+      "category": "health_fitness",
+      "audience": ["fitness_enthusiasts"],
+      "monetization_potential": "medium",
+      "tags": ["fitness", "automation", "tracking"]
+    },
+    {
+      "id": "p005",
+      "title": "Scheduling and habit adherence",
+      "description": "Making a schedule is easy. Actually sticking to it is unsolved. No tool makes routines truly stick.",
+      "category": "productivity",
+      "audience": ["general_consumers", "founders"],
+      "monetization_potential": "medium",
+      "tags": ["habits", "scheduling", "accountability"]
+    },
+    {
+      "id": "p006",
+      "title": "Marketing automation is still dumb",
+      "description": "Codex automations and generic tools don't drive real traction. Need a CMO-level agent that actually works with proof.",
+      "category": "go_to_market",
+      "audience": ["founders", "startups"],
+      "monetization_potential": "very_high",
+      "tags": ["marketing", "automation", "agents", "gtm"]
+    },
+    {
+      "id": "p007",
+      "title": "Warm leads go cold silently",
+      "description": "Sales threads open, no follow-up system, no signal for who to re-engage. Warm leads die without notice.",
+      "category": "go_to_market",
+      "audience": ["founders", "sales"],
+      "monetization_potential": "very_high",
+      "tags": ["sales", "crm", "follow_up"]
+    },
+    {
+      "id": "p008",
+      "title": "ICP buying signals vanish into noise",
+      "description": "Intent signals from Reddit, Twitter, and LinkedIn disappear in the feed within hours. No structured capture.",
+      "category": "go_to_market",
+      "audience": ["founders", "sales", "marketers"],
+      "monetization_potential": "very_high",
+      "tags": ["icp", "signals", "gtm", "research"]
+    },
+    {
+      "id": "p009",
+      "title": "Content distribution is still manual",
+      "description": "One diary entry or blog post needs to be manually adapted to X, LinkedIn, Reddit, and your blog. Prose distribution is unsolved.",
+      "category": "content_creation",
+      "audience": ["founders", "creators"],
+      "monetization_potential": "high",
+      "tags": ["content", "repurposing", "automation"]
+    },
+    {
+      "id": "p010",
+      "title": "Blog publishing is too many steps",
+      "description": "Publishing posts, uploading images, generating OG images, and deploying takes too long. Most CLI tools are incomplete.",
+      "category": "content_creation",
+      "audience": ["developers", "indie_hackers", "creators"],
+      "monetization_potential": "medium",
+      "tags": ["publishing", "blogging", "developer_tools"]
+    },
+    {
+      "id": "p011",
+      "title": "Video editing takes too long",
+      "description": "Creating polished short-form video content requires too much time and skill. No AI tool fully solves this end-to-end.",
+      "category": "content_creation",
+      "audience": ["creators", "founders"],
+      "monetization_potential": "high",
+      "tags": ["video", "editing", "automation"]
+    },
+    {
+      "id": "p012",
+      "title": "AI can't write in your voice",
+      "description": "Current AI writing forgets your style, tone, and history between sessions. No continuity or authentic voice persistence.",
+      "category": "ai_infrastructure",
+      "audience": ["creators", "founders", "professionals"],
+      "monetization_potential": "high",
+      "tags": ["writing", "voice", "memory", "personalization"]
+    },
+    {
+      "id": "p013",
+      "title": "Skill files have no home",
+      "description": "No marketplace or registry to find, share, or discover quality skill files for AI agents. Everyone builds from scratch.",
+      "category": "ai_infrastructure",
+      "audience": ["developers", "power_users"],
+      "monetization_potential": "medium",
+      "tags": ["skills", "agents", "ecosystem"]
+    },
+    {
+      "id": "p014",
+      "title": "AI context costs too much",
+      "description": "Long agent sessions burn through context fast. Inference pricing surprises every month. No good compression layer beyond basic skill files.",
+      "category": "ai_infrastructure",
+      "audience": ["developers", "founders"],
+      "monetization_potential": "high",
+      "tags": ["context", "cost", "optimization"]
+    },
+    {
+      "id": "p015",
+      "title": "Agentic OS / terminal-native workspace",
+      "description": "Need a fully AI-readable operating environment like IBX but in the terminal. Agents can read and act on the entire state.",
+      "category": "ai_infrastructure",
+      "audience": ["developers", "power_users"],
+      "monetization_potential": "high",
+      "tags": ["agents", "terminal", "os", "infrastructure"]
+    },
+    {
+      "id": "p016",
+      "title": "3D websites are still too hard to build",
+      "description": "AI website builders can't generate quality 3D experiences like igloo.inc. Gap between design intent and output is massive.",
+      "category": "developer_tools",
+      "audience": ["developers", "designers"],
+      "monetization_potential": "medium",
+      "tags": ["3d", "web", "generative", "design"]
+    },
+    {
+      "id": "p017",
+      "title": "AI game maker space is untouched",
+      "description": "Website and app generators exist, but a high-quality AI game maker has no clear winner. High viral and monetization potential.",
+      "category": "developer_tools",
+      "audience": ["indie_hackers", "developers", "gamers"],
+      "monetization_potential": "very_high",
+      "tags": ["games", "generative", "ai_tools"]
+    },
+    {
+      "id": "p018",
+      "title": "Learning to code in the agentic era is broken",
+      "description": "Courses still teach traditional coding. The real gap is learning to build with agents, not just write functions.",
+      "category": "education",
+      "audience": ["beginners", "students"],
+      "monetization_potential": "medium",
+      "tags": ["education", "coding", "agents"]
+    },
+    {
+      "id": "p019",
+      "title": "No persistent personal knowledge layer",
+      "description": "Need a system that knows and remembers everything, accessible via CLI and chat integrations (Discord, Slack, etc.).",
+      "category": "ai_infrastructure",
+      "audience": ["developers", "founders", "power_users"],
+      "monetization_potential": "high",
+      "tags": ["memory", "knowledge", "agents", "cli"]
+    },
+    {
+      "id": "p020",
+      "title": "Shared agent task layer for teams",
+      "description": "A multiplayer execution queue where teammates dump blockers in natural language and an agent organizes, prioritizes, and assigns. No Jira config.",
+      "category": "productivity",
+      "audience": ["teams", "startups"],
+      "monetization_potential": "very_high",
+      "tags": ["collaboration", "agents", "productivity", "slack"]
+    },
+    {
+      "id": "p021",
+      "title": "ICP research is still manual",
+      "description": "Brain-style tools that do ICP research automatically only work for one person. Everyone else does it manually.",
+      "category": "go_to_market",
+      "audience": ["founders", "sales"],
+      "monetization_potential": "very_high",
+      "tags": ["icp", "research", "automation"]
+    },
+    {
+      "id": "p022",
+      "title": "Strategy drift goes undetected",
+      "description": "Actions stop matching stated direction and nobody flags it. No system keeps execution aligned with strategy in real time.",
+      "category": "productivity",
+      "audience": ["founders", "executives"],
+      "monetization_potential": "high",
+      "tags": ["strategy", "alignment", "accountability"]
+    },
+    {
+      "id": "p023",
+      "title": "Motion vs. progress is a recurring bug",
+      "description": "Doing a lot but not moving the needle. No fast signal for whether daily output actually advances the goal.",
+      "category": "productivity",
+      "audience": ["founders", "solopreneurs"],
+      "monetization_potential": "medium",
+      "tags": ["focus", "productivity", "metrics"]
+    },
+    {
+      "id": "p024",
+      "title": "Standup is still a broken ritual",
+      "description": "Tools just move the same bad question to a different channel. State that should be visible has to be reconstructed every day.",
+      "category": "productivity",
+      "audience": ["teams", "developers"],
+      "monetization_potential": "medium",
+      "tags": ["standup", "teams", "async"]
+    },
+    {
+      "id": "p025",
+      "title": "Slack decisions disappear",
+      "description": "PR context expires, decisions made in Slack vanish. Institutional knowledge degrades continuously.",
+      "category": "productivity",
+      "audience": ["teams", "developers"],
+      "monetization_potential": "high",
+      "tags": ["slack", "knowledge", "teams"]
+    },
+    {
+      "id": "p026",
+      "title": "25+ apps, no single status view",
+      "description": "No dashboard or CLI showing all deployed apps, their status, health, and last-touched date.",
+      "category": "developer_tools",
+      "audience": ["developers", "founders"],
+      "monetization_potential": "medium",
+      "tags": ["deployment", "monitoring", "developer_tools"]
+    },
+    {
+      "id": "p027",
+      "title": "Open source gap between code and running system",
+      "description": "Repos represent a complete system but the setup effort is the entire product. Nobody can onboard without the author.",
+      "category": "developer_tools",
+      "audience": ["developers", "open_source"],
+      "monetization_potential": "medium",
+      "tags": ["open_source", "devex", "onboarding"]
+    },
+    {
+      "id": "p028",
+      "title": "No fast way to validate problem frequency before building",
+      "description": "Built Huesly for a monthly problem. Spent 2 months on Go infrastructure before talking to a user. No tool distinguishes daily pain from occasional annoyance.",
+      "category": "founder_meta",
+      "audience": ["founders"],
+      "monetization_potential": "high",
+      "tags": ["validation", "research", "founder_tools"]
+    },
+    {
+      "id": "p029",
+      "title": "Reach vs. conversion are completely different signals",
+      "description": "100k Reddit impressions, 4 signups. No tool clearly separates distribution signal from conversion signal.",
+      "category": "go_to_market",
+      "audience": ["founders", "marketers"],
+      "monetization_potential": "high",
+      "tags": ["analytics", "conversion", "gtm"]
+    },
+    {
+      "id": "p030",
+      "title": "Channel dilution looks like leverage",
+      "description": "Spreading across 5 channels simultaneously and owning none of them. No system enforces channel focus.",
+      "category": "go_to_market",
+      "audience": ["founders"],
+      "monetization_potential": "medium",
+      "tags": ["distribution", "focus", "gtm"]
+    },
+    {
+      "id": "p031",
+      "title": "Pitching before listening",
+      "description": "First-wave outreach was a mini landing page nobody asked for. No system forces listening mode before selling.",
+      "category": "go_to_market",
+      "audience": ["founders", "sales"],
+      "monetization_potential": "medium",
+      "tags": ["outreach", "sales", "discovery"]
+    },
+    {
+      "id": "p032",
+      "title": "Development environment barrier for low-resource learners",
+      "description": "Learned on an iPad, SSHing into a VPS. Real development is inaccessible without the right hardware.",
+      "category": "education",
+      "audience": ["students", "beginners"],
+      "monetization_potential": "low",
+      "tags": ["access", "education", "developer_tools"]
+    },
+    {
+      "id": "p033",
+      "title": "Offline-first is still an afterthought",
+      "description": "Unreliable school internet. Most developer tools assume connectivity. Offline-first tooling doesn't exist.",
+      "category": "developer_tools",
+      "audience": ["developers", "students"],
+      "monetization_potential": "low",
+      "tags": ["offline", "developer_tools", "resilience"]
+    },
+    {
+      "id": "p034",
+      "title": "Context switching between school and startup destroys deep work",
+      "description": "No system manages the cognitive cost of switching between high-stakes domains within the same day.",
+      "category": "productivity",
+      "audience": ["student_founders"],
+      "monetization_potential": "low",
+      "tags": ["focus", "deep_work", "context_switching"]
+    },
+    {
+      "id": "p035",
+      "title": "Productivity system becomes procrastination",
+      "description": "Over-engineered the IBX system so badly it became the thing being procrastinated with. The system became the work.",
+      "category": "founder_meta",
+      "audience": ["founders", "power_users"],
+      "monetization_potential": "low",
+      "tags": ["meta_productivity", "tools", "focus"]
+    }
+  ],
+  "metadata": {
+    "total": 35,
+    "categories": {
+      "ai_infrastructure": 7,
+      "go_to_market": 8,
+      "productivity": 7,
+      "developer_tools": 6,
+      "health_fitness": 2,
+      "content_creation": 3,
+      "founder_meta": 2,
+      "education": 2
+    },
+    "high_priority": ["p006", "p007", "p008", "p017", "p020", "p021"],
+    "personal_edge": ["p003", "p004", "p006", "p012", "p019"]
+  }
+}
