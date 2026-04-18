@@ -1,0 +1,529 @@
+{
+  "title": "Mental Health Hackathon Problem Map (Reddit)",
+  "generated_at_utc": "2026-04-18 15:08 UTC",
+  "scope": "80 Reddit posts harvested from r/mentalhealth, r/depression, r/Anxiety, r/socialanxiety, r/ADHD, r/ptsd, r/bipolar, and r/BPD.",
+  "ranking": [
+    {
+      "rank": 1,
+      "issue_id": "ISSUE-01",
+      "issue_name": "Persistent anxiety and panic spirals",
+      "posts": 9,
+      "feasibility": 4.6,
+      "impact": 5.0,
+      "composite": 4.8
+    },
+    {
+      "rank": 2,
+      "issue_id": "ISSUE-07",
+      "issue_name": "Therapy fit failure and low trust in care",
+      "posts": 8,
+      "feasibility": 4.5,
+      "impact": 4.7,
+      "composite": 4.6
+    },
+    {
+      "rank": 3,
+      "issue_id": "ISSUE-03",
+      "issue_name": "ADHD overwhelm and executive dysfunction",
+      "posts": 8,
+      "feasibility": 4.4,
+      "impact": 4.8,
+      "composite": 4.6
+    },
+    {
+      "rank": 4,
+      "issue_id": "ISSUE-10",
+      "issue_name": "Diagnosis confusion and self-diagnosis risk",
+      "posts": 11,
+      "feasibility": 4.7,
+      "impact": 4.2,
+      "composite": 4.45
+    },
+    {
+      "rank": 5,
+      "issue_id": "ISSUE-06",
+      "issue_name": "Social anxiety, rejection sensitivity, and relationship strain",
+      "posts": 12,
+      "feasibility": 4.1,
+      "impact": 4.6,
+      "composite": 4.35
+    },
+    {
+      "rank": 6,
+      "issue_id": "ISSUE-04",
+      "issue_name": "Work and employment instability under symptoms",
+      "posts": 3,
+      "feasibility": 4.2,
+      "impact": 4.5,
+      "composite": 4.35
+    },
+    {
+      "rank": 7,
+      "issue_id": "ISSUE-09",
+      "issue_name": "Health anxiety and physical symptom misinterpretation",
+      "posts": 5,
+      "feasibility": 4.2,
+      "impact": 4.3,
+      "composite": 4.25
+    },
+    {
+      "rank": 8,
+      "issue_id": "ISSUE-05",
+      "issue_name": "Depression hopelessness and low recovery motivation",
+      "posts": 12,
+      "feasibility": 3.5,
+      "impact": 5.0,
+      "composite": 4.25
+    },
+    {
+      "rank": 9,
+      "issue_id": "ISSUE-02",
+      "issue_name": "Medication side effects and trial-and-error burden",
+      "posts": 7,
+      "feasibility": 3.7,
+      "impact": 4.6,
+      "composite": 4.15
+    },
+    {
+      "rank": 10,
+      "issue_id": "ISSUE-08",
+      "issue_name": "Trauma/PTSD flare-ups and memory resurfacing",
+      "posts": 5,
+      "feasibility": 3.0,
+      "impact": 4.8,
+      "composite": 3.9
+    }
+  ],
+  "top_3": [
+    {
+      "position": 1,
+      "issue_id": "ISSUE-01",
+      "issue_name": "Persistent anxiety and panic spirals",
+      "frequency_posts": 9,
+      "why": "Feasibility 4.6/5 and impact 5.0/5 (composite 4.80)"
+    },
+    {
+      "position": 2,
+      "issue_id": "ISSUE-07",
+      "issue_name": "Therapy fit failure and low trust in care",
+      "frequency_posts": 8,
+      "why": "Feasibility 4.5/5 and impact 4.7/5 (composite 4.60)"
+    },
+    {
+      "position": 3,
+      "issue_id": "ISSUE-03",
+      "issue_name": "ADHD overwhelm and executive dysfunction",
+      "frequency_posts": 8,
+      "why": "Feasibility 4.4/5 and impact 4.8/5 (composite 4.60)"
+    }
+  ],
+  "issues": [
+    {
+      "issue_id": "ISSUE-01",
+      "issue_name": "Persistent anxiety and panic spirals",
+      "post_count": 9,
+      "problem_statement": "People experience recurring anxiety loops and panic-like episodes without reliable de-escalation tools they trust in the moment.",
+      "posts": [
+        {
+          "title": "In your vein sensations",
+          "url": "https://www.reddit.com/r/ptsd/comments/1soeyka/in_your_vein_sensations/"
+        },
+        {
+          "title": "Having a bad relapse",
+          "url": "https://www.reddit.com/r/BPD/comments/1soudjk/having_a_bad_relapse/"
+        },
+        {
+          "title": "Supply Prepping: anxiety during inflation(US)",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sour8x/supply_prepping_anxiety_during_inflationus/"
+        },
+        {
+          "title": "Has anyone taken anything which has helped with travel anxiety?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sovuvq/has_anyone_taken_anything_which_has_helped_with/"
+        },
+        {
+          "title": "Late night anxiety spikes ... how to stop this from happening?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sovz7q/late_night_anxiety_spikes_how_to_stop_this_from/"
+        },
+        {
+          "title": "Anyone else unmedicated and dislike medications? What alternatives do you have for managing anxiety?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sowgi5/anyone_else_unmedicated_and_dislike_medications/"
+        },
+        {
+          "title": "DAE not find the 3-3-3 rule or 5-4-3-2-1 exercise to NOT work?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1soy385/dae_not_find_the_333_rule_or_54321_exercise_to/"
+        },
+        {
+          "title": "How to help background anxiety symptoms?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1soy5nq/how_to_help_background_anxiety_symptoms/"
+        },
+        {
+          "title": "Trouble sleeping again?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sozg6c/trouble_sleeping_again/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-02",
+      "issue_name": "Medication side effects and trial-and-error burden",
+      "post_count": 7,
+      "problem_statement": "People struggle to find tolerable psychiatric medication regimens due to side effects, dose timing issues, and unclear next steps.",
+      "posts": [
+        {
+          "title": "Can propranolol help with thinking clearly under stress?",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1soh3bv/can_propranolol_help_with_thinking_clearly_under/"
+        },
+        {
+          "title": "Pristiq",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sovukv/pristiq/"
+        },
+        {
+          "title": "What would you do?",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sowxnj/what_would_you_do/"
+        },
+        {
+          "title": "Depression isn't who you are",
+          "url": "https://www.reddit.com/r/depression/comments/1sox44h/depression_isnt_who_you_are/"
+        },
+        {
+          "title": "OCD and Anxiety made worse by steroids",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soxmym/ocd_and_anxiety_made_worse_by_steroids/"
+        },
+        {
+          "title": "Taking 50mg of vyvanse and just got prescribed trazodone and prozac. Similar experiences?",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soykgi/taking_50mg_of_vyvanse_and_just_got_prescribed/"
+        },
+        {
+          "title": "Anyone in Canada actually prescribed ADHD \"boosters\"? Feeling stuck",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soz48e/anyone_in_canada_actually_prescribed_adhd/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-03",
+      "issue_name": "ADHD overwhelm and executive dysfunction",
+      "post_count": 8,
+      "problem_statement": "People with ADHD report severe planning, focus, and follow-through breakdowns that affect daily function.",
+      "posts": [
+        {
+          "title": "Do we have a harder time figuring out when someone is lying to us?",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soqkmd/do_we_have_a_harder_time_figuring_out_when/"
+        },
+        {
+          "title": "How many medications did it take?",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sor9m8/how_many_medications_did_it_take/"
+        },
+        {
+          "title": "Shower thaugh about ADHD",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sosqy4/shower_thaugh_about_adhd/"
+        },
+        {
+          "title": "My country doesn't stock up on medication.",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sowk9o/my_country_doesnt_stock_up_on_medication/"
+        },
+        {
+          "title": "My ADHD \"overthinking\" wasn't about the decision. It was about identity commitment.",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soyb65/my_adhd_overthinking_wasnt_about_the_decision_it/"
+        },
+        {
+          "title": "Describing Rejection Sensitivity Dysmorphia to someone without ADHD.",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soz91o/describing_rejection_sensitivity_dysmorphia_to/"
+        },
+        {
+          "title": "Question for the Dutchies on Elvanse",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sozbai/question_for_the_dutchies_on_elvanse/"
+        },
+        {
+          "title": "i FORGET things......",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soznp9/i_forget_things/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-04",
+      "issue_name": "Work and employment instability under symptoms",
+      "post_count": 3,
+      "problem_statement": "Mental health symptoms create direct risk to job retention, performance consistency, and return-to-work confidence.",
+      "posts": [
+        {
+          "title": "ADHD Rx side effects and staying employed",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sool0n/adhd_rx_side_effects_and_staying_employed/"
+        },
+        {
+          "title": "Advice on feeling overwhelmed with work and burying my head like an ostrich.",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sor4jn/advice_on_feeling_overwhelmed_with_work_and/"
+        },
+        {
+          "title": "Resume gap and return to work",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sowykv/resume_gap_and_return_to_work/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-05",
+      "issue_name": "Depression hopelessness and low recovery motivation",
+      "post_count": 12,
+      "problem_statement": "People in depressive states report hopelessness and low motivation to pursue or continue recovery pathways.",
+      "posts": [
+        {
+          "title": "SATURDAY DISCLOSURE DISCUSSION",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sotin5/saturday_disclosure_discussion/"
+        },
+        {
+          "title": "What would be depression mogging?",
+          "url": "https://www.reddit.com/r/depression/comments/1sou6bm/what_would_be_depression_mogging/"
+        },
+        {
+          "title": "I'm so fucking lost",
+          "url": "https://www.reddit.com/r/depression/comments/1souys1/im_so_fucking_lost/"
+        },
+        {
+          "title": "Feeling alive?",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sowa1x/feeling_alive/"
+        },
+        {
+          "title": "Please help",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sowb58/please_help/"
+        },
+        {
+          "title": "Not Sure I Want to Get Better",
+          "url": "https://www.reddit.com/r/depression/comments/1sowot1/not_sure_i_want_to_get_better/"
+        },
+        {
+          "title": "At 29, in \"hell on earth\": a hopeless struggle with depression and anxiety",
+          "url": "https://www.reddit.com/r/depression/comments/1sowqgx/at_29_in_hell_on_earth_a_hopeless_struggle_with/"
+        },
+        {
+          "title": "Ups and Downs.",
+          "url": "https://www.reddit.com/r/depression/comments/1soycon/ups_and_downs/"
+        },
+        {
+          "title": "Do you listen to Podcasts? Reccomendations?",
+          "url": "https://www.reddit.com/r/bipolar/comments/1soypv4/do_you_listen_to_podcasts_reccomendations/"
+        },
+        {
+          "title": "Depersonnalisation",
+          "url": "https://www.reddit.com/r/bipolar/comments/1soz3wi/dépersonnalisation/"
+        },
+        {
+          "title": "HIGH FUNCTIONING DEPRESSION",
+          "url": "https://www.reddit.com/r/depression/comments/1sozn17/high_functioning_depression/"
+        },
+        {
+          "title": "I was depressed as a kid but not anymore?",
+          "url": "https://www.reddit.com/r/depression/comments/1sozs8b/i_was_depressed_as_a_kid_but_not_anymore/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-06",
+      "issue_name": "Social anxiety, rejection sensitivity, and relationship strain",
+      "post_count": 12,
+      "problem_statement": "People avoid social engagement due to fear of rejection or misinterpretation, which worsens isolation and relationship outcomes.",
+      "posts": [
+        {
+          "title": "You have social anxiety coz you lack something?",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1snyk8n/you_have_social_anxiety_coz_you_lack_something/"
+        },
+        {
+          "title": "Social anxiety with 30 id embarrassing",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1so01fc/social_anxiety_with_30_id_embarrassing/"
+        },
+        {
+          "title": "Angry at parents for not fixing my social anxiety at a young age.",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1so87to/angry_at_parents_for_not_fixing_my_social_anxiety/"
+        },
+        {
+          "title": "I am drowning in social Anxiety",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1soc9f4/i_am_drowning_in_social_anxiety/"
+        },
+        {
+          "title": "I can never tell if people like me and always assume they don't.",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1sojbdv/i_can_never_tell_if_people_like_me_and_always/"
+        },
+        {
+          "title": "Bipolar is ruining my relationship",
+          "url": "https://www.reddit.com/r/bipolar/comments/1solkcu/bipolar_is_ruining_my_relationship/"
+        },
+        {
+          "title": "What helped me with my anxiety",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1sor7t7/what_helped_me_with_my_anxiety/"
+        },
+        {
+          "title": "i hate getting attached so easily",
+          "url": "https://www.reddit.com/r/BPD/comments/1sos4pv/i_hate_getting_attached_so_easily/"
+        },
+        {
+          "title": "How bad is it for a person with BPD if they get \"ghosted\"",
+          "url": "https://www.reddit.com/r/BPD/comments/1sos7aj/how_bad_is_it_for_a_person_with_bpd_if_they_get/"
+        },
+        {
+          "title": "i can't stop touching the wound",
+          "url": "https://www.reddit.com/r/BPD/comments/1sos8ru/i_cant_stop_touching_the_wound/"
+        },
+        {
+          "title": "Got caught crying",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soy85e/got_caught_crying/"
+        },
+        {
+          "title": "how do you personally battle social anxiety?",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soyror/how_do_you_personally_battle_social_anxiety/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-07",
+      "issue_name": "Therapy fit failure and low trust in care",
+      "post_count": 8,
+      "problem_statement": "People cannot tell if therapy is helping, which leads to drop-off, self-treatment attempts, or no treatment.",
+      "posts": [
+        {
+          "title": "Why the hell therapy doesn't work for me?",
+          "url": "https://www.reddit.com/r/BPD/comments/1sop0kr/why_the_hell_therapy_doesnt_work_for_me/"
+        },
+        {
+          "title": "How to be sure you have bpd without therapy.",
+          "url": "https://www.reddit.com/r/BPD/comments/1sow2q6/how_to_be_sure_you_have_bpd_without_therapy/"
+        },
+        {
+          "title": "Is my treatment not working? How can I reduce anxiety?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sow5oy/is_my_treatment_not_working_how_can_i_reduce/"
+        },
+        {
+          "title": "How do i do self therapy",
+          "url": "https://www.reddit.com/r/BPD/comments/1sowtg3/how_do_i_do_self_therapy/"
+        },
+        {
+          "title": "Why am I sabotaging myself ?",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soxnxk/why_am_i_sabotaging_myself/"
+        },
+        {
+          "title": "I need help",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1soy4uf/i_need_help/"
+        },
+        {
+          "title": "Does counciling or therapy really work?",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1sozg39/does_counciling_or_therapy_really_work/"
+        },
+        {
+          "title": "Do you know any place in Tokyo where I can get cuddle therapy/hugs?",
+          "url": "https://www.reddit.com/r/mentalhealth/comments/1sozjxc/do_you_know_any_place_in_tokyo_where_i_can_get/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-08",
+      "issue_name": "Trauma/PTSD flare-ups and memory resurfacing",
+      "post_count": 5,
+      "problem_statement": "People with trauma histories face episodic trigger surges and resurfacing memories with limited just-in-time support.",
+      "posts": [
+        {
+          "title": "Advice for Post-Anaphylaxis Anxiety (PTSD)",
+          "url": "https://www.reddit.com/r/ptsd/comments/1snxm1p/advice_for_postanaphylaxis_anxiety_ptsd/"
+        },
+        {
+          "title": "SGB for PTSD and anxiety - looking for experiences, tips, and what to expect",
+          "url": "https://www.reddit.com/r/ptsd/comments/1so6ytf/sgb_for_ptsd_and_anxiety_looking_for_experiences/"
+        },
+        {
+          "title": "Advice with resurfacing repressed memories (TW: SA)",
+          "url": "https://www.reddit.com/r/ptsd/comments/1so8cbw/advice_with_resurfacing_repressed_memories_tw_sa/"
+        },
+        {
+          "title": "Do you forgive your abusers?",
+          "url": "https://www.reddit.com/r/ptsd/comments/1soaoil/do_you_forgive_your_abusers/"
+        },
+        {
+          "title": "Worst thing imo about ptsd",
+          "url": "https://www.reddit.com/r/ptsd/comments/1soer72/worst_thing_imo_about_ptsd/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-09",
+      "issue_name": "Health anxiety and physical symptom misinterpretation",
+      "post_count": 5,
+      "problem_statement": "People misread anxiety-driven body signals as severe physical emergencies, amplifying panic and care delays.",
+      "posts": [
+        {
+          "title": "my vision board triggered my anxiety.",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1souero/my_vision_board_triggered_my_anxiety/"
+        },
+        {
+          "title": "i thought my anxiety was in my head... but it felt like my body wouldn't calm down",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1souz11/i_thought_my_anxiety_was_in_my_head_but_it_felt/"
+        },
+        {
+          "title": "Seasonal anxiety and organ donation",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sovl02/seasonal_anxiety_and_organ_donation/"
+        },
+        {
+          "title": "My hypochondria made me actually think I a heart attack",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1soyg84/my_hypochondria_made_me_actually_think_i_a_heart/"
+        },
+        {
+          "title": "Why's it all just an evil circle?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1soza8b/whys_it_all_just_an_evil_circle/"
+        }
+      ]
+    },
+    {
+      "issue_id": "ISSUE-10",
+      "issue_name": "Diagnosis confusion and self-diagnosis risk",
+      "post_count": 11,
+      "problem_statement": "People lack clarity on symptom interpretation and diagnostic pathways, increasing misinformation and delayed care.",
+      "posts": [
+        {
+          "title": "Was given a diagnosis today after a psych assessment. What does this mean?",
+          "url": "https://www.reddit.com/r/ptsd/comments/1soc99o/was_given_a_diagnosis_today_after_a_psych/"
+        },
+        {
+          "title": "Will I take medication my whole life?",
+          "url": "https://www.reddit.com/r/bipolar/comments/1sonesh/will_i_take_medication_my_whole_life/"
+        },
+        {
+          "title": "Medication question",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sorqsz/medication_question/"
+        },
+        {
+          "title": "Ritalin LA 30mg. Not lasting long enough and I'm iritable after 4pm. Normal?",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sosaqk/ritalin_la_30mg_not_lasting_long_enough_and_im/"
+        },
+        {
+          "title": "Is it normal for Lorazepam to cause dizziness?",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sou8gw/is_it_normal_for_lorazepam_to_cause_dizziness/"
+        },
+        {
+          "title": "Am I missing something or a complete idiot? Genuine question.",
+          "url": "https://www.reddit.com/r/ADHD/comments/1soukbv/am_i_missing_something_or_a_complete_idiot/"
+        },
+        {
+          "title": "What do you classify as 'anxiety'? Hear me out...",
+          "url": "https://www.reddit.com/r/Anxiety/comments/1sovilm/what_do_you_classify_as_anxiety_hear_me_out/"
+        },
+        {
+          "title": "Is it normal to feel out of place with adhd ( rant )",
+          "url": "https://www.reddit.com/r/ADHD/comments/1sox5jd/is_it_normal_to_feel_out_of_place_with_adhd_rant/"
+        },
+        {
+          "title": "Has anyone else been using AI like ChatGPT to help with anxiety?",
+          "url": "https://www.reddit.com/r/socialanxiety/comments/1soxwb1/has_anyone_else_been_using_ai_like_chatgpt_to/"
+        },
+        {
+          "title": "Do any of y'all successfully take no psychiatric medications?",
+          "url": "https://www.reddit.com/r/BPD/comments/1soypot/do_any_of_yall_successfully_take_no_psychiatric/"
+        },
+        {
+          "title": "Do i have depression or is it something else ?",
+          "url": "https://www.reddit.com/r/depression/comments/1sozd24/do_i_have_depression_or_is_it_something_else/"
+        }
+      ]
+    }
+  ],
+  "safety_constraints": [
+    "No diagnosis claims and no replacement of licensed clinical care.",
+    "Add crisis escalation flows for self-harm or suicide-risk language.",
+    "Use least-privilege data collection and strong encryption by default.",
+    "Include explicit consent, deletion, and export controls for user data.",
+    "Add guardrails to avoid reinforcing compulsive reassurance loops."
+  ]
+}
