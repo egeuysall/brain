@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-03-20",
-  "generatedAt": "2026-04-17",
+  "generatedAt": "2026-04-18",
   "entry": {
     "id": "2026-03-20",
     "url": "https://egeuysal.com/diary/2026-03-20/",
@@ -11,7 +11,10 @@
     "date": "2026-03-20",
     "summary": "School ends, CyberMinds work, and a tighter funnel.",
     "image": "https://cdn.egeuysal.com/content/2026/03/20/asset-01.png",
-    "tags": ["ryva", "experiment"],
+    "tags": [
+      "ryva",
+      "experiment"
+    ],
     "body": "School is finally over, so today was a reset day: lower stress, lighter execution, and clearer focus for the next sprint.\n\nThe main decision: I will skip the Zero to Agent NYC hackathon due to timing/logistics and keep Ryva as the top priority.\n\n## What I shipped\n\n- CyberMinds agreed to use Ryva, and usage already looks sticky.\n- Continued daily outbound loop: LinkedIn connections, Reddit replies, X + LinkedIn post.\n- Finished the English essay.\n- Worked deeply on CyberMinds project tasks.\n- Started a NotebookLM notebook to organize all Ryva knowledge.\n\n- X post: [See the post](https://x.com/egewrk/status/2035164552485052533?s=20)\n- LinkedIn post: [Read the post](https://www.linkedin.com/posts/egeuysall_i-got-into-the-vercel-x-deepmind-hackathon-share-7440930504620781568-Do1u?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda6AoBWeBRayAxVaKD8PG_quWkedzkvlU)\n\n![CyberMinds terminal](https://cdn.egeuysal.com/content/2026/03/20/asset-01.png)\n\n## Activation strategy\n\n- Lead with insight, not demo.\n- Ask for low-risk sample context first (public PR/issue/thread).\n- Show one concrete \"decision + gap\" output before asking for full repo access.\n- Scale a 3-step funnel: start convo -> create curiosity -> show sample output.\n\n## CyberMinds signal\n\nCyberMinds is now a warm pilot and feedback engine. Likely next integration is WhatsApp.\n\nOperational priority from current findings: production terminal reliability + Docker security ownership.\n\n## Knowledge Repo Plan\n\n- Create a dedicated Ryva knowledge repo and use it as the canonical context source.\n- Add a daily CI pipeline that fetches `egeuysal.com/diary.json` and `egeuysal.com/blog.json`.\n- Store fetched data in versioned snapshots so changes are trackable over time.\n- Add a `resources/` area for manual inputs (notes, docs, decision logs, transcripts).\n- Run Ryva against this repo so automated feeds + manual resources stay in one searchable system.\n- Keep ingestion predictable: scheduled sync daily, manual trigger available anytime.\n\n## Friction and risk\n\n- Stress was high this week, so I intentionally kept today lighter.\n- Skipping the NYC hackathon reduces distraction, but removes a short-term networking spike.\n- Omer mentioned a new project next week; I can help, but Ryva stays priority.\n\n## Numbers\n\n- 1 X post published\n- 1 LinkedIn post published\n- Reddit reply loop continued\n- LinkedIn connection outreach continued\n- 1 warm pilot confirmed (CyberMinds)\n- 1 major strategic decision made (skip hackathon)\n\n## Quote of today\n\n> People trust after value, not before it. Lower the ask, prove usefulness fast, then escalate.\n\nMain progress today: I chose focus over noise, secured a warm pilot, and tightened the trust-first activation path for Ryva."
   }
 }
