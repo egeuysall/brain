@@ -1,0 +1,369 @@
+{
+  "generated_at": "2026-04-19T22:04:47.051214+00:00",
+  "filtered_total": 177,
+  "counts": {
+    "do_founders_manually_search": 3,
+    "signal_vs_noise": 13,
+    "takes_too_long": 23,
+    "find_posts_worth_replying": 0,
+    "miss_opportunities": 3,
+    "tried_tools_still_complain": 4
+  },
+  "evidence": {
+    "do_founders_manually_search": [
+      {
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-14T18:57:02.438000+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold email ## Post ##"
+      },
+      {
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-14T10:02:50.789000+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days ago, one of my"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-08T04:53:35+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seso6v/i_gave_an_ai_agent_full_access_to_my_twitter/oexuwp3/",
+        "snippet": "The scheduling automation is clean, but the real unlock is figuring out how to make the agent listen more than it broadcasts. Most automated accounts fail because they"
+      }
+    ],
+    "signal_vs_noise": [
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T20:52:19+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogynjq5/",
+        "snippet": "The diagnosis you're circling is probably right — broad posts pull vanity engagement from a non-ICP audience; specific posts would pull fewer likes but from the right people,"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip it and start commenting"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T01:10:27+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogthgmz/",
+        "snippet": "the broad/specific engagement split is actually telling you something useful. broad posts get likes from people who are interested in the topic - that's mostly peers, researchers, and"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T18:35:43+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrf9zt/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have seen work is when"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T14:14:08+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogptuwj/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have seen work is when"
+      },
+      {
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-17T10:25:04+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/",
+        "snippet": "Content getting engagement but not leading to anything meaningful — trying to figure out where it’s breaking We’ve been running content fairly consistently across linkedin + blog for"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T07:17:22+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogo4xzf/",
+        "snippet": "Spot on. The 15-minute 'quick call' is the 2026 version of a dial-up modem. You hit the nail on the head. Most cold outreach is just noise because"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T13:21:32+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og4m850/",
+        "snippet": "the fact that video editors are the most engaged segment from your outreach is the most important thing in this entire post and it's buried at the bottom"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T06:57:32+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og368zq/",
+        "snippet": "18 beta users is enough to learn; if they’re not active, it’s usually because the problem isn’t painful enough or your product isn’t yet their default. Instead of"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-08T20:11:54+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seso6v/i_gave_an_ai_agent_full_access_to_my_twitter/of271dn/",
+        "snippet": "Fresh context is everything. Stale content is basically just noise at that point. Mine pulls from trending topics in the niche daily, so it's not just recycling the"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-08T11:12:48+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oez3086/",
+        "snippet": "saw some data recently that puts your 0/130 result in perspective, the average cold email reply rate is only about 2% and just 0.64% show actual interest. so"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T22:03:59+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oevvnkx/",
+        "snippet": "congrats on the pivot. it is wild how much better DMs on X work compared to standard cold email when you are trying to find affiliates. newsletter owners"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T15:59:06+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oetpa9h/",
+        "snippet": "cold outreach at that volume with 0% hit rate usually means wrong audience, not wrong message. you already proved the product converts, so the bottleneck is visibility not"
+      }
+    ],
+    "takes_too_long": [
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T10:05:30+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1tppv/",
+        "snippet": "honestly the \"not working hard enough\" feeling is usually just a symptom of comparing your behind the scenes to everyone else's highlight reel lol . in growth hacking,"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T08:20:44+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1i97y/",
+        "snippet": "Finding efficient growth activities is a common challenge. If your B2B SaaS targets local businesses, tools that automate lead generation from Google Maps can save you hours compared"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T07:15:16+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1ash2/",
+        "snippet": "block out specific growth plays for 6 to 8 hours and treat them like work, not aimless hustle. i used to spin around socials and dms, but i"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching socials. They meant 6"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T03:40:34+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0kc5k/",
+        "snippet": "honestly the main thing is consistency and focusing on high value tasks like outreach and content. i use babylovgrowth for seo content and backlinks so it handles a"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T01:07:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogzwlx6/",
+        "snippet": "the 6 to 8 hour thing is probably bs honestly, one hour of sharp focused outreach beats 7 hours of wandering through linkedin."
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T20:35:08+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogyk4ex/",
+        "snippet": "You are not supposed to grind 6 to 8 hours on random growth tasks. That advice is misleading. in B2B SaaS, growth is not just scrolling and DMing"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T18:14:48+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxscml/",
+        "snippet": "that pulse for reddit mention is interesting. i ended up using leadmatically for a similar reason, it just runs in the background. it finds those b2b threads automatically"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one message or channel, then"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of vague hustle. I split"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T16:43:12+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogx9e1j/",
+        "snippet": "My guy thats the hustle right there but 6-8 hours pure growth work every day gonna burn you out quick. Maybe that other founder meant total work hours"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip it and start commenting"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-17T19:46:07+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sm23ml/i_hate_managing_twitter_linkedin_and_a_blog_while/ogru3ak/",
+        "snippet": "I think this is one of the major annoyances I find working on personal projects. The actual breadth of valuable activities is extremely wide, but the value return"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T13:42:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogpndmy/",
+        "snippet": "This is clever and I've done it a few times. The logic is sound: they've confirmed the email is active, they're clearly in a buying mindset (or at"
+      },
+      {
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-14T18:57:02.438000+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold email ## Post ##"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T06:25:40+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og32je7/",
+        "snippet": "18 beta users in 2 weeks from manual outreach is solid. Most founders don't get that far. On why some beta users aren't active: they signed up because"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": " Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a lead generation tool"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-10T10:40:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/ofcuios/",
+        "snippet": "I built it, no waitlist. The page is simple because the product is straightforward - it automates the most time-consuming parts of Reddit outreach for SaaS founders. The"
+      },
+      {
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-09T13:53:34+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/",
+        "snippet": "I built a Reddit marketing tool for SaaS founders, would love feedback on our landing page Hey everyone! I've been lurking here for a while and decided to"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-08T11:12:48+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oez3086/",
+        "snippet": "saw some data recently that puts your 0/130 result in perspective, the average cold email reply rate is only about 2% and just 0.64% show actual interest. so"
+      }
+    ],
+    "find_posts_worth_replying": [],
+    "miss_opportunities": [
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-08T11:12:48+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oez3086/",
+        "snippet": "saw some data recently that puts your 0/130 result in perspective, the average cold email reply rate is only about 2% and just 0.64% show actual interest. so"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T13:32:19+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oest75z/",
+        "snippet": "the affiliate cold outreach is brutal, 0/130 sounds about right honestly lol. one thing that moved the needle for me before i had real distribution was just making"
+      },
+      {
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T12:19:02+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/",
+        "snippet": "I emailed 130 people to promote my SaaS. 0 said yes. A month ago I looked at PostClaw’s numbers and saw the real problem. People who found it"
+      }
+    ],
+    "tried_tools_still_complain": [
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of vague hustle. I split"
+      },
+      {
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip it and start commenting"
+      },
+      {
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-14T10:02:50.789000+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days ago, one of my"
+      },
+      {
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-03-26T13:20:21.359000+00:00",
+        "url": "https://x.com/random_walker/status/2037157710328697312",
+        "snippet": "Arvind Narayanan on X: \"AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective — someone who gets dozens of"
+      }
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "generatedAt": "2026-04-19T22:03:38.919420+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 30,
+  "queries": [
+    "site:x.com \"Replying to\" \"finding customers\"",
+    "site:x.com \"Replying to\" \"lead generation\"",
+    "site:x.com \"Replying to\" \"reddit marketing\"",
+    "site:x.com \"Replying to\" \"cold outreach\""
+  ],
+  "perQueryLinks": {
+    "site:x.com \"Replying to\" \"finding customers\"": [],
+    "site:x.com \"Replying to\" \"lead generation\"": [
+      "https://x.com/BeckaBeckalee/status/2036522018875588991"
+    ],
+    "site:x.com \"Replying to\" \"reddit marketing\"": [],
+    "site:x.com \"Replying to\" \"cold outreach\"": []
+  },
+  "counts": {
+    "queries": 4,
+    "rawLinks": 1,
+    "uniqueLinks": 1,
+    "hydrated": 1,
+    "inWindow": 0
+  },
+  "posts": [
+    {
+      "query": "site:x.com \"Replying to\" \"lead generation\"",
+      "url": "https://x.com/BeckaBeckalee/status/2036522018875588991",
+      "author": "BeckaBeckalee",
+      "status_id": "2036522018875588991",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "How to Become a Social Media Manager (Even With No Experience)",
+      "source": "https://r.jina.ai/http://x.com/BeckaBeckalee/status/2036522018875588991"
+    }
+  ],
+  "postsInWindow": []
+}
