@@ -1,0 +1,442 @@
+{
+  "generatedAt": "2026-04-19T21:52:03.630357+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 30,
+  "queries": [
+    "site:x.com \"how I got my first users\" reply",
+    "site:x.com \"finding customers\" reply",
+    "site:x.com \"0\u21921 growth\" reply",
+    "site:x.com \"0 to 1 growth\" reply",
+    "site:x.com \"lead generation\" reply",
+    "site:x.com \"cold outreach\" reply",
+    "site:x.com \"reddit marketing\" reply",
+    "site:x.com \"twitter leads\" reply",
+    "site:x.com \"where do I find customers\" founder",
+    "site:x.com \"manual searching\" leads",
+    "site:x.com \"too much noise\" leads",
+    "site:x.com \"posts worth replying\""
+  ],
+  "perQueryLinks": {
+    "site:x.com \"how I got my first users\" reply": [],
+    "site:x.com \"finding customers\" reply": [],
+    "site:x.com \"0\u21921 growth\" reply": [],
+    "site:x.com \"0 to 1 growth\" reply": [],
+    "site:x.com \"lead generation\" reply": [
+      "https://x.com/AlexBelogubov/status/2043993374881919335",
+      "https://x.com/DeRonin_/status/2041096696633950295",
+      "https://x.com/Justin_lords/status/2023635884411609341",
+      "https://x.com/scaling_shields/status/2044127809241788500"
+    ],
+    "site:x.com \"cold outreach\" reply": [
+      "https://x.com/AIGuide_/status/2033950873164960009",
+      "https://x.com/MichLieben/status/2039674012008435902",
+      "https://x.com/Shruti_0810/status/2031353631761440939",
+      "https://x.com/cukyn1812/status/2033924080932630931",
+      "https://x.com/dimitarangg/status/2034393944759447839",
+      "https://x.com/dimitarangg/status/2040470458894557383",
+      "https://x.com/dimitarangg/status/2044128556230349098",
+      "https://x.com/itsalexvacca/status/2033899739700466085",
+      "https://x.com/random_walker/status/2037157710328697312"
+    ],
+    "site:x.com \"reddit marketing\" reply": [
+      "https://x.com/AlexBelogubov/status/2043993374881919335",
+      "https://x.com/FavourYusuf1/status/2036101019914887348",
+      "https://x.com/Lecrassus/status/2043803939280183641",
+      "https://x.com/Whotfismick/status/2033936878005518497",
+      "https://x.com/ashen_one/status/2030675168956448790",
+      "https://x.com/engain_io/status/2042672712376815626",
+      "https://x.com/jayychoii_/status/2023054349778432500",
+      "https://x.com/rashiumapathi/status/2027382055190090055"
+    ],
+    "site:x.com \"twitter leads\" reply": [
+      "https://x.com/CodeByPoonam/status/1719983852817670614",
+      "https://x.com/OneJKMolina/status/1583804377110032388",
+      "https://x.com/i/status/1600486791961640960",
+      "https://x.com/policy/status/1359940562460299264"
+    ],
+    "site:x.com \"where do I find customers\" founder": [],
+    "site:x.com \"manual searching\" leads": [
+      "https://x.com/d3v_unknown/status/2041954718600327220",
+      "https://x.com/techwithashiqur/status/2029789620708491684"
+    ],
+    "site:x.com \"too much noise\" leads": [
+      "https://x.com/IManghaila/status/2044828145224700147",
+      "https://x.com/InfiniteAzure22/status/2024547639203700978",
+      "https://x.com/_amankishore/status/2043063324301046000",
+      "https://x.com/lateinteraction/status/2042711978758508762",
+      "https://x.com/tryramp/status/2042693333567373743"
+    ],
+    "site:x.com \"posts worth replying\"": []
+  },
+  "counts": {
+    "queries": 12,
+    "rawLinks": 32,
+    "uniqueLinks": 31,
+    "hydrated": 31,
+    "inWindow": 5
+  },
+  "posts": [
+    {
+      "query": "site:x.com \"lead generation\" reply",
+      "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+      "author": "AlexBelogubov",
+      "status_id": "2043993374881919335",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/AlexBelogubov/status/2043993374881919335"
+    },
+    {
+      "query": "site:x.com \"lead generation\" reply",
+      "url": "https://x.com/DeRonin_/status/2041096696633950295",
+      "author": "DeRonin_",
+      "status_id": "2041096696633950295",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/DeRonin_/status/2041096696633950295"
+    },
+    {
+      "query": "site:x.com \"lead generation\" reply",
+      "url": "https://x.com/Justin_lords/status/2023635884411609341",
+      "author": "Justin_lords",
+      "status_id": "2023635884411609341",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Justin_lords/status/2023635884411609341"
+    },
+    {
+      "query": "site:x.com \"lead generation\" reply",
+      "url": "https://x.com/scaling_shields/status/2044127809241788500",
+      "author": "scaling_shields",
+      "status_id": "2044127809241788500",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/scaling_shields/status/2044127809241788500"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/AIGuide_/status/2033950873164960009",
+      "author": "AIGuide_",
+      "status_id": "2033950873164960009",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/AIGuide_/status/2033950873164960009"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/MichLieben/status/2039674012008435902",
+      "author": "MichLieben",
+      "status_id": "2039674012008435902",
+      "timestamp_label": "Apr 2, 2026",
+      "date_iso": "2026-04-02",
+      "text": "cool so we're just giving away the entire operating system now 58 skills, 137 triggers, the scoring model, the email templates, the whole thing https://t.co/ycjtyWci4X",
+      "source": "https://r.jina.ai/http://x.com/MichLieben/status/2039674012008435902"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/Shruti_0810/status/2031353631761440939",
+      "author": "Shruti_0810",
+      "status_id": "2031353631761440939",
+      "timestamp_label": "Mar 10, 2026",
+      "date_iso": "2026-03-10",
+      "text": "Cold outreach is dying. Not because email stopped working. But because most people don\u2019t know what to say *after someone replies.* \u201cSounds interesting, but not right now.\u201d \u201cCan you send more details?\u201d \u201cMaybe next quarter.\u201d And suddenly the conversation stalls. Most https://t.co/uKL98HrnQR",
+      "source": "https://r.jina.ai/http://x.com/Shruti_0810/status/2031353631761440939"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/cukyn1812/status/2033924080932630931",
+      "author": "cukyn1812",
+      "status_id": "2033924080932630931",
+      "timestamp_label": "Mar 17, 2026",
+      "date_iso": "2026-03-17",
+      "text": "Cold outreach has become a race to the bottom where everyone loses. The signal-to-noise ratio in professional networking is at an all-time low, making genuine, high-value connections harder than ever to secure @warmlyapp is addressing this fundamental inefficiency by creating https://t.co/g8wZcqKKx3",
+      "source": "https://r.jina.ai/http://x.com/cukyn1812/status/2033924080932630931"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/dimitarangg/status/2034393944759447839",
+      "author": "dimitarangg",
+      "status_id": "2034393944759447839",
+      "timestamp_label": "Mar 18, 2026",
+      "date_iso": "2026-03-18",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/dimitarangg/status/2034393944759447839"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/dimitarangg/status/2040470458894557383",
+      "author": "dimitarangg",
+      "status_id": "2040470458894557383",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/dimitarangg/status/2040470458894557383"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/dimitarangg/status/2044128556230349098",
+      "author": "dimitarangg",
+      "status_id": "2044128556230349098",
+      "timestamp_label": "Apr 14, 2026",
+      "date_iso": "2026-04-14",
+      "text": "how life feels running an outreach system that books +60 calls/mo while you sleep (because of the info in this guy's article): https://t.co/gkTh46MWgD",
+      "source": "https://r.jina.ai/http://x.com/dimitarangg/status/2044128556230349098"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/itsalexvacca/status/2033899739700466085",
+      "author": "itsalexvacca",
+      "status_id": "2033899739700466085",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/itsalexvacca/status/2033899739700466085"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/random_walker/status/2037157710328697312",
+      "author": "random_walker",
+      "status_id": "2037157710328697312",
+      "timestamp_label": "Mar 26, 2026",
+      "date_iso": "2026-03-26",
+      "text": "AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective \u2014 someone who gets dozens of unsolicited invitations/requests in my email from strangers every day. In the past there used to be a sharp distinction between unpersonalized mass emails and",
+      "source": "https://r.jina.ai/http://x.com/random_walker/status/2037157710328697312"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/FavourYusuf1/status/2036101019914887348",
+      "author": "FavourYusuf1",
+      "status_id": "2036101019914887348",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/FavourYusuf1/status/2036101019914887348"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/Lecrassus/status/2043803939280183641",
+      "author": "Lecrassus",
+      "status_id": "2043803939280183641",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/Lecrassus/status/2043803939280183641"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/Whotfismick/status/2033936878005518497",
+      "author": "Whotfismick",
+      "status_id": "2033936878005518497",
+      "timestamp_label": "Mar 17, 2026",
+      "date_iso": "2026-03-17",
+      "text": "so you're telling me CrowdReply can now... - rank your brand on ChatGPT - track your AI visibility - do your reddit marketing - replace your SEO agency all from one dashboard?? it's soooo over\u2026 https://t.co/6rv6tEJCcH",
+      "source": "https://r.jina.ai/http://x.com/Whotfismick/status/2033936878005518497"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/ashen_one/status/2030675168956448790",
+      "author": "ashen_one",
+      "status_id": "2030675168956448790",
+      "timestamp_label": "Mar 8, 2026",
+      "date_iso": "2026-03-08",
+      "text": "Reddit marketing is super underrated. If you have any sort of product you're trying to do outreach on, you need to be on Reddit I made a free skill you can feed your Openclaw that helps you connect a new Reddit account and warm it up as if it's a real human being BEFORE you",
+      "source": "https://r.jina.ai/http://x.com/ashen_one/status/2030675168956448790"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/engain_io/status/2042672712376815626",
+      "author": "engain_io",
+      "status_id": "2042672712376815626",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/engain_io/status/2042672712376815626"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/jayychoii_/status/2023054349778432500",
+      "author": "jayychoii_",
+      "status_id": "2023054349778432500",
+      "timestamp_label": "Feb 15, 2026",
+      "date_iso": "2026-02-15",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/jayychoii_/status/2023054349778432500"
+    },
+    {
+      "query": "site:x.com \"reddit marketing\" reply",
+      "url": "https://x.com/rashiumapathi/status/2027382055190090055",
+      "author": "rashiumapathi",
+      "status_id": "2027382055190090055",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/rashiumapathi/status/2027382055190090055"
+    },
+    {
+      "query": "site:x.com \"twitter leads\" reply",
+      "url": "https://x.com/CodeByPoonam/status/1719983852817670614",
+      "author": "CodeByPoonam",
+      "status_id": "1719983852817670614",
+      "timestamp_label": "Nov 2, 2023",
+      "date_iso": "2023-11-02",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/CodeByPoonam/status/1719983852817670614"
+    },
+    {
+      "query": "site:x.com \"twitter leads\" reply",
+      "url": "https://x.com/OneJKMolina/status/1583804377110032388",
+      "author": "OneJKMolina",
+      "status_id": "1583804377110032388",
+      "timestamp_label": "Oct 22, 2022",
+      "date_iso": "2022-10-22",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/OneJKMolina/status/1583804377110032388"
+    },
+    {
+      "query": "site:x.com \"twitter leads\" reply",
+      "url": "https://x.com/i/status/1600486791961640960",
+      "author": "i",
+      "status_id": "1600486791961640960",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "How to get qualified Twitter leads without scraping them, paying for software, running ads or buying retweets:",
+      "source": "https://r.jina.ai/http://x.com/i/status/1600486791961640960"
+    },
+    {
+      "query": "site:x.com \"twitter leads\" reply",
+      "url": "https://x.com/policy/status/1359940562460299264",
+      "author": "policy",
+      "status_id": "1359940562460299264",
+      "timestamp_label": "Feb 11, 2021",
+      "date_iso": "2021-02-11",
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/policy/status/1359940562460299264"
+    },
+    {
+      "query": "site:x.com \"manual searching\" leads",
+      "url": "https://x.com/d3v_unknown/status/2041954718600327220",
+      "author": "d3v_unknown",
+      "status_id": "2041954718600327220",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/d3v_unknown/status/2041954718600327220"
+    },
+    {
+      "query": "site:x.com \"manual searching\" leads",
+      "url": "https://x.com/techwithashiqur/status/2029789620708491684",
+      "author": "techwithashiqur",
+      "status_id": "2029789620708491684",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/techwithashiqur/status/2029789620708491684"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/IManghaila/status/2044828145224700147",
+      "author": "IManghaila",
+      "status_id": "2044828145224700147",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/IManghaila/status/2044828145224700147"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/InfiniteAzure22/status/2024547639203700978",
+      "author": "InfiniteAzure22",
+      "status_id": "2024547639203700978",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/InfiniteAzure22/status/2024547639203700978"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/_amankishore/status/2043063324301046000",
+      "author": "_amankishore",
+      "status_id": "2043063324301046000",
+      "timestamp_label": "Apr 11, 2026",
+      "date_iso": "2026-04-11",
+      "text": "Is anyone else losing their minds watching @tryramp produce such interesting research as they implement their own harnesses and agentic systems internally? Very impressed by @RampLabs",
+      "source": "https://r.jina.ai/http://x.com/_amankishore/status/2043063324301046000"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/lateinteraction/status/2042711978758508762",
+      "author": "lateinteraction",
+      "status_id": "2042711978758508762",
+      "timestamp_label": "Apr 10, 2026",
+      "date_iso": "2026-04-10",
+      "text": "crazy RLM variant, based on @AdamZweiger\u2019s attention matching",
+      "source": "https://r.jina.ai/http://x.com/lateinteraction/status/2042711978758508762"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/tryramp/status/2042693333567373743",
+      "author": "tryramp",
+      "status_id": "2042693333567373743",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/tryramp/status/2042693333567373743"
+    }
+  ],
+  "postsInWindow": [
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/MichLieben/status/2039674012008435902",
+      "author": "MichLieben",
+      "status_id": "2039674012008435902",
+      "timestamp_label": "Apr 2, 2026",
+      "date_iso": "2026-04-02",
+      "text": "cool so we're just giving away the entire operating system now 58 skills, 137 triggers, the scoring model, the email templates, the whole thing https://t.co/ycjtyWci4X",
+      "source": "https://r.jina.ai/http://x.com/MichLieben/status/2039674012008435902"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/dimitarangg/status/2044128556230349098",
+      "author": "dimitarangg",
+      "status_id": "2044128556230349098",
+      "timestamp_label": "Apr 14, 2026",
+      "date_iso": "2026-04-14",
+      "text": "how life feels running an outreach system that books +60 calls/mo while you sleep (because of the info in this guy's article): https://t.co/gkTh46MWgD",
+      "source": "https://r.jina.ai/http://x.com/dimitarangg/status/2044128556230349098"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" reply",
+      "url": "https://x.com/random_walker/status/2037157710328697312",
+      "author": "random_walker",
+      "status_id": "2037157710328697312",
+      "timestamp_label": "Mar 26, 2026",
+      "date_iso": "2026-03-26",
+      "text": "AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective \u2014 someone who gets dozens of unsolicited invitations/requests in my email from strangers every day. In the past there used to be a sharp distinction between unpersonalized mass emails and",
+      "source": "https://r.jina.ai/http://x.com/random_walker/status/2037157710328697312"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/_amankishore/status/2043063324301046000",
+      "author": "_amankishore",
+      "status_id": "2043063324301046000",
+      "timestamp_label": "Apr 11, 2026",
+      "date_iso": "2026-04-11",
+      "text": "Is anyone else losing their minds watching @tryramp produce such interesting research as they implement their own harnesses and agentic systems internally? Very impressed by @RampLabs",
+      "source": "https://r.jina.ai/http://x.com/_amankishore/status/2043063324301046000"
+    },
+    {
+      "query": "site:x.com \"too much noise\" leads",
+      "url": "https://x.com/lateinteraction/status/2042711978758508762",
+      "author": "lateinteraction",
+      "status_id": "2042711978758508762",
+      "timestamp_label": "Apr 10, 2026",
+      "date_iso": "2026-04-10",
+      "text": "crazy RLM variant, based on @AdamZweiger\u2019s attention matching",
+      "source": "https://r.jina.ai/http://x.com/lateinteraction/status/2042711978758508762"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "generated_at": "2026-04-19T22:00:33.300004+00:00",
+  "total_items_30d": 817,
+  "category_counts": {
+    "do_founders_manually_search": 22,
+    "signal_vs_noise": 11,
+    "takes_too_long": 11,
+    "find_posts_worth_replying": 6,
+    "miss_opportunities": 0,
+    "tried_tools_still_complain": 11
+  },
+  "category_hits": {
+    "do_founders_manually_search": [
+      {
+        "id": "t3_1sgq9vh",
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-09T13:53:34+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/",
+        "score": 9,
+        "snippet": "I built a Reddit marketing tool for SaaS founders, would love feedback on our landing page Hey everyone! I've been lurking here for a while and"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "score": 9,
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of vague hustle."
+      },
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "score": 9,
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last 3 years."
+      },
+      {
+        "id": "x_2033899739700466085",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:05+00:00",
+        "url": "https://x.com/itsalexvacca/status/2033899739700466085",
+        "score": 9,
+        "snippet": "Alex Vacca on X: \"We've sent over 23M cold emails. These 54 intent signals got us 5-11% reply rates, consistently. ## Post ## Conversation We've sent"
+      },
+      {
+        "id": "t1_ogpndmy",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T13:42:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogpndmy/",
+        "score": 8,
+        "snippet": "This is clever and I've done it a few times. The logic is sound: they've confirmed the email is active, they're clearly in a buying mindset"
+      },
+      {
+        "id": "x_2044127809241788500",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:55+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "score": 8,
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold email ##"
+      },
+      {
+        "id": "x_2033924080932630931",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:27+00:00",
+        "url": "https://x.com/cukyn1812/status/2033924080932630931",
+        "score": 8,
+        "snippet": "Min on X: \"Cold outreach has become a race to the bottom where everyone loses. # Min on X: \"Cold outreach has become a race to"
+      },
+      {
+        "id": "x_2034393944759447839",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:41+00:00",
+        "url": "https://x.com/dimitarangg/status/2034393944759447839",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"cold outreach and dating apps run on the exact same psychology Dimitar Angelov on X: \"cold outreach and dating apps run on"
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think about cold"
+      },
+      {
+        "id": "x_2043803939280183641",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:23+00:00",
+        "url": "https://x.com/Lecrassus/status/2043803939280183641",
+        "score": 8,
+        "snippet": "Andrew Levenko on X: \"Why being bullish on Reddit growth channel? 😎 # Andrew Levenko on X: \"Why being bullish on Reddit growth channel? 😎 Reddit"
+      },
+      {
+        "id": "t1_oeswgu4",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T13:48:32+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oeswgu4/",
+        "score": 7,
+        "snippet": "I went through almost the same arc with cold outreach and affiliates, just in a different channel. My hit rate on “perfectly personalized” emails was basically"
+      },
+      {
+        "id": "t1_ofiilgv",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-11T04:33:09+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/ofiilgv/",
+        "score": 7,
+        "snippet": "Hm interesting concept - reddit marketing is definitely a minefield for SaaS founders the biggest challenge isn't generating content, it's generating AUTHENTIC content that doesn't instantly"
+      },
+      {
+        "id": "t1_ofx48oj",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-13T11:29:59+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/ofx48oj/",
+        "score": 7,
+        "snippet": "I feel like the most ultimate way of truly proving your product is you creating a second product that sells extremely well with your Reddit marketing"
+      },
+      {
+        "id": "x_2043993374881919335",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:37+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "score": 7,
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days ago, one"
+      },
+      {
+        "id": "x_2041096696633950295",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:44+00:00",
+        "url": "https://x.com/DeRonin_/status/2041096696633950295",
+        "score": 7,
+        "snippet": "Ronin on X: \"I generate 200+ qualified leads per week and never send a single cold DM ## Post ## Conversation I generate 200+ qualified leads"
+      },
+      {
+        "id": "x_2031353631761440939",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:17+00:00",
+        "url": "https://x.com/Shruti_0810/status/2031353631761440939",
+        "score": 7,
+        "snippet": "Shruti Codes on X: \"Cold outreach is dying. # Shruti Codes on X: \"Cold outreach is dying. Not because email stopped working. But because most people"
+      },
+      {
+        "id": "x_2037157710328697312",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:11+00:00",
+        "url": "https://x.com/random_walker/status/2037157710328697312",
+        "score": 7,
+        "snippet": "Arvind Narayanan on X: \"AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective — someone who gets"
+      },
+      {
+        "id": "x_2030675168956448790",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:34+00:00",
+        "url": "https://x.com/ashen_one/status/2030675168956448790",
+        "score": 7,
+        "snippet": "ashen on X: \"Reddit marketing is super underrated. If you have any sort of product you're trying to do outreach on, you need to be on"
+      },
+      {
+        "id": "x_2044128556230349098",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:52+00:00",
+        "url": "https://x.com/dimitarangg/status/2044128556230349098",
+        "score": 6,
+        "snippet": "Dimitar Angelov on X: \"how life feels running an outreach system that books +60 calls/mo while you sleep (because of the info in this guy's article):"
+      },
+      {
+        "id": "x_2036101019914887348",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:17+00:00",
+        "url": "https://x.com/FavourYusuf1/status/2036101019914887348",
+        "score": 6,
+        "snippet": "Favour Y. on X: \"12 days ago, I made a tweet about how marketers can make money from this AI/vibe coding boom. 12 days ago, I"
+      },
+      {
+        "id": "x_2033936878005518497",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:29+00:00",
+        "url": "https://x.com/Whotfismick/status/2033936878005518497",
+        "score": 6,
+        "snippet": "☔ on X: \"so you're telling me CrowdReply can now... # ☔ on X: \"so you're telling me CrowdReply can now... - rank your brand on"
+      },
+      {
+        "id": "x_2023054349778432500",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:44+00:00",
+        "url": "https://x.com/jayychoii_/status/2023054349778432500",
+        "score": 6,
+        "snippet": "Jay Choi on X: \"Planning Reddit marketing? Don’t miss what’s happening People on X are the first to know. [Log in](https://x.com/login) [Sign up](https://x.com/i/flow/signup) ## [](https://x.com/) ##"
+      }
+    ],
+    "signal_vs_noise": [
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "score": 9,
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last 3 years."
+      },
+      {
+        "id": "x_2033899739700466085",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:05+00:00",
+        "url": "https://x.com/itsalexvacca/status/2033899739700466085",
+        "score": 9,
+        "snippet": "Alex Vacca on X: \"We've sent over 23M cold emails. These 54 intent signals got us 5-11% reply rates, consistently. ## Post ## Conversation We've sent"
+      },
+      {
+        "id": "x_2033924080932630931",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:27+00:00",
+        "url": "https://x.com/cukyn1812/status/2033924080932630931",
+        "score": 8,
+        "snippet": "Min on X: \"Cold outreach has become a race to the bottom where everyone loses. # Min on X: \"Cold outreach has become a race to"
+      },
+      {
+        "id": "x_2034393944759447839",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:41+00:00",
+        "url": "https://x.com/dimitarangg/status/2034393944759447839",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"cold outreach and dating apps run on the exact same psychology Dimitar Angelov on X: \"cold outreach and dating apps run on"
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think about cold"
+      },
+      {
+        "id": "x_2043803939280183641",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:23+00:00",
+        "url": "https://x.com/Lecrassus/status/2043803939280183641",
+        "score": 8,
+        "snippet": "Andrew Levenko on X: \"Why being bullish on Reddit growth channel? 😎 # Andrew Levenko on X: \"Why being bullish on Reddit growth channel? 😎 Reddit"
+      },
+      {
+        "id": "t1_ogo4xzf",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T07:17:22+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogo4xzf/",
+        "score": 7,
+        "snippet": "Spot on. The 15-minute 'quick call' is the 2026 version of a dial-up modem. You hit the nail on the head. Most cold outreach is just"
+      },
+      {
+        "id": "t1_oest75z",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T13:32:19+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oest75z/",
+        "score": 6,
+        "snippet": "the affiliate cold outreach is brutal, 0/130 sounds about right honestly lol. one thing that moved the needle for me before i had real distribution was"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "score": 6,
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one message or"
+      },
+      {
+        "id": "t1_oh17xxy",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-19T06:50:38+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh17xxy/",
+        "score": 6,
+        "snippet": "That's a good sign. If margins are healthy and there's organic traction before you've even pushed sales, that's a strong signal. Main thing I'd think about:"
+      },
+      {
+        "id": "t1_ogrl64t",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T19:03:13+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrl64t/",
+        "score": 5,
+        "snippet": "Sometimes the best signal is that someone cold emailed you at all. It tells you: 1. They believe in outbound 2. They likely sell B2B 3."
+      }
+    ],
+    "takes_too_long": [
+      {
+        "id": "t3_1sgq9vh",
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-09T13:53:34+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/",
+        "score": 9,
+        "snippet": "I built a Reddit marketing tool for SaaS founders, would love feedback on our landing page Hey everyone! I've been lurking here for a while and"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "score": 9,
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of vague hustle."
+      },
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "score": 9,
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last 3 years."
+      },
+      {
+        "id": "t1_ogpndmy",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T13:42:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogpndmy/",
+        "score": 8,
+        "snippet": "This is clever and I've done it a few times. The logic is sound: they've confirmed the email is active, they're clearly in a buying mindset"
+      },
+      {
+        "id": "x_2044127809241788500",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:55+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "score": 8,
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold email ##"
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think about cold"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "score": 7,
+        "snippet": " Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a lead"
+      },
+      {
+        "id": "t1_ogue1w3",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-18T04:47:06+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1som4ng/has_anyone_stepped_away_from_their_business_and/ogue1w3/",
+        "score": 6,
+        "snippet": "burnout from 90-100 hour weeks isn't a motivation problem it's a systems problem. the fact that you're running a full time job plus storage plus powder"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "score": 6,
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one message or"
+      },
+      {
+        "id": "t1_oh1i97y",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T08:20:44+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1i97y/",
+        "score": 6,
+        "snippet": "Finding efficient growth activities is a common challenge. If your B2B SaaS targets local businesses, tools that automate lead generation from Google Maps can save you"
+      },
+      {
+        "id": "t1_oh0nj4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "score": 5,
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching socials. They"
+      }
+    ],
+    "find_posts_worth_replying": [
+      {
+        "id": "x_2044127809241788500",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:55+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "score": 8,
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold email ##"
+      },
+      {
+        "id": "x_2034393944759447839",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:41+00:00",
+        "url": "https://x.com/dimitarangg/status/2034393944759447839",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"cold outreach and dating apps run on the exact same psychology Dimitar Angelov on X: \"cold outreach and dating apps run on"
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "score": 8,
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think about cold"
+      },
+      {
+        "id": "x_2041096696633950295",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:48:44+00:00",
+        "url": "https://x.com/DeRonin_/status/2041096696633950295",
+        "score": 7,
+        "snippet": "Ronin on X: \"I generate 200+ qualified leads per week and never send a single cold DM ## Post ## Conversation I generate 200+ qualified leads"
+      },
+      {
+        "id": "x_2037157710328697312",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:11+00:00",
+        "url": "https://x.com/random_walker/status/2037157710328697312",
+        "score": 7,
+        "snippet": "Arvind Narayanan on X: \"AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective — someone who gets"
+      },
+      {
+        "id": "t1_oh57x4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T20:54:58+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/oh57x4h/",
+        "score": 5,
+        "snippet": "I went through almost this exact journey and landed on a super similar gate before touching budgets. What helped me was forcing the ICP sentence into"
+      }
+    ],
+    "miss_opportunities": [],
+    "tried_tools_still_complain": [
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "score": 9,
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last 3 years."
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "score": 7,
+        "snippet": " Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a lead"
+      },
+      {
+        "id": "x_2031353631761440939",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:49:17+00:00",
+        "url": "https://x.com/Shruti_0810/status/2031353631761440939",
+        "score": 7,
+        "snippet": "Shruti Codes on X: \"Cold outreach is dying. # Shruti Codes on X: \"Cold outreach is dying. Not because email stopped working. But because most people"
+      },
+      {
+        "id": "x_2037157710328697312",
+        "platform": "x",
+        "kind": "post",
+        "subreddit": null,
+        "created_at": "2026-04-19T21:50:11+00:00",
+        "url": "https://x.com/random_walker/status/2037157710328697312",
+        "score": 7,
+        "snippet": "Arvind Narayanan on X: \"AI agents seem to be killing the ability to do cold outreach. Look at it from my perspective — someone who gets"
+      },
+      {
+        "id": "t3_1seubx8",
+        "platform": "reddit",
+        "kind": "post",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-07T12:19:02+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/",
+        "score": 6,
+        "snippet": "I emailed 130 people to promote my SaaS. 0 said yes. A month ago I looked at PostClaw’s numbers and saw the real problem. People who"
+      },
+      {
+        "id": "t1_ofe7376",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-10T15:04:22+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/ofe7376/",
+        "score": 6,
+        "snippet": "Honest feedback as someone who just went through the same landing page exercise for my own SaaS: **Design:** The orange and black combination is bold but"
+      },
+      {
+        "id": "t1_ofxgdd4",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-13T12:44:42+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofxgdd4/",
+        "score": 6,
+        "snippet": "ive just been using Marbilism - ive had mixed results! I'll start with the negatives first! I have used it primarily for marketing [contactjournalists.com](http://contactjournalists.com) \\- my"
+      },
+      {
+        "id": "t1_ofyik1z",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "indiehackers",
+        "created_at": "2026-04-13T15:47:15+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofyik1z/",
+        "score": 6,
+        "snippet": "Been feeling the same. Too much AI content right now is just recycled hype and not enough real building. I’m way more interested in hearing what"
+      },
+      {
+        "id": "t1_ogq54we",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "Entrepreneur",
+        "created_at": "2026-04-17T15:05:38+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snuh1k/feedback_friday_rate_my_ideas_april_17_2026/ogq54we/",
+        "score": 6,
+        "snippet": "Sharing my project for honest feedback - [theaiagentindex.com](http://theaiagentindex.com) I built this because I kept running into the same problem: Searching for AI agents for businesses returned"
+      },
+      {
+        "id": "t1_ogwcfpp",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "score": 6,
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip it and"
+      },
+      {
+        "id": "t1_oh1i97y",
+        "platform": "reddit",
+        "kind": "comment",
+        "subreddit": "GrowthHacking",
+        "created_at": "2026-04-19T08:20:44+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1i97y/",
+        "score": 6,
+        "snippet": "Finding efficient growth activities is a common challenge. If your B2B SaaS targets local businesses, tools that automate lead generation from Google Maps can save you"
+      }
+    ]
+  },
+  "freq_raw_mentions": {
+    "daily": 25,
+    "weekly": 31
+  }
+}

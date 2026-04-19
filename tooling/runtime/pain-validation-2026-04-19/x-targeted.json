@@ -1,0 +1,122 @@
+{
+  "generatedAt": "2026-04-19T22:02:13.822603+00:00",
+  "source": "ddg_via_r_jina_ai + x_page_via_r_jina_ai",
+  "daysWindow": 30,
+  "queries": [
+    "site:x.com \"finding customers on reddit\"",
+    "site:x.com \"where do i find customers\" \"reddit\"",
+    "site:x.com \"too much noise\" \"leads\"",
+    "site:x.com \"signal to noise\" \"lead generation\"",
+    "site:x.com \"which posts to reply\" \"reddit\"",
+    "site:x.com \"manual searching\" \"leads\"",
+    "site:x.com \"f5bot\" \"gummysearch\"",
+    "site:x.com \"reddit marketing\" \"high intent\"",
+    "site:x.com \"twitter leads\" \"reply\"",
+    "site:x.com \"cold outreach\" \"reply rates dropped\""
+  ],
+  "perQueryLinks": {
+    "site:x.com \"finding customers on reddit\"": [
+      "https://x.com/AlexBelogubov/status/2043993374881919335"
+    ],
+    "site:x.com \"where do i find customers\" \"reddit\"": [],
+    "site:x.com \"too much noise\" \"leads\"": [
+      "https://x.com/IManghaila/status/2044828145224700147",
+      "https://x.com/InfiniteAzure22/status/2024547639203700978"
+    ],
+    "site:x.com \"signal to noise\" \"lead generation\"": [],
+    "site:x.com \"which posts to reply\" \"reddit\"": [],
+    "site:x.com \"manual searching\" \"leads\"": [
+      "https://x.com/d3v_unknown/status/2041954718600327220",
+      "https://x.com/techwithashiqur/status/2029789620708491684"
+    ],
+    "site:x.com \"f5bot\" \"gummysearch\"": [
+      "https://x.com/AlexBelogubov/status/2043993374881919335",
+      "https://x.com/natiakourdadze/status/2031811758185197964"
+    ],
+    "site:x.com \"reddit marketing\" \"high intent\"": [],
+    "site:x.com \"twitter leads\" \"reply\"": [],
+    "site:x.com \"cold outreach\" \"reply rates dropped\"": [
+      "https://x.com/polsia/status/2029281393797468666"
+    ]
+  },
+  "counts": {
+    "queries": 10,
+    "rawLinks": 8,
+    "uniqueLinks": 7,
+    "hydrated": 7,
+    "inWindow": 0
+  },
+  "posts": [
+    {
+      "query": "site:x.com \"finding customers on reddit\"",
+      "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+      "author": "AlexBelogubov",
+      "status_id": "2043993374881919335",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/AlexBelogubov/status/2043993374881919335"
+    },
+    {
+      "query": "site:x.com \"too much noise\" \"leads\"",
+      "url": "https://x.com/IManghaila/status/2044828145224700147",
+      "author": "IManghaila",
+      "status_id": "2044828145224700147",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/IManghaila/status/2044828145224700147"
+    },
+    {
+      "query": "site:x.com \"too much noise\" \"leads\"",
+      "url": "https://x.com/InfiniteAzure22/status/2024547639203700978",
+      "author": "InfiniteAzure22",
+      "status_id": "2024547639203700978",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/InfiniteAzure22/status/2024547639203700978"
+    },
+    {
+      "query": "site:x.com \"manual searching\" \"leads\"",
+      "url": "https://x.com/d3v_unknown/status/2041954718600327220",
+      "author": "d3v_unknown",
+      "status_id": "2041954718600327220",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/d3v_unknown/status/2041954718600327220"
+    },
+    {
+      "query": "site:x.com \"manual searching\" \"leads\"",
+      "url": "https://x.com/techwithashiqur/status/2029789620708491684",
+      "author": "techwithashiqur",
+      "status_id": "2029789620708491684",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/techwithashiqur/status/2029789620708491684"
+    },
+    {
+      "query": "site:x.com \"f5bot\" \"gummysearch\"",
+      "url": "https://x.com/natiakourdadze/status/2031811758185197964",
+      "author": "natiakourdadze",
+      "status_id": "2031811758185197964",
+      "timestamp_label": null,
+      "date_iso": null,
+      "text": "",
+      "source": "https://r.jina.ai/http://x.com/natiakourdadze/status/2031811758185197964"
+    },
+    {
+      "query": "site:x.com \"cold outreach\" \"reply rates dropped\"",
+      "url": "https://x.com/polsia/status/2029281393797468666",
+      "author": "polsia",
+      "status_id": "2029281393797468666",
+      "timestamp_label": "Mar 4, 2026",
+      "date_iso": "2026-03-04",
+      "text": "Cold outreach reply rates dropped 50% in two years. Most AI SDR tools cost $800+/mo. Built Stryke to fix both. Autonomous sales agent for teams that can't afford enterprise pricing. https://t.co/hecCXcGIiD",
+      "source": "https://r.jina.ai/http://x.com/polsia/status/2029281393797468666"
+    }
+  ],
+  "postsInWindow": []
+}

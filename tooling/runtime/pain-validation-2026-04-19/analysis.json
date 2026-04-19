@@ -1,0 +1,2125 @@
+{
+  "generated_at": "2026-04-19T21:54:14.014275+00:00",
+  "counts": {
+    "reddit_posts_input": 150,
+    "reddit_evidence_items": 797,
+    "x_items_input": 31,
+    "x_evidence_items": 20,
+    "total_evidence_items": 817,
+    "cutoff": "2026-03-20T21:54:14.014275+00:00"
+  },
+  "pattern_counts": {
+    "manual_search": 15,
+    "signal_noise": 24,
+    "takes_too_long": 50,
+    "worth_reply": 8,
+    "miss_opportunities": 0,
+    "tried_tools_fail": 9
+  },
+  "pattern_hits": {
+    "manual_search": [
+      {
+        "id": "t1_ofxvcdu",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nyfael",
+        "created_at": "2026-04-13T14:02:23+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofxvcdu/",
+        "snippet": "How did you get your first users?",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": "Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogpndmy",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ikosuave",
+        "created_at": "2026-04-17T13:42:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogpndmy/",
+        "snippet": "This is clever and I've done it a few times. The logic is sound: they've confirmed the email is active, they're clearly in a",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogrl64t",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Actual-Translator-34",
+        "created_at": "2026-04-17T19:03:13+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrl64t/",
+        "snippet": "Sometimes the best signal is that someone cold emailed you at all. It tells you: 1. They believe in outbound 2. They likely sell",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogr8at1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "PixelGlowMagic",
+        "created_at": "2026-04-17T18:03:08+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogr8at1/",
+        "snippet": "i've seen that specific issue countless times; likes don't pay teh bills, right? It sounds like you've got traffic, but it's not qualified. A",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogue1w3",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Admirable-Station223",
+        "created_at": "2026-04-18T04:47:06+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1som4ng/has_anyone_stepped_away_from_their_business_and/ogue1w3/",
+        "snippet": "burnout from 90-100 hour weeks isn't a motivation problem it's a systems problem. the fact that you're running a full time job plus storage",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogxl5ti",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "vinaykrkatiyar",
+        "created_at": "2026-04-18T17:40:03+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1soxes7/how_to_get_better_at_negotiations/ogxl5ti/",
+        "snippet": "Most of this thread is answering the wrong question. Chris Voss is good but it's in-room tactics. The OP is asking about something that",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Chance-Appearance200",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh0nj4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nairviveks",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh0xxk9",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "BusinessStrategist",
+        "created_at": "2026-04-19T05:25:28+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/oh0xxk9/",
+        "snippet": "Simple. You're looking for people that have a learning mindset and don't have the \"I'll learn it when I need it mindset. Maybe start",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "x_2043993374881919335",
+        "platform": "x",
+        "kind": "post",
+        "author": "AlexBelogubov",
+        "created_at": "2026-04-19T21:48:37+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days",
+        "subreddit": null
+      },
+      {
+        "id": "x_2031353631761440939",
+        "platform": "x",
+        "kind": "post",
+        "author": "Shruti_0810",
+        "created_at": "2026-04-19T21:49:17+00:00",
+        "url": "https://x.com/Shruti_0810/status/2031353631761440939",
+        "snippet": "Shruti Codes on X: \"Cold outreach is dying. # Shruti Codes on X: \"Cold outreach is dying. Not because email stopped working. But because",
+        "subreddit": null
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "author": "dimitarangg",
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think",
+        "subreddit": null
+      },
+      {
+        "id": "x_2036101019914887348",
+        "platform": "x",
+        "kind": "post",
+        "author": "FavourYusuf1",
+        "created_at": "2026-04-19T21:50:17+00:00",
+        "url": "https://x.com/FavourYusuf1/status/2036101019914887348",
+        "snippet": "Favour Y. on X: \"12 days ago, I made a tweet about how marketers can make money from this AI/vibe coding boom. 12 days",
+        "subreddit": null
+      }
+    ],
+    "signal_noise": [
+      {
+        "id": "t1_of271dn",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "lamacorn_",
+        "created_at": "2026-04-08T20:11:54+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seso6v/i_gave_an_ai_agent_full_access_to_my_twitter/of271dn/",
+        "snippet": "Fresh context is everything. Stale content is basically just noise at that point. Mine pulls from trending topics in the niche daily, so it's",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oevvnkx",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "farhadnawab",
+        "created_at": "2026-04-07T22:03:59+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1seubx8/i_emailed_130_people_to_promote_my_saas_0_said_yes/oevvnkx/",
+        "snippet": "congrats on the pivot. it is wild how much better DMs on X work compared to standard cold email when you are trying to",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_offvjlg",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "threemacs",
+        "created_at": "2026-04-10T19:35:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sfu4x2/0_to_140_users_building_a_platform_where/offvjlg/",
+        "snippet": "The ratio I'd actually watch isn't 140 to 20 active users. It's 20 projects to 2 that are actually progressing. That buried number in",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogedafu",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "AssignmentNational98",
+        "created_at": "2026-04-15T20:43:37+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1shonxg/i_almost_fired_my_ai_cto_yesterday_my_ai_coo/ogedafu/",
+        "snippet": "There's a real product idea buried in here somewhere but framing AI tools as employees with names and job titles is going to make",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oghsi5y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Specialist_Golf8133",
+        "created_at": "2026-04-16T10:15:04+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/oghsi5y/",
+        "snippet": "Yeah, same. Building B2B SaaS at $15K MRR with a 6-person team, mostly focused on GTM experiments this quarter. What actually worked for us",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofxprvs",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "National-Motor3382",
+        "created_at": "2026-04-13T13:34:40+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofxprvs/",
+        "snippet": "Been waiting for something like this. I'm a solo iOS dev also messing with agentic workflows and the signal-to-noise ratio in most AI subs",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og4m850",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Outrageous-Cod4534",
+        "created_at": "2026-04-14T13:21:32+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og4m850/",
+        "snippet": "the fact that video editors are the most engaged segment from your outreach is the most important thing in this entire post and it's",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oga0was",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RankBrief",
+        "created_at": "2026-04-15T06:00:53+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/oga0was/",
+        "snippet": "This list is genuinely one of the most underrated resources on this sub. Found 4-5 offers this week that were actually relevant to my",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og9zucp",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RankBrief",
+        "created_at": "2026-04-15T05:52:22+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/og9zucp/",
+        "snippet": "The hierarchy vs. design point is the most underrated thing in this post. Machines parse document structure, not visual weight. An H2 buried after",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogapfye",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Ok-Constant6488",
+        "created_at": "2026-04-15T09:38:41+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/ogapfye/",
+        "snippet": "Most of this is rediscovering semantic HTML. \"Structurally shallow sections get skipped\" has been true for Googlebot for a decade. Heading hierarchy, DOM content",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogo4xzf",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Anglebuilder",
+        "created_at": "2026-04-17T07:17:22+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogo4xzf/",
+        "snippet": "Spot on. The 15-minute 'quick call' is the 2026 version of a dial-up modem. You hit the nail on the head. Most cold outreach",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogptuwj",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Cool_Attorney_2500",
+        "created_at": "2026-04-17T14:14:08+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogptuwj/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogrf9zt",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Cool_Attorney_2500",
+        "created_at": "2026-04-17T18:35:43+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrf9zt/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t3_1so0gr3",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Goran-CRO",
+        "created_at": "2026-04-17T13:06:54+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/",
+        "snippet": "Before scaling paid search, I now run a two-question test. Sharing the framework. After a few expensive paid search seasons I've landed on two",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh57x4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Key-Boat-7519",
+        "created_at": "2026-04-19T20:54:58+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/oh57x4h/",
+        "snippet": "I went through almost this exact journey and landed on a super similar gate before touching budgets. What helped me was forcing the ICP",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t3_1sogokc",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Calm_Advance_7581",
+        "created_at": "2026-04-17T23:08:06+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sogokc/anyone_seen_sms_outperform_email_for_political_or/",
+        "snippet": "Anyone seen SMS outperform email for political or advocacy campaigns? I’ve been wondering where the line is between email being ch͏eap and scalable versus",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh153dq",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Main_Flounder160",
+        "created_at": "2026-04-19T06:26:07+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/oh153dq/",
+        "snippet": "Ten actives out of 65 signups is a 15% activation rate, which is actually decent. But you're framing this wrong. Investors at pre-seed aren't",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_oh151xd",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Main_Flounder160",
+        "created_at": "2026-04-19T06:25:46+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/oh151xd/",
+        "snippet": "Ten actives out of 65 signups is a 15% activation rate, which is actually decent. But you're framing this wrong. Investors at pre-seed aren't",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t3_1sox7qq",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Goran-CRO",
+        "created_at": "2026-04-18T13:08:41+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sox7qq/the_never_ending_growth_team_debateshould_we/",
+        "snippet": "The never ending growth team debate:”Should we improve conversion rates before scaling spend, or scale spend while we test conversion?\" (answered) The growth team",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1qrky",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "BusinessStrategist",
+        "created_at": "2026-04-19T09:38:54+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1soxes7/how_to_get_better_at_negotiations/oh1qrky/",
+        "snippet": "How many stakeholders are involved in making the decision to buy? And who is the \"chief\" decider? Are you the \"negotiator?\" The \"buyer journey",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0o4ql",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Independent-Diver929",
+        "created_at": "2026-04-19T04:08:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh0o4ql/",
+        "snippet": "I would not make that call just based on which side feels more frustrating right now. Usually the better question is which side has",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogz8q9o",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ArtisticLemon2644",
+        "created_at": "2026-04-18T22:47:08+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/ogz8q9o/",
+        "snippet": "The marketplace fatigue is real. Upwork and Fiverr have become a race to the bottom where you spend 90% of your time just filtering",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh1510a",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Grand_Dog_5247",
+        "created_at": "2026-04-19T06:25:33+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/oh1510a/",
+        "snippet": "The AI noise on freelance platforms has made vetting so much harder for sure. What actually worked for us was hiring people who came",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "x_2033924080932630931",
+        "platform": "x",
+        "kind": "post",
+        "author": "cukyn1812",
+        "created_at": "2026-04-19T21:49:27+00:00",
+        "url": "https://x.com/cukyn1812/status/2033924080932630931",
+        "snippet": "Min on X: \"Cold outreach has become a race to the bottom where everyone loses. # Min on X: \"Cold outreach has become a",
+        "subreddit": null
+      }
+    ],
+    "takes_too_long": [
+      {
+        "id": "t1_ofamaow",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Many-Personality-157",
+        "created_at": "2026-04-10T00:43:54+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sghg9c/i_am_a_solo_entrepreneur_i_spent_a_year_trying_to/ofamaow/",
+        "snippet": "The \"one small thing\" message at 1am is a universal developer trauma response at this point. The discovery week idea is the right call.",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t3_1sgq9vh",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "multi_mind",
+        "created_at": "2026-04-09T13:53:34+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/",
+        "snippet": "I built a Reddit marketing tool for SaaS founders, would love feedback on our landing page Hey everyone! I've been lurking here for a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofcuios",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "SinglePathForward",
+        "created_at": "2026-04-10T10:40:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sgq9vh/i_built_a_reddit_marketing_tool_for_saas_founders/ofcuios/",
+        "snippet": "I built it, no waitlist. The page is simple because the product is straightforward - it automates the most time-consuming parts of Reddit outreach",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofixm2x",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Adventurous-Fix4934",
+        "created_at": "2026-04-11T06:33:56+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1shp9hx/im_a_masters_student_and_i_built_lectio_because_i/ofixm2x/",
+        "snippet": "Love seeing the one-time pricing model. You completely nailed the audience—students are broke and subscription fatigue is very real right now. I'm curious about",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og3fcy5",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Hot_Lingonberry8581",
+        "created_at": "2026-04-14T08:19:43+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1shp9hx/im_a_masters_student_and_i_built_lectio_because_i/og3fcy5/",
+        "snippet": "The local-first angle is genuinely the right call for this market... students are increasingly aware their data is being vacuumed up, and universities are",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofxc0d0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "darkcode_jordan",
+        "created_at": "2026-04-13T12:19:13+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofxc0d0/",
+        "snippet": "I'm currently running it across two businesses right now so I can give you a real answer. One of them is a refurbished Apple",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofztyee",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Deep_Ad1959",
+        "created_at": "2026-04-13T19:16:53+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofztyee/",
+        "snippet": "the pattern I keep seeing is that \"AI agent team\" works when each agent has a single well-defined task with clear success criteria, and",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og4illt",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Aware_Researcher_284",
+        "created_at": "2026-04-14T13:02:38+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/og4illt/",
+        "snippet": "Yes, but only for narrow, well-defined workstreams where value per run is high. Orchestrators like Paperclip make the plumbing easy, but the real constraints",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofxfz8n",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "PockliApp",
+        "created_at": "2026-04-13T12:42:30+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofxfz8n/",
+        "snippet": "I’m also in. Just published the first app, waiting for the wave of bugs after the world discovers it. I selected an area which",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofxyy42",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Portfoliana",
+        "created_at": "2026-04-13T14:19:25+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofxyy42/",
+        "snippet": "Yep. We are building Adanos, basically a sentiment API for public equities that turns news flow and retail chatter into something queryable instead of",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": "Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og6p8x2",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "303Maschine",
+        "created_at": "2026-04-14T19:00:43+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/og6p8x2/",
+        "snippet": "As a fullstack dev this hit different. We spend hours on visual hierarchy, animations, spacing — and the AI just reads the DOM top",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t3_1smaz3z",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "WhoKnowsTheDay",
+        "created_at": "2026-04-15T16:24:24+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1smaz3z/ive_been_told_that_marketing_ops_is_the_next/",
+        "snippet": "I've been told that Marketing Ops is the next logical step in my career. What should I learn to have a chance in this",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ogl6lti",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "DianeForTheNguyen",
+        "created_at": "2026-04-16T20:18:13+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sneeyn/do_the_working_hours_ever_get_easier/ogl6lti/",
+        "snippet": "I feel like the problem is fintech. I think unpaid overtime will vary widely by industry. I work for an association, and I only",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_oglxxle",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RegisterConscious993",
+        "created_at": "2026-04-16T22:33:58+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sneeyn/do_the_working_hours_ever_get_easier/oglxxle/",
+        "snippet": "Depends on the company. My first marketing job was extremely fun, enjoyable, and boosted my social life since all coworkers got along well and",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ogpahyy",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "whereallpete",
+        "created_at": "2026-04-17T12:36:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snuh1k/feedback_friday_rate_my_ideas_april_17_2026/ogpahyy/",
+        "snippet": "Honestly mate, I was just sick of doing all the outreach manually, spending hours typing messages and chasing people up. It was taking over",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogpewly",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Fabulous-Pea-5366",
+        "created_at": "2026-04-17T13:00:01+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snuh1k/feedback_friday_rate_my_ideas_april_17_2026/ogpewly/",
+        "snippet": "Building custom AI solutions for law firms and businesses that need AI agents for customer support. law firms that are drowning in legal documents",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogrg9se",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "TheSellerStack",
+        "created_at": "2026-04-17T18:40:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snuh1k/feedback_friday_rate_my_ideas_april_17_2026/ogrg9se/",
+        "snippet": "Hi everyone, I'd like to share my current project as well. I'm building The Seller Stack - a weekly newsletter curating the best AI",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogtopg8",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Usual_Product_6863",
+        "created_at": "2026-04-18T01:54:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snuh1k/feedback_friday_rate_my_ideas_april_17_2026/ogtopg8/",
+        "snippet": "My last client had 18,000 unread emails sitting in his inbox. I panic when I have more than 10. I've been doing inbox triage",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0vx7p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Crescitaly",
+        "created_at": "2026-04-19T05:09:04+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1snxo82/saved_1k_this_quarter_with_3_simple_churn_emails/oh0vx7p/",
+        "snippet": "The \"who + when\" insight is the real unlock here. Most founders rush to write the perfect email copy when actually the trigger logic",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t3_1so1is7",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "trireme32",
+        "created_at": "2026-04-17T13:48:26+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1so1is7/looking_for_ideas_software_stackworkflow/",
+        "snippet": "Looking for ideas software stack/workflow solutions that balance efficiency and cost, with very specific requirements I run a small remote/in-person general tech support business",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogq15gy",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ImaginaryAd576",
+        "created_at": "2026-04-17T14:47:37+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1so1is7/looking_for_ideas_software_stackworkflow/ogq15gy/",
+        "snippet": "Honestly none of the 4 options you listed are great for your specific case. Here's why and what I'd actually do. The Zoho-only route",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogrdez5",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RFP-guy",
+        "created_at": "2026-04-17T18:26:55+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1so1is7/looking_for_ideas_software_stackworkflow/ogrdez5/",
+        "snippet": "Avoid 'Franken-stacks' that need constant babysitting. Since you're already in Zoho, try Zoho Subscriptions (the lighter version). It handles rollover units well as 'Add-ons'.",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t3_1soe4l3",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Sad_Source_6225",
+        "created_at": "2026-04-17T21:25:07+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1soe4l3/where_does_llm_cost_control_actually_resonate_eng/",
+        "snippet": "Where does LLM cost control actually resonate: eng, finance, or founders? We kept running into the same problem with LLM features: usage would grow,",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t3_1som4ng",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "BFord1021",
+        "created_at": "2026-04-18T03:17:29+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1som4ng/has_anyone_stepped_away_from_their_business_and/",
+        "snippet": "Has anyone stepped away from their business and started it back up? Has anyone done this? For context, 4 years ago I took a",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogue1w3",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Admirable-Station223",
+        "created_at": "2026-04-18T04:47:06+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1som4ng/has_anyone_stepped_away_from_their_business_and/ogue1w3/",
+        "snippet": "burnout from 90-100 hour weeks isn't a motivation problem it's a systems problem. the fact that you're running a full time job plus storage",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogwub91",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "AnonJian",
+        "created_at": "2026-04-18T15:28:20+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/ogwub91/",
+        "snippet": "It's not a headcount. It could possibly be non-paying users. It has to be geometric growth rate. Still, sixty-five tire kickers is worse than",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_ogvqqh0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "SlideTraditional8397",
+        "created_at": "2026-04-18T11:45:19+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sovb7b/shipping_ai_agents_into_products_is_easy_making/ogvqqh0/",
+        "snippet": "yeah we've been dealing with this exact thing at work, the perception problem is wild. built this workflow that actually saves people like 2",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t3_1sowd0j",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Aadi--1124",
+        "created_at": "2026-04-18T12:29:59+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sowd0j/ran_a_90day_experiment_what_happens_when_you/",
+        "snippet": "ran a 90-day experiment: what happens when you treat every email as a growth experiment? we have 15 automated email workflows. for 90 days,",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogw7uxd",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "magallanes2010",
+        "created_at": "2026-04-18T13:32:33+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1soxes7/how_to_get_better_at_negotiations/ogw7uxd/",
+        "snippet": "It is not so hard. You only need to find your price range. For example, I sell a product/service usually for $280, but my",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh259k6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "lroberson80",
+        "created_at": "2026-04-19T11:41:14+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sozhko/stop_hiding_the_hard_parts_of_your_journey/oh259k6/",
+        "snippet": "It’s been a few years for me now, but it didn’t start the way most people expect. I didn’t jump in and start making",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogy1lvr",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Monkeyboogaloo",
+        "created_at": "2026-04-18T19:00:57+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1sp23w2/pms_here_how_are_you_using_ai_to_boost/ogy1lvr/",
+        "snippet": "Not a PM. But I have just completed a project in 3 hours that would have taken me over 100 hours to do two",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxscml",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Far_Fisherman8154",
+        "created_at": "2026-04-18T18:14:48+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxscml/",
+        "snippet": "that pulse for reddit mention is interesting. i ended up using leadmatically for a similar reason, it just runs in the background. it finds",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogx9e1j",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Potential_Soil_3761",
+        "created_at": "2026-04-18T16:43:12+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogx9e1j/",
+        "snippet": "My guy thats the hustle right there but 6-8 hours pure growth work every day gonna burn you out quick. Maybe that other founder",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Chance-Appearance200",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogyk4ex",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "pranay_227",
+        "created_at": "2026-04-18T20:35:08+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogyk4ex/",
+        "snippet": "You are not supposed to grind 6 to 8 hours on random growth tasks. That advice is misleading. in B2B SaaS, growth is not",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogzwlx6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "x_hammer6497",
+        "created_at": "2026-04-19T01:07:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogzwlx6/",
+        "snippet": "the 6 to 8 hour thing is probably bs honestly, one hour of sharp focused outreach beats 7 hours of wandering through linkedin.",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh0nj4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nairviveks",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1ash2",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "NefariousnessBig6302",
+        "created_at": "2026-04-19T07:15:16+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1ash2/",
+        "snippet": "block out specific growth plays for 6 to 8 hours and treat them like work, not aimless hustle. i used to spin around socials",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1i97y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-19T08:20:44+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1i97y/",
+        "snippet": "Finding efficient growth activities is a common challenge. If your B2B SaaS targets local businesses, tools that automate lead generation from Google Maps can",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1tppv",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "LeadingAd6679",
+        "created_at": "2026-04-19T10:05:30+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1tppv/",
+        "snippet": "honestly the \"not working hard enough\" feeling is usually just a symptom of comparing your behind the scenes to everyone else's highlight reel lol",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogztmh1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Yadira_McConnell",
+        "created_at": "2026-04-19T00:50:04+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/ogztmh1/",
+        "snippet": "The math here is not ambiguous. Service revenue is capped at hours x rate with no leverage, and irregular clientele means you are burning",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh10lsi",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "yukiii_6",
+        "created_at": "2026-04-19T05:47:53+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh10lsi/",
+        "snippet": "Honestly this hit close to home. I had a service side that was draining me for almost two years before I finally let myself",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh1icr6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-19T08:21:39+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh1icr6/",
+        "snippet": "I understand your struggle with the service business - inconsistent clients can really take a toll. If you decide to continue with it, you",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogzkwo7",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Ok-Medium96",
+        "created_at": "2026-04-18T23:57:31+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/ogzkwo7/",
+        "snippet": "If the e-commerce side is gaining traction on its own, I’d pay really close attention to that Sometimes the answer isn’t “push harder through",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0o4ql",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Independent-Diver929",
+        "created_at": "2026-04-19T04:08:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh0o4ql/",
+        "snippet": "I would not make that call just based on which side feels more frustrating right now. Usually the better question is which side has",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "x_2044127809241788500",
+        "platform": "x",
+        "kind": "post",
+        "author": "scaling_shields",
+        "created_at": "2026-04-19T21:48:55+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold",
+        "subreddit": null
+      },
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "author": "AIGuide_",
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last",
+        "subreddit": null
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "author": "dimitarangg",
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think",
+        "subreddit": null
+      }
+    ],
+    "worth_reply": [
+      {
+        "id": "t1_ofs8sox",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "polygraph-net",
+        "created_at": "2026-04-12T17:08:40+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sin27w/our_23_cpl_looked_amazing_until_we_tracked_it_to/ofs8sox/",
+        "snippet": "Cheap leads often means click fraud, since click fraud bots are programmed to submit real-looking fake leads. When you optimize for cheap leads you",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ofltagc",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "sting_12345",
+        "created_at": "2026-04-11T17:36:34+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sin27w/our_23_cpl_looked_amazing_until_we_tracked_it_to/ofltagc/",
+        "snippet": "BOTH are important metrics to use.....the crested lead and whatever down the funnel...a qualified lead or sold lead or call etc.....you can feed any",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ofwc9mg",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "polygraph-net",
+        "created_at": "2026-04-13T07:33:36+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sk2xho/digital_marketing_consultant_red_flags_to_watch/ofwc9mg/",
+        "snippet": "Although I work in the click fraud detection space, our clients sometimes ask us (usually me) to sit in on calls with their potential",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ogsko9y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "According_Culture971",
+        "created_at": "2026-04-17T21:58:36+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogsko9y/",
+        "snippet": "I have done this a few times and it works better than I thought it would. There is already a strange mutual reciprocal understanding",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogoqp0n",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RushGambino",
+        "created_at": "2026-04-17T10:28:48+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1snw700/friday_share_fever_lets_share_your_project/ogoqp0n/",
+        "snippet": "Building [WaitlistWar ](https://waitlistwar.com) — turns your pre-launch waitlist into a growth engine. The core mechanic: every subscriber gets a referral link and moves up",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oh57x4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Key-Boat-7519",
+        "created_at": "2026-04-19T20:54:58+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/oh57x4h/",
+        "snippet": "I went through almost this exact journey and landed on a super similar gate before touching budgets. What helped me was forcing the ICP",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogwh39y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ozerozdas",
+        "created_at": "2026-04-18T14:22:24+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/ogwh39y/",
+        "snippet": "If your founder story isn’t quite strong, you’ll need some solid signs that your product is working. Here’s what we’re seeing right now: *",
+        "subreddit": "startups"
+      },
+      {
+        "id": "x_2041096696633950295",
+        "platform": "x",
+        "kind": "post",
+        "author": "DeRonin_",
+        "created_at": "2026-04-19T21:48:44+00:00",
+        "url": "https://x.com/DeRonin_/status/2041096696633950295",
+        "snippet": "Ronin on X: \"I generate 200+ qualified leads per week and never send a single cold DM ## Post ## Conversation I generate 200+",
+        "subreddit": null
+      }
+    ],
+    "miss_opportunities": [],
+    "tried_tools_fail": [
+      {
+        "id": "t1_ofc72y7",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Dramatic_Turnover936",
+        "created_at": "2026-04-10T07:13:49+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sh5mqk/openshots_free_opensource_alternative_to/ofc72y7/",
+        "snippet": "the cross-platform gap for screenshot beautification is genuinely underserved. i tried 4 different tools on windows before settling for a workflow that was 3",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofwfnvh",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Jazzlike-Holiday-605",
+        "created_at": "2026-04-13T08:04:40+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofwfnvh/",
+        "snippet": "been playing around with ai agents for my hvac business and the cost thing is brutal real talk. tried setting up agents to handle",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofx3jg1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Motor-Ad2119",
+        "created_at": "2026-04-13T11:25:12+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofx3jg1/",
+        "snippet": "I played with this a bit and tbh the main issue wasn’t setup, it was cost and how flaky it gets. From what i’ve",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofyxug5",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "SlowPotential6082",
+        "created_at": "2026-04-13T16:55:09+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofyxug5/",
+        "snippet": "Tried building an AI agent workflow for lead qualification at my last startup and honestly the handoffs between agents were a nightmare. You end",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": "Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og4g0yv",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Illustrious_Two_9660",
+        "created_at": "2026-04-14T12:48:56+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/og4g0yv/",
+        "snippet": "I like this a lot, but what made lists like this actually useful for me was adding a bit of structure. I ended up",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogwcfpp",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "R0NIN_909",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "x_2043993374881919335",
+        "platform": "x",
+        "kind": "post",
+        "author": "AlexBelogubov",
+        "created_at": "2026-04-19T21:48:37+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days",
+        "subreddit": null
+      }
+    ]
+  },
+  "tool_mentions": {
+    "agent": 67,
+    "brand24": 3,
+    "automation tool": 2,
+    "f5bot": 2,
+    "gummysearch": 2,
+    "brandwatch": 1,
+    "redreach": 1,
+    "replyagent": 1,
+    "replyguy": 1,
+    "syften": 1
+  },
+  "samples": {
+    "manual_search": [
+      {
+        "id": "x_2036101019914887348",
+        "platform": "x",
+        "kind": "post",
+        "author": "FavourYusuf1",
+        "created_at": "2026-04-19T21:50:17+00:00",
+        "url": "https://x.com/FavourYusuf1/status/2036101019914887348",
+        "snippet": "Favour Y. on X: \"12 days ago, I made a tweet about how marketers can make money from this AI/vibe coding boom. 12 days",
+        "subreddit": null
+      },
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "author": "dimitarangg",
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think",
+        "subreddit": null
+      },
+      {
+        "id": "x_2031353631761440939",
+        "platform": "x",
+        "kind": "post",
+        "author": "Shruti_0810",
+        "created_at": "2026-04-19T21:49:17+00:00",
+        "url": "https://x.com/Shruti_0810/status/2031353631761440939",
+        "snippet": "Shruti Codes on X: \"Cold outreach is dying. # Shruti Codes on X: \"Cold outreach is dying. Not because email stopped working. But because",
+        "subreddit": null
+      },
+      {
+        "id": "x_2043993374881919335",
+        "platform": "x",
+        "kind": "post",
+        "author": "AlexBelogubov",
+        "created_at": "2026-04-19T21:48:37+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days",
+        "subreddit": null
+      },
+      {
+        "id": "t1_oh0xxk9",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "BusinessStrategist",
+        "created_at": "2026-04-19T05:25:28+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/oh0xxk9/",
+        "snippet": "Simple. You're looking for people that have a learning mindset and don't have the \"I'll learn it when I need it mindset. Maybe start",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0nj4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nairviveks",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxl5ti",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "vinaykrkatiyar",
+        "created_at": "2026-04-18T17:40:03+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1soxes7/how_to_get_better_at_negotiations/ogxl5ti/",
+        "snippet": "Most of this thread is answering the wrong question. Chris Voss is good but it's in-room tactics. The OP is asking about something that",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Chance-Appearance200",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogue1w3",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Admirable-Station223",
+        "created_at": "2026-04-18T04:47:06+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1som4ng/has_anyone_stepped_away_from_their_business_and/ogue1w3/",
+        "snippet": "burnout from 90-100 hour weeks isn't a motivation problem it's a systems problem. the fact that you're running a full time job plus storage",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogrl64t",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Actual-Translator-34",
+        "created_at": "2026-04-17T19:03:13+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrl64t/",
+        "snippet": "Sometimes the best signal is that someone cold emailed you at all. It tells you: 1. They believe in outbound 2. They likely sell",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogr8at1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "PixelGlowMagic",
+        "created_at": "2026-04-17T18:03:08+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogr8at1/",
+        "snippet": "i've seen that specific issue countless times; likes don't pay teh bills, right? It sounds like you've got traffic, but it's not qualified. A",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogpndmy",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ikosuave",
+        "created_at": "2026-04-17T13:42:52+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogpndmy/",
+        "snippet": "This is clever and I've done it a few times. The logic is sound: they've confirmed the email is active, they're clearly in a",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": "Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofxvcdu",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nyfael",
+        "created_at": "2026-04-13T14:02:23+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/ofxvcdu/",
+        "snippet": "How did you get your first users?",
+        "subreddit": "indiehackers"
+      }
+    ],
+    "signal_noise": [
+      {
+        "id": "x_2033924080932630931",
+        "platform": "x",
+        "kind": "post",
+        "author": "cukyn1812",
+        "created_at": "2026-04-19T21:49:27+00:00",
+        "url": "https://x.com/cukyn1812/status/2033924080932630931",
+        "snippet": "Min on X: \"Cold outreach has become a race to the bottom where everyone loses. # Min on X: \"Cold outreach has become a",
+        "subreddit": null
+      },
+      {
+        "id": "t1_oh57x4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Key-Boat-7519",
+        "created_at": "2026-04-19T20:54:58+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/oh57x4h/",
+        "snippet": "I went through almost this exact journey and landed on a super similar gate before touching budgets. What helped me was forcing the ICP",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1qrky",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "BusinessStrategist",
+        "created_at": "2026-04-19T09:38:54+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1soxes7/how_to_get_better_at_negotiations/oh1qrky/",
+        "snippet": "How many stakeholders are involved in making the decision to buy? And who is the \"chief\" decider? Are you the \"negotiator?\" The \"buyer journey",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh153dq",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Main_Flounder160",
+        "created_at": "2026-04-19T06:26:07+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/oh153dq/",
+        "snippet": "Ten actives out of 65 signups is a 15% activation rate, which is actually decent. But you're framing this wrong. Investors at pre-seed aren't",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_oh151xd",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Main_Flounder160",
+        "created_at": "2026-04-19T06:25:46+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/oh151xd/",
+        "snippet": "Ten actives out of 65 signups is a 15% activation rate, which is actually decent. But you're framing this wrong. Investors at pre-seed aren't",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_oh1510a",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Grand_Dog_5247",
+        "created_at": "2026-04-19T06:25:33+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/oh1510a/",
+        "snippet": "The AI noise on freelance platforms has made vetting so much harder for sure. What actually worked for us was hiring people who came",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0o4ql",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Independent-Diver929",
+        "created_at": "2026-04-19T04:08:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh0o4ql/",
+        "snippet": "I would not make that call just based on which side feels more frustrating right now. Usually the better question is which side has",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogz8q9o",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ArtisticLemon2644",
+        "created_at": "2026-04-18T22:47:08+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3y5l/where_to_find_good_workerspeople/ogz8q9o/",
+        "snippet": "The marketplace fatigue is real. Upwork and Fiverr have become a race to the bottom where you spend 90% of your time just filtering",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t3_1sox7qq",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Goran-CRO",
+        "created_at": "2026-04-18T13:08:41+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sox7qq/the_never_ending_growth_team_debateshould_we/",
+        "snippet": "The never ending growth team debate:”Should we improve conversion rates before scaling spend, or scale spend while we test conversion?\" (answered) The growth team",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t3_1sogokc",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Calm_Advance_7581",
+        "created_at": "2026-04-17T23:08:06+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sogokc/anyone_seen_sms_outperform_email_for_political_or/",
+        "snippet": "Anyone seen SMS outperform email for political or advocacy campaigns? I’ve been wondering where the line is between email being ch͏eap and scalable versus",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogrf9zt",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Cool_Attorney_2500",
+        "created_at": "2026-04-17T18:35:43+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogrf9zt/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogptuwj",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Cool_Attorney_2500",
+        "created_at": "2026-04-17T14:14:08+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogptuwj/",
+        "snippet": "The fact that they already emailed you does validate the channel, but it does not validate a second generic pitch. The version I have",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t3_1so0gr3",
+        "platform": "reddit",
+        "kind": "post",
+        "author": "Goran-CRO",
+        "created_at": "2026-04-17T13:06:54+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/",
+        "snippet": "Before scaling paid search, I now run a two-question test. Sharing the framework. After a few expensive paid search seasons I've landed on two",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogo4xzf",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Anglebuilder",
+        "created_at": "2026-04-17T07:17:22+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogo4xzf/",
+        "snippet": "Spot on. The 15-minute 'quick call' is the 2026 version of a dial-up modem. You hit the nail on the head. Most cold outreach",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oghsi5y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Specialist_Golf8133",
+        "created_at": "2026-04-16T10:15:04+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk90yl/anyone_actually_building_stuff_tired_of_the_ai/oghsi5y/",
+        "snippet": "Yeah, same. Building B2B SaaS at $15K MRR with a 6-person team, mostly focused on GTM experiments this quarter. What actually worked for us",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogedafu",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "AssignmentNational98",
+        "created_at": "2026-04-15T20:43:37+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1shonxg/i_almost_fired_my_ai_cto_yesterday_my_ai_coo/ogedafu/",
+        "snippet": "There's a real product idea buried in here somewhere but framing AI tools as employees with names and job titles is going to make",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ogapfye",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Ok-Constant6488",
+        "created_at": "2026-04-15T09:38:41+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/ogapfye/",
+        "snippet": "Most of this is rediscovering semantic HTML. \"Structurally shallow sections get skipped\" has been true for Googlebot for a decade. Heading hierarchy, DOM content",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oga0was",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RankBrief",
+        "created_at": "2026-04-15T06:00:53+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/oga0was/",
+        "snippet": "This list is genuinely one of the most underrated resources on this sub. Found 4-5 offers this week that were actually relevant to my",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og9zucp",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RankBrief",
+        "created_at": "2026-04-15T05:52:22+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7xpt/i_am_a_solo_entrepreneur_learnt_one_new_thing/og9zucp/",
+        "snippet": "The hierarchy vs. design point is the most underrated thing in this post. Machines parse document structure, not visual weight. An H2 buried after",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og4m850",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Outrageous-Cod4534",
+        "created_at": "2026-04-14T13:21:32+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og4m850/",
+        "snippet": "the fact that video editors are the most engaged segment from your outreach is the most important thing in this entire post and it's",
+        "subreddit": "indiehackers"
+      }
+    ],
+    "takes_too_long": [
+      {
+        "id": "x_2040470458894557383",
+        "platform": "x",
+        "kind": "post",
+        "author": "dimitarangg",
+        "created_at": "2026-04-19T21:49:47+00:00",
+        "url": "https://x.com/dimitarangg/status/2040470458894557383",
+        "snippet": "Dimitar Angelov on X: \"The Psychology Behind Cold Outreach Follow-Ups That PRINT \" / X here's a number that should change how you think",
+        "subreddit": null
+      },
+      {
+        "id": "x_2033950873164960009",
+        "platform": "x",
+        "kind": "post",
+        "author": "AIGuide_",
+        "created_at": "2026-04-19T21:49:01+00:00",
+        "url": "https://x.com/AIGuide_/status/2033950873164960009",
+        "snippet": "AI Guide on X: \"Cold outreach is dead. ## Post ## Conversation Cold outreach is dead. Reply rates have dropped 44% in the last",
+        "subreddit": null
+      },
+      {
+        "id": "x_2044127809241788500",
+        "platform": "x",
+        "kind": "post",
+        "author": "scaling_shields",
+        "created_at": "2026-04-19T21:48:55+00:00",
+        "url": "https://x.com/scaling_shields/status/2044127809241788500",
+        "snippet": "James Shields on X: \"sat next to a 22-year-old in a faded hoodie making $50,000/month with a free indeed account and a 3-line cold",
+        "subreddit": null
+      },
+      {
+        "id": "t1_oh259k6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "lroberson80",
+        "created_at": "2026-04-19T11:41:14+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sozhko/stop_hiding_the_hard_parts_of_your_journey/oh259k6/",
+        "snippet": "It’s been a few years for me now, but it didn’t start the way most people expect. I didn’t jump in and start making",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh1tppv",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "LeadingAd6679",
+        "created_at": "2026-04-19T10:05:30+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1tppv/",
+        "snippet": "honestly the \"not working hard enough\" feeling is usually just a symptom of comparing your behind the scenes to everyone else's highlight reel lol",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1icr6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-19T08:21:39+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh1icr6/",
+        "snippet": "I understand your struggle with the service business - inconsistent clients can really take a toll. If you decide to continue with it, you",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh1i97y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-19T08:20:44+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1i97y/",
+        "snippet": "Finding efficient growth activities is a common challenge. If your B2B SaaS targets local businesses, tools that automate lead generation from Google Maps can",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh1ash2",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "NefariousnessBig6302",
+        "created_at": "2026-04-19T07:15:16+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh1ash2/",
+        "snippet": "block out specific growth plays for 6 to 8 hours and treat them like work, not aimless hustle. i used to spin around socials",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_oh10lsi",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "yukiii_6",
+        "created_at": "2026-04-19T05:47:53+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh10lsi/",
+        "snippet": "Honestly this hit close to home. I had a service side that was draining me for almost two years before I finally let myself",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0vx7p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Crescitaly",
+        "created_at": "2026-04-19T05:09:04+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1snxo82/saved_1k_this_quarter_with_3_simple_churn_emails/oh0vx7p/",
+        "snippet": "The \"who + when\" insight is the real unlock here. Most founders rush to write the perfect email copy when actually the trigger logic",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_oh0o4ql",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Independent-Diver929",
+        "created_at": "2026-04-19T04:08:24+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/oh0o4ql/",
+        "snippet": "I would not make that call just based on which side feels more frustrating right now. Usually the better question is which side has",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_oh0nj4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "nairviveks",
+        "created_at": "2026-04-19T04:03:55+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/oh0nj4h/",
+        "snippet": "The 6 to 8 hours advice is real but the person who told you that probably wasn't describing 6 to 8 hours of searching",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogzwlx6",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "x_hammer6497",
+        "created_at": "2026-04-19T01:07:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogzwlx6/",
+        "snippet": "the 6 to 8 hour thing is probably bs honestly, one hour of sharp focused outreach beats 7 hours of wandering through linkedin.",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogztmh1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Yadira_McConnell",
+        "created_at": "2026-04-19T00:50:04+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/ogztmh1/",
+        "snippet": "The math here is not ambiguous. Service revenue is capped at hours x rate with no leverage, and irregular clientele means you are burning",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogzkwo7",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Ok-Medium96",
+        "created_at": "2026-04-18T23:57:31+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sp3rwa/should_i_drop_the_service_side_of_my_business_to/ogzkwo7/",
+        "snippet": "If the e-commerce side is gaining traction on its own, I’d pay really close attention to that Sometimes the answer isn’t “push harder through",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogyk4ex",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "pranay_227",
+        "created_at": "2026-04-18T20:35:08+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogyk4ex/",
+        "snippet": "You are not supposed to grind 6 to 8 hours on random growth tasks. That advice is misleading. in B2B SaaS, growth is not",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogy1lvr",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Monkeyboogaloo",
+        "created_at": "2026-04-18T19:00:57+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1sp23w2/pms_here_how_are_you_using_ai_to_boost/ogy1lvr/",
+        "snippet": "Not a PM. But I have just completed a project in 3 hours that would have taken me over 100 hours to do two",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_ogxscml",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Far_Fisherman8154",
+        "created_at": "2026-04-18T18:14:48+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxscml/",
+        "snippet": "that pulse for reddit mention is interesting. i ended up using leadmatically for a similar reason, it just runs in the background. it finds",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxj15p",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Chance-Appearance200",
+        "created_at": "2026-04-18T17:29:47+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxj15p/",
+        "snippet": "I’d focus less on hitting an arbitrary hour count and more on running a repeatable growth loop: talk to a few prospects, test one",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      }
+    ],
+    "worth_reply": [
+      {
+        "id": "x_2041096696633950295",
+        "platform": "x",
+        "kind": "post",
+        "author": "DeRonin_",
+        "created_at": "2026-04-19T21:48:44+00:00",
+        "url": "https://x.com/DeRonin_/status/2041096696633950295",
+        "snippet": "Ronin on X: \"I generate 200+ qualified leads per week and never send a single cold DM ## Post ## Conversation I generate 200+",
+        "subreddit": null
+      },
+      {
+        "id": "t1_oh57x4h",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Key-Boat-7519",
+        "created_at": "2026-04-19T20:54:58+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1so0gr3/before_scaling_paid_search_i_now_run_a/oh57x4h/",
+        "snippet": "I went through almost this exact journey and landed on a super similar gate before touching budgets. What helped me was forcing the ICP",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogwh39y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ozerozdas",
+        "created_at": "2026-04-18T14:22:24+00:00",
+        "url": "https://www.reddit.com/r/startups/comments/1soqwx5/preseed_traction_question_i_will_not_promote/ogwh39y/",
+        "snippet": "If your founder story isn’t quite strong, you’ll need some solid signs that your product is working. Here’s what we’re seeing right now: *",
+        "subreddit": "startups"
+      },
+      {
+        "id": "t1_ogsko9y",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "According_Culture971",
+        "created_at": "2026-04-17T21:58:36+00:00",
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1snshd0/has_anyone_had_any_success_replying_to_cold_email/ogsko9y/",
+        "snippet": "I have done this a few times and it works better than I thought it would. There is already a strange mutual reciprocal understanding",
+        "subreddit": "Entrepreneur"
+      },
+      {
+        "id": "t1_ogoqp0n",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "RushGambino",
+        "created_at": "2026-04-17T10:28:48+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1snw700/friday_share_fever_lets_share_your_project/ogoqp0n/",
+        "snippet": "Building [WaitlistWar ](https://waitlistwar.com) — turns your pre-launch waitlist into a growth engine. The core mechanic: every subscriber gets a referral link and moves up",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofwc9mg",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "polygraph-net",
+        "created_at": "2026-04-13T07:33:36+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sk2xho/digital_marketing_consultant_red_flags_to_watch/ofwc9mg/",
+        "snippet": "Although I work in the click fraud detection space, our clients sometimes ask us (usually me) to sit in on calls with their potential",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ofs8sox",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "polygraph-net",
+        "created_at": "2026-04-12T17:08:40+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sin27w/our_23_cpl_looked_amazing_until_we_tracked_it_to/ofs8sox/",
+        "snippet": "Cheap leads often means click fraud, since click fraud bots are programmed to submit real-looking fake leads. When you optimize for cheap leads you",
+        "subreddit": "marketing"
+      },
+      {
+        "id": "t1_ofltagc",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "sting_12345",
+        "created_at": "2026-04-11T17:36:34+00:00",
+        "url": "https://www.reddit.com/r/marketing/comments/1sin27w/our_23_cpl_looked_amazing_until_we_tracked_it_to/ofltagc/",
+        "snippet": "BOTH are important metrics to use.....the crested lead and whatever down the funnel...a qualified lead or sold lead or call etc.....you can feed any",
+        "subreddit": "marketing"
+      }
+    ],
+    "miss_opportunities": [],
+    "tried_tools_fail": [
+      {
+        "id": "x_2043993374881919335",
+        "platform": "x",
+        "kind": "post",
+        "author": "AlexBelogubov",
+        "created_at": "2026-04-19T21:48:37+00:00",
+        "url": "https://x.com/AlexBelogubov/status/2043993374881919335",
+        "snippet": "Alexander Belogubov 🇺🇦 on X: \"I used Replymer to grow Replymer: MRR jumped from $6.5K to $8.4K in 11 days\" / X Eleven days",
+        "subreddit": null
+      },
+      {
+        "id": "t1_ogxa7j0",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "ConsistentFarmer9436",
+        "created_at": "2026-04-18T16:47:15+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp2b2b/im_not_working_hard_enough/ogxa7j0/",
+        "snippet": "I had the same “wtf do I even do all day” moment. What helped was turning “growth” into a few repeatable blocks instead of",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_ogwcfpp",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "R0NIN_909",
+        "created_at": "2026-04-18T13:57:56+00:00",
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1snwzks/content_getting_engagement_but_not_leading_to/ogwcfpp/",
+        "snippet": "your content is probably attracting peers not buyers. broader posts get engagement from other marketers, not people with the problem you solve. i'd flip",
+        "subreddit": "GrowthHacking"
+      },
+      {
+        "id": "t1_og4g0yv",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Illustrious_Two_9660",
+        "created_at": "2026-04-14T12:48:56+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sl7a8j/170_things_that_founders_of_other_startups_are/og4g0yv/",
+        "snippet": "I like this a lot, but what made lists like this actually useful for me was adding a bit of structure. I ended up",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_og2qsk4",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Charming-Horror4114",
+        "created_at": "2026-04-14T04:50:36+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1skxvhn/first_month_build_saas_need_your_advices_to_get/og2qsk4/",
+        "snippet": "Your approach of getting beta users is solid! Finding those first agencies and creative businesses can be time-consuming manually. Have you tried using a",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofyxug5",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "SlowPotential6082",
+        "created_at": "2026-04-13T16:55:09+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofyxug5/",
+        "snippet": "Tried building an AI agent workflow for lead qualification at my last startup and honestly the handoffs between agents were a nightmare. You end",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofx3jg1",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Motor-Ad2119",
+        "created_at": "2026-04-13T11:25:12+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofx3jg1/",
+        "snippet": "I played with this a bit and tbh the main issue wasn’t setup, it was cost and how flaky it gets. From what i’ve",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofwfnvh",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Jazzlike-Holiday-605",
+        "created_at": "2026-04-13T08:04:40+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sk46gr/running_a_complete_ai_agent_team_for_your_company/ofwfnvh/",
+        "snippet": "been playing around with ai agents for my hvac business and the cost thing is brutal real talk. tried setting up agents to handle",
+        "subreddit": "indiehackers"
+      },
+      {
+        "id": "t1_ofc72y7",
+        "platform": "reddit",
+        "kind": "comment",
+        "author": "Dramatic_Turnover936",
+        "created_at": "2026-04-10T07:13:49+00:00",
+        "url": "https://www.reddit.com/r/indiehackers/comments/1sh5mqk/openshots_free_opensource_alternative_to/ofc72y7/",
+        "snippet": "the cross-platform gap for screenshot beautification is genuinely underserved. i tried 4 different tools on windows before settling for a workflow that was 3",
+        "subreddit": "indiehackers"
+      }
+    ]
+  },
+  "errors": {
+    "reddit": [
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sp7v82/understanding_acquisition_beverage_cpgi_will_not/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sp9d3a/drop_your_saas_and_people_tell_you_if_theyd/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spf0qn/is_it_common_for_investors_to_reach_out_to_you_on/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spih5z/term_sheet_secured_but_lead_vc_wants_us_to_find_a/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1spj27v/whats_one_growth_experiment_that_actually_scaled/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1spls56/the_outbound_tool_sprawl_is_getting_out_of_hand/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1spmc25/how_does_delegating_a_task_of_sourcing_products/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1spmt3d/sunday_steam_vent_it_or_roast_it_april_19_2026/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/indiehackers/comments/1spnx02/just_hit_17_mrr_36_users_and_1_week_since_launch/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spohif/founders_do_you_actually_cold_call_or_just_email/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1spotmm/how_we_write_seo_aeo_blog_posts_in_2026_that/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spowec/angel_investors_asking_for_transactionlevel_spend/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1spqrcc/running_a_software_agency_and_a_saas_at_the_same/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spr3p8/the_10_things_i_wish_i_knew_when_starting_my_1st/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sprbvg/from_0_users_to_real_growth_what_actually_worked/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sptgta/having_a_had_time_starting_over/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sptpwb/why_are_ai_tools_still_waiting_for_instructions/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1sptres/why_do_founders_spend_more_time_managing_than/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spu3tp/is_there_still_room_to_build_in_telehealth_or_is/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/marketing/comments/1spvgmc/what_was_your_redgreen_flags_when_hiring_people/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spwvm1/running_a_one_person_company_with_16_ai_skills/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spxia0/exercise_options_with_nonrecourse_financing_i/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/indiehackers/comments/1spxlh2/need_your_help_picking_a_tagline_for_my_product/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1spy0rw/does_it_seem_like_this_person_wants_to_invest_in/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/GrowthHacking/comments/1spytez/my_passive_income_is_251/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1spzts7/if_youre_stuck_in_affiliate_marketing_try_this/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sq042q/need_feedback_for_my_pricing_plans/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq0i2q/honest_question_from_a_firsttime_founder_how_much/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq0q7x/how_do_you_find_the_correct_tech_founder_i_will/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq0rcz/i_feel_like_quittingshould_have_never_started_i/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/Entrepreneur/comments/1sq12pr/lost_another_job_because_i_forgot_to_follow_up/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq1xv1/i_work_on_software_maintenance_and_i_keep_running/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2em9/is_vibe_coding_the_future_just_shipped_a_saas/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2kmd/active_talk/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2mdd/built_a_tool_to_check_what_my_competitors_are/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2s2s/so_builders_imagine_yourself_as_a_client_for/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2wh6/sourcing_early_deals_for_a_zerocommission/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq2yv0/technical_founders_how_are_you_dealing_with_sales/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq335r/strategy/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq36zg/made_my_first_with_my_app_find_tailwind_bike/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq37sf/how_to_gain_traction_advice_needed/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq37xu/how_are_saas_teams_mapping_what_their_ai_agents/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq3b6r/technical_founders_how_are_you_dealing_with_sales/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq3dba/47_initial_users_added_a_paywall_0_conversions/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq3kxv/we_need_genuine_experience_from_end_users_in_our/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/startups/comments/1sq3mtn/first_sales_hire_update_i_overestimated_how_fast/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq3ney/im_building_a_tool_that_fixes_your_broken_app_and/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq4d04/has_anyone_run_one_time_pricing_on_a_utility/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq4ekm/is_this_a_joke/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq4ikp/built_lexi_ai_beta_voicefirst_productivity_for_mac/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq4nji/i_need_help/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5ano/llevo_un_tiempo_trabajando_en_un_pequeño_proyecto/",
+        "error": "'ascii' codec can't encode character '\\xf1' in position 67: ordinal not in range(128)"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5cfo/anyone_run_artisan_and_11x_long_enough_to_share/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5j9p/feels_like_ai_tools_are_priced_wrong_why/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5oko/folks_would_you_pay_for_a_simple_csvfirst_crm/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5q3w/got_my_second_paying_customer_and_not_just_that/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5yjc/everyones_asking_if_saas_is_dying_i_think_were/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq5ymo/i_went_from_market_research_to_paying_b2b_saas/",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://www.reddit.com/r/SaaS/comments/1sq63hq/launch_kostly_see_every_recurring_cost_your/",
+        "error": "HTTP Error 429: Too Many Requests"
+      }
+    ],
+    "x": [
+      {
+        "url": "https://x.com/CodeByPoonam/status/1719983852817670614",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/OneJKMolina/status/1583804377110032388",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/i/status/1600486791961640960",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/policy/status/1359940562460299264",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/d3v_unknown/status/2041954718600327220",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/techwithashiqur/status/2029789620708491684",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/IManghaila/status/2044828145224700147",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/InfiniteAzure22/status/2024547639203700978",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/_amankishore/status/2043063324301046000",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/lateinteraction/status/2042711978758508762",
+        "error": "HTTP Error 429: Too Many Requests"
+      },
+      {
+        "url": "https://x.com/tryramp/status/2042693333567373743",
+        "error": "HTTP Error 429: Too Many Requests"
+      }
+    ],
+    "reddit_error_count": 59,
+    "x_error_count": 11
+  }
+}
