@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "introducing-ryva-ai-productivity",
-  "generatedAt": "2026-04-18",
+  "generatedAt": "2026-04-19",
   "entry": {
     "id": "introducing-ryva-ai-productivity",
     "url": "https://egeuysal.com/blog/introducing-ryva-ai-productivity/",
@@ -11,7 +11,11 @@
     "description": "I shipped the Ryva waitlist today at ryva.dev.",
     "publishedAt": "2025-11-16",
     "updatedAt": null,
-    "tags": ["technology", "productivity", "developer"],
+    "tags": [
+      "technology",
+      "productivity",
+      "developer"
+    ],
     "image": "https://images.pexels.com/photos/25630338/pexels-photo-25630338.jpeg",
     "readingTime": 2,
     "body": "I shipped the Ryva waitlist today at [ryva.dev](https://ryva.dev).\n\nOnly 500 spots. Then it closes.\n\n### The Real Problem\n\nYou're building. You're shipping. But you're drowning in noise.\n\n47 unread emails. Three Slack @mentions. Notion full of half-finished ideas. GitHub issues piling up. CRM needs updating. And somewhere in all this chaos, you have actual work to do.\n\nEvery tool solves one piece. Email clients manage email. Task apps manage tasks. But nothing connects the dots. Nothing tells you what actually matters right now.\n\n### What Ryva Actually Does\n\nRyva is an AI-native dashboard that pulls everything together and cuts through the chaos.\n\n**All Your Tools, One Brain**  \nEmail. Slack. GitHub. Notion. Your CRM. Ryva connects to everything and understands the context across all of them. Not just aggregation. Intelligence.\n\n**AI That Knows Your Priorities**  \nRyva doesn't just list your tasks. It tells you what's leaking time and momentum. Like having a brutally honest co-founder who says \"You've spent three days on that feature nobody asked for\" or \"This client email has been sitting for four days.\"\n\n**Decision Support, Not Just Task Management**  \nShould you respond to that investor email first or ship the bug fix? Ryva knows. It sees the patterns you miss when you're in the weeds.\n\n### Why This Exists\n\nI've shipped 25+ applications in eight months. The wins came from focus. The failures came from distraction.\n\nThe problem was never motivation. It was knowing what deserved my attention in a sea of urgent-feeling noise.\n\nI tried building systems. Time-blocking. Strict routines. They all broke down when reality hit: an urgent client message, a critical bug, a random opportunity.\n\nWhat I needed wasn't another task list. I needed someone to tell me the truth about my day.\n\n### The Vision\n\nRyva is your second brain, but smarter. It watches how you work, learns what moves your projects forward, and tells you when you're off track.\n\nLightweight. Fast. No manual setup. You connect your tools and Ryva handles the rest.\n\n### Why Only 500 Spots\n\nI'm building this MVP solo. I want to actually talk to early users, iterate fast, and build something people love. Not manage thousands of people waiting for vaporware.\n\n500 founders get early access. Real conversations. Direct influence on what gets built.\n\nAfter that, the waitlist closes until launch.\n\nJoin at [ryva.dev](https://ryva.dev) before spots fill.\n\nLet's build focus back into building."
