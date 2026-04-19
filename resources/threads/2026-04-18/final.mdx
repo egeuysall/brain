@@ -8,20 +8,25 @@ This document turns the top 3 problems into buildable products that can win a ha
 ## Build 1: Panic Protocol
 
 ### Problem
+
 People in acute anxiety spikes cannot think clearly enough to choose the right coping action.
 
 ### Product
+
 `Panic Protocol`: one-button panic mode that runs a 90-second intervention, then adapts the next intervention based on response.
 
 ### ICP
+
 - Adults with recurrent anxiety spikes (students, remote workers, high-stress jobs).
 - Secondary: therapists who want patients to track in-the-moment responses between sessions.
 
 ### Why this is valuable
+
 - Competes with generic meditation apps by focusing on acute episodes, not general wellness.
 - Delivers measurable value quickly: did distress drop in 2 minutes or not?
 
 ### Hackathon MVP (48h)
+
 - `Panic button`: immediate full-screen protocol mode.
 - Protocol library (3 tracks):
   - Breathing cadence
@@ -32,6 +37,7 @@ People in acute anxiety spikes cannot think clearly enough to choose the right c
 - “What works for me” panel (rank interventions by score delta).
 
 ### Data model
+
 ```sql
 users(id, email, created_at)
 episodes(id, user_id, started_at, trigger_tag, pre_score, post_score, protocol_used, completed)
@@ -40,27 +46,32 @@ events(id, episode_id, event_type, event_value, created_at)
 ```
 
 ### API surface
+
 - `POST /api/episodes/start`
 - `POST /api/episodes/:id/complete`
 - `GET /api/insights/effectiveness`
 - `GET /api/protocols`
 
 ### Demo script (2 min)
+
 1. User taps panic button with pre-score `8/10`.
 2. Runs breathing protocol.
 3. Post-score becomes `5/10`.
 4. Dashboard shows “Breathing reduces your distress by avg 2.3 points.”
 
 ### SaaS path (after hackathon)
+
 - Therapist portal with patient-share links.
 - Team plan for universities/employers (anonymized aggregate trends).
 - Adaptive protocol engine (personalized by trigger + response profile).
 
 ### Pricing hypothesis
+
 - B2C: `$8-12/month`.
 - B2B2C clinics/educational orgs: per-seat or per-active-user.
 
 ### Risks and guardrails
+
 - Not a medical device claim.
 - Crisis detection: if score stays `>=9` twice, show immediate crisis resources.
 - Prevent reassurance loops: cap repeated back-to-back protocol runs and route to escalation prompts.
@@ -68,20 +79,25 @@ events(id, episode_id, event_type, event_value, created_at)
 ## Build 2: Therapy Fit OS
 
 ### Problem
+
 People quit therapy because they cannot tell if it is helping, and therapists lack structured between-session signal.
 
 ### Product
+
 `Therapy Fit OS`: session prep + session outcome + progress clarity system that quantifies whether care is working.
 
 ### ICP
+
 - Individuals in therapy who feel “stuck.”
 - Therapists/coaches needing structured session continuity.
 
 ### Why this is valuable
+
 - Reframes therapy from vague journaling to decision-grade progress tracking.
 - High retention potential because users return before and after every session.
 
 ### Hackathon MVP (48h)
+
 - Pre-session card:
   - “What happened this week?”
   - “Top 1 goal for this session”
@@ -96,6 +112,7 @@ People quit therapy because they cannot tell if it is helping, and therapists la
   - green/yellow/red based on 3-session rolling outcomes.
 
 ### Data model
+
 ```sql
 users(id, email, created_at)
 sessions(id, user_id, session_date, pre_goal, pre_notes, post_clarity, post_distress_delta, next_action, next_action_due)
@@ -104,26 +121,31 @@ fit_scores(id, user_id, week_start, score, status, factors_json)
 ```
 
 ### API surface
+
 - `POST /api/sessions/prep`
 - `POST /api/sessions/:id/review`
 - `POST /api/checkins/daily`
 - `GET /api/fit-score`
 
 ### Demo script (2 min)
+
 1. User completes pre-session prep.
 2. Completes post-session review.
 3. Dashboard shows “clarity up, follow-through down; focus next session on execution blockers.”
 
 ### SaaS path (after hackathon)
+
 - Therapist workspace with client summaries.
 - EHR integrations (read-only first).
 - Outcomes benchmarking across cohorts (de-identified).
 
 ### Pricing hypothesis
+
 - B2C: `$10-15/month`.
 - Provider plan: `$25-60/provider/month` + client seats.
 
 ### Risks and guardrails
+
 - Do not imply therapist replacement.
 - Avoid deterministic “you should quit therapy” messaging.
 - Store notes encrypted and provide fine-grained sharing permissions.
@@ -131,20 +153,25 @@ fit_scores(id, user_id, week_start, score, status, factors_json)
 ## Build 3: ADHD Next-Step Copilot
 
 ### Problem
+
 People with ADHD get stuck at task initiation and context switching, not just calendar planning.
 
 ### Product
+
 `Next-Step Copilot`: converts big tasks into tiny executable actions and gives one action at a time with restart support after interruption.
 
 ### ICP
+
 - ADHD adults in knowledge work/study.
 - Secondary: neurodivergent-friendly coaching workflows.
 
 ### Why this is valuable
+
 - Most productivity tools assume executive function exists.
 - This product’s core value is reducing activation energy to near zero.
 
 ### Hackathon MVP (48h)
+
 - Input task (“Finish job applications”).
 - Automatic decomposition to micro-steps (2-10 min each).
 - Focus mode shows exactly one step + countdown timer.
@@ -154,6 +181,7 @@ People with ADHD get stuck at task initiation and context switching, not just ca
 - “Started vs completed” metrics and streak.
 
 ### Data model
+
 ```sql
 users(id, email, created_at)
 tasks(id, user_id, title, context, priority, status, created_at)
@@ -163,6 +191,7 @@ daily_stats(id, user_id, day, started_count, completed_count, focus_minutes)
 ```
 
 ### API surface
+
 - `POST /api/tasks`
 - `POST /api/tasks/:id/decompose`
 - `POST /api/focus/start`
@@ -170,21 +199,25 @@ daily_stats(id, user_id, day, started_count, completed_count, focus_minutes)
 - `GET /api/stats/daily`
 
 ### Demo script (2 min)
+
 1. User adds one overwhelming task.
 2. System creates 7 micro-steps.
 3. User completes first 2-minute step.
 4. Dashboard highlights activation success and next recommended step.
 
 ### SaaS path (after hackathon)
+
 - Slack/Calendar integrations for context-aware next-step suggestions.
 - Team mode for ADHD-friendly task handoffs.
 - Behavioral personalization based on completion patterns.
 
 ### Pricing hypothesis
+
 - B2C: `$9-14/month`.
 - Coaching bundle: coach dashboard + client accounts.
 
 ### Risks and guardrails
+
 - Do not over-automate with opaque suggestions; keep user override always visible.
 - Avoid punitive streak UX that worsens shame cycles.
 - Strong data deletion controls for sensitive personal productivity history.
@@ -192,6 +225,7 @@ daily_stats(id, user_id, day, started_count, completed_count, focus_minutes)
 ## Which One To Build First
 
 If you want the strongest hackathon + SaaS signal with minimal complexity, build in this order:
+
 1. `Panic Protocol` (fastest clear value demo).
 2. `ADHD Next-Step Copilot` (best retention and daily use).
 3. `Therapy Fit OS` (strong B2B path, but slightly heavier trust/compliance expectations).
@@ -199,11 +233,13 @@ If you want the strongest hackathon + SaaS signal with minimal complexity, build
 ## 48-Hour Execution Plan (Any One Product)
 
 ### Day 1
+
 - Scaffold app + auth + DB schema.
 - Build the single core flow end-to-end.
 - Add metrics capture (pre/post scores, completion events).
 
 ### Day 2
+
 - Add simple insights dashboard.
 - Add safety guardrails and policy copy.
 - Polish UX + prepare demo script with one realistic user story.
