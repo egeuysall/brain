@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-11",
-  "generatedAt": "2026-04-19",
+  "generatedAt": "2026-04-21",
   "entry": {
     "id": "2026-04-11",
     "url": "https://egeuysal.com/diary/2026-04-11/",
@@ -11,7 +11,13 @@
     "date": "2026-04-11",
     "summary": "Quality stayed high, limited time",
     "image": "https://cdn.egeuysal.com/content/2026/04/13/asset-05.png",
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today was a quality day, but not a high-volume day.\n\nThe biggest shift in my head was this: I need to spend more time finding actual founders and CTOs with painful, specific problems that Ryva can solve, not just collecting random replies from people who cannot actually change team behavior.\n\nOne strong founder/CTO thread is worth way more than broad low-intent attention.\n\n## What I shipped\n\nContent:\n\n- Personal blog: [How I Actually Vibe Code](/blog/how-i-actually-vibecode/)\n- Ryva blog: [Engineering Project Visibility Tools](https://ryva.dev/blog/engineering-project-visibility-tools)\n- X post: [Read post](https://x.com/egewrk/status/2043145973661065413?s=20)\n- LinkedIn post: [Read post](https://www.linkedin.com/posts/egeuysall_teams-track-tasks-but-they-do-not-force-activity-7448912129463848961-fhnv?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda6AoBWeBRayAxVaKD8PG_quWkedzkvlU)\n\n![\"Screenshot 2026-04-13\"](https://cdn.egeuysal.com/content/2026/04/13/asset-05.png)\n\nRuns and follow-ups:\n\n- Ran Ryva for a few people and pushed follow-ups\n- One team is still engaged and run #4 is scheduled for Monday\n- If that run lands well, next step is a call and self-serve onboarding, which would make it 2 active teams\n\n## Small playbook note that worked\n\nLinkedIn comment sections are still underrated for sourcing warm leads.\n\n- If a post in your domain has lots of comments, those commenters already have intent\n- DMing from that context works much better than cold outreach\n- This is where free report and strategy-style hooks can convert into actual run threads\n\n## Reality of today\n\nI replied to everyone from yesterday, but I could not go hard on distribution.\n\nI woke up late, had volunteering, got a haircut, then gym and food. By then the day was basically gone. So this was mostly a maintenance and quality-control day, not a push day.\n\n## Progress delta\n\nCompleted:\n\n- re-opened old DM second-run threads once\n- replied to Clerk follow-up\n- sent interview outreach emails\n- shipped another Ryva rerun for a Reddit thread\n- consolidated duplicate GTM todos into canonical tasks\n\nUnresolved:\n\n- next-run times are still not consistently locked inside warm threads\n- IBX still shows a heavy open set, so focus can drift if I do not force strict sequencing\n\nRisk:\n\n- content can feel productive while delaying second-run anchors\n- if rerun windows are not booked in-thread, warm intent decays fast\n\n## IBX snapshot\n\nFrom today’s `today-done` block:\n\n- done tasks: **12**\n- priority split: **7** priority-1, **4** priority-2, **1** priority-3\n- estimated effort completed: **7.75 hours**\n\nNotable completions:\n\n- Ryva execution block focused on diagnosis and outreach improvement\n- both weekly blog posts shipped\n- practical vibe coding draft work completed\n- follow-up and routine execution tasks closed\n\n## Tomorrow focus\n\nSame core rule:\n\n- warm threads first\n- lock rerun time in-thread\n- then do broader outbound\n\nVolume is secondary. The only metric that matters is how many threads move from first-run curiosity to confirmed second-run timing.\n\n## Quote of the day\n\n> This is a common failure mode: teams can list tasks but not the dependency chain that drives the deadline. One fix that worked for us was a weekly risk review with only 3 fields per workstream: owner, blocker, and confidence. If confidence drops two weeks in a row, you re-scope immediately instead of hoping."
   }
 }
