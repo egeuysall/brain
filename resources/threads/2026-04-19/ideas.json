@@ -1,0 +1,159 @@
+{
+  "meta": {
+    "date": "2026-04-21",
+    "theme": "sales-first pivot, idea exploration",
+    "focus": "AI-driven decision engines with instant value"
+  },
+  "ideas": [
+    {
+      "name": "Daily Decision Autopilot",
+      "priority": 1,
+      "core_problem": "constant decision fatigue from repeated daily micro-choices",
+      "input": ["minimal signals (weight, meals, activity, context)"],
+      "output": "single next action with no alternatives",
+      "aha_time_seconds": 20,
+      "loop": "user repeatedly checks for next decision instead of thinking",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Scan-to-Decision Meal Engine",
+      "priority": 2,
+      "core_problem": "stress around what to eat and how much",
+      "input": ["meal or fridge scan"],
+      "output": "exact portion + next meal decision",
+      "aha_time_seconds": 15,
+      "loop": "adjust meals dynamically throughout the day",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Dynamic Deficit Engine",
+      "priority": 3,
+      "core_problem": "users plateau without knowing why",
+      "input": ["weight logs", "calorie logs"],
+      "output": "adaptive calorie targets",
+      "aha_time_seconds": 30,
+      "loop": "weekly adjustment insights",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Verified Deficit Referee",
+      "priority": 4,
+      "core_problem": "mismatch between logged calories and real results",
+      "input": ["burn data", "food logs", "weight"],
+      "output": "true daily calorie target",
+      "aha_time_seconds": 30,
+      "loop": "daily ‘true number’ check",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Plateau Buster",
+      "priority": 5,
+      "core_problem": "users don’t know what caused lack of progress",
+      "input": ["weekly logs"],
+      "output": "root cause + adjustment decision",
+      "aha_time_seconds": 60,
+      "loop": "weekly audit insights",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Velocity Strength Tracker",
+      "priority": 6,
+      "core_problem": "users don’t know when to increase weight",
+      "input": ["lift video"],
+      "output": "progression recommendation based on speed",
+      "aha_time_seconds": 15,
+      "loop": "prove undertraining or stagnation",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Rep Quality Analyzer",
+      "priority": 7,
+      "core_problem": "users log fake or low-quality reps",
+      "input": ["set video"],
+      "output": "clean vs cheat rep count",
+      "aha_time_seconds": 15,
+      "loop": "expose bad form/effort",
+      "monetization": "premium analytics"
+    },
+    {
+      "name": "Label Auditor",
+      "priority": 8,
+      "core_problem": "users don’t trust calorie databases or barcode scans",
+      "input": ["nutrition label image", "food portion image"],
+      "output": "verified calories based on actual portion",
+      "aha_time_seconds": 10,
+      "loop": "call out misleading foods",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Menu Hacker",
+      "priority": 9,
+      "core_problem": "ordering at restaurants creates decision stress",
+      "input": ["menu image"],
+      "output": "highlighted safe meals based on goals",
+      "aha_time_seconds": 15,
+      "loop": "share ‘safe option’ screenshots",
+      "monetization": "per-use or subscription"
+    },
+    {
+      "name": "Bullshit Detector",
+      "priority": 10,
+      "core_problem": "fitness devices overestimate calorie burn",
+      "input": ["device calories", "weight"],
+      "output": "true burn + trust score",
+      "aha_time_seconds": 15,
+      "loop": "device vs reality comparisons",
+      "monetization": "one-time or subscription"
+    },
+    {
+      "name": "Inventory Nutrition System",
+      "priority": 11,
+      "core_problem": "users waste food and lack planning",
+      "input": ["grocery scan"],
+      "output": "what to eat next based on inventory",
+      "aha_time_seconds": 20,
+      "loop": "reduce waste + optimize intake",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Macro-Correct Shopping Assistant",
+      "priority": 12,
+      "core_problem": "grocery planning is time-consuming",
+      "input": ["cart or shelf scan"],
+      "output": "optimized shopping list",
+      "aha_time_seconds": 20,
+      "loop": "fast grocery optimization",
+      "monetization": "subscription"
+    },
+    {
+      "name": "Social Accountability Ledger",
+      "priority": 13,
+      "core_problem": "lack of external pressure leads to inconsistency",
+      "input": ["verified activity"],
+      "output": "stakes + penalties + leaderboard",
+      "aha_time_seconds": 60,
+      "loop": "shared accountability",
+      "monetization": "subscription + stakes"
+    },
+    {
+      "name": "Mirror Muscle Heatmap",
+      "priority": 14,
+      "core_problem": "no visible short-term progress feedback",
+      "input": ["body scan"],
+      "output": "visual growth comparison",
+      "aha_time_seconds": 15,
+      "loop": "progress visuals",
+      "monetization": "subscription"
+    },
+    {
+      "name": "AI Fitness OS (Prophecy Engine)",
+      "priority": 15,
+      "core_problem": "too many daily decisions about fitness",
+      "input": ["body scan", "behavior"],
+      "output": "predicted physique + daily instructions",
+      "aha_time_seconds": 60,
+      "loop": "compare predicted vs actual",
+      "monetization": "subscription + microtransactions"
+    }
+  ]
+}
