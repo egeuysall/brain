@@ -1,0 +1,467 @@
+{
+  "generatedAt": "2026-04-22T23:59:59.000Z",
+  "window": {
+    "start": "2026-04-08T23:59:59.000Z",
+    "end": "2026-04-22T23:59:59.000Z",
+    "days": 14
+  },
+  "apps": [
+    {
+      "id": 1041517543,
+      "name": "Fitbod: Gym & Fitness Planner",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4",
+      "score": 4.81405,
+      "reviews": 268208
+    },
+    {
+      "id": 464254577,
+      "name": "Strong Workout Tracker Gym Log",
+      "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?uo=4",
+      "score": 4.86395,
+      "reviews": 108354
+    },
+    {
+      "id": 1458862350,
+      "name": "Hevy - Workout Tracker Gym Log",
+      "url": "https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350?uo=4",
+      "score": 4.92333,
+      "reviews": 66072
+    },
+    {
+      "id": 922744883,
+      "name": "SmartGym: Gym & Home Workouts",
+      "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?uo=4",
+      "score": 4.69783,
+      "reviews": 31492
+    },
+    {
+      "id": 449810000,
+      "name": "JEFIT Workout Plan Gym Tracker",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4",
+      "score": 4.76605,
+      "reviews": 46514
+    },
+    {
+      "id": 301521403,
+      "name": "Nike Training Club",
+      "url": "https://apps.apple.com/us/app/nike-training-club/id301521403?uo=4",
+      "score": 4.84849,
+      "reviews": 276544
+    },
+    {
+      "id": 1446224156,
+      "name": "Fitness AI Gym Workout Planner",
+      "url": "https://apps.apple.com/us/app/fitness-ai-gym-workout-planner/id1446224156?uo=4",
+      "score": 4.69827,
+      "reviews": 55225
+    },
+    {
+      "id": 1039370458,
+      "name": "Workout Planner - Gym Life",
+      "url": "https://apps.apple.com/us/app/workout-planner-gym-life/id1039370458?uo=4",
+      "score": 4.57393,
+      "reviews": 2570
+    },
+    {
+      "id": 1048454034,
+      "name": "Gymverse: AI Gym Workout Plans",
+      "url": "https://apps.apple.com/us/app/gymverse-ai-gym-workout-plans/id1048454034?uo=4",
+      "score": 4.84537,
+      "reviews": 163050
+    },
+    {
+      "id": 1502936453,
+      "name": "LADDER Strength Training Plans",
+      "url": "https://apps.apple.com/us/app/ladder-strength-training-plans/id1502936453?uo=4",
+      "score": 4.94637,
+      "reviews": 128524
+    }
+  ],
+  "lowStarReviews": [
+    {
+      "appId": 1446224156,
+      "appTitle": "Fitness AI Gym Workout Planner",
+      "score": 1,
+      "updated": "2026-04-21T17:05:19.000Z",
+      "title": "Difficult to deactivate",
+      "text": "These guys purposely try to make it difficult to deactivate",
+      "version": "17.0",
+      "userName": "R/sh/dagr8$&&",
+      "url": "https://apps.apple.com/us/app/fitness-ai-gym-workout-planner/id1446224156?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-21T00:43:35.000Z",
+      "title": "Enough with the paid apps",
+      "text": "Immediate delete the moment I’m greeted with pay now or 7 day trail. I should not need to pay for features I will not use and wasting my time hunting down non-bloated apps",
+      "version": "8.13.0",
+      "userName": "Billy Bob Boe",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-20T21:17:03.000Z",
+      "title": "Save Your $80/year",
+      "text": "This is one of the most frustrating apps I’ve ever had. It CONTINUES to not allow you to replace an exercise OR add an exercise. Customer support will tell you to delete the app and reinstall. First of all you shouldn’t have to do that, but even that doesn’t work any longer. I can’t count how many times I’ve had to do this. There is no other method to reach anyone customer service related other than through the app and THAT function isn’t working either. I wasted $80 this year because I will refuse to use this app any longer. Trying to help anyone considering this app from future frustration and inability to use it as advertised. Absolutely ridiculous.",
+      "version": "8.13.0",
+      "userName": "Jase7171",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 464254577,
+      "appTitle": "Strong Workout Tracker Gym Log",
+      "score": 2,
+      "updated": "2026-04-20T15:33:10.000Z",
+      "title": "Needs Garmin Access",
+      "text": "I love the app but I love my watch more. I will be changing to a different one until they decide to unlock garmin capabilities",
+      "version": "6.3.2",
+      "userName": "eaglepride9",
+      "url": "https://apps.apple.com/us/app/strong-workout-tracker-gym-log/id464254577?uo=4"
+    },
+    {
+      "appId": 1048454034,
+      "appTitle": "Gymverse: AI Gym Workout Plans",
+      "score": 2,
+      "updated": "2026-04-20T05:53:22.000Z",
+      "title": "Just one fix needed",
+      "text": "Keeps clearing and restarting my whole workout randomly! Half way through i have to remember ALL my sets and weights and reenter. Got done with the workout entered last set. Then i get home and wonder why the yellow gymverse icon is counting down at the top of my screen. Go into the app and it cleared my ENTIRE workout again!!! As if i hadnt even done a single rep 😡 i had to reenter the ENTIRE workout from freaking memory which defeats the whole purpose of having the app to begin with.",
+      "version": "8.5800",
+      "userName": "aneal138",
+      "url": "https://apps.apple.com/us/app/gymverse-ai-gym-workout-plans/id1048454034?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 2,
+      "updated": "2026-04-20T01:51:42.000Z",
+      "title": "Twas Great",
+      "text": "I’ve been using Fitbod since 2018 and has been a fantastic journey in my fitness! I’ve yielded great results but as of lately the app has not been logging correctly. I have it synced with my Apple Watch and my two hour + workouts only log 430 calories burned and the sync has been buggy. I hope this issue is resolved soon. It’s a bit of a let down to try and log your workouts and it not be accurate. 🫥",
+      "version": "8.13.0",
+      "userName": "Mremark",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1502936453,
+      "appTitle": "LADDER Strength Training Plans",
+      "score": 2,
+      "updated": "2026-04-19T23:37:27.000Z",
+      "title": "Difficult platform",
+      "text": "This app platform is very difficult to use with your phone or tablet. It is not easy to navigate and doesn’t give you multiple options to login with different accounts. My wife tried to login with on her ladder account on my iPad and it wouldn’t let us login with different account.",
+      "version": "4.6.1",
+      "userName": "iamoftheiam",
+      "url": "https://apps.apple.com/us/app/ladder-strength-training-plans/id1502936453?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-19T15:52:47.000Z",
+      "title": "Always want money",
+      "text": "Can’t even open the app to see how I would like it without it wanting my credit card info to sign up for a free trial. How are you supposed to give it a try? Another app just wanting money.",
+      "version": "8.13.0",
+      "userName": "Jeffre69",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1502936453,
+      "appTitle": "LADDER Strength Training Plans",
+      "score": 2,
+      "updated": "2026-04-18T16:09:42.000Z",
+      "title": "Not for beginners",
+      "text": "This app may be great for some people, but if you are not already experienced at doing this kind of strength training, I don’t think it’s going to work for you. The app is pretty messy. It’s difficult to search and I couldn’t really figure out if there were beginner workout somewhere. I also found the constant rah rah messages from the coach pretty annoying but again that might work for some people",
+      "version": "4.6.1",
+      "userName": "Shlazeri",
+      "url": "https://apps.apple.com/us/app/ladder-strength-training-plans/id1502936453?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-18T15:52:18.000Z",
+      "title": "Fallen off",
+      "text": "The app has gotten worse, doesn’t suggest workouts as well as it used to, keeps recommending the same workouts to me if I decide to switch the exercise but stay on the same muscle group. Used to really enjoy this but am starting to look at other options. Also, the custom workouts option is incomplete, for example if you create a sled workout you can’t choose distance, only reps.",
+      "version": "8.13.0",
+      "userName": "rmnmusic326",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 2,
+      "updated": "2026-04-18T15:15:51.000Z",
+      "title": "Was loving it until they wiped all of my custom workouts",
+      "text": "They recently updated the app and it ended up wiping all of my planned days of exercises and all of the muscle groups.\n\nI went to workout and now can’t because I have to completely rebuild my exercise plan from scratch. This has me so irritated that I’m now just looking to use a different app that is hopefully more trustworthy with storing my plans.",
+      "version": "17.0.0",
+      "userName": "ellemmano",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 1,
+      "updated": "2026-04-17T21:46:01.000Z",
+      "title": "Completely changed the look",
+      "text": "They completely changed the look when you click on a work out meaning you are unable to change the weight making it completely unusable.",
+      "version": "17.0.0",
+      "userName": "Tubzza",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 1048454034,
+      "appTitle": "Gymverse: AI Gym Workout Plans",
+      "score": 2,
+      "updated": "2026-04-17T07:05:09.000Z",
+      "title": "Severely Limited Customization & Workout Logic",
+      "text": "This app worked well for me at first, but once I started building my own workouts, the limitations became really frustrating. The customization options are extremely limited and sometimes confusing. For example, I couldn’t select something as basic as an assisted underhand pull-up, and creating functional movements is almost impossible. There’s no way to build exercises that use both time and weight, like a farmer’s carry. Even trying to create a simple sprint workout is restrictive — you’re forced into generic “running” options with set time increments instead of being able to program intervals properly. The exercise library also feels incomplete. There are missing machine exercises and not enough variety overall. It would be a huge improvement if users could submit custom exercises to be added to the app. On top of that, the auto-generated workouts don’t seem to follow solid training principles. A “back workout” will often include multiple variations of the same movement (like two different lat pulldowns) instead of providing balanced variety. There doesn’t seem to be much consideration for how to train different muscle groups effectively or structure a well-rounded workout. Overall, the app is a decent starting point, but it falls short if you’re trying to train with intention, variety, and proper programming.",
+      "version": "8.5720",
+      "userName": "Henry ba",
+      "url": "https://apps.apple.com/us/app/gymverse-ai-gym-workout-plans/id1048454034?uo=4"
+    },
+    {
+      "appId": 922744883,
+      "appTitle": "SmartGym: Gym & Home Workouts",
+      "score": 1,
+      "updated": "2026-04-17T03:27:00.000Z",
+      "title": "Too expensive",
+      "text": "Canceled right after downloaded due to price and they still charged me super disappointing!",
+      "version": "7.9.5",
+      "userName": "Seasleberrt",
+      "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-17T00:46:51.000Z",
+      "title": "Other apps are better",
+      "text": "This app is charging 17$ a month, I thought this was a fantastic deal for what it brings only to find out that the app doesn’t even have a good interface. It tries to do things for you but fails horribly. I recommend hevy as its cheaper has a free option which is better then this paid one.",
+      "version": "8.13.0",
+      "userName": "filabi2892",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1458862350,
+      "appTitle": "Hevy - Workout Tracker Gym Log",
+      "score": 1,
+      "updated": "2026-04-16T20:16:15.000Z",
+      "title": "Unresponsive to bug reports",
+      "text": "Hevy is eating around 20% of my battery for one hour workouts. I already reported this bug via the app and no one is replying nor fixing the issue. THIS IS NOT FREE SOFTWARE, take care of your customers.",
+      "version": "3.0.7",
+      "userName": "JoaoMTx",
+      "url": "https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 2,
+      "updated": "2026-04-16T14:46:36.000Z",
+      "title": "Great app being ruined by constant spam",
+      "text": "Love this app...paid for the app years ago and now every log in gets various ads for premium membership. Please limit or end this.",
+      "version": "17.0.0",
+      "userName": "Godsidekurt",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 1,
+      "updated": "2026-04-16T02:52:54.000Z",
+      "title": "It WAS a great app.",
+      "text": "I have been a user of this app for many years now. Unfortunately, many of the features are being placed behind the pay wall. You can no longer use your smart watch. You have to pay to do that. And now, unfortunately, you cannot save exercises individually without paying to unlock this.  To explain, when you save a certain weight and rep amount, it overrides all previous weights and reps for the same exercise in the routine. Warm-ups get overwritten with the last weight and rep that you entered. Again, you have to pay... to unlock the ability to save exercises individually, instead of having changes applied to the entire set. The frustrating thing is, after many messages to customer service, assuming that it was an issue with my phone, the rep tried troubleshooting without success. After many emails, over a period of days, eventually he said \"actually you have to pay for that\"... This use to be a great app! Unfortunately, not so much anymore. After many years, I am looking for a reliable replacement.",
+      "version": "17.0.0",
+      "userName": "Hefner413",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 2,
+      "updated": "2026-04-15T14:42:40.000Z",
+      "title": "Form off on some videos",
+      "text": "If you compare the form for some videos to several videos online it’s not the same.",
+      "version": "8.13.0",
+      "userName": "Dee-tail",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 1,
+      "updated": "2026-04-15T13:11:28.000Z",
+      "title": "WTF - My personal plans list",
+      "text": "So I tried this new AI update.  I don’t like the plan it suggested and wanted to revert back to the plans I created.  Now I can’t access them … WTF!  If I have to start over I’m changing apps!  I want my personally created plans back in its entirety with notes!!! WTF!!!",
+      "version": "17.0.0",
+      "userName": "Wide Body 06",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 1502936453,
+      "appTitle": "LADDER Strength Training Plans",
+      "score": 1,
+      "updated": "2026-04-15T11:20:43.000Z",
+      "title": "Excellent coaching; horrific app",
+      "text": "Another update, more failure by this company to address basic functionality on this app. Instead of giving a nutrition widget that NOBODY asked for, could you please address basic functionality? Why does rest gets broken if you swap an exercise? Don’t ignore that there is STILL not consistency between exercises in the journal if a coach uses a different name. \n\nI had another workout today where I had 3 sets of 10 reps of fighting with my app. If I am having to keep a separate journal and a separate timer because of your inability to give me a minimally viable product, that’s a real problem when you consider what this app costs annually.",
+      "version": "4.6.0",
+      "userName": "hk94",
+      "url": "https://apps.apple.com/us/app/ladder-strength-training-plans/id1502936453?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 2,
+      "updated": "2026-04-14T23:21:34.000Z",
+      "title": "Great at first and then it sucks",
+      "text": "This app blows because of one thing, it doesn’t have all machines on it and it doesn’t actually measure strength. You goals aren’t all that customizable and I think I’ll be switch apps soon.",
+      "version": "8.13.0",
+      "userName": "Mitchpoen1",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 922744883,
+      "appTitle": "SmartGym: Gym & Home Workouts",
+      "score": 1,
+      "updated": "2026-04-14T23:03:52.000Z",
+      "title": "New update is annoying",
+      "text": "Whatever y’all did made the app worse, when I’m working out and tracking it and go to edit my reps or weight it keeps asking if I want to update everywhere or just that exercise. Maybe it’s a setting now but please fix this. When I’m training to failure or trying to increase my max rep or weight it’s annoying AF to be asked EVERY TIME if I want to update it everywhere. No I just want to in that page and workout day.",
+      "version": "7.9.5",
+      "userName": "kalebconner1",
+      "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?uo=4"
+    },
+    {
+      "appId": 301521403,
+      "appTitle": "Nike Training Club",
+      "score": 1,
+      "updated": "2026-04-14T13:37:29.000Z",
+      "title": "The app isn't working properly",
+      "text": "The app isn't working properly. I want to subscribe, and it says it's sending the code to my email, but it never does. I tried several times.",
+      "version": "6.71.0",
+      "userName": "Paola Zayas",
+      "url": "https://apps.apple.com/us/app/nike-training-club/id301521403?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-14T03:07:48.000Z",
+      "title": "Forced consumption instead of support",
+      "text": "Wanted a free app. Downloaded and was required to give my email and get a subscription.",
+      "version": "8.13.0",
+      "userName": "MirW17",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-13T22:30:43.000Z",
+      "title": "Misleading",
+      "text": "Have to pay for it instantly the second you make your account they won’t let you do anything till you pay for a subscription!",
+      "version": "8.13.0",
+      "userName": "H_top",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1041517543,
+      "appTitle": "Fitbod: Gym & Fitness Planner",
+      "score": 1,
+      "updated": "2026-04-13T13:23:31.000Z",
+      "title": "Not user friendly",
+      "text": "Not able to adjust the workouts and the support department don’t respond for days",
+      "version": "8.12.0",
+      "userName": "barleemax",
+      "url": "https://apps.apple.com/us/app/fitbod-gym-fitness-planner/id1041517543?uo=4"
+    },
+    {
+      "appId": 1048454034,
+      "appTitle": "Gymverse: AI Gym Workout Plans",
+      "score": 2,
+      "updated": "2026-04-13T02:11:23.000Z",
+      "title": "No family sharing",
+      "text": "The App Store states that family sharing is an option. I purchased the annual membership. I couldn’t find a way to get my husbands account to sync. It turns out that there is no family sharing for purchases. I found it in the help section of the app itself.",
+      "version": "8.5700",
+      "userName": "Mama10x",
+      "url": "https://apps.apple.com/us/app/gymverse-ai-gym-workout-plans/id1048454034?uo=4"
+    },
+    {
+      "appId": 922744883,
+      "appTitle": "SmartGym: Gym & Home Workouts",
+      "score": 1,
+      "updated": "2026-04-12T15:43:34.000Z",
+      "title": "You Ruined It",
+      "text": "Logged on today to an update. Short story: nothing works now. Won’t sync with my Apple Watch. Ruined what would have been a great workout. Thanks for nothing. Will be canceling my subscription after nearly two years. Pretty poor!",
+      "version": "7.9.5",
+      "userName": "iOS Version Doesnt Work",
+      "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?uo=4"
+    },
+    {
+      "appId": 1048454034,
+      "appTitle": "Gymverse: AI Gym Workout Plans",
+      "score": 2,
+      "updated": "2026-04-11T15:04:20.000Z",
+      "title": "How do you pay premium",
+      "text": "How did you pay premium it says an app purchased unavailable",
+      "version": "8.5600",
+      "userName": "Iker cano",
+      "url": "https://apps.apple.com/us/app/gymverse-ai-gym-workout-plans/id1048454034?uo=4"
+    },
+    {
+      "appId": 1458862350,
+      "appTitle": "Hevy - Workout Tracker Gym Log",
+      "score": 1,
+      "updated": "2026-04-11T05:40:20.000Z",
+      "title": "Battery drains really fast",
+      "text": "A single workout can drain 30% of your battery.",
+      "version": "3.0.6",
+      "userName": "dzapplereview",
+      "url": "https://apps.apple.com/us/app/hevy-workout-tracker-gym-log/id1458862350?uo=4"
+    },
+    {
+      "appId": 449810000,
+      "appTitle": "JEFIT Workout Plan Gym Tracker",
+      "score": 1,
+      "updated": "2026-04-10T23:08:11.000Z",
+      "title": "If only they’d stop “updating” the app",
+      "text": "STOP. CHANGING THE APP. \nI no longer have control in over the app. It has gotten progressively worse over the last several updates. I am done. I can’t even put in my own time for a walk anymore and the app just closes so it doesn’t track me",
+      "version": "17.0.0",
+      "userName": "T1DMan1",
+      "url": "https://apps.apple.com/us/app/jefit-workout-plan-gym-tracker/id449810000?uo=4"
+    },
+    {
+      "appId": 922744883,
+      "appTitle": "SmartGym: Gym & Home Workouts",
+      "score": 2,
+      "updated": "2026-04-10T14:22:51.000Z",
+      "title": "Not that good",
+      "text": "Only reason downloaded this app cause it was recommended by Apple but it’s not that good. There are other apps which are far better than this.",
+      "version": "7.9.4",
+      "userName": "Sukhi 81",
+      "url": "https://apps.apple.com/us/app/smartgym-gym-home-workouts/id922744883?uo=4"
+    },
+    {
+      "appId": 1502936453,
+      "appTitle": "LADDER Strength Training Plans",
+      "score": 2,
+      "updated": "2026-04-09T19:32:55.000Z",
+      "title": "Needs more conditioning/ cardio",
+      "text": "Love the weight lifting but they don’t have anything that incorporates cable machines and not NEARLY close to the cardio that is needed",
+      "version": "4.5.3",
+      "userName": "diaztomack",
+      "url": "https://apps.apple.com/us/app/ladder-strength-training-plans/id1502936453?uo=4"
+    }
+  ],
+  "lowStarByApp": {
+    "Fitness AI Gym Workout Planner": 1,
+    "Fitbod: Gym & Fitness Planner": 11,
+    "Strong Workout Tracker Gym Log": 1,
+    "Gymverse: AI Gym Workout Plans": 4,
+    "LADDER Strength Training Plans": 4,
+    "JEFIT Workout Plan Gym Tracker": 6,
+    "SmartGym: Gym & Home Workouts": 4,
+    "Hevy - Workout Tracker Gym Log": 2,
+    "Nike Training Club": 1
+  }
+}

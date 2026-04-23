@@ -1,0 +1,479 @@
+{
+  "reddit": {
+    "count": 196,
+    "theme_counts": {
+      "environment_constraint": 28,
+      "decision_uncertainty": 95,
+      "adherence_breakdown": 51,
+      "progress_signal_mismatch": 62,
+      "social_context_friction": 11
+    },
+    "examples": {
+      "environment_constraint": [
+        {
+          "created_at": "2026-04-09T14:17:41+00:00",
+          "subreddit": "loseit",
+          "title": "fitness/body recomp journey - down 19 lb so far",
+          "url": "https://www.reddit.com/r/loseit/comments/1sgqwx4/fitnessbody_recomp_journey_down_19_lb_so_far/",
+          "snippet": "shared this on another sub and some people said they found it useful so i figured i would share it all with you here too!! i\u2019m not an expert and have a long way to go in my journey still, but i have found it helpful read"
+        },
+        {
+          "created_at": "2026-04-22T07:05:29+00:00",
+          "subreddit": "loseit",
+          "title": "Checked the scale and panicked",
+          "url": "https://www.reddit.com/r/loseit/comments/1sse0f2/checked_the_scale_and_panicked/",
+          "snippet": "I'm a 23yo woman, 160cm tall if that matters. I've been in the process of losing weight for like 5 years now. I was very fat growing up. Only at 17 I got my stuff together and actually noticed it's a problem. Long story "
+        },
+        {
+          "created_at": "2026-04-21T06:50:36+00:00",
+          "subreddit": "workout",
+          "title": "Beginner woman restarting fitness at home: small space, fat loss + toning + glutes; need real advice",
+          "url": "https://www.reddit.com/r/workout/comments/1srfz4j/beginner_woman_restarting_fitness_at_home_small/",
+          "snippet": "Hi! I\u2019m looking for advice from people who\u2019ve been in a similar position. I (30F/5\u20197\u201d/165 lbs) started working out for the first time last summer and was consistent for about 2\u20133 months. I wasn\u2019t perfect with food, but I"
+        },
+        {
+          "created_at": "2026-04-21T06:50:31+00:00",
+          "subreddit": "workout",
+          "title": "Beginner woman restarting fitness at home: small space, fat loss + toning + glutes; need real advice",
+          "url": "https://www.reddit.com/r/workout/comments/1srfz32/beginner_woman_restarting_fitness_at_home_small/",
+          "snippet": "Hi! I\u2019m looking for advice from people who\u2019ve been in a similar position. I (30F/5\u20197\u201d/165 lbs) started working out for the first time last summer and was consistent for about 2\u20133 months. I wasn\u2019t perfect with food, but I"
+        },
+        {
+          "created_at": "2026-04-19T23:59:34+00:00",
+          "subreddit": "workout",
+          "title": "Feedback on my home workout regime.",
+          "url": "https://www.reddit.com/r/workout/comments/1sq9950/feedback_on_my_home_workout_regime/",
+          "snippet": "Hello, I am a busy 40+ single father. I have created my little gym in my basement. So that I can fit in workouts into my busy schedule without having to pay for a gym membership or having to drive to and from the gym. I "
+        }
+      ],
+      "decision_uncertainty": [
+        {
+          "created_at": "2026-04-09T14:17:41+00:00",
+          "subreddit": "loseit",
+          "title": "fitness/body recomp journey - down 19 lb so far",
+          "url": "https://www.reddit.com/r/loseit/comments/1sgqwx4/fitnessbody_recomp_journey_down_19_lb_so_far/",
+          "snippet": "shared this on another sub and some people said they found it useful so i figured i would share it all with you here too!! i\u2019m not an expert and have a long way to go in my journey still, but i have found it helpful read"
+        },
+        {
+          "created_at": "2026-04-19T19:13:16+00:00",
+          "subreddit": "loseit",
+          "title": "Finally hit my goal weight after 27 years. Here's EVERYTHING I did to get here.",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq25o8/finally_hit_my_goal_weight_after_27_years_heres/",
+          "snippet": "I just posted on r/progresspics where you can see photographic evidence. Tl;Dr I maintained a small caloric deficit (about 3-4 days of a 500 calorie deficit followed by a maintenance day) to lose about 3 pounds a month, "
+        },
+        {
+          "created_at": "2026-04-22T13:23:01+00:00",
+          "subreddit": "loseit",
+          "title": "Extreme hunger post big weight loss",
+          "url": "https://www.reddit.com/r/loseit/comments/1ssle8c/extreme_hunger_post_big_weight_loss/",
+          "snippet": "I'm in need of some help here as I don't know what to do. Over the past 21 months, I've lost over 160 lbs (75kg+). I'm a male, very active, 4 day gym routine and targeting 2 10k runs per week. SW was around 160kg. Last w"
+        },
+        {
+          "created_at": "2026-04-16T01:35:00+00:00",
+          "subreddit": "xxfitness",
+          "title": "Gains everywhere except glutes after 2 years of training",
+          "url": "https://www.reddit.com/r/xxfitness/comments/1smphwf/gains_everywhere_except_glutes_after_2_years_of/",
+          "snippet": "Hi everyone! Hoping someone has gone through something similar / has some advice for me I started doing CrossFit regularly (3-5x per week) about 2 years ago. This was my first time strength training. In the past 2 years "
+        },
+        {
+          "created_at": "2026-04-14T21:55:36+00:00",
+          "subreddit": "workout",
+          "title": "Am I sabotaging all my progress every weekend?",
+          "url": "https://www.reddit.com/r/workout/comments/1slmvvg/am_i_sabotaging_all_my_progress_every_weekend/",
+          "snippet": "Hey everyone, I could really use some honest advice because I feel like I\u2019m stuck in a cycle. I\u2019m male, 183 cm tall, currently around 120 kg. One thing that really frustrates me: it took me a VERY long time to even start"
+        }
+      ],
+      "adherence_breakdown": [
+        {
+          "created_at": "2026-04-09T14:17:41+00:00",
+          "subreddit": "loseit",
+          "title": "fitness/body recomp journey - down 19 lb so far",
+          "url": "https://www.reddit.com/r/loseit/comments/1sgqwx4/fitnessbody_recomp_journey_down_19_lb_so_far/",
+          "snippet": "shared this on another sub and some people said they found it useful so i figured i would share it all with you here too!! i\u2019m not an expert and have a long way to go in my journey still, but i have found it helpful read"
+        },
+        {
+          "created_at": "2026-04-19T19:13:16+00:00",
+          "subreddit": "loseit",
+          "title": "Finally hit my goal weight after 27 years. Here's EVERYTHING I did to get here.",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq25o8/finally_hit_my_goal_weight_after_27_years_heres/",
+          "snippet": "I just posted on r/progresspics where you can see photographic evidence. Tl;Dr I maintained a small caloric deficit (about 3-4 days of a 500 calorie deficit followed by a maintenance day) to lose about 3 pounds a month, "
+        },
+        {
+          "created_at": "2026-04-22T13:23:01+00:00",
+          "subreddit": "loseit",
+          "title": "Extreme hunger post big weight loss",
+          "url": "https://www.reddit.com/r/loseit/comments/1ssle8c/extreme_hunger_post_big_weight_loss/",
+          "snippet": "I'm in need of some help here as I don't know what to do. Over the past 21 months, I've lost over 160 lbs (75kg+). I'm a male, very active, 4 day gym routine and targeting 2 10k runs per week. SW was around 160kg. Last w"
+        },
+        {
+          "created_at": "2026-04-14T21:55:36+00:00",
+          "subreddit": "workout",
+          "title": "Am I sabotaging all my progress every weekend?",
+          "url": "https://www.reddit.com/r/workout/comments/1slmvvg/am_i_sabotaging_all_my_progress_every_weekend/",
+          "snippet": "Hey everyone, I could really use some honest advice because I feel like I\u2019m stuck in a cycle. I\u2019m male, 183 cm tall, currently around 120 kg. One thing that really frustrates me: it took me a VERY long time to even start"
+        },
+        {
+          "created_at": "2026-04-19T23:52:32+00:00",
+          "subreddit": "loseit",
+          "title": "Struggling with binging/extreme hunger after extended caloric deficit",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq93jg/struggling_with_bingingextreme_hunger_after/",
+          "snippet": "Hi, TL;DR: Having more and more frequent binges after extended caloric deficit and trying to eat slightly more/resisting the binges isn\u2019t working, what do I do? 28M 6\u2019 I started at about \\~230lbs at my heaviest multiple "
+        }
+      ],
+      "progress_signal_mismatch": [
+        {
+          "created_at": "2026-04-09T14:17:41+00:00",
+          "subreddit": "loseit",
+          "title": "fitness/body recomp journey - down 19 lb so far",
+          "url": "https://www.reddit.com/r/loseit/comments/1sgqwx4/fitnessbody_recomp_journey_down_19_lb_so_far/",
+          "snippet": "shared this on another sub and some people said they found it useful so i figured i would share it all with you here too!! i\u2019m not an expert and have a long way to go in my journey still, but i have found it helpful read"
+        },
+        {
+          "created_at": "2026-04-19T19:13:16+00:00",
+          "subreddit": "loseit",
+          "title": "Finally hit my goal weight after 27 years. Here's EVERYTHING I did to get here.",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq25o8/finally_hit_my_goal_weight_after_27_years_heres/",
+          "snippet": "I just posted on r/progresspics where you can see photographic evidence. Tl;Dr I maintained a small caloric deficit (about 3-4 days of a 500 calorie deficit followed by a maintenance day) to lose about 3 pounds a month, "
+        },
+        {
+          "created_at": "2026-04-22T13:23:01+00:00",
+          "subreddit": "loseit",
+          "title": "Extreme hunger post big weight loss",
+          "url": "https://www.reddit.com/r/loseit/comments/1ssle8c/extreme_hunger_post_big_weight_loss/",
+          "snippet": "I'm in need of some help here as I don't know what to do. Over the past 21 months, I've lost over 160 lbs (75kg+). I'm a male, very active, 4 day gym routine and targeting 2 10k runs per week. SW was around 160kg. Last w"
+        },
+        {
+          "created_at": "2026-04-19T19:43:42+00:00",
+          "subreddit": "loseit",
+          "title": "I can't stick to a diet/cut and it's driving me insane",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq2ypm/i_cant_stick_to_a_dietcut_and_its_driving_me/",
+          "snippet": "Hello, I am an 18 year old boy. I've been going to the gym since last year, not so consistently but now have been for the last 6 months or so. I've made tons of progress, both mentally and physically, I've gained a lot o"
+        },
+        {
+          "created_at": "2026-04-22T07:05:29+00:00",
+          "subreddit": "loseit",
+          "title": "Checked the scale and panicked",
+          "url": "https://www.reddit.com/r/loseit/comments/1sse0f2/checked_the_scale_and_panicked/",
+          "snippet": "I'm a 23yo woman, 160cm tall if that matters. I've been in the process of losing weight for like 5 years now. I was very fat growing up. Only at 17 I got my stuff together and actually noticed it's a problem. Long story "
+        }
+      ],
+      "social_context_friction": [
+        {
+          "created_at": "2026-04-19T19:13:16+00:00",
+          "subreddit": "loseit",
+          "title": "Finally hit my goal weight after 27 years. Here's EVERYTHING I did to get here.",
+          "url": "https://www.reddit.com/r/loseit/comments/1sq25o8/finally_hit_my_goal_weight_after_27_years_heres/",
+          "snippet": "I just posted on r/progresspics where you can see photographic evidence. Tl;Dr I maintained a small caloric deficit (about 3-4 days of a 500 calorie deficit followed by a maintenance day) to lose about 3 pounds a month, "
+        },
+        {
+          "created_at": "2026-04-12T01:14:37+00:00",
+          "subreddit": "loseit",
+          "title": "New Post &amp; Goals",
+          "url": "https://www.reddit.com/r/loseit/comments/1sj0lua/new_post_goals/",
+          "snippet": "Hello! I wanted to make a post here mainly so I could update it periodically / keep myself accountable with some documentation. My weight loss goal is pretty simple: I want to lose 5lbs in 5 weeks. I eat kind of the same"
+        },
+        {
+          "created_at": "2026-04-21T22:46:07+00:00",
+          "subreddit": "loseit",
+          "title": "How consistent do you have to be to achieve dream physique? (Food, not exercise)",
+          "url": "https://www.reddit.com/r/loseit/comments/1ss3egu/how_consistent_do_you_have_to_be_to_achieve_dream/",
+          "snippet": "I'm curious what peoples' experiences are regarding how consistent you need to be with diet to achieve a bodybuilder \"lite\" physique? I have no problem being extremely consistent with working out: 5x a week heavy weight "
+        },
+        {
+          "created_at": "2026-04-18T09:12:08+00:00",
+          "subreddit": "CICO",
+          "title": "Freelance Lifestyle, fussy eater",
+          "url": "https://www.reddit.com/r/CICO/comments/1sosoti/freelance_lifestyle_fussy_eater/",
+          "snippet": "Hey all, I am a 29 year old female, 5ft2\" and 67-70 kg. I have food trauma so I struggle to eat alot of foods. Salads and things are taking me time to get used to and I also dont enjoy cooking or ever have motivation to "
+        },
+        {
+          "created_at": "2026-04-10T12:24:24+00:00",
+          "subreddit": "loseit",
+          "title": "Lost 55 kg and now I'm scared I ruined everything over two holiday days",
+          "url": "https://www.reddit.com/r/loseit/comments/1shl0uw/lost_55_kg_and_now_im_scared_i_ruined_everything/",
+          "snippet": "Sorry if this post is long, but I really need to talk to someone who might understand. More than a year ago I started a weight loss journey and I\u2019ve lost 55 kg so far. Before Easter I was only 2 kg away from my final goa"
+        }
+      ]
+    }
+  },
+  "appstore": {
+    "reviews_1_2star_14d": 326,
+    "apps_scanned": 18,
+    "by_app": {
+      "Cal AI - Calorie Tracker": 78,
+      "MyFitnessPal: Calorie Counter": 69,
+      "Lifesum: AI Calorie Counter": 37,
+      "BitePal: Food Calorie Tracker": 71,
+      "calorie.ai - Calorie Tracker": 2,
+      "AI Calorie Counter - Appediet": 4,
+      "Lose It! \u2013 Calorie Counter": 27,
+      "AI Calorie Tracker by Yazio": 5,
+      "MacroFactor - Macro Tracker": 4,
+      "Calorie Counter & Food Tracker": 10,
+      "Cronometer: Calorie Counter": 3,
+      "Calo: AI Food Calorie Counter": 4,
+      "Eato\u00ae: Calorie Tracker": 2,
+      "Calorie Counter - MyNetDiary": 8,
+      "Foodvisor - AI Calorie Counter": 2
+    },
+    "theme_counts": {
+      "trust_billing": 146,
+      "ux_regression": 41,
+      "reliability_failure": 68,
+      "input_friction": 29,
+      "accuracy_failure": 28
+    },
+    "examples": {
+      "trust_billing": [
+        {
+          "updated": "2026-04-21T23:41:41.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 1,
+          "title": "Scam",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "Bro I couldn\u2019t even get started because it said I needed to start the 3 day free trial but I didn\u2019t want too."
+        },
+        {
+          "updated": "2026-04-21T22:11:16.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 1,
+          "title": "Scam",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "Yearly account ends after a months time. Support also has zero ways to assist you after said problem."
+        },
+        {
+          "updated": "2026-04-21T20:47:03.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "Core features removed and hidden behind a paywall \u2014 huge downgrade",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I\u2019ve used MyFitnessPal for nearly a decade and this update removed a key feature. Previously, I could see calories, carbs, fat, protein, and sodium for each food item and as a total for each meal, all in one view (especi"
+        },
+        {
+          "updated": "2026-04-21T19:59:04.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 1,
+          "title": "Paid for a full year",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "Was quoted 20 bucks for a year and I paid was charged 30 anyway sent two emails to support and no one responded at all. Complete lack of support from this company will not get anymore money from me after this."
+        },
+        {
+          "updated": "2026-04-21T18:04:32.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 2,
+          "title": "Great app TERRIBLE customer service",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "I purchased this app with a discounted code during my free 3 day trial. I was then illegally charged for the full subscription on top of that. When I contacted customer service, they refunded my discount and dissolved my"
+        },
+        {
+          "updated": "2026-04-21T17:13:23.000Z",
+          "appTitle": "AI Calorie Counter - Appediet",
+          "score": 1,
+          "title": "Everything is Behind a Paywall",
+          "url": "https://apps.apple.com/us/app/ai-calorie-counter-appediet/id6450329545?uo=4",
+          "snippet": "You cant even search for foods anymore without the paywall popping up. They say \u201csome advanced features\u201d you have to pay for. Searching for a food is not an advanced feature! I have used the app for years and have contri"
+        }
+      ],
+      "ux_regression": [
+        {
+          "updated": "2026-04-21T23:39:37.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "Hate it!",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "What did you do to my diary? This new user interface is awful, change it back!"
+        },
+        {
+          "updated": "2026-04-21T20:47:03.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "Core features removed and hidden behind a paywall \u2014 huge downgrade",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I\u2019ve used MyFitnessPal for nearly a decade and this update removed a key feature. Previously, I could see calories, carbs, fat, protein, and sodium for each food item and as a total for each meal, all in one view (especi"
+        },
+        {
+          "updated": "2026-04-21T15:02:05.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 2,
+          "title": "Increasingly unreliable",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I\u2019ve used the App since 2012 but recently it has become unreliable, dropping large chunks of weight data it promised would be available. Currently I recently lost the last six months of data, and that happened less than "
+        },
+        {
+          "updated": "2026-04-21T14:38:28.000Z",
+          "appTitle": "Lose It! \u2013 Calorie Counter",
+          "score": 1,
+          "title": "Took away personalization",
+          "url": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
+          "snippet": "Why the hell did you guys take away our themes?! Why am I now stuck staring at a bright orange background with your app??? I\u2019m deleting it!"
+        },
+        {
+          "updated": "2026-04-21T12:44:03.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "Buggy",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I\u2019ve been using this app for years. I\u2019m not sure what changed in this new facelift but I can\u2019t seem to add more than two items to any given meal, or when I add them and then I back up to the main screen it erases them."
+        },
+        {
+          "updated": "2026-04-20T23:28:05.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "HORRIBLE update & FAKE reviews",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "They ruined it with the latest updates. The staff leaves fake 5 star positive reviews. Very easy to spot them."
+        }
+      ],
+      "reliability_failure": [
+        {
+          "updated": "2026-04-21T22:55:37.000Z",
+          "appTitle": "Lifesum: AI Calorie Counter",
+          "score": 1,
+          "title": "Don\u2019t waste your money",
+          "url": "https://apps.apple.com/us/app/lifesum-ai-calorie-counter/id286906691?uo=4",
+          "snippet": "Very glitchy and highly frustrating, after using it for 14 months on the premium version. Coaching refers to evening meal at noon, instead of recommending items for lunch. It is always 8 hours of my cycle and there is no"
+        },
+        {
+          "updated": "2026-04-21T22:54:04.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 1,
+          "title": "Won\u2019t Sync to Health",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "The app won\u2019t log meals into Health. They will sell you the idea that it works but it doesn\u2019t."
+        },
+        {
+          "updated": "2026-04-21T18:04:32.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 2,
+          "title": "Great app TERRIBLE customer service",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "I purchased this app with a discounted code during my free 3 day trial. I was then illegally charged for the full subscription on top of that. When I contacted customer service, they refunded my discount and dissolved my"
+        },
+        {
+          "updated": "2026-04-21T15:56:06.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 1,
+          "title": "Not able to use",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I wanted to use your app as I used it years ago and really liked it. It was stuck on choosing my country and would not let me choose to move on. Just letting you know as this could be issue for others."
+        },
+        {
+          "updated": "2026-04-21T15:02:05.000Z",
+          "appTitle": "MyFitnessPal: Calorie Counter",
+          "score": 2,
+          "title": "Increasingly unreliable",
+          "url": "https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718?uo=4",
+          "snippet": "I\u2019ve used the App since 2012 but recently it has become unreliable, dropping large chunks of weight data it promised would be available. Currently I recently lost the last six months of data, and that happened less than "
+        },
+        {
+          "updated": "2026-04-21T14:38:28.000Z",
+          "appTitle": "Lose It! \u2013 Calorie Counter",
+          "score": 1,
+          "title": "Took away personalization",
+          "url": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
+          "snippet": "Why the hell did you guys take away our themes?! Why am I now stuck staring at a bright orange background with your app??? I\u2019m deleting it!"
+        }
+      ],
+      "input_friction": [
+        {
+          "updated": "2026-04-21T22:54:04.000Z",
+          "appTitle": "Cal AI - Calorie Tracker",
+          "score": 1,
+          "title": "Won\u2019t Sync to Health",
+          "url": "https://apps.apple.com/us/app/cal-ai-calorie-tracker/id6480417616?uo=4",
+          "snippet": "The app won\u2019t log meals into Health. They will sell you the idea that it works but it doesn\u2019t."
+        },
+        {
+          "updated": "2026-04-21T19:12:45.000Z",
+          "appTitle": "calorie.ai - Calorie Tracker",
+          "score": 1,
+          "title": "Terrible",
+          "url": "https://apps.apple.com/us/app/calorie-ai-calorie-tracker/id6464128379?uo=4",
+          "snippet": "This app sucks. If you type the product in it\u2019s never the right calories. I always have to google it. It\u2019s either way too many or 10 calories short. Even if you scan the bar code it\u2019s not always accurate"
+        },
+        {
+          "updated": "2026-04-21T17:13:23.000Z",
+          "appTitle": "AI Calorie Counter - Appediet",
+          "score": 1,
+          "title": "Everything is Behind a Paywall",
+          "url": "https://apps.apple.com/us/app/ai-calorie-counter-appediet/id6450329545?uo=4",
+          "snippet": "You cant even search for foods anymore without the paywall popping up. They say \u201csome advanced features\u201d you have to pay for. Searching for a food is not an advanced feature! I have used the app for years and have contri"
+        },
+        {
+          "updated": "2026-04-21T16:04:46.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 2,
+          "title": "Not impressed",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "App could use some work. Calorie count wasn\u2019t accurate. Struggled with adding food intake for prior days. Very cute app though."
+        },
+        {
+          "updated": "2026-04-21T09:50:15.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 1,
+          "title": "Don\u2019t bother",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "Scanning labels doesn\u2019t work most of the time and if it does the macros are all wrong. I spent more time trying to get it to accurately track than one ever should. Not sure why scanning a barcode isn\u2019t an option for accu"
+        },
+        {
+          "updated": "2026-04-21T05:02:02.000Z",
+          "appTitle": "Lose It! \u2013 Calorie Counter",
+          "score": 2,
+          "title": "Constantly changes the food metrics even for foods you eat regularly",
+          "url": "https://apps.apple.com/us/app/lose-it-calorie-counter/id297368629?uo=4",
+          "snippet": "The app constantly changes the measurements for the foods I scan in without warning. For example, the bread I eat regularly originally scanned as \"calories per slice.\" The package even gives the serving as \"one slice.\" A"
+        }
+      ],
+      "accuracy_failure": [
+        {
+          "updated": "2026-04-21T19:23:17.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 1,
+          "title": "Inaccurate",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "Horribly inaccurate ai calorie calculations and there\u2019s no way to search for the correct information. It makes you chance oz/grams until you round about the correct information."
+        },
+        {
+          "updated": "2026-04-21T19:12:45.000Z",
+          "appTitle": "calorie.ai - Calorie Tracker",
+          "score": 1,
+          "title": "Terrible",
+          "url": "https://apps.apple.com/us/app/calorie-ai-calorie-tracker/id6464128379?uo=4",
+          "snippet": "This app sucks. If you type the product in it\u2019s never the right calories. I always have to google it. It\u2019s either way too many or 10 calories short. Even if you scan the bar code it\u2019s not always accurate"
+        },
+        {
+          "updated": "2026-04-21T09:50:15.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 1,
+          "title": "Don\u2019t bother",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "Scanning labels doesn\u2019t work most of the time and if it does the macros are all wrong. I spent more time trying to get it to accurately track than one ever should. Not sure why scanning a barcode isn\u2019t an option for accu"
+        },
+        {
+          "updated": "2026-04-21T00:08:58.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 1,
+          "title": "Not accurate",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "I\u2019ve used this app many times. When it told me that a Taco Bell bag of chips and a container of cheese was 825 calories, I knew it was wrong so I deleted it off my phone. Not worth downloading."
+        },
+        {
+          "updated": "2026-04-20T20:17:50.000Z",
+          "appTitle": "BitePal: Food Calorie Tracker",
+          "score": 1,
+          "title": "Inaccurate",
+          "url": "https://apps.apple.com/us/app/bitepal-food-calorie-tracker/id6479529917?uo=4",
+          "snippet": "I thought the taking of pictures in use of AI would make this app a lot faster, and easier to use. However, it is very slow and to top it all off the nutritional information and serving sizes are completely inaccurate. I"
+        },
+        {
+          "updated": "2026-04-19T13:59:44.000Z",
+          "appTitle": "Lifesum: AI Calorie Counter",
+          "score": 1,
+          "title": "Unstable",
+          "url": "https://apps.apple.com/us/app/lifesum-ai-calorie-counter/id286906691?uo=4",
+          "snippet": "This app doesn\u2019t display correctly on my phone\u2019s screen. The food tracking screen is cut off on the right side of the screen leaving out functionality options. Also its food search is clumsy and not intuitive, often caus"
+        }
+      ]
+    }
+  }
+}
