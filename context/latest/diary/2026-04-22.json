@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-04-22",
+  "generatedAt": "2026-04-23",
+  "entry": {
+    "id": "2026-04-22",
+    "url": "https://egeuysal.com/diary/2026-04-22/",
+    "day": 48,
+    "date": "2026-04-22",
+    "summary": "Lighter pivot day",
+    "image": "https://cdn.egeuysal.com/content/2026/04/21/asset-01.png",
+    "tags": [
+      "fitness",
+      "saas",
+      "validation",
+      "ryva",
+      "daily"
+    ],
+    "body": "Today was lighter by design. I needed a reset more than brute-force output.\n\n## IBX parsed snapshot for 2026-04-22\n\nPulled from IBX CLI:\n\n- done tasks: **10**\n- open tasks due today: **4**\n- done priority split: **5** priority-1, **4** priority-2, **1** priority-3\n- estimated effort completed: **8.5 hours**\n- open effort still on board: **3.25 hours**\n\n## New main SaaS idea validated\n\nI reviewed this draft and it now feels like the main SaaS direction:\n\n- source: [fitness-app-idea.md](https://bri.egeuysal.com/egeuysall/fitness-app-idea.md)\n- thesis: solve \"what do I do right now?\" in messy real-life conditions\n- core product shape: one context-aware decision, fast\n- onboarding as value delivery: no-food, crowded-gym, and next-meal scenarios\n- moat: handle imperfect situations instantly while most fitness apps assume perfect conditions\n- first build scope: morning decision, crowded gym mode, calorie correction\n- defer for now: full tracking, perfect macros, long-term predictions\n\nValidation signal felt real because this framing maps to actual user pain and gives an immediate move, not a generic plan.\n\n## Build plan locked\n\nI also pulled the concrete plan doc and this is now the execution plan:\n\n- source: [build-something.md](https://bri.egeuysal.com/egeuysall/build-something.md)\n- one-line anchor: **When your day goes off plan, get one exact next move in seconds.**\n- validation window used: **2026-04-09 to 2026-04-22**\n\nSignal summary from the plan data:\n\n- Reddit posts analyzed: **368**\n- meal/calorie uncertainty: **168**\n- adherence breakdown: **82**\n- crowded gym constraints: **44**\n- paywall trust complaints: **149**\n- reliability/sync complaints: **109**\n\nLocked product scope:\n\n1. v1 wedge first:\n- fix what I just ate\n- fix what I just messed up\n\n2. v1.1 expansion second:\n- crowded gym fallback\n\n3. explicitly defer:\n- full workout planning\n- long-term predictions\n- heavy tracking\n\nLocked GTM flow:\n\n- comment -> DM -> beta invite **or** pre-order (not both by default)\n- escalate to calls only for high-intent users\n- trust-first messaging and full pre-order transparency\n\nPMF proof bar:\n\n- paid intent is not enough alone\n- repeat intent + week-1 return behavior are required\n- strongest quality signal: users say it changed today’s decision\n\nTrust rules I need to keep non-negotiable:\n\n- clear pre-build and refund language\n- no implying unshipped features\n- no hard paywall before first useful output\n- conservative safe defaults for calorie guidance\n\n## Ryva decision\n\nI’m not dropping Ryva.\n\nToday was lighter and I needed it, but that does not change the core loop mindset: build products that create repeat behavior, not one-time curiosity.\n\nFor now:\n\n- fitness SaaS is the new primary build lane\n- Ryva stays active as a parallel operator and GTM muscle\n- focus remains execution quality over adding more side ideas\n\n## Takeaway\n\nLower intensity day, but not a lost day. Direction got clearer, and I kept Ryva in the system instead of forcing a fake either-or choice."
+  }
+}
