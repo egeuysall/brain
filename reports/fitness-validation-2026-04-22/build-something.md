@@ -26,6 +26,7 @@ Validation window from existing reports: **2026-04-09 to 2026-04-22 (UTC)**.
 - App Store reliability/sync complaints: **109**
 
 Conclusion:
+
 - Problem validated: **yes**
 - Wedge validated: **yes**
 - Best entry point: **meal correction + post-slip rescue**
@@ -37,15 +38,17 @@ Conclusion:
 ### Product wedge (v1)
 
 Build only:
+
 1. **Fix what I just ate**  
-Input: meal context (photo or rough text)  
-Output: one immediate correction
+   Input: meal context (photo or rough text)  
+   Output: one immediate correction
 
 2. **Fix what I just messed up**  
-Input: "I messed up / binged / went off plan"  
-Output: one stabilizing next move (no guilt, no reset sermon)
+   Input: "I messed up / binged / went off plan"  
+   Output: one stabilizing next move (no guilt, no reset sermon)
 
 Do not prioritize in v1:
+
 - full workout planning
 - long-term predictions
 - heavy tracking
@@ -54,22 +57,25 @@ Do not prioritize in v1:
 ### Secondary expansion (v1.1+)
 
 3. **Crowded gym fallback**  
-Only after meal + rescue loop proves repeat use.
+   Only after meal + rescue loop proves repeat use.
 
 ## Viral loop (tighter)
 
 Generate one share card after each answer:
+
 - Situation
 - Next move
 - Blunt line
 
 Examples:
+
 - "I thought this was fine -> it wasn’t"
 - "I messed up -> this told me exactly what to do next"
 
 ## GTM flow (reduced friction)
 
 Use:
+
 1. Comment
 2. DM
 3. **Beta invite OR pre-order** (not both by default)
@@ -81,6 +87,7 @@ Escalate to call only for high-intent users.
 Do not conclude PMF from early pre-orders alone.
 
 Use a combined bar:
+
 - paid intent (pre-orders)
 - repeat intent (same users returning/responding)
 - usage retention once v1 exists (week-1 repeat usage)
@@ -158,6 +165,7 @@ If not, no pressure. Your feedback already helps.
 Direction is right.
 
 Now keep it narrow:
+
 - Meal correction + post-slip rescue first
 - Crowded gym second
 - Trust-first GTM
