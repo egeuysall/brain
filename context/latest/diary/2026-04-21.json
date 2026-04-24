@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-21",
-  "generatedAt": "2026-04-23",
+  "generatedAt": "2026-04-24",
   "entry": {
     "id": "2026-04-21",
     "url": "https://egeuysal.com/diary/2026-04-21/",
@@ -11,7 +11,13 @@
     "date": "2026-04-21",
     "summary": "Sales-first pivot day: lighter execution",
     "image": "https://cdn.egeuysal.com/content/2026/04/21/asset-01.png",
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today was lighter on pure output, but high value on decision clarity.\n\nI locked the direction:\n\nDo less random building right now, do more talking, validating, and selling before the product exists.\n\nI want to learn business by actually doing the hard part, not hiding inside code.\n\n## IBX parsed snapshot for 2026-04-21\n\nPulled from IBX CLI:\n\n- done tasks: **1**\n- open tasks due today: **14**\n- done priority split: **0** priority-1, **1** priority-2, **0** priority-3\n- estimated effort completed: **1.25 hours**\n\nI completed one task today:\n\n- leg + push day\n\nMain open cluster:\n\n- app idea validation before building\n- follow-up CyberMinds assignment tasks\n- workout/recovery and routine tasks\n- school/admin tasks\n- household/personal maintenance tasks\n\nSo this was not a high-throughput task day. It was a re-centering and direction day.\n\n## What still matters\n\nEven though output was lower, momentum is not dead:\n\n- SaaS idea direction is now clearer\n- some threads and conversations are starting\n- I know exactly what to prioritize next: customer conversations first, product expansion second\n\n## Personal execution\n\nI still kept core discipline:\n\n- training\n- ACT prep\n- high-protein nutrition\n- routine consistency\n\nThat matters because it keeps baseline stable while strategy changes.\n\n## Sales-first plan from here\n\n- talk to people with pain before building features\n- try to sell the result before polishing implementation\n- treat each conversation as validation signal, not vanity activity\n\nReminder from a stronger proof day that I want to get back to:\n\n![Previous proof-day reply signal](https://cdn.egeuysal.com/content/2026/04/13/asset-03.png)\n\n## Takeaway\n\nToday was intentionally lighter on shipping, but clearer on leverage.\n\nIf tomorrow converts this clarity into outreach and validation actions, this will count as a smart reset day, not a lost day."
   }
 }
