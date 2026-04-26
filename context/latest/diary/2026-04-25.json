@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-04-25",
+  "generatedAt": "2026-04-26",
+  "entry": {
+    "id": "2026-04-25",
+    "url": "https://egeuysal.com/diary/2026-04-25/",
+    "day": 51,
+    "date": "2026-04-25",
+    "summary": "Day one of the test",
+    "image": null,
+    "tags": [
+      "fitness",
+      "saas",
+      "execution",
+      "ryva",
+      "daily"
+    ],
+    "body": "Today is the first active day inside the fitness test window.\n\n## IBX parsed snapshot for 2026-04-25\n\nPulled from IBX CLI:\n\n- done tasks: **1**\n- open tasks due today: **17**\n- done priority split: **1** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0.75 hours**\n- open effort still on board: **13 hours**\n\nThe open queue shows real-life load across school, admin, and execution tasks, including the explicit task:\n\n- switch to fitness idea until next Sunday (**May 3, 2026**), then decide whether to double down or return to Ryva\n\n## Bridge notes pulled with Bri CLI\n\nI used these notes as the operating reference today:\n\n- [build-something](https://bri.egeuysal.com/egeuysall/build-something)\n- [fitness-app-idea](https://bri.egeuysal.com/egeuysall/fitness-app-idea)\n- [fitness-idea-validation-summary](https://bri.egeuysal.com/egeuysall/fitness-idea-validation-summary)\n\nShared direction across all three:\n\n- solve the immediate \"what do I do now?\" moment\n- start with meal correction + post-slip rescue\n- run trust-first messaging with explicit transparency\n- treat repeat behavior as the only real PMF signal\n\n## Ryva fallback condition\n\nI’m running this test seriously through May 3.\nIf the loop does not produce meaningful repeat behavior, I go back to Ryva hard.\n\n## Takeaway\n\nThe switch is active. Now it is execution, data, and honesty about results."
+  }
+}
