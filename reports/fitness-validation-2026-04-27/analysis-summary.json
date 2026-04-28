@@ -1,0 +1,309 @@
+{
+  "window": {
+    "start": "2026-04-13T23:59:59+00:00",
+    "end": "2026-04-27T23:59:59+00:00"
+  },
+  "reddit": {
+    "count": 733,
+    "mode_counts": {
+      "macro_correction_mode": 474,
+      "fridge_mode": 72,
+      "damage_control_mode": 74
+    },
+    "examples": {
+      "macro_correction_mode": [
+        {
+          "created_at": "2026-04-19T06:41:39+00:00",
+          "subreddit": "loseit",
+          "title": "Losing weight at high rate even at high calories",
+          "url": "https://www.reddit.com/r/loseit/comments/1spleyx/losing_weight_at_high_rate_even_at_high_calories/",
+          "num_comments": 26,
+          "score": 0,
+          "snippet": "I need to get some kind of insight as to what is happening with my rate of loss. No TDEE calculator can see to replicate my real world rate of loss based on the data that I’m entering. For context I’m 36, male, 174 cm, C"
+        },
+        {
+          "created_at": "2026-04-17T12:39:59+00:00",
+          "subreddit": "loseit",
+          "title": "Advice needed, a bit of a long post, sorry.",
+          "url": "https://www.reddit.com/r/loseit/comments/1snzsvf/advice_needed_a_bit_of_a_long_post_sorry/",
+          "num_comments": 20,
+          "score": 0,
+          "snippet": "I'm writing this post, because I would like some advice for some questions that I have with my weight loss journey. For context, I'm 18 (F), 5'1, currently around 164.8 lbs from 168. I'm going to graduate soon, and I liv"
+        },
+        {
+          "created_at": "2026-04-26T15:58:59+00:00",
+          "subreddit": "beginnerfitness",
+          "title": "Can someone help me understand more \"complex basics\"?",
+          "url": "https://www.reddit.com/r/beginnerfitness/comments/1swbd7g/can_someone_help_me_understand_more_complex_basics/",
+          "num_comments": 9,
+          "score": 2,
+          "snippet": "I definitely know certain basics like certain at home exercises I can do both as calisthenics and with weights and I know general principles when it comes to exercising. Time under tension, sets, reps, good form, recover"
+        },
+        {
+          "created_at": "2026-04-22T10:00:40+00:00",
+          "subreddit": "loseit",
+          "title": "It sucks when you realize that you need to lower our calories, especially if your TDEE \"should\" be higher than it actually is (Rant)",
+          "url": "https://www.reddit.com/r/loseit/comments/1ssh0i1/it_sucks_when_you_realize_that_you_need_to_lower/",
+          "num_comments": 53,
+          "score": 83,
+          "snippet": "I am only 4 pounds away from my first goal weight. I was planning to do a nice 6-8 week maintenance phase once I reached it, but little did I know, I have been in a maintenance phase during the past month almost. **I tho"
+        },
+        {
+          "created_at": "2026-04-21T17:01:55+00:00",
+          "subreddit": "WeightLossAdvice",
+          "title": "I lost 102lbs -- Advice for beginners",
+          "url": "https://www.reddit.com/r/WeightLossAdvice/comments/1srts0g/i_lost_102lbs_advice_for_beginners/",
+          "num_comments": 29,
+          "score": 174,
+          "snippet": "* **How many calories do I actually need to eat to lose weight?** * No one can give you an exact figure. You will need to figure this out through trial-and-error. Use a TDEE calculator to get a starting point, hold to th"
+        },
+        {
+          "created_at": "2026-04-20T13:00:47+00:00",
+          "subreddit": "loseit",
+          "title": "Help, advice, encouragement, tips, ANYTHING!",
+          "url": "https://www.reddit.com/r/loseit/comments/1sqon27/help_advice_encouragement_tips_anything/",
+          "num_comments": 22,
+          "score": 2,
+          "snippet": "Stats: 45F, 5'7\". SW 233 lbs, CW 210 lbs. I started really finally starting to stick to weight loss Jan 2025. I went from 233 to 198 in 2025. I took a planned break over Christmas. In hindsight, this was a big mistake. I"
+        },
+        {
+          "created_at": "2026-04-22T13:23:01+00:00",
+          "subreddit": "loseit",
+          "title": "Extreme hunger post big weight loss",
+          "url": "https://www.reddit.com/r/loseit/comments/1ssle8c/extreme_hunger_post_big_weight_loss/",
+          "num_comments": 10,
+          "score": 11,
+          "snippet": "I'm in need of some help here as I don't know what to do. Over the past 21 months, I've lost over 160 lbs (75kg+). I'm a male, very active, 4 day gym routine and targeting 2 10k runs per week. SW was around 160kg. Last w"
+        },
+        {
+          "created_at": "2026-04-26T06:32:05+00:00",
+          "subreddit": "loseit",
+          "title": "How do you guys make your coffee?",
+          "url": "https://www.reddit.com/r/loseit/comments/1svzu9z/how_do_you_guys_make_your_coffee/",
+          "num_comments": 75,
+          "score": 1,
+          "snippet": "Buying coffee these days has a lot of sugar and calories unfortunately :/ I’m trying to make coffee at home, so how do you guys make your coffee in order to stay on a calorie deficit? I’m having a good experience with th"
+        }
+      ],
+      "fridge_mode": [
+        {
+          "created_at": "2026-04-24T07:41:49+00:00",
+          "subreddit": "loseit",
+          "title": "Tips and tricks",
+          "url": "https://www.reddit.com/r/loseit/comments/1su8z0y/tips_and_tricks/",
+          "num_comments": 3,
+          "score": 2,
+          "snippet": "Tip one: make your own popsicles. I blend frozen fruit, add lemon/lime juice, add 1/2 cup maple syrup, 1/2 cup whole milk I fill my Popsicle molds (I make about 14 with this.) Any time I have a sugar craving this often h"
+        },
+        {
+          "created_at": "2026-04-16T17:56:53+00:00",
+          "subreddit": "WeightLossAdvice",
+          "title": "How do I stop myself from snacking at night even when I'm not hungry?",
+          "url": "https://www.reddit.com/r/WeightLossAdvice/comments/1snb4ws/how_do_i_stop_myself_from_snacking_at_night_even/",
+          "num_comments": 11,
+          "score": 1,
+          "snippet": "I am a 28 year old woman trying to lose weight and I do pretty well during the day. I eat balanced meals and stay within my calorie deficit. But every night around 9 or 10 PM I find myself standing in front of the fridge"
+        },
+        {
+          "created_at": "2026-04-18T12:33:52+00:00",
+          "subreddit": "loseit",
+          "title": "Battling My Gremlin",
+          "url": "https://www.reddit.com/r/loseit/comments/1sowg3j/battling_my_gremlin/",
+          "num_comments": 2,
+          "score": 10,
+          "snippet": "There I was standing in front of the open pantry. It’s 9:30 at night. That protein cookie sure looks good. “And it’s only 200 calories. And it has protein in it. Protein’s healthy. You need protein.” “Shut up, gremlin,” "
+        },
+        {
+          "created_at": "2026-04-17T21:09:30+00:00",
+          "subreddit": "loseit",
+          "title": "Day 7 of no mindless snacking!",
+          "url": "https://www.reddit.com/r/loseit/comments/1sodphk/day_7_of_no_mindless_snacking/",
+          "num_comments": 2,
+          "score": 8,
+          "snippet": "I am a serial evening snacker. It didn't matter how big my dinner was, by 9 PM I was prowling the kitchen for chips or sweets. It’s maybe my biggest hurdle in losing weight. I finally had an honest conversation with myse"
+        },
+        {
+          "created_at": "2026-04-14T12:40:17+00:00",
+          "subreddit": "loseit",
+          "title": "Should I run a mile everyday or walk for 30 minutes and condition to lose weight and fat?",
+          "url": "https://www.reddit.com/r/loseit/comments/1sl7jay/should_i_run_a_mile_everyday_or_walk_for_30/",
+          "num_comments": 221,
+          "score": 86,
+          "snippet": "Running a mile everyday or walk for 30 minutes with conditioning? I’m trying to lose weight and fat (I have a lot of stubborn fat around my stomach that is disproportionate to the rest of my body and makes me very insecu"
+        },
+        {
+          "created_at": "2026-04-27T14:19:48+00:00",
+          "subreddit": "WeightLossAdvice",
+          "title": "How do I lose weight safely while in poverty?",
+          "url": "https://www.reddit.com/r/WeightLossAdvice/comments/1sx53nd/how_do_i_lose_weight_safely_while_in_poverty/",
+          "num_comments": 16,
+          "score": 0,
+          "snippet": "I have been overweight for my entire life. My current BMI is over 53. I want to get it down into a healthy range for general health reasons and other medical reasons that I will not mention here. I suspect I may have a m"
+        },
+        {
+          "created_at": "2026-04-20T01:23:24+00:00",
+          "subreddit": "WeightLossAdvice",
+          "title": "Weight loss without calorie counting?",
+          "url": "https://www.reddit.com/r/WeightLossAdvice/comments/1sqb4tm/weight_loss_without_calorie_counting/",
+          "num_comments": 14,
+          "score": 0,
+          "snippet": "Hi! I’m 22F and have always struggled with weight. I used to count calories and while it does help family gatherings would always set me back and counting calories on apps would get draining despite results. Recently I g"
+        },
+        {
+          "created_at": "2026-04-23T23:18:08+00:00",
+          "subreddit": "workout",
+          "title": "Hi, im new to working out as a whole and thought to use chatgpt to make me a workout plan. I was wondering if anyone could tell me if it is okay, good, or horrible?",
+          "url": "https://www.reddit.com/r/workout/comments/1styq33/hi_im_new_to_working_out_as_a_whole_and_thought/",
+          "num_comments": 5,
+          "score": 1,
+          "snippet": "I have absolutely no idea if its good or not, I gave the prompt some specifications on workout equipment at home and my gym frequency as well as my preference to using a barbell over dumbells. Side note as well my mainte"
+        }
+      ],
+      "damage_control_mode": [
+        {
+          "created_at": "2026-04-17T19:17:14+00:00",
+          "subreddit": "loseit",
+          "title": "i feel guilty for bingeing",
+          "url": "https://www.reddit.com/r/loseit/comments/1soao43/i_feel_guilty_for_bingeing/",
+          "num_comments": 14,
+          "score": 0,
+          "snippet": "this post is to seek some guidance, and maybe some can relate.. i’ve been on a true weight loss journey for 2 ish months now, and it was going well until it wasn’t.. lately i’ve been tracking loosely and overeating by sn"
+        },
+        {
+          "created_at": "2026-04-21T20:03:20+00:00",
+          "subreddit": "beginnerfitness",
+          "title": "how do you find maintenance if your eating isn’t consistent?",
+          "url": "https://www.reddit.com/r/beginnerfitness/comments/1srz0ts/how_do_you_find_maintenance_if_your_eating_isnt/",
+          "num_comments": 10,
+          "score": 1,
+          "snippet": "i always see advice saying to track your calories and weight over time to figure out your maintenance, which makes sense in theory but i’m struggling to apply it because my eating isn’t very consistent. some days i try t"
+        },
+        {
+          "created_at": "2026-04-25T15:54:58+00:00",
+          "subreddit": "loseit",
+          "title": "Autistic overeating when understimulated",
+          "url": "https://www.reddit.com/r/loseit/comments/1svfv8p/autistic_overeating_when_understimulated/",
+          "num_comments": 21,
+          "score": 15,
+          "snippet": "Posting for accountability and hopefully some reassurance. It’s near my time of the month and I’ve felt more fatigued, and less motivated. A lot of practical stuff has went up in the air with home as well so I get stress"
+        },
+        {
+          "created_at": "2026-04-24T00:29:57+00:00",
+          "subreddit": "WeightLossAdvice",
+          "title": "Need help!:(",
+          "url": "https://www.reddit.com/r/WeightLossAdvice/comments/1su0bsk/need_help/",
+          "num_comments": 13,
+          "score": 3,
+          "snippet": "I’m 18 Male 5’6. My starting weight was at 192 and the past 2 months I’ve been on a HUGE unhealthy deficit. I have only been eating 850-900 calories a day and nothing but water. I know it isn’t healthy but I’m at 162 pou"
+        },
+        {
+          "created_at": "2026-04-23T10:03:02+00:00",
+          "subreddit": "loseit",
+          "title": "Cheat meal, tastes awful.. wasn't worth it",
+          "url": "https://www.reddit.com/r/loseit/comments/1stedqr/cheat_meal_tastes_awful_wasnt_worth_it/",
+          "num_comments": 9,
+          "score": 37,
+          "snippet": "I've been doing CICO non processed food diet - minimal carbs etc.. for a few weeks now and I've lost about 15lb (I'm a bigger girl) and last night after having a chicken salad about 4pm, I really wasn't feeling satiated "
+        },
+        {
+          "created_at": "2026-04-23T17:08:45+00:00",
+          "subreddit": "loseit",
+          "title": "Abs only when flexing",
+          "url": "https://www.reddit.com/r/loseit/comments/1stoux4/abs_only_when_flexing/",
+          "num_comments": 8,
+          "score": 0,
+          "snippet": "Hello, so I've been somewhat aggressively dieting for about 2 months and a half now, with a few refeeds in between and I am down ~7 kilograms, this is the leanest I've ever been and I've increased my calories by about 40"
+        },
+        {
+          "created_at": "2026-04-22T22:56:38+00:00",
+          "subreddit": "loseit",
+          "title": "Gained 15lbs in a month",
+          "url": "https://www.reddit.com/r/loseit/comments/1st14xr/gained_15lbs_in_a_month/",
+          "num_comments": 4,
+          "score": 27,
+          "snippet": "As the title states, I have managed to do the incredible feat of gaining 15lbs of mostly fat in a really short time frame. For context, I went from 170lbs down to 150lbs in a 4 month cutting phase. Then it all came crash"
+        },
+        {
+          "created_at": "2026-04-27T21:14:09+00:00",
+          "subreddit": "loseit",
+          "title": "I need someone to give me a realistic advice on how much I screwed my progress.",
+          "url": "https://www.reddit.com/r/loseit/comments/1sxgzfr/i_need_someone_to_give_me_a_realistic_advice_on/",
+          "num_comments": 2,
+          "score": 1,
+          "snippet": "So, I’ve been in a deficit and walking a lot for the past 7 months. I lost 25kg (50lbs) and was 1kg (2lbs) away from my goal weight. I have managed to lost weight a few times in my life previous to this but would always "
+        }
+      ]
+    }
+  },
+  "appstore": {
+    "count_low_star_reviews": 741,
+    "theme_counts": {
+      "trust_billing": 230,
+      "ux_regression": 157,
+      "reliability": 54,
+      "accuracy": 7
+    },
+    "top_apps": [
+      [
+        "MyFitnessPal: Calorie Counter",
+        438
+      ],
+      [
+        "Cal AI - Calorie Tracker",
+        77
+      ],
+      [
+        "Lifesum: AI Calorie Counter",
+        34
+      ],
+      [
+        "Simple: AI Weight Loss Coach",
+        33
+      ],
+      [
+        "Lose It! – Calorie Counter",
+        26
+      ],
+      [
+        "ReciMe: Recipes & Meal Planner",
+        18
+      ],
+      [
+        "Noom Weight Loss, Food Tracker",
+        17
+      ],
+      [
+        "Fitbod: Gym & Fitness Planner",
+        14
+      ],
+      [
+        "WeightWatchers Program",
+        13
+      ],
+      [
+        "Fastic Weight Loss & Fasting",
+        13
+      ],
+      [
+        "WalkFit: Weight Loss Tracker",
+        9
+      ],
+      [
+        "Calorie Counter - MyNetDiary",
+        8
+      ],
+      [
+        "JEFIT Workout Plan Gym Tracker",
+        6
+      ],
+      [
+        "Carb Manager—Keto Diet Tracker",
+        4
+      ],
+      [
+        "Cronometer: Calorie Counter",
+        4
+      ]
+    ]
+  }
+}
