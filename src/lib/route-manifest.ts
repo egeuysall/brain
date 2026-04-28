@@ -59,8 +59,7 @@ export function createRouteManifestPayload(
   const currentPage = Math.min(Math.max(1, page), totalPages)
   const startIndex = (currentPage - 1) * ROUTES_PER_PAGE
   const pageEntries = entries.slice(startIndex, startIndex + ROUTES_PER_PAGE)
-  const previousHref =
-    currentPage > 1 ? toRoutesApiHref(currentPage - 1) : null
+  const previousHref = currentPage > 1 ? toRoutesApiHref(currentPage - 1) : null
   const nextHref =
     currentPage < totalPages ? toRoutesApiHref(currentPage + 1) : null
 

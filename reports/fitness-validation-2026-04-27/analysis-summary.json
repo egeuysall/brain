@@ -244,66 +244,21 @@
       "accuracy": 7
     },
     "top_apps": [
-      [
-        "MyFitnessPal: Calorie Counter",
-        438
-      ],
-      [
-        "Cal AI - Calorie Tracker",
-        77
-      ],
-      [
-        "Lifesum: AI Calorie Counter",
-        34
-      ],
-      [
-        "Simple: AI Weight Loss Coach",
-        33
-      ],
-      [
-        "Lose It! – Calorie Counter",
-        26
-      ],
-      [
-        "ReciMe: Recipes & Meal Planner",
-        18
-      ],
-      [
-        "Noom Weight Loss, Food Tracker",
-        17
-      ],
-      [
-        "Fitbod: Gym & Fitness Planner",
-        14
-      ],
-      [
-        "WeightWatchers Program",
-        13
-      ],
-      [
-        "Fastic Weight Loss & Fasting",
-        13
-      ],
-      [
-        "WalkFit: Weight Loss Tracker",
-        9
-      ],
-      [
-        "Calorie Counter - MyNetDiary",
-        8
-      ],
-      [
-        "JEFIT Workout Plan Gym Tracker",
-        6
-      ],
-      [
-        "Carb Manager—Keto Diet Tracker",
-        4
-      ],
-      [
-        "Cronometer: Calorie Counter",
-        4
-      ]
+      ["MyFitnessPal: Calorie Counter", 438],
+      ["Cal AI - Calorie Tracker", 77],
+      ["Lifesum: AI Calorie Counter", 34],
+      ["Simple: AI Weight Loss Coach", 33],
+      ["Lose It! – Calorie Counter", 26],
+      ["ReciMe: Recipes & Meal Planner", 18],
+      ["Noom Weight Loss, Food Tracker", 17],
+      ["Fitbod: Gym & Fitness Planner", 14],
+      ["WeightWatchers Program", 13],
+      ["Fastic Weight Loss & Fasting", 13],
+      ["WalkFit: Weight Loss Tracker", 9],
+      ["Calorie Counter - MyNetDiary", 8],
+      ["JEFIT Workout Plan Gym Tracker", 6],
+      ["Carb Manager—Keto Diet Tracker", 4],
+      ["Cronometer: Calorie Counter", 4]
     ]
   }
 }
