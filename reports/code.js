@@ -1,124 +1,140 @@
 //--------------------- GLOBAL VARIABLES ------------------------//
-var a
-var b
-var p
-var g
-var sharedPrivateKey
 
-var possiblePs = [3, 5, 7, 11, 13, 17, 19, 23, 29, 31]
-var possibleGs = [
-  [2],
-  [2, 3],
-  [3, 5],
-  [2, 6, 7, 8],
-  [2, 6, 7, 11],
-  [3, 5, 6, 7, 10, 11, 12, 14],
-  [2, 3, 10, 13, 14, 15],
-  [5, 7, 10, 11, 14, 15, 17, 19, 20, 21],
-  [2, 3, 8, 10, 11, 14, 15, 18, 19, 21, 26, 27],
-  [3, 11, 12, 13, 17, 21, 22, 24]
-]
-
-generatePandG()
+var primes = generatePrimes()
+var p = 0
+var q = 0
+var n
+var m
+var e
+var d
 
 //--------------------- ONEVENTS ------------------------//
 
-// When the user clicks the button to generate the shared key
-// the DH function is called using the global variables
-onEvent("generateSharedKeyBtn", "click", function () {
-  a = getNumber("aSecretNum")
-  b = getNumber("bSecretNum")
-  sharedPrivateKey = DH(a, b)
-  setText("secretKeyOutput", sharedPrivateKey)
-})
-
-// User must enter a NUMBER in the "numToEncrypt" input box
-onEvent("encryptBtn", "click", function () {
-  var num = getNumber("numToEncrypt")
-  var result = encryptDH(num)
-  setText("encryptedNum", result)
-})
-
-// User must enter a NUMBER in the "numToDecrypt" input box
-onEvent("decryptBtn", "click", function () {
-  var num = getNumber("numToDecrypt")
-  var result = decryptDH(num)
-  while (result < 0) {
-    result += p
-  }
-  setText("decryptedNum", result)
-})
-
-// clicking the next button changes the screen
-onEvent("nextButton", "click", function () {
+// screen2 randomly generates p & q
+onEvent("goScreen2Button", "click", function () {
   setScreen("screen2")
+  pickTwoPrimes()
+  setText("pLabel", "p = " + p)
+  setText("qLabel", "q = " + q)
 })
 
-// clicking the home button changes the app to screen1 and resests all screen elements
+// screen3 allows user to input p & q values
+onEvent("goScreen3Button", "click", function () {
+  setScreen("screen3")
+  clearAndReset()
+  p = 0
+  q = 0
+})
+
+// screen2 randomly generates p & q
+onEvent("goScreen2Button2", "click", function () {
+  setScreen("screen2")
+  pickTwoPrimes()
+  setText("pLabel", "p = " + p)
+  setText("qLabel", "q = " + q)
+})
+
+// screen3 allows user to input p & q values
+onEvent("goScreen3Button2", "click", function () {
+  setScreen("screen3")
+})
+
+// Uses global variables to generate public and private keys
+onEvent("generateKeysBtn", "click", function () {
+  RSA()
+  setText("pubKeyOutput", "(" + n + ", " + e + ")")
+  setText("privKeyOutput", "(" + n + ", " + d + ")")
+})
+
+// Uses global variables to generate public and private keys
+onEvent("generateKeysBtn2", "click", function () {
+  p = getNumber("pInput")
+  q = getNumber("qInput")
+  RSA()
+  setText("pubKeyOutput2", "(" + n + ", " + e + ")")
+  setText("privKeyOutput2", "(" + n + ", " + d + ")")
+})
+
 onEvent("homeButton", "click", function () {
   setScreen("screen1")
   clearAndReset()
 })
 
-// clicking the refresh button resests all screen elements
-onEvent("refreshButton", "click", function () {
+onEvent("homeButton2", "click", function () {
+  setScreen("screen1")
   clearAndReset()
 })
 
+onEvent("refreshButton", "click", clearAndReset)
+onEvent("refreshButton2", "click", clearAndReset)
+
 //--------------------- FUNCTIONS ------------------------//
 
-// This function will compute and return the Shared Key from Alice & Bob
-// a {number} - the secret value that Alice chooses
-// b {number} - the secret value that Bob chooses
-// return {number} - the generated shared key once verified that Alice & Bob
-//                    BOTH generated the same shared key
-function DH(a, b) {
-  // your code here
-}
-
-// This function encrypts a number t and returns the encrypted value
-// t {number} - the value to encrypt
-// return {number} - the encrypted value
-function encryptDH(t) {
+// This function will compute Alice's Public and Private Key using global variables
+// no return, update global variables
+function RSA() {
   //your code here
-}
-
-// This function decrypts a number c and returns the decrypted value
-// c {number} - the value to edecrypt
-// return {number} - the decrypted value
-function decryptDH(c) {
-  //your code here
+  // find e such that 1 < e < n and e must be coprime to m
+  // find d such that (e * d) % m == 1
 }
 
 // done for you
-function generatePandG() {
-  // randomly choose p from possiblePs
-  var randP = Math.floor(Math.random() * 10)
-  p = possiblePs[randP]
-
-  //randomly choose g from possibleGs now that we have chosen p
-  var size = possibleGs[randP].length
-  var randG = Math.floor(Math.random() * size)
-  g = possibleGs[randP][randG]
-
-  updateScreenPG()
+// no parameters, uses global variables
+// return {array} - a list of the primes numbers up to 250
+function generatePrimes() {
+  var primeNums = []
+  for (var i = 2; i < 250; i++) {
+    var sqrt = Math.floor(Math.sqrt(i))
+    var isPrime = true
+    for (var j = 2; j <= sqrt; j++) {
+      if (i % j == 0) {
+        isPrime = false
+      }
+    }
+    if (isPrime) {
+      primeNums.push(i)
+    }
+  }
+  return primeNums
 }
 
-function updateScreenPG() {
-  setText("pValue", "p: " + p)
-  setText("gValue", "g: " + g)
+// done for you
+// This function ensures that p and q are different primes
+// no parameters, no return
+function pickTwoPrimes() {
+  p = primes[Math.floor(Math.random() * primes.length)]
+  q = primes[Math.floor(Math.random() * primes.length)]
+  while (p == q) {
+    p = primes[Math.floor(Math.random() * primes.length)]
+    q = primes[Math.floor(Math.random() * primes.length)]
+  }
+}
+
+// Done for you
+// This function returns the greatest common divisior of a and b
+// a, b {number} - the numbers you are trying to find the gcd of. Assume a >= b.
+// return {number} - the gcd of ints a and b
+function gcd(a, b) {
+  if (b == 0) {
+    return a
+  }
+  return gcd(b, a % b)
 }
 
 // clears and resets all screen elements
+// no parameters, no return
 function clearAndReset() {
-  setText("aSecretNum", "")
-  setText("bSecretNum", "")
-  setText("secretKeyOutput", "")
-  setText("numToEncrypt", "")
-  setText("encryptedNum", "")
-  setText("numToDecrypt", "")
-  setText("decryptedNum", "")
-  setText("pValue", "p: ")
-  setText("gValue", "g: ")
-  generatePandG()
+  pickTwoPrimes()
+  n = ""
+  m = ""
+  d = ""
+  e = ""
+  setText("pLabel", "p = " + p)
+  setText("qLabel", "q = " + q)
+  setText("pInput", " ")
+  setText("qInput", " ")
+  setText("pubKeyOutput", "(n, e)")
+  setText("privKeyOutput", "(n, d)")
+  setText("pubKeyOutput2", "(n, e)")
+  setText("privKeyOutput2", "(n, d)")
 }
