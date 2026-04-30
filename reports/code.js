@@ -5,12 +5,10 @@
  *
  */
 
-// Increase our canvas size for this exercise
 setSize(465, 2100)
 
 //GLOBAL VARIABLES----------------------------------------------------------
 
-// Constants for the image
 var GAP = 60
 var LABEL_GAP = 45
 
@@ -32,10 +30,8 @@ var IMAGE_HEIGHT = 450
 var IMAGE_X = 10
 var IMAGE_Y = 50
 
-// We need to wait for the image to load before modifying it
 var IMAGE_LOAD_WAIT_TIME = 3000
 
-// Images
 var image
 var secretMessage
 var encrypted
@@ -56,21 +52,30 @@ function start() {
 // See project guide for requirements.
 // no parameters or return; uses global variables
 function encrypt() {
+  // Step 1: Make all red channels in encrypted image even
   for (var x = 0; x < IMAGE_WIDTH; x++) {
     for (var y = 0; y < IMAGE_HEIGHT; y++) {
-      if (encrypted.getRed(x, y) % 2 != 0) {
-        encrypted.setRed(x, y, image.getRed(x, y) + 1)
-      }
+      encrypted.setRed(x, y, image.getRed(x, y))
+      encrypted.setGreen(x, y, image.getGreen(x, y))
+      encrypted.setBlue(x, y, image.getBlue(x, y))
 
-      if (encrypted.getRed(x, y) == 0 && encrypted.getGreen(x)) {
+      if (encrypted.getRed(x, y) % 2 != 0) {
+        encrypted.setRed(x, y, encrypted.getRed(x, y) - 1)
       }
     }
   }
 
-  console.log(encrypted.getRed(5, 10))
-
+  // Step 2: For black pixels in secret image, set red channel to odd
   for (var x = 0; x < IMAGE_WIDTH; x++) {
-    for (var y = 0; y < IMAGE_HEIGHT; y++) {}
+    for (var y = 0; y < IMAGE_HEIGHT; y++) {
+      if (
+        secretMessage.getRed(x, y) < 128 &&
+        secretMessage.getGreen(x, y) < 128 &&
+        secretMessage.getBlue(x, y) < 128
+      ) {
+        encrypted.setRed(x, y, encrypted.getRed(x, y) + 1)
+      }
+    }
   }
 }
 
@@ -79,7 +84,19 @@ function encrypt() {
 // See project guide for requirements
 // no parameters or return; uses global variables
 function decrypt() {
-  // Your code here
+  for (var x = 0; x < IMAGE_WIDTH; x++) {
+    for (var y = 0; y < IMAGE_HEIGHT; y++) {
+      if (encrypted.getRed(x, y) % 2 != 0) {
+        decrypted.setRed(x, y, 0)
+        decrypted.setGreen(x, y, 0)
+        decrypted.setBlue(x, y, 0)
+      } else {
+        decrypted.setRed(x, y, 255)
+        decrypted.setGreen(x, y, 255)
+        decrypted.setBlue(x, y, 255)
+      }
+    }
+  }
 }
 
 //-----------------DON'T MODIFY ANY CODE BELOW THIS LINE--------------------//
