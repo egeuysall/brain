@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "why-ditched-complicated",
-  "generatedAt": "2026-04-26",
+  "generatedAt": "2026-04-29",
   "entry": {
     "id": "why-ditched-complicated",
     "url": "https://egeuysal.com/blog/why-ditched-complicated/",
@@ -11,7 +11,11 @@
     "description": "I used to run some of the most advanced productivity systems you can imagine. I connected the ChatGPT API, multiple MCP servers, Notion, and Google Calendar...",
     "publishedAt": "2025-09-16",
     "updatedAt": null,
-    "tags": ["technology", "productivity", "tutorial"],
+    "tags": [
+      "technology",
+      "productivity",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/313690/pexels-photo-313690.jpeg",
     "readingTime": 3,
     "body": "I used to run some of the most advanced productivity systems you can imagine. I connected the ChatGPT API, multiple MCP servers, Notion, and Google Calendar to manage my calendars, tasks, and notes automatically. I even wrote my own productivity book and built elaborate dashboards to track everything.\n\nIt looked impressive from the outside, but here is the truth: I spent more time organizing than actually doing the work. I realized I was wasting my time trying to be productive instead of actually being productive.\n\nThat was my wake-up call. I had to simplify everything.\n\n![Minimalism Image](https://images.pexels.com/photos/1420709/pexels-photo-1420709.jpeg)\n\n### My Minimalist Productivity Setup\n\nNow my productivity system is simple but powerful. I focus on three core tools:\n\n- **Things 3** for task management. I write the most important three tasks for each area of my life: fitness, school, and projects. This keeps my priorities clear and prevents overwhelm.\n- **Obsidian** for notes, using the AnuPpuccin theme. Obsidian is fast, local, and markdown-first, which lets me edit notes instantly from my terminal. It beats Notion for speed, reliability, and flexibility.\n- **Calendar** for time-blocking. I use Google Calendar or a Notion calendar to roughly plan my day without overcomplicating it.\n\n#### How My Day Works\n\n1. I time-block my day in the calendar without overplanning every minute.\n2. I assign the specific tasks I will do in each block using Things 3. I only focus on the top three tasks per pillar.\n3. I take notes on my work in Obsidian. I avoid building huge dashboards that take more time to manage than the work itself.\n\nI still use the Eisenhower Matrix to prioritize tasks, but only as a quick decision-making tool. That is all I need.\n\n### Why This Minimalist System Works Better\n\n- **Speed**: Obsidian is local and markdown-first. I can open and edit files instantly from my terminal. Notion is slow for large databases and searching through hundreds of pages can take seconds.\n- **Focus**: I spend energy doing work instead of building dashboards or automating everything.\n- **Clarity**: Tracking the top three tasks per life pillar keeps my priorities in focus and prevents distraction.\n\n![Formula Image](https://images.pexels.com/photos/714698/pexels-photo-714698.jpeg)\n\n### The Simple Formula For Maximum Productivity\n\nIf you are stuck in complicated productivity systems, try this approach:\n\n1. Use a basic note app like Obsidian or Notion for your notes.\n2. Use a lightweight task app like Things 3 or Superlist to track your daily priorities.\n3. Use a calendar to roughly block your time, not micro-manage every hour.\n4. Avoid complex dashboards and over-automation that waste your time.\n5. Focus on the top three tasks per life pillar each day.\n\nThe truth is, productivity is not about building the most advanced system. It is about spending your time on the things that matter. Once I embraced simplicity, I finally started getting real work done and I have not looked back."

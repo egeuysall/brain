@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-12",
-  "generatedAt": "2026-04-26",
+  "generatedAt": "2026-04-29",
   "entry": {
     "id": "2026-04-12",
     "url": "https://egeuysal.com/diary/2026-04-12/",
@@ -11,7 +11,13 @@
     "date": "2026-04-12",
     "summary": "Clear sticky-team plan and tighter second-run focus",
     "image": "https://cdn.egeuysal.com/content/2026/04/13/asset-04.png",
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today was another lighter day on raw output, but I spent time clarifying exactly how I want to push this week.\n\nI still did some real ICP outreach through repos and direct DMs/emails. Not enough volume yet, but quality was better than random blasting.\n\n## Runs shipped\n\n- [Run 1](https://ryva.dev/share/run_UAAagQM2RrQI)\n- [Run 2](https://ryva.dev/share/run_MUNCzEJkOWOp)\n\nThe Monday rerun thread is still alive, so the second-run loop is not dead. I just need to force stronger timing anchors so threads do not drift.\n\n## Main plan for this week\n\nThe goal is simple: get one sticky team that runs Ryva 3 times and expects the next one.\n\nWarm intro first:\n\n- Ask someone who already saw Ryva working to intro me to a CTO\n- CyberMinds is useful for this even if they are not paying\n- One trusted intro beats 100 cold pings\n\nActive pain threads next:\n\n- Find fresh threads where CTOs/eng managers are actively complaining about coordination problems\n- Reply publicly with a real run so proof comes before pitch\n- This converts better because pain is already live\n\n![\"Screenshot 2026-04-13\"](https://cdn.egeuysal.com/content/2026/04/13/asset-04.png)\n\nWhite-glove cold after that:\n\n- Pick 10 funded startups with active repos and identifiable CTOs\n- Run Ryva first, then send one sharp gap\n- No pitch dump, no long explanation, just specific repo-context signal\n\n## What makes teams stick\n\nRun 1 gets curiosity.\n\nRun 2 must show delta:\n\n- what changed\n- what is still unresolved\n- what is now risky\n\nRun 3 must feel necessary, not nice-to-have.\n\nSo after every run, I need to anchor the next trigger in the same message:\n\n`I’ll recheck after your next PR batch. Wednesday work?`\n\nIf they confirm or correct it, the loop stays alive.\n\n## Progress delta\n\nCompleted:\n\n- another Ryva execution block done\n- previous follow-up threads stayed active\n- some direct ICP outreach via repos, email, and DMs\n\nUnresolved:\n\n- `Drive 2nd-run usage through teams` still open\n- `Send 10 outreach messages` still open\n- `Run Ryva again for klayan by monday` still open\n- old-DM second-run scan and first Rands/CTO Craft post still pending\n\nRisks:\n\n- if I do not force rerun date/time in-thread, intent decays\n- if I drift into content/tooling before locking warm threads, this week turns into motion without conversion\n- bearer key should not appear in plain workflow text or shared logs\n\n## Execution order for tomorrow\n\n- lock rerun times on warm threads first\n- run repo diagnostics for those exact threads second\n- publish one proof-backed post from that evidence third\n- only then expand channel volume\n\nOnly metric this week:\n\nDid one team ask for the next run without me prompting it?\n\nIf yes, that is real progress. If no, everything else is noise."
   }
 }
