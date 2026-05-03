@@ -11,12 +11,7 @@
     "date": "2026-04-30",
     "summary": "High-output execution day",
     "image": null,
-    "tags": [
-      "execution",
-      "school",
-      "ryva",
-      "daily"
-    ],
+    "tags": ["execution", "school", "ryva", "daily"],
     "body": "Strong execution day with clean closure across school and product tasks.\n\n## IBX parsed snapshot for 2026-04-30\n\nPulled from IBX CLI:\n\n- done tasks: **10**\n- open tasks due that day: **0**\n- done priority split: **6** priority-1, **4** priority-2, **0** priority-3\n- estimated effort completed: **10.5 hours**\n\n## What moved\n\nCompleted clusters:\n\n- AP CSP work shipped (including create-task readiness and reconstruction workflow)\n- Ryva/infra fixes done (including Clerk domain work)\n- deep work block completed\n- podcast focus flow maintained\n- migration and code push tasks completed\n\n## Takeaway\n\nThis was one of the cleaner days recently: full closure on due tasks and steady momentum across both school and product lanes."
   }
 }
