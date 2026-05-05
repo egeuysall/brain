@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-28",
-  "generatedAt": "2026-05-02",
+  "generatedAt": "2026-05-03",
   "entry": {
     "id": "2026-04-28",
     "url": "https://egeuysal.com/diary/2026-04-28/",
@@ -11,7 +11,13 @@
     "date": "2026-04-28",
     "summary": "Main study day, real commitment",
     "image": "https://cdn.egeuysal.com/content/2026/04/28/asset-01.png",
-    "tags": ["execution", "fitness", "school", "projects", "daily"],
+    "tags": [
+      "execution",
+      "fitness",
+      "school",
+      "projects",
+      "daily"
+    ],
     "body": "Today was a main study day.\n\n## IBX parsed snapshot for 2026-04-28\n\nPulled from IBX CLI:\n\n- done tasks: **18**\n- open tasks due today: **10**\n- done priority split: **9** priority-1, **5** priority-2, **4** priority-3\n- estimated effort completed: **16.5 hours**\n- open effort still on board: **8.75 hours**\n\n## What moved\n\nMain completed clusters:\n\n- study and school prep blocks\n- orthodontics and dentist logistics handled\n- deep work block completed\n- workout + nutrition consistency tasks done\n- IBX improvement and content system tasks progressed\n\nOpen carry-over is still clear and bounded:\n\n- AP CSP score/rubric improvement\n- exam prep and driving logistics\n- fitness-idea test window follow-through\n- payment/admin cleanup tasks\n\n## 18 days left\n\nThere are **18 days left** until the school year ends.\n\nAfter that, the deal is real:\nI will go all-in on SaaS and I will not stop until I make it.\n\n## Takeaway\n\nThis was a study-first day with clear discipline.\nFinish this school stretch strong, then channel all energy into SaaS execution."
   }
 }

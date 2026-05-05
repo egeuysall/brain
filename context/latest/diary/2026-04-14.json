@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-14",
-  "generatedAt": "2026-05-02",
+  "generatedAt": "2026-05-03",
   "entry": {
     "id": "2026-04-14",
     "url": "https://egeuysal.com/diary/2026-04-14/",
@@ -11,7 +11,13 @@
     "date": "2026-04-14",
     "summary": "Built brain ui, but second-run depth is lacking",
     "image": "https://cdn.egeuysal.com/content/2026/04/14/asset-01.png",
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Shipped brain.egeuysal.com and nothing else. I have 4 tests tomorrow so needed to study.\n\n![\"Screenshot 2026-04-14\"](https://cdn.egeuysal.com/content/2026/04/14/asset-01.png)\n\nI had to build brain because i was wasting so much time on copying and opening threads, this took me 30 minutes. I know I said I wouldn't spend time on tooling but the ROI was clear.\n\n## What moved\n\nThe IBX board shows another `10 ICP replies X/Reddit` block marked done today. George Rios got a follow-up. The weekly Ryva playbook is in place, so the proof and outreach cadence did not fully drop after yesterday.\n\nThat is roughly where the motion stops.\n\n## What did not move\n\nYesterday I said the real job was simple: close warm threads with explicit rerun timing, keep repo deltas sharp, then expand outbound. That is the part that stayed flat.\n\n`21st.dev` is still not closed into a second-run loop. `Klayan` is still sitting as an open rerun. `Drive 2nd-run usage through teams` is still open. `Run Ryva again for 21st.dev` is still open. `Fix Codex automations: thread search + capture CTO/eng-manager complaints (last 48h)` is still open.\n\nThe bottleneck is not effort. It is converting proof into a scheduled next run.\n\n## Risks going into tomorrow\n\nThe board is already queuing fresh repo runs for `Kernel`, `Moss`, and `Notte`, with more later in the week. If I open more first-touch threads before locking rerun timing on the warm ones, I will trade loop quality for volume.\n\nThe outreach copy also still needs sharper delta framing. Bearer keys still cannot leak into notes or logs.\n\n## Tomorrow's focus\n\n- Send a second-run follow-up to `21st.dev` with changed vs unresolved vs risk, one binary question, and a concrete rerun time\n- Rerun Ryva for `Klayan` and send the delta back in the same thread with a next-run anchor\n- Finish the `CTO/eng-manager complaints` capture automation so there are 3 live pain threads to work from\n- Tighten the one-line gap message with the replacement-sync framing, then reuse it for outbound\n- Run Ryva on `Kernel`, `Moss`, and `Notte` only after the warm follow-ups are sent\n- Publish one short proof-first post or Ryva blog note from one anonymized repo gap\n\nYesterday proved I can generate proof and move product quality forward. This week still has room to produce a true sticky team outcome, but only if warm threads get timing anchors before new outreach opens."
   }
 }
