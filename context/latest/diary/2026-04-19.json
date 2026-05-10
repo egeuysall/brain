@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-19",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "2026-04-19",
     "url": "https://egeuysal.com/diary/2026-04-19/",
@@ -11,7 +11,13 @@
     "date": "2026-04-19",
     "summary": "Closed weekly review, but second-run backlog is still open",
     "image": null,
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "wrote blog/ryva-all-lessons/\n\nalso wrote https://ryva.dev/blog/why-jira-boards-lie\n\nProgress Delta:\n\n- Completed: IBX shows Sunday review was logged, one 10-reply outreach block was completed, and the weekly egeuysal.com post was marked done.\n- Unresolved: Core GTM backlog is still open in IBX, especially repo runs for `Kernel`, `Moss`, `Notte`, `Trigger.dev`, `Signadot`, `Inngest`, plus second-run follow-ups in old DM threads.\n- New risks: Duplicate IBX task states are masking true closure, and the automation currently relies on a bearer token that can leak if logs are exposed.\n\nTasks:\n\n- [ ] Send 10 ICP replies on X and Reddit in under 60 minutes, each with one concrete gap and no generic pitch.\n- [ ] Follow up all active Ryva threads from the last 7 days and secure at least 1 explicit next-run slot (date plus trigger).\n- [ ] Run Ryva on `Kernel`, `Moss`, and `Notte`, then send one-line gap messages to each owner.\n- [ ] Run Ryva on `Trigger.dev`, `Signadot`, and `Inngest`, then send one-line gap messages to each owner.\n- [ ] For every run today, log a strict delta in IBX notes: what changed, what is still unresolved, and the next trigger date.\n- [ ] Publish one Ryva ICP-triggering content piece using one anonymized gap from today’s runs and a clear second-run CTA.\n\nDiary:\nYesterday was a hackathon shipping day, and it gave real proof that we can execute under pressure. The issue is that execution energy did not fully convert into the Ryva second-run loop yet.\n\nToday the file says the truth: the weekly review happened, but the high-leverage repo backlog is still open. IBX still has unresolved run tasks for `Kernel`, `Moss`, `Notte`, `Trigger.dev`, `Signadot`, and `Inngest`, and that means we are carrying old commitments instead of compounding momentum.\n\nThe priority is simple. Close follow-ups first, finish the six repo runs, and enforce output quality on each message so every contact sees one sharp gap plus a named next trigger. If this is done cleanly, today can move from activity to actual PMF signal."
   }
 }

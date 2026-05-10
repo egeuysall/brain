@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-05-09",
+  "generatedAt": "2026-05-10",
+  "entry": {
+    "id": "2026-05-09",
+    "url": "https://egeuysal.com/diary/2026-05-09/",
+    "day": 64,
+    "date": "2026-05-09",
+    "summary": "Perfect heavy build day",
+    "image": "https://cdn.egeuysal.com/content/2026/05/09/asset-03.png",
+    "tags": [
+      "build",
+      "silway",
+      "act-ai",
+      "fitness",
+      "daily"
+    ],
+    "body": "Heavy build day and honestly a perfect one.\n\n![Screenshot 2026-05-09](https://cdn.egeuysal.com/content/2026/05/09/asset-03.png)\n\n## Today at a glance\n\n- done tasks: **7**\n- open tasks: **6**\n- estimated effort completed: **10 hours**\n- open effort still on board: **7.5 hours**\n\nMain completed work from today:\n\n- built ACT AI with a friend from school\n- shipped Slack write capabilities for Silway\n- shipped GitHub + Gmail integration for Silway (read + write scope in workflow)\n- published [200 Workouts Later](/blog/200-workouts-later/)\n\nOmer is back in the loop, and collaboration speed was much better.\n\n## ACT AI build (first serious tool-loop agent build for me)\n\nThis was my first time building actual tools with the Vercel AI SDK tool loop flow, and it was exciting.\nThe final output got great feedback.\n\nIt took around 4 hours and includes:\n\n- Next.js 16 + React 19 app structure\n- Clerk auth and Convex-backed history\n- ToolLoopAgent flow with multi-step tool calls\n- RAG source search over ACT strategy docs\n- streaming chat UX with persisted history\n- MDX tutorials/practice with KaTeX support\n\n![Screenshot 2026-05-09](https://cdn.egeuysal.com/content/2026/05/09/asset-04.png)\n\n## Training + cut notes\n\n- crazy leg + abs day\n- hit **135 on pendulum squats for 7** (machine weight not included) as a PR\n- deep in a cut with ~3 weeks left and still progressing in strength\n- solid biking cardio sessions\n\nFood was on point too:\n\n- had an amazing lunch salad (~500 cals, ~50g protein)\n- super filling and great for the cut\n\n## Reader note\n\nIf anyone wants context and notes, my Bri profile is here:\n[bri.fyi/egeuysall](https://bri.fyi/egeuysall)\n\n## Takeaway\n\nOne of those rare days where everything clicks: heavy shipping, strong training performance, and real momentum."
+  }
+}

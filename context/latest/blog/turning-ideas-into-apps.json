@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "turning-ideas-into-apps",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "turning-ideas-into-apps",
     "url": "https://egeuysal.com/blog/turning-ideas-into-apps/",
@@ -11,7 +11,11 @@
     "description": "Ideas are easy. Shipping them? That’s the hard part. Yesterday, I had a tiny idea: a minimalist tool to share Markdown files instantly. No clunky uploads,...",
     "publishedAt": "2025-09-21",
     "updatedAt": null,
-    "tags": ["technology", "product", "coding"],
+    "tags": [
+      "technology",
+      "product",
+      "coding"
+    ],
     "image": "https://images.pexels.com/photos/4491910/pexels-photo-4491910.jpeg",
     "readingTime": 1,
     "body": "Ideas are easy. Shipping them? That’s the hard part. Yesterday, I had a tiny idea: a minimalist tool to share Markdown files instantly. No clunky uploads, no messy links and just a fast way to turn any `.md` file into a clean, shareable link.\n\nBy focusing only on the core feature, I built **Bridge** in a single day. Its workflow is simple: install with Go, run a single command, and your Markdown file is online with instant preview. No extra steps, no hassle.\n\nBridge isn’t just an app; it’s proof that tiny ideas, when executed fast, can become useful tools immediately. Minimal effort, maximum impact.\n\n### Install & Use\n\nInstall with Go: `go install github.com/egeuysall/bridge/backend/cmd/bridge@latest`  \nShare a file: `bridge -p filename.md`\n\nPublish. Markdown. Effortlessly."

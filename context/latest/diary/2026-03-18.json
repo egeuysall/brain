@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-03-18",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "2026-03-18",
     "url": "https://egeuysal.com/diary/2026-03-18/",
@@ -11,7 +11,10 @@
     "date": "2026-03-18",
     "summary": "Outreach consistency and stronger ICP clarity.",
     "image": "https://i.ytimg.com/vi/6OOLk7P38Y4/hqdefault.jpg",
-    "tags": ["ryva", "experiment"],
+    "tags": [
+      "ryva",
+      "experiment"
+    ],
     "body": "Today was mostly an outreach-maintenance day under school constraints. I kept response loops active across channels, published fresh distribution posts, and continued collecting clearer language from ICP conversations around standup fatigue.\n\nThe operating theme was simple: maintain momentum without pretending this was a heavy build day. With only two school days left, I prioritized consistency over volume.\nOnly two days of school remain, then I will push Ryva harder than ever.\n\n## What I shipped\n\n- Replied to everyone pending on Reddit.\n- Continued LinkedIn DM follow-ups and added new LinkedIn connections.\n- Replied on X to keep distribution threads alive.\n- Published a new X post: [See the post](https://x.com/egewrk/status/2034402001325322448?s=20)\n- Published a new LinkedIn post: [Read the post](https://www.linkedin.com/posts/egeuysall_i-spent-a-week-asking-engineering-managers-share-7440167906937741312-Li2z?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFda6AoBWeBRayAxVaKD8PG_quWkedzkvlU)\n\nHere is the MVP for a hackathon we've been working on, by the way:\n\n<YouTubeVideo\n  url=\"https://youtu.be/6OOLk7P38Y4?si=seq1l9ycew66EWYd\"\n  title=\"Ryva hackathon MVP\"\n/>\n\n## School constraint and execution\n\nToday stayed intentionally light on product work because school took priority:\n\n- Practiced math.\n- Continued English essay work.\n- Prepped for the Spanish test tomorrow.\n- Studied chemistry.\n\n## ICP signal from conversations\n\nEven without big feature output, the user-language quality improved. The quotes below sharpen the positioning: the pain is less about standups existing and more about repeated manual reporting despite data already living in tools.\n\n## Friction and risk\n\n- School workload is still the main limiter on build capacity.\n- Outreach-only days can feel low-progress unless signals are captured and reused.\n- If reply speed drops during exam prep, warm conversations can cool down.\n\n## Numbers\n\n- 1 X post published\n- 1 LinkedIn post published\n- All pending Reddit replies cleared\n- LinkedIn DMs and connection outreach continued\n- X reply thread activity continued\n\n## Quotes of today\n\n> I don't think standups themselves are the problem. It's how we're doing them.\n\n> Most of the info is already sitting somewhere: commits, tickets, PRs, Slack threads. But then we still ask people to repeat all of that in a meeting every day. It ends up feeling like you're just re-explaining work that's already been done and recorded. That's probably why it starts to feel like work after a while. I've seen a few teams move toward just pulling updates from actual activity and sharing that async instead. You still get visibility, but without interrupting everyone's flow.\n\nMain progress today: I protected school priorities while keeping outbound momentum alive and capturing sharper ICP language for Ryva positioning."
   }
 }

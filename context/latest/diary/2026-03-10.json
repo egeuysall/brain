@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-03-10",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "2026-03-10",
     "url": "https://egeuysal.com/diary/2026-03-10/",
@@ -11,7 +11,10 @@
     "date": "2026-03-10",
     "summary": "Public demo, distribution learnings, and GTM focus.",
     "image": "https://cdn.egeuysal.com/content/2026/03/10/asset-01.png",
-    "tags": ["ryva", "experiment"],
+    "tags": [
+      "ryva",
+      "experiment"
+    ],
     "body": "Day 8 of Ryva outreach.\n\nToday’s biggest win was removing the value-to-risk barrier: the public demo is now live and people can see Ryva’s output before connecting anything private.\n\n## What I shipped\n\n- Launched public demo: [ryva.dev/demo](https://ryva.dev/demo).\n- Built demo interactions as local-only so users can test workflows without signup.\n- Seeded realistic project, Slack, and archive states to make the demo feel credible.\n- Enabled decision lifecycle actions in the Agent tab for demo mode (approve, decline, keep open).\n- Bought $35 of Vercel AI Gateway credits for faster iteration across this and future products.\n\nSupabase screenshot used for demo/content:\n\n![Supabase demo screenshot](https://cdn.egeuysal.com/content/2026/03/10/asset-01.png)\n\n## Distribution and outreach insights\n\n- Added 100+ new LinkedIn connections today.\n- Moved from ~50 to ~350 total connections in 7 days.\n- Reddit still works well for deep discussion and learning real workflows from senior engineers.\n- Reddit is useful for manual outreach and feedback, but weak for scalable direct promotion.\n\nCurrent direction:\n\n- Keep Reddit for high-signal conversations while PMF is still forming.\n- Shift more distribution weight to X and LinkedIn for scalable growth.\n\n## Strategic clarity\n\nThe core issue is not awareness. It is a value-to-risk gap.\n\nPeople are interested, but connecting a private GitHub repo feels like a high-trust action without enough proof. The demo solves this by showing concrete missing-decision output first.\n\nA strong next move is simple: run Ryva on public repos, publish short screen recordings, and lead with outcomes instead of claims.\n\n## External feedback\n\nA founder on X sent me a 7-page breakdown of why my account/posts were underperforming. Most suggestions are fundamental, but likely effective. I plan to implement them directly and measure results.\n\nIf X underperforms after iteration, I will keep testing channels and re-balance back toward Reddit.\n\n## Next product steps\n\n- Publish short X/LinkedIn clips showing real missing decisions found in public repos.\n- Push the demo link into active DMs and conversations.\n- Keep testing hooks and content formats while tracking activation, not just reach.\n\n## Numbers\n\n- $35 Vercel AI Gateway credits purchased\n- 100+ new LinkedIn connections today\n- ~350 total LinkedIn connections (up from ~50 in 7 days)\n- Demo live at [ryva.dev/demo](https://ryva.dev/demo)\n\nMain progress today: the product is now easier to trust before signup, which should improve conversion quality over time."
   }
 }

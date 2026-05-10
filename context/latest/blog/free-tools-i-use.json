@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "free-tools-i-use",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "free-tools-i-use",
     "url": "https://egeuysal.com/blog/free-tools-i-use/",
@@ -11,7 +11,11 @@
     "description": "Want to build web apps, games, or creative projects without spending hundreds of dollars on software? I’ve been doing exactly that for over a year—and trust...",
     "publishedAt": "2025-09-13",
     "updatedAt": null,
-    "tags": ["tutorial", "technology", "coding"],
+    "tags": [
+      "tutorial",
+      "technology",
+      "coding"
+    ],
     "image": "https://images.pexels.com/photos/5951553/pexels-photo-5951553.jpeg",
     "readingTime": 3,
     "body": "Want to build web apps, games, or creative projects without spending hundreds of dollars on software? I’ve been doing exactly that for over a year—and trust me, free tools are more than enough to get professional-level results. Here’s how I do it.\n\n### Design & Prototyping\n\nDesign is the first step in almost every project I build, and I rely entirely on free tools to make it clean and usable:\n\n- **Figma** – My go-to for UI/UX design and prototypes. With the **Design Tokens plugin**, I keep colors, typography, and spacing consistent across projects.\n- **Coolors & Adobe Colors** – For generating palettes that look good and are easy on the eyes.\n- **Typescale, Google Fonts, Fontshare** – Perfect for picking and pairing fonts quickly.\n\nEven without paying, these tools let me make web apps and small games look professional and polished.\n\n![Developing Image](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg)\n\n### Coding & Development\n\nMost of my projects are web apps, so my coding workflow needs to be smooth:\n\n- **Cursor AI** – Helps speed up coding and write smarter snippets. (I pair it with Goland professionally, but the AI part is free.)\n- **GitHub** – Not just for hosting; I use it for inspiration, exploring others’ projects, and version control.\n\nFor beginners: even without paid IDEs, free code editors and GitHub alone can get you building serious projects.\n\n### Staying Organized\n\nManaging ideas and projects is crucial, especially when juggling school and coding:\n\n- **Obsidian** – My “second brain” for notes, planning features, and tracking progress.\n- **Things 3 & Notion Calendar** – Keep tasks structured and schedules clear.\n\nFull disclosure: I stopped using Notion extensively because speed was an issue for me, though it’s improving.\n\n![Server Image](https://images.pexels.com/photos/2881233/pexels-photo-2881233.jpeg)\n\n### Hosting & Deployment\n\nDeploying projects without paying can feel tricky, but here’s how I do it:\n\n- **Vercel** – Free frontend hosting that’s fast and reliable. I’ve even built mini games like a color game just for fun.\n- **Supabase** – Free tier gives you database, authentication, email, and S3 storage.\n- **Digital Ocean & Hack Club** – Free credits and VPS options let you experiment with backend hosting, combined with **Certbot** for SSL and **Nginx** for serving apps securely.\n\nPro tip: Many of these platforms allow creating multiple free accounts if it complies with their terms, which can help avoid limits on usage.\n\n### Lessons Learned & Pro Tips\n\n1. **Check student packs** – GitHub Student Developer Pack and Hack Club offer free domains, VPS, and tools that can massively expand your project possibilities.\n2. **Experiment & play** – I built a color game entirely using Vercel’s free tier. Small projects like this are great practice.\n3. **Don’t stress limits** – Free tools have limits, but creativity and resourcefulness usually outweigh them.\n\n### Conclusion\n\nYou don’t need expensive software to build real, usable projects. With the right free tools and a little persistence, anyone—even a teen—can create apps, games, and websites that look and feel professional. Start small, stay organized, and take advantage of student packs and free hosting platforms—you might be surprised how far free tools can take you."

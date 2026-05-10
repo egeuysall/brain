@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-04",
-  "generatedAt": "2026-05-08",
+  "generatedAt": "2026-05-10",
   "entry": {
     "id": "2026-05-04",
     "url": "https://egeuysal.com/diary/2026-05-04/",
@@ -11,7 +11,12 @@
     "date": "2026-05-04",
     "summary": "Heavy study day",
     "image": null,
-    "tags": ["school", "study", "exam-prep", "daily"],
+    "tags": [
+      "school",
+      "study",
+      "exam-prep",
+      "daily"
+    ],
     "body": "This was a heavy study day, nothing fancy, just final-stretch school pressure.\n\n## IBX parsed snapshot for 2026-05-04\n\nPulled from IBX CLI:\n\n- done tasks: **0**\n- open tasks due that day: **5**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **9 hours**\n\nMain queue was all academics:\n\n- AP CSP prep blocks\n- Spanish speaking prep\n- Spanish final portfolio prep\n\n## Takeaway\n\nLast days of school means time for almost nothing else. This day was pure study focus."
   }
 }
