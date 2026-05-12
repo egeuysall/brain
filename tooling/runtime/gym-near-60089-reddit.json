@@ -5,12 +5,7 @@
     "max_hours": 28800.0
   },
   "filters": {
-    "includeAny": [
-      "buffalo grove gym",
-      "la fitness",
-      "xsport",
-      "teen"
-    ],
+    "includeAny": ["buffalo grove gym", "la fitness", "xsport", "teen"],
     "excludeAny": []
   },
   "count": 0,
