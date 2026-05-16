@@ -1,0 +1,110 @@
+{
+  "generated_at": "2026-05-16T13:58:00.464999+00:00",
+  "window": {
+    "min_hours": 24.0,
+    "max_hours": 720.0
+  },
+  "filters": {
+    "includeAny": [],
+    "excludeAny": []
+  },
+  "count": 6,
+  "items": [
+    {
+      "subreddit": "marketing",
+      "title": "Looking for advice!! How to scale + marketing effectively high-ticket ecommerce/furniture brands?",
+      "url": "https://www.reddit.com/r/marketing/comments/1t7ru42/looking_for_advice_how_to_scale_marketing/",
+      "created_at": "2026-05-09T02:11:33+00:00",
+      "age_hours": 179.77,
+      "age_label": "7 days ago",
+      "author": "Careful_Guidance3310",
+      "op_body": "**So here is a quick recap about my situation:** Selling a \\~$1,000 luxury sofa online and honestly struggling hard with conversions. We offer...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "revops",
+      "title": "what b2b data or signals are still hard to find outside of apollo/zoominfo?",
+      "url": "https://www.reddit.com/r/revops/comments/1t88e79/what_b2b_data_or_signals_are_still_hard_to_find/",
+      "created_at": "2026-05-09T15:41:57+00:00",
+      "age_hours": 166.27,
+      "age_label": "6 days ago",
+      "author": "No-Palpitation-6604",
+      "op_body": "I’ve spent the last \\~7 years scraping and structuring messy b2b datasets for smb/mid market companies a lot of it comes from reverse...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "marketing",
+      "title": "Dunkin' marketing campaign idea for foray into Canada",
+      "url": "https://www.reddit.com/r/marketing/comments/1tci18b/dunkin_marketing_campaign_idea_for_foray_into/",
+      "created_at": "2026-05-14T00:27:58+00:00",
+      "age_hours": 61.5,
+      "age_label": "2 days ago",
+      "author": "coolinjapan001",
+      "op_body": "For my Canadians out there, let's say Dunkin' only hires canadians (i.e. zero TFW etc) and goes hard with a marketing push about how they are...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "sales",
+      "title": "I’m stuck, miserable… and can’t find a way to out.",
+      "url": "https://www.reddit.com/r/sales/comments/1td3ez4/im_stuck_miserable_and_cant_find_a_way_to_out/",
+      "created_at": "2026-05-14T16:30:28+00:00",
+      "age_hours": 45.46,
+      "age_label": "1 day ago",
+      "author": "Old_Assignment_5673",
+      "op_body": "Hey everyone, I’m back again asking for advice, 3rd or 4th time in the past 90 days… to keep it short, i’m 21, i’ve taken a few leaps and...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "marketing",
+      "title": "Feeling stuck!",
+      "url": "https://www.reddit.com/r/marketing/comments/1tdepg6/feeling_stuck/",
+      "created_at": "2026-05-14T23:19:59+00:00",
+      "age_hours": 38.63,
+      "age_label": "1 day ago",
+      "author": "0rang3p0p",
+      "op_body": "Hey Y'all! Not sure if it's okay to post this here, but if it's not, my bad! I’m looking for some outside opinion on a small business I help...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    },
+    {
+      "subreddit": "startups",
+      "title": "how should I validate the product idea ? I will not promote",
+      "url": "https://www.reddit.com/r/startups/comments/1tdqkjb/how_should_i_validate_the_product_idea_i_will_not/",
+      "created_at": "2026-05-15T08:55:52+00:00",
+      "age_hours": 29.04,
+      "age_label": "1 day ago",
+      "author": "ponziedd",
+      "op_body": "Hey, So for context, I operate in the newsletter field. I have a newsletter too, so it was natural for me to go into this niche, specifically the...",
+      "first_person": true,
+      "pain_signal": false,
+      "coordination_signal": true,
+      "promotional_signal": false,
+      "high_signal_score": 3,
+      "high_signal": true
+    }
+  ]
+}

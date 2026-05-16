@@ -1,0 +1,40 @@
+{
+  "generated_at": "2026-05-16T13:55:06.163221+00:00",
+  "window": {
+    "min_hours": 24.0,
+    "max_hours": 720.0
+  },
+  "filters": {
+    "includeAny": [
+      "follow up",
+      "follow-up",
+      "pipeline",
+      "lead",
+      "ghosted",
+      "no show",
+      "crm",
+      "manual",
+      "spreadsheet"
+    ],
+    "excludeAny": []
+  },
+  "count": 1,
+  "items": [
+    {
+      "subreddit": "LeadGeneration",
+      "title": "Just started a moving company. Is buying leads realistic for a brand new operation or a waste of money?",
+      "url": "https://www.reddit.com/r/LeadGeneration/comments/1t9cb40/just_started_a_moving_company_is_buying_leads/",
+      "created_at": "2026-05-10T16:56:43+00:00",
+      "age_hours": 140.97,
+      "age_label": "5 days ago",
+      "author": "M45T3RY",
+      "op_body": "Launched a moving company in Seattle 3 months ago. Just me and two guys right now, doing mostly local residential. I've been relying entirely on...",
+      "first_person": true,
+      "pain_signal": true,
+      "coordination_signal": false,
+      "promotional_signal": false,
+      "high_signal_score": 4,
+      "high_signal": true
+    }
+  ]
+}
