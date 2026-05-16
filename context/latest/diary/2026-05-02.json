@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-02",
-  "generatedAt": "2026-05-10",
+  "generatedAt": "2026-05-16",
   "entry": {
     "id": "2026-05-02",
     "url": "https://egeuysal.com/diary/2026-05-02/",
@@ -11,7 +11,13 @@
     "date": "2026-05-02",
     "summary": "MVP shipping day",
     "image": null,
-    "tags": ["mvp", "shipping", "silway", "study", "daily"],
+    "tags": [
+      "mvp",
+      "shipping",
+      "silway",
+      "study",
+      "daily"
+    ],
     "body": "Main outcome: two new MVPs went live.\n\n## IBX parsed snapshot for 2026-05-02\n\nPulled from IBX CLI:\n\n- done tasks: **12**\n- open tasks due that day: **0**\n- done priority split: **4** priority-1, **4** priority-2, **4** priority-3\n- estimated effort completed: **13.75 hours**\n\n## What shipped\n\n- launched [git.egeuysal.com](https://git.egeuysal.com)\n- launched [nutra.egeuysal.com](https://nutra.egeuysal.com)\n\nBesides shipping, the rest of the day was mostly meetings and school pressure management.\n\n## School context\n\nThese are the last days of school, so studying is heavy and non-negotiable right now.\n\n## Takeaway\n\nReal product output happened even with school load high. Two MVP domains shipped in one day and everything else was about staying on schedule."
   }
 }

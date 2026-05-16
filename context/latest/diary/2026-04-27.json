@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-27",
-  "generatedAt": "2026-05-10",
+  "generatedAt": "2026-05-16",
   "entry": {
     "id": "2026-04-27",
     "url": "https://egeuysal.com/diary/2026-04-27/",
@@ -11,7 +11,13 @@
     "date": "2026-04-27",
     "summary": "Built my personal MCP server",
     "image": "https://cdn.egeuysal.com/content/2026/04/28/asset-01.png",
-    "tags": ["mcp", "developer-tools", "codex", "claude", "daily"],
+    "tags": [
+      "mcp",
+      "developer-tools",
+      "codex",
+      "claude",
+      "daily"
+    ],
     "body": "Main outcome of the day: I built my own MCP server and published it for direct use.\n\n## IBX parsed snapshot for 2026-04-27\n\nPulled from IBX CLI:\n\n- done tasks: **4**\n- open tasks due that day: **0**\n- done priority split: **3** priority-1, **1** priority-2, **0** priority-3\n- estimated effort completed: **3.75 hours**\n\n## MCP server\n\nPublic endpoint:\n\n- `/mcp`\n- [https://egeuysal.com/mcp](https://egeuysal.com/mcp)\n\n![Screenshot 2026-04-28](https://cdn.egeuysal.com/content/2026/04/28/asset-01.png)\n\nIf anyone wants to connect it in Codex or Claude, these docs are the references:\n\n- [OpenAI Codex MCP docs](https://developers.openai.com/codex/mcp)\n- [Claude Desktop local MCP guide](https://support.claude.com/en/articles/10949351-getting-started-with-local-mcp-servers-on-claude-desktop)\n\n## Tools available (to my current knowledge)\n\n```json\n{\n  \"name\": \"egeuysal-www\",\n  \"transport\": \"MCP streamable HTTP\",\n  \"endpoint\": \"/mcp\",\n  \"protocol\": {\n    \"method\": \"POST\",\n    \"headers\": {\n      \"accept\": \"application/json\",\n      \"content-type\": \"application/json\"\n    },\n    \"exampleBody\": {\n      \"id\": 1,\n      \"jsonrpc\": \"2.0\",\n      \"method\": \"tools/list\"\n    }\n  },\n  \"tools\": {\n    \"get_diary_json\": {\n      \"description\": \"Return this site's /diary.json feed.\",\n      \"arguments\": {}\n    },\n    \"get_blog_json\": {\n      \"description\": \"Return this site's /blog.json feed.\",\n      \"arguments\": {}\n    },\n    \"get_agents_json\": {\n      \"description\": \"Return this site's /agents.json feed.\",\n      \"arguments\": {}\n    },\n    \"get_photo_json\": {\n      \"description\": \"Return this site's /photo.json feed.\",\n      \"arguments\": {}\n    },\n    \"search_brain_resources\": {\n      \"description\": \"Search brain.egeuysal.com/api/routes.json across paginated route pages. Returns docs with markdownUrl.\",\n      \"arguments\": {\n        \"query\": \"optional text search over title/path/sourcePath\",\n        \"routePrefix\": \"optional prefix such as resources/articles or resources/posts\",\n        \"limit\": \"optional 1-200, default 50\",\n        \"maxPages\": \"optional 1-100, default 50\"\n      }\n    },\n    \"fetch_brain_resource\": {\n      \"description\": \"Fetch markdown from brain.egeuysal.com. Accepts markdownUrl, page URL, routePath, or /resources path.\",\n      \"arguments\": {\n        \"urlOrPath\": \"for example https://brain.egeuysal.com/resources/articles/2026-03-21-133927.md\"\n      }\n    },\n    \"get_bri_notes\": {\n      \"description\": \"Fetch Bri notes from bri.fyi/api/notes.\",\n      \"arguments\": {\n        \"query\": \"optional text search over title/slug/content\",\n        \"limit\": \"optional 1-200, default 50\"\n      }\n    },\n    \"get_ibx_todos\": {\n      \"description\": \"Fetch IBX todos from ibx.egeuysal.com/api/todos.\",\n      \"arguments\": {\n        \"today\": \"optional YYYY-MM-DD, defaults to local America/Chicago date\",\n        \"status\": \"optional all/open/done, default all\",\n        \"query\": \"optional text search over title/notes\",\n        \"limit\": \"optional 1-200, default 50\"\n      }\n    }\n  }\n}\n```\n\n## Takeaway\n\nThis was a focused builder day. The main win is shipping the MCP surface so both Codex and Claude can query my real data sources from one place."
   }
 }

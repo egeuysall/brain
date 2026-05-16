@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-05-12",
+  "generatedAt": "2026-05-16",
+  "entry": {
+    "id": "2026-05-12",
+    "url": "https://egeuysal.com/diary/2026-05-12/",
+    "day": 67,
+    "date": "2026-05-12",
+    "summary": "Heavy study and systems day",
+    "image": null,
+    "tags": [
+      "study",
+      "school",
+      "exam-prep",
+      "daily"
+    ],
+    "body": "Heavy study day with a lot of school and prep pressure.\n\n## IBX snapshot for 2026-05-12\n\n- done tasks: **11**\n- open tasks due that day: **0**\n- done priority split: **3** priority-1, **8** priority-2, **0** priority-3\n- estimated effort completed: **20.5 hours**\n\n## What moved\n\n- AP CSP practice and Canvas prep blocks done\n- CP2 code and collision fixes handled\n- supporting logistics done (calculator, device/focus setup, food swap consistency)\n- product/system design notes and conversion logic work progressed\n\n## Takeaway\n\nStudy-heavy day with strong closure. High workload, but it all moved in one direction."
+  }
+}
