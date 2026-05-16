@@ -1,0 +1,24 @@
+{
+  "generated_at": "2026-05-16T14:45:42.388677+00:00",
+  "window": {
+    "min_hours": 24.0,
+    "max_hours": 720.0
+  },
+  "filters": {
+    "includeAny": [
+      "follow up",
+      "follow-up",
+      "stalled",
+      "pipeline",
+      "ghosted",
+      "no owner",
+      "next step",
+      "deal stalled",
+      "cold lead",
+      "no response"
+    ],
+    "excludeAny": []
+  },
+  "count": 0,
+  "items": []
+}
