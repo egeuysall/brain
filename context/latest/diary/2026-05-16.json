@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "kind": "ryva-knowledge-item",
+  "source": "diary",
+  "id": "2026-05-16",
+  "generatedAt": "2026-05-16",
+  "entry": {
+    "id": "2026-05-16",
+    "url": "https://egeuysal.com/diary/2026-05-16/",
+    "day": 71,
+    "date": "2026-05-16",
+    "summary": "Build + writing day",
+    "image": null,
+    "tags": [
+      "daily",
+      "build",
+      "saas",
+      "blog"
+    ],
+    "body": "Strong build day with meaningful product progress and a new post shipped.\n\n## IBX snapshot for 2026-05-16\n\n- done tasks: **3**\n- open tasks due today: **6**\n- done priority split: **3** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **9.75 hours**\n- open effort still on board: **4.5 hours**\n\n## What moved\n\n- built an app that does autonomous outreach + books meetings off calendar logic\n- built an app that behaves like me for replies with reduced wait time patterns\n- handled core school/admin support task(s)\n\n## Writing\n\nAlso wrote:\n\n- [context-in-ai](/blog/context-in-ai/)\n\n## Takeaway\n\nGood day: real build output plus writing progress, while still keeping the open queue manageable."
+  }
+}
