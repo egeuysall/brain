@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-10",
-  "generatedAt": "2026-05-21",
+  "generatedAt": "2026-06-21",
   "entry": {
     "id": "2026-05-10",
     "url": "https://egeuysal.com/diary/2026-05-10/",
@@ -11,7 +11,12 @@
     "date": "2026-05-10",
     "summary": "Study-heavy day with clean closure",
     "image": null,
-    "tags": ["study", "school", "exam-prep", "daily"],
+    "tags": [
+      "study",
+      "school",
+      "exam-prep",
+      "daily"
+    ],
     "body": "Study-heavy again, mostly focused on exam prep and school logistics.\n\n## IBX snapshot for 2026-05-10\n\n- done tasks: **5**\n- open tasks due that day: **0**\n- done priority split: **3** priority-1, **1** priority-2, **1** priority-3\n- estimated effort completed: **4.75 hours**\n\n## What moved\n\n- upcoming-test study blocks completed\n- AP CSP cumulative/exam prep handled\n- weekly progress/admin tasks closed\n- test credential and grocery support tasks done\n\n## Takeaway\n\nThis was a disciplined study-first day with full closure on the day’s queue."
   }
 }

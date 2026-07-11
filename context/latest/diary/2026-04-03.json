@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-03",
-  "generatedAt": "2026-05-21",
+  "generatedAt": "2026-06-21",
   "entry": {
     "id": "2026-04-03",
     "url": "https://egeuysal.com/diary/2026-04-03/",
@@ -11,7 +11,13 @@
     "date": "2026-04-03",
     "summary": "Heavy build day: IBX shipped, Ryva paused, clarity reset",
     "image": "https://cdn.egeuysal.com/content/2026/04/03/asset-01.png",
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today had time on paper but not in practice.\n\nNo school helped, but I was feeling off, workout ran long, and by the time I started it was already around 1 PM.\n\nI ended up using most of the day on internal tooling instead of Ryva execution.\n\n## What I shipped\n\nMain work today:\n\n- improved the Codex automation flow because it was taking too long\n- built [ibx.egeuysal.com](http://ibx.egeuysal.com), a todo/inbox engine I have wanted for a while\n- connected this as a third piece next to the brain repo and this diary system\n- open sourced IBX at [github.com/egeuysall/ibx](https://github.com/egeuysall/ibx)\n\nIBX currently uses access-token entry for my own usage. Proper auth is planned next.\n\n![IBX from CLI flow](https://cdn.egeuysal.com/content/2026/04/03/asset-01.png)\n\n## Product and PMF reality check\n\nI did not do meaningful Ryva execution today, and that is the main miss.\n\nIBX should compound over time, but it still consumed the time block that should have gone to second-run loops.\n\nSo today was useful for infrastructure, but weak for PMF movement.\n\n## Execution signal\n\nYesterday's signal still stands:\n\n- first-run outreach is not the bottleneck\n- second-run timing inside active threads is the bottleneck\n\nIf CyberMinds plus two more teams commit to next-run timing this week, that is real progress.\n\n![IBX in-app view](https://cdn.egeuysal.com/content/2026/04/03/asset-02.png)\n\n## Tomorrow focus\n\nTomorrow is not a warm-up day. It is a lock-and-execute day.\n\nCore priorities:\n\n- lock the 3 active-team loop before noon: CyberMinds, NoNu_u, zereban\n- send second-run deltas to each thread with one unresolved decision, one risk, one next action, and one binary question\n- follow up warm responders before broad posting\n- run Ryva on 3 real public repos and send only highest-leverage insight\n- keep Reddit secondary and X primary, both with decision-first forced-question replies\n- keep output format strict: decision, why now, next action plus owner\n- keep trust guardrail strict: public repos only, no private code/log asks, no token leakage in screenshots/snippets\n\n## Task list\n\n- lock the 3 active-team loop before noon and get at least 2 meaningful replies\n- follow up Arbaaz plus 2 warm responders and secure 1 same-day rerun booking\n- run Ryva on 3 public repos from warm leads and aim for 1 tester conversion call\n- do Reddit block with 5 comments and 2 DMs after public replies\n- do X block with 8 targeted replies and force one clear question in each\n- send 3 outputs with explicit owner format and collect clear/unclear feedback\n- publish 1 X and 1 LinkedIn post from real run proof with repo-link CTA\n\nMain result today: shipped useful infrastructure, but PMF work slipped. Tomorrow has to convert clarity into execution."
   }
 }

@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "the-meeting-didnt-need-happen",
-  "generatedAt": "2026-05-21",
+  "generatedAt": "2026-06-21",
   "entry": {
     "id": "the-meeting-didnt-need-happen",
     "url": "https://egeuysal.com/blog/the-meeting-didnt-need-happen/",
@@ -11,7 +11,11 @@
     "description": "We were about to schedule a meeting.",
     "publishedAt": "2026-02-28",
     "updatedAt": null,
-    "tags": ["technology", "meeting", "tutorial"],
+    "tags": [
+      "technology",
+      "meeting",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/3183197/pexels-photo-3183197.jpeg",
     "readingTime": 3,
     "body": "We were about to schedule a meeting.\n\nNothing dramatic. Just a normal sync.  \nThe kind that happens all the time.\n\nWe needed to decide whether to ship something now or wait a few days to polish it.  \nEveryone already had the context. The Slack messages were there. The commits were there. The tradeoffs were clear.\n\nAnd still, the instinct was:  \n“Let’s hop on a call.”\n\nThat moment made me pause.\n\nNot because meetings are evil.  \nBut because this one felt unnecessary.\n\n---\n\n## Why the meeting existed\n\nThe meeting wasn’t about discovering new information.\n\nIt wasn’t about brainstorming.  \nIt wasn’t about debate.\n\nIt existed to do three things:\n\n1. Reconstruct context everyone already had\n2. Make a decision\n3. Agree on next steps\n\nThat’s it.\n\nAnd once you notice that, you start seeing it everywhere.\n\nStandups.  \nLaunch syncs.  \nAlignment calls.\n\nThey’re not bad meetings.  \nThey’re just doing work that could happen without a call.\n\n---\n\n## The real job of most meetings\n\nMost meetings don’t exist to think.\n\nThey exist to gather scattered context into one place, then turn it into a decision.\n\nThe problem isn’t meetings.  \nThe problem is that context lives everywhere else.\n\nSlack threads.  \nGitHub commits.  \nDocs.  \nHalf-remembered conversations.\n\nSo we meet to reassemble it.\n\n---\n\n## What we tried instead\n\nInstead of scheduling the meeting, we tried something different.\n\nWe pulled together the existing context.  \nNot by summarizing it manually, not by rewriting it, just by collecting what already existed.\n\nThen we asked a simple question:\n\n> Is this clear enough to decide without meeting?\n\nThe output wasn’t magic.\n\nIt didn’t think for us.  \nIt didn’t remove judgment.\n\nIt just made the decision explicit and laid out the next steps clearly.\n\nAnd once that happened, the meeting stopped being necessary.\n\nSo we didn’t have it.\n\n---\n\n## What changed\n\nThe decision still got made.  \nThe next steps were still clear.  \nNothing broke.\n\nWhat disappeared was the ritual.\n\nNo calendar invite.  \nNo alignment call.  \nNo “just to be safe” meeting.\n\nAnd that’s when it clicked.\n\n---\n\n## The insight\n\nMost meetings exist because decisions are implicit.\n\nWhen decisions stay fuzzy, we meet to resolve them.  \nWhen decisions are explicit and written down, the meeting often evaporates.\n\nThe meeting isn’t the value.  \nThe decision is.\n\n---\n\n## Why I built Ryva\n\nRyva came out of noticing this pattern over and over.\n\nI didn’t want to kill meetings.  \nI wanted to stop having meetings whose only job was to make decisions explicit.\n\nRyva pulls together the context teams already have and turns it into clear decisions and next steps, saved as a record everyone can react to.\n\nSometimes, that still leads to a meeting.\n\nBut sometimes, it doesn’t.\n\nAnd when it doesn’t, that’s time you get back.\n\n---\n\n## The question I keep asking now\n\nBefore scheduling a meeting, I ask:\n\n> Is there anything here that requires us to talk live?\n\nIf the answer is no, the meeting probably doesn’t need to happen.\n\n---\n\n## One last thought\n\nThis isn’t about productivity hacks or AI replacing humans.\n\nIt’s about noticing when habit has replaced intention.\n\nThe meeting that didn’t need to happen taught me that a lot of our coordination problems aren’t problems of thinking.  \nThey’re problems of structure.\n\nAnd once structure changes, behavior follows."
