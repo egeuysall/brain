@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-16",
-  "generatedAt": "2026-06-21",
+  "generatedAt": "2026-07-11",
   "entry": {
     "id": "2026-04-16",
     "url": "https://egeuysal.com/diary/2026-04-16/",
@@ -11,7 +11,13 @@
     "date": "2026-04-16",
     "summary": "Hard day mentally, close warm threads before expanding",
     "image": null,
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today was rough mentally.\n\nI spent a lot of time thinking and not enough time executing. I am not dropping Ryva, but I need to be realistic about capacity too because school load is heavy and this is the final month.\n\nThat said, the path is still clear.\n\n## What moved today\n\n- `Run Ryva again for klayan by monday` is now marked done in IBX, so that thread should stop being treated as open carry\n- runtime snapshot was generated and confirmed yesterday’s unchecked carry in the file layer\n\nSmall wins, but important cleanup for continuity.\n\n## What is still open\n\nMain unresolved center:\n\n- `21st.dev` second-run close is still open\n- `Drive 2nd-run usage through teams` reopened again\n- active follow-up-first block is still open\n- proof + outreach-lite block is still open\n- Ryva proof post is still open\n- repo-run queue is still open for `Kernel`, `Moss`, `Notte`, `Trigger.dev`, `Signadot`, and `Inngest`\n\nSo the backlog is not fake. It is real and mostly high leverage.\n\n## Where the risk is\n\nTwo failure modes are obvious right now:\n\n- recurring duplicates in IBX make repetition feel like progress\n- diary continuity can drift from board reality if I do not reconcile done/open status daily\n\nAnd the biggest risk stays the same:\n\nIf `21st.dev` is not forced into a binary outcome, adding more repo runs only increases surface area, not depth.\n\n## Honest read on today\n\nToday was not a strong output day.\n\nBut the thinking was still useful because it clarified one thing:\n\nI need to stop evaluating days by effort or stress and evaluate them by conversion events.\n\nNo binary answer in-thread, no rerun time, no compounding.\n\n## Next execution order\n\nTomorrow has to be strict:\n\n- close `21st.dev` with a binary question and explicit rerun time or explicit no\n- close all active replied warm threads before any new cold outreach\n- ship `Kernel`, `Moss`, and `Notte` gap messages with concrete next-check trigger\n- publish one anonymized proof artifact from the sharpest open gap\n\nIf I do those in order, the week stays alive.\n\nIf I skip that order, I will just create more motion and less leverage again."
   }
 }
