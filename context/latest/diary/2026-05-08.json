@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-08",
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-12",
   "entry": {
     "id": "2026-05-08",
     "url": "https://egeuysal.com/diary/2026-05-08/",
@@ -11,7 +11,12 @@
     "date": "2026-05-08",
     "summary": "Study first, weekend starts",
     "image": null,
-    "tags": ["study", "school", "weekend", "daily"],
+    "tags": [
+      "study",
+      "school",
+      "weekend",
+      "daily"
+    ],
     "body": "Still a study-heavy day, but weekend finally starts, which means I can begin something new once the core prep blocks are handled.\n\n## IBX snapshot for 2026-05-08\n\n- done tasks: **1**\n- open tasks due today: **15**\n- done priority split: **1** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **1.5 hours**\n- open effort still on board: **17 hours**\n\n## What moved\n\n- completed a Spanish test practice block\n- kept school-first focus with the rest of the queue still open\n\n## Takeaway\n\nPressure is still real, but this is the first weekend window in a while where I can start something once study blocks are done."
   }
 }

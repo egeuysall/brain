@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-25",
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-12",
   "entry": {
     "id": "2026-04-25",
     "url": "https://egeuysal.com/diary/2026-04-25/",
@@ -11,7 +11,13 @@
     "date": "2026-04-25",
     "summary": "Project day and best shoot yet",
     "image": "https://cdn.egeuysal.com/content/2026/04/26/asset-01.png",
-    "tags": ["project", "bri", "photography", "execution", "daily"],
+    "tags": [
+      "project",
+      "bri",
+      "photography",
+      "execution",
+      "daily"
+    ],
     "body": "Today turned into a full project + city day.\n\n## IBX parsed snapshot for 2026-04-25\n\nPulled from IBX CLI:\n\n- done tasks: **7**\n- open tasks due that day: **0**\n- done priority split: **6** priority-1, **1** priority-2, **0** priority-3\n- estimated effort completed: **7.75 hours**\n\n## What actually happened\n\nMain day storyline:\n\n- Omer returned and we had a Google Meet with the full team\n- I worked on the project but still felt unclear on where to start with the new app\n- I defaulted into tooling and modernized the `bri` CLI\n- we did the downtown shoot, and this was the best photoshoot of my life\n- after the shoot, I edited all selected photos\n- I still read some of my English book\n\nIBX tasks marked done line up with this:\n\n- Omer meet today at 2:30\n- Edit all photos from the photoshoot\n- Photoshoot prep: review photography guidelines\n- plus diary/progress/admin items\n\n## /photo outcome\n\nChecked the `photo` collection: **19** photos are now published with `publishedAt: 2026-04-25`, matching the “200 shot / 19 published” cut.\n\nThis is exactly the kind of output day I wanted from the downtown run: high volume capture, strict filtering, then clean publish.\n\n## Bridge notes context\n\nPulled from Bri notes and used as project direction context:\n\n- [fitness-app-idea](https://bri.egeuysal.com/egeuysall/fitness-app-idea)\n- [build-something](https://bri.egeuysal.com/egeuysall/build-something)\n- [fitness-idea-validation-summary](https://bri.egeuysal.com/egeuysall/fitness-idea-validation-summary)\n\n## Takeaway\n\nI didn’t have perfect clarity on the new app yet, but I still converted the day into concrete output:\nmeetings handled, CLI modernized, best shoot of my life, edited and published work, and reading kept in the routine."
   }
 }

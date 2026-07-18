@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-29",
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-12",
   "entry": {
     "id": "2026-05-29",
     "url": "https://egeuysal.com/diary/2026-05-29/",
@@ -11,7 +11,13 @@
     "date": "2026-05-29",
     "summary": "Context over model size",
     "image": null,
-    "tags": ["daily", "blog", "ai", "products", "building"],
+    "tags": [
+      "daily",
+      "blog",
+      "ai",
+      "products",
+      "building"
+    ],
     "body": "Today was mostly about writing and product thinking clarity.\n\n## IBX snapshot for 2026-05-29\n\n- done tasks: **5**\n- open tasks due today: **8**\n- done priority split: **1** priority-1, **4** priority-2, **0** priority-3\n- estimated effort completed: **2.25 hours**\n- open effort still on board: **7.5 hours**\n\n## What shipped\n\n- wrote [static-content-and-ai](/blog/static-content-and-ai/)\n\n## Key insight from the post\n\nThe strongest point from today’s writing:\n\n- AI is not the product, AI is infrastructure\n- the core bottleneck is context selection, not raw model intelligence\n- constrained context with good boundaries often beats “just add more context”\n- content is shifting from static navigation to conversational exploration\n- the goal is not to bolt on a chatbot, but to make existing content queryable with grounded context\n- the value is in context routing and scope control, not generic model output\n\nThat maps directly to what I built on bri and this site: keep content as the product, and add an intelligent interface layer on top.\n\n## Takeaway\n\nToday clarified strategy more than execution volume. Better context architecture and tighter scope feels like the real compounding path."
   }
 }

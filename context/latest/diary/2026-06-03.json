@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-06-03",
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-12",
   "entry": {
     "id": "2026-06-03",
     "url": "https://egeuysal.com/diary/2026-06-03/",
@@ -11,7 +11,12 @@
     "date": "2026-06-03",
     "summary": "Routine inside summer school",
     "image": null,
-    "tags": ["daily", "school", "routine", "recovery"],
+    "tags": [
+      "daily",
+      "school",
+      "routine",
+      "recovery"
+    ],
     "body": "Today was mostly routine inside the new summer school schedule.\n\n## IBX snapshot for 2026-06-03\n\n- done tasks: **6**\n- open tasks due today: **2**\n- done priority split: **0** priority-1, **4** priority-2, **2** priority-3\n- estimated effort completed: **3.25 hours**\n- open effort still on board: **1.5 hours**\n\n## What moved\n\n- breakfast prep, omega-3, and hydration done\n- light biking done\n- diary work handled\n- still had sleep and dental monitoring left open\n\n## Context\n\nI still cook and keep some smaller routines going, but summer school is taking a lot of the day now.\nThere is not much time left outside it, so the focus is staying consistent instead of forcing huge output.\n\n## Takeaway\n\nThe pace is lower because the schedule is heavier. Keep the basics alive and use any open blocks carefully."
   }
 }

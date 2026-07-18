@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-07",
-  "generatedAt": "2026-07-11",
+  "generatedAt": "2026-07-12",
   "entry": {
     "id": "2026-05-07",
     "url": "https://egeuysal.com/diary/2026-05-07/",
@@ -11,7 +11,12 @@
     "date": "2026-05-07",
     "summary": "Study-heavy weekday push",
     "image": null,
-    "tags": ["study", "school", "exam-prep", "daily"],
+    "tags": [
+      "study",
+      "school",
+      "exam-prep",
+      "daily"
+    ],
     "body": "Today was study-heavy again, mostly focused on last-days-of-school prep.\n\n## IBX snapshot for 2026-05-07\n\n- done tasks: **4**\n- open tasks due that day: **0**\n- done priority split: **2** priority-1, **1** priority-2, **1** priority-3\n- estimated effort completed: **3.75 hours**\n\n## What moved\n\n- Spanish interpersonal prep blocks\n- AP CSP prep continued\n- teacher follow-up/admin items done\n- sleep routine task handled\n\n## Takeaway\n\nNo extra room for random work right now. This day was about staying consistent and finishing school tasks cleanly."
   }
 }
