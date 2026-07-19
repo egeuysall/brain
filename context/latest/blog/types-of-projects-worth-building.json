@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "blog",
   "id": "types-of-projects-worth-building",
-  "generatedAt": "2026-07-12",
+  "generatedAt": "2026-07-18",
   "entry": {
     "id": "types-of-projects-worth-building",
     "url": "https://egeuysal.com/blog/types-of-projects-worth-building/",
@@ -11,7 +11,11 @@
     "description": "I've started and abandoned more projects than I can count. Some taught me valuable lessons, others were complete wastes of time. After building everything...",
     "publishedAt": "2025-12-08",
     "updatedAt": null,
-    "tags": ["technology", "projects", "tutorial"],
+    "tags": [
+      "technology",
+      "projects",
+      "tutorial"
+    ],
     "image": "https://images.pexels.com/photos/271667/pexels-photo-271667.jpeg",
     "readingTime": 3,
     "body": "I've started and abandoned more projects than I can count. Some taught me valuable lessons, others were complete wastes of time. After building everything from photography tools to productivity systems, I've realized that the projects worth your time fall into three categories.\n\n### 1. Scratch Your Own Itch\n\nBuild something you actually need. Not something you think would be cool, not something that sounds impressive, but something that solves a problem you're actively experiencing right now.\n\nI had a messy system for organizing my projects. Files everywhere, no clear structure, constant context switching. It was slowing me down daily. That frustration led me to build Ryva, a SaaS for project organization. I'm my own first user, which means I know exactly what needs to exist and what's just feature bloat.\n\nWhen you build for yourself, you have instant feedback. You know if it's working because you're using it every single day. You're not guessing what users want because you are the user.\n\n### 2. Believe Others Have the Same Problem\n\nYour problem isn't unique. If you're frustrated by something, chances are dozens or hundreds of other people are too. The key is validating that your specific itch is shared before you spend months building.\n\nThis is where most side projects die. Someone builds a todo app because they \"need\" one, ignoring that there are already thousands of solutions. The problem isn't that todo apps exist, it's that there's no vision, no unique angle, no reason for it to exist beyond practice.\n\nAsk yourself: is this problem specific enough that existing solutions don't work, but general enough that other people care? If you can't answer that clearly, you're probably building for an audience of one.\n\n### 3. Iterate Quickly and Market as You Build\n\nBuild in public. Share progress. Get feedback early. The worst thing you can do is spend six months perfecting something in silence, only to launch to crickets.\n\nI've seen too many builders treat marketing as an afterthought. They think: \"I'll build it first, then figure out how to get users.\" That's backwards. You should be talking about what you're building from day one. Share your process, your struggles, your small wins. Build an audience while you build the product.\n\nMarketing isn't just promotion, it's validation. If nobody cares about your Twitter threads about the problem you're solving, they won't care about your solution either. Iterate fast, ship often, and listen to the people who actually show up.\n\n### What This Means in Practice\n\nNot every project needs to check all three boxes, but the best ones do. When you're solving your own problem, you know others share it, and you're building momentum publicly, you're setting yourself up for something real.\n\nSkip the projects that are \"already done\" unless you have a genuinely different take. Skip the ideas that sound impressive but solve nothing. And definitely skip anything you're not excited to work on for the next few months.\n\nYour time is limited. Build things that matter to you, matter to others, and that you're willing to talk about before they're perfect.\n\nThat's it. Three types. Everything else is just practice or procrastination."

@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-23",
-  "generatedAt": "2026-07-12",
+  "generatedAt": "2026-07-18",
   "entry": {
     "id": "2026-05-23",
     "url": "https://egeuysal.com/diary/2026-05-23/",
@@ -11,7 +11,13 @@
     "date": "2026-05-23",
     "summary": "Google I/O hackathon day 1. The city felt unreal.",
     "image": null,
-    "tags": ["daily", "san-francisco", "hackathon", "google-io", "building"],
+    "tags": [
+      "daily",
+      "san-francisco",
+      "hackathon",
+      "google-io",
+      "building"
+    ],
     "body": "First full day in San Francisco. The Google I/O hackathon kicked off and I spent the entire day building [Talon](https://github.com/egeuysall/talon), an autonomous agent system with contextual memory. The environment was intimidating at first — everyone around me had PhDs, millions raised, years of experience. But as the day went on I realized most of these people weren't operating on some unreachable level. The difference was consistency and time spent building, not raw genius.\n\nNo time for ibx tracking. The entire focus was on building and absorbing the atmosphere. Waymos everywhere. Anthropic a minute away. Vercel billboards. Startup logos that only existed on my feed suddenly became physical objects surrounding me.\n\n## IBX snapshot for 2026-05-23\n\n- done tasks: **0**\n- open tasks due today: **0**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **0 hours**\n\n## What moved\n\n- built Talon at Google I/O hackathon\n- explored SF: saw Waymos everywhere, AI labs, startup infrastructure\n- realized the future is constructed by normal people inside ordinary buildings\n\n## Takeaway\n\nThe first day in SF already collapsed the distinction between the internet version of the city and the real one. Ambition here is physical."
   }
 }

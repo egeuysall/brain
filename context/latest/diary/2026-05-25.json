@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-25",
-  "generatedAt": "2026-07-12",
+  "generatedAt": "2026-07-18",
   "entry": {
     "id": "2026-05-25",
     "url": "https://egeuysal.com/diary/2026-05-25/",
@@ -11,7 +11,12 @@
     "date": "2026-05-25",
     "summary": "Flew back from SF. Everything shifted.",
     "image": null,
-    "tags": ["daily", "travel", "san-francisco", "reflection"],
+    "tags": [
+      "daily",
+      "travel",
+      "san-francisco",
+      "reflection"
+    ],
     "body": "Flew back from San Francisco Monday night. The trip fundamentally changed something. The future no longer feels abstract or intellectual. It feels like something I am supposed to help build.\n\nThe city left me with a contradiction I am still processing: half of it is the most ambitious place on Earth, and the other half is deeply broken. That dissonance mirrors technology itself right now — extraordinary unlock potential paired with instability and fragmentation we do not understand yet.\n\nNo ibx tracking on the travel day. Just processing.\n\n## IBX snapshot for 2026-05-25\n\n- done tasks: **0**\n- open tasks due today: **0**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **0 hours**\n\n## What moved\n\n- flew back from SF\n- processed the trip mentally\n- realized the founder path stopped feeling theoretical\n\n## Takeaway\n\nReturned knowing with certainty: once you physically touch the future, it is very hard to convince yourself afterward that you are not supposed to help build it too."
   }
 }

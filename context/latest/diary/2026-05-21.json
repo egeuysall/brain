@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-21",
-  "generatedAt": "2026-07-12",
+  "generatedAt": "2026-07-18",
   "entry": {
     "id": "2026-05-21",
     "url": "https://egeuysal.com/diary/2026-05-21/",
@@ -11,7 +11,13 @@
     "date": "2026-05-21",
     "summary": "Last school day before SF. Locked in, closed everything.",
     "image": null,
-    "tags": ["daily", "school", "hackathon", "prep", "build"],
+    "tags": [
+      "daily",
+      "school",
+      "hackathon",
+      "prep",
+      "build"
+    ],
     "body": "Last full school day before the SF trip. Everything was about closing open loops so I could leave without baggage.\n\n## IBX snapshot for 2026-05-21\n\n- done tasks: **7**\n- open tasks due today: **0**\n- done priority split: **2** priority-1, **4** priority-2, **1** priority-3\n- estimated effort completed: **4 hours**\n- open effort still on board: **0 hours**\n\n## What moved\n\n- hackathon idea exploration: AI agent CLI / Vercel Chat SDK direction\n- Silway planning and build tasks progressed\n- workout completed (reverse pec deck, incline skull crushers, incline smith press)\n- dental monitoring scan done\n- weight check logged\n- routine consistency held up\n\n## Takeaway\n\nEvery loop closed before the trip. No loose ends. That is exactly how you leave for something big."
   }
 }
