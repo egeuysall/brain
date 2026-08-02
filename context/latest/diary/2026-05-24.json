@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-24",
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-01",
   "entry": {
     "id": "2026-05-24",
     "url": "https://egeuysal.com/diary/2026-05-24/",
@@ -11,7 +11,13 @@
     "date": "2026-05-24",
     "summary": "Stanford, Apple Park, Alcatraz, and the divide",
     "image": null,
-    "tags": ["daily", "san-francisco", "hackathon", "stanford", "building"],
+    "tags": [
+      "daily",
+      "san-francisco",
+      "hackathon",
+      "stanford",
+      "building"
+    ],
     "body": "Day two. More Google I/O building during the day. In between, I visited Stanford, Apple Park, and Alcatraz.\n\nStanford hit hardest emotionally. It felt familiar in a way I cannot explain — like my brain had already built a version of myself existing there before I ever arrived. Not envy. Obsession mixed with belonging.\n\nApple Park affected me differently. Standing there forced me to realize I could actually build something large enough to exist physically one day too.\n\nThe night walk through downtown showed the other side. The contrast between AI startup billboards and fentanyl devastation blocks apart is something the internet version of SF never communicates honestly. The city feels simultaneously inspiring and broken.\n\n## IBX snapshot for 2026-05-24\n\n- done tasks: **0**\n- open tasks due today: **0**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **0 hours**\n\n## What moved\n\n- continued building Talon at Google I/O\n- visited Stanford — felt emotionally recognizable\n- saw Apple Park — ambition became physical\n- Alcatraz — weird digital nostalgia from Call of Duty Mobile\n- downtown SF at night — confronted the real divide\n\n## Takeaway\n\nThe best day of the trip so far. Stanford cemented a certainty I could not shake afterward."
   }
 }

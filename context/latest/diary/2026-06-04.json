@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-06-04",
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-01",
   "entry": {
     "id": "2026-06-04",
     "url": "https://egeuysal.com/diary/2026-06-04/",
@@ -11,7 +11,11 @@
     "date": "2026-06-04",
     "summary": "A quiet summer school day",
     "image": null,
-    "tags": ["daily", "school", "routine"],
+    "tags": [
+      "daily",
+      "school",
+      "routine"
+    ],
     "body": "Today was quiet and mostly taken up by summer school.\n\n## IBX snapshot for 2026-06-04\n\n- done tasks: **0**\n- open tasks due that day: **0**\n- estimated effort completed: **0 hours**\n\n## What moved\n\nNo real task log for the day. It was one of those days where the schedule still happened, but there was not much extra room to turn it into a build day.\n\n## Context\n\nSummer school is still taking a lot of time and energy.\nI am trying to keep the basics stable instead of forcing output when there is no space for it.\n\n## Takeaway\n\nNot every day needs to be a shipping day. The important thing is not letting the routine fall apart while school takes the front seat."
   }
 }

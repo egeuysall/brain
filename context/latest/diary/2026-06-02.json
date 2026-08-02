@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-06-02",
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-01",
   "entry": {
     "id": "2026-06-02",
     "url": "https://egeuysal.com/diary/2026-06-02/",
@@ -11,7 +11,12 @@
     "date": "2026-06-02",
     "summary": "Summer school is taking over",
     "image": null,
-    "tags": ["daily", "school", "routine", "ryva"],
+    "tags": [
+      "daily",
+      "school",
+      "routine",
+      "ryva"
+    ],
     "body": "Summer school is starting to take over the day.\n\n## IBX snapshot for 2026-06-02\n\n- done tasks: **10**\n- open tasks due that day: **0**\n- done priority split: **3** priority-1, **6** priority-2, **1** priority-3\n- estimated effort completed: **6.5 hours**\n\n## What moved\n\n- weekly check-ins and progress forms handled\n- Ryva and old-DM follow-up tasks got attention\n- FMSC volunteering options checked\n- hydration, omega-3, breakfast prep, and light biking stayed in routine\n\n## Context\n\nThere is not much time left for deep building right now because summer school is taking real hours.\nI am still cooking and doing smaller routine things, but the available creative space is smaller.\n\n## Takeaway\n\nThis was a maintenance and school-pressure day. Keep the system alive until there is more time again."
   }
 }

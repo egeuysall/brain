@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-17",
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-01",
   "entry": {
     "id": "2026-05-17",
     "url": "https://egeuysal.com/diary/2026-05-17/",
@@ -11,7 +11,12 @@
     "date": "2026-05-17",
     "summary": "Reset and planning day",
     "image": null,
-    "tags": ["daily", "planning", "school", "saas"],
+    "tags": [
+      "daily",
+      "planning",
+      "school",
+      "saas"
+    ],
     "body": "Today felt more like a reset and planning day than a shipping day.\n\n## IBX snapshot for 2026-05-17\n\n- done tasks: **0**\n- open tasks due today: **8**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **5.75 hours**\n\n## Current focus queue\n\n- pick the SaaS idea/problem to commit to\n- close weekly school/admin tasks\n- keep routine consistency (sleep, nutrition, recovery)\n\n## Takeaway\n\nNo major outputs logged yet, but priorities are clear. The goal is to convert this planning/reset day into clean execution next."
   }
 }

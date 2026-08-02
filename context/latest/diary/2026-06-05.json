@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-06-05",
-  "generatedAt": "2026-07-18",
+  "generatedAt": "2026-08-01",
   "entry": {
     "id": "2026-06-05",
     "url": "https://egeuysal.com/diary/2026-06-05/",
@@ -11,7 +11,11 @@
     "date": "2026-06-05",
     "summary": "Still in the school block",
     "image": null,
-    "tags": ["daily", "school", "routine"],
+    "tags": [
+      "daily",
+      "school",
+      "routine"
+    ],
     "body": "Another light day inside the summer school block.\n\n## IBX snapshot for 2026-06-05\n\n- done tasks: **0**\n- open tasks due that day: **0**\n- estimated effort completed: **0 hours**\n\n## What moved\n\nThere was not much logged in IBX today, which mostly matches how the day felt.\nSchool took the main space and the rest was just getting through the day.\n\n## Context\n\nI still want to build, but the time is not fully mine right now.\nThe pattern is pretty simple: get through school, keep the routine alive, and be ready when the weekend gives me more room.\n\n## Takeaway\n\nThis was another holding-pattern day. Nothing dramatic, just staying in motion until I can get a bigger uninterrupted block again."
   }
 }
