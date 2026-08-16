@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-26",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-04-26",
     "url": "https://egeuysal.com/diary/2026-04-26/",
@@ -11,7 +11,13 @@
     "date": "2026-04-26",
     "summary": "Light day, steady momentum",
     "image": "https://cdn.egeuysal.com/content/2026/04/26/asset-01.png",
-    "tags": ["blog", "photography", "ibx", "focus", "daily"],
+    "tags": [
+      "blog",
+      "photography",
+      "ibx",
+      "focus",
+      "daily"
+    ],
     "body": "Today was a lighter day, but still productive across different projects.\n\n## IBX parsed snapshot for 2026-04-26\n\nPulled from IBX CLI (`today` view + `td`):\n\n- done tasks today: **0**\n- open tasks due today: **3**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **2 hours**\n\n## Shipped today\n\n- wrote [I Shot 200 Frames. I Published 19.](/blog/i-shot-200-frames-i-published-19/) on **April 26, 2026**\n- moved work forward across multiple projects\n- had a good gym session\n\nThe blog post documents the downtown shoot process and the 200-to-19 selection filter.\n\n## Focus note\n\nThese are the last couple weeks of the cut, so the main goal is consistency:\ntraining, nutrition, and steady execution without overcomplicating the day.\n\n## Takeaway\n\nLight day, still a good one.\nProgress happened across projects, training stayed on track, and the priority now is staying consistent until the cut closes."
   }
 }

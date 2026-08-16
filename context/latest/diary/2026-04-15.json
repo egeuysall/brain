@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-15",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-04-15",
     "url": "https://egeuysal.com/diary/2026-04-15/",
@@ -11,7 +11,13 @@
     "date": "2026-04-15",
     "summary": "Some execution moved, but second-run anchors",
     "image": null,
-    "tags": ["ryva", "outreach", "pmf", "execution", "daily"],
+    "tags": [
+      "ryva",
+      "outreach",
+      "pmf",
+      "execution",
+      "daily"
+    ],
     "body": "Today was mixed.\n\nSome meaningful things got done, but the main conversion gap is still not fully closed.\n\n## What moved today\n\nThese were real completions, not filler:\n\n- fixed Codex automations for thread search and capturing CTO/eng-manager pain signals\n- completed the proof + outreach-lite block\n- sent the George Rios follow-up\n\nSo execution did move. It was not a dead day.\n\n## What is still unresolved\n\nThe highest-leverage threads still need hard closure:\n\n- `21st.dev` second-run follow-up is still open\n- `Klayan` rerun was still open in this day’s board state\n- `Drive 2nd-run usage through teams` continues as open carry\n- `Kernel`, `Moss`, and `Notte` repo runs were still planned but not fully converted into shipped deltas\n\nThis is the same pattern again: activity exists, but next-run certainty is still weak.\n\n## Why this is risky\n\nThere are duplicate recurring IBX items where one copy is done and another stays open. That makes false progress easy to tell myself.\n\nAlso, runtime carry from files is weak when entries are not task-checkbox based, so board truth can drift from diary truth.\n\nMost importantly, warm follow-ups are still not consistently locked before adding new repo-run surface area.\n\n## Real score for the day\n\nThe diagnosis from yesterday still holds:\n\nThe bottleneck is not ideas, not tooling, not content volume. It is converting proof into scheduled second runs.\n\nIf I ship runs but do not lock binary outcomes and next-run timestamps in-thread, I am creating motion without compounding.\n\n## Next execution rule\n\nThe rule is strict:\n\n- close `21st.dev` and `Klayan` into explicit next-run status first\n- ship `Kernel`, `Moss`, and `Notte` one-line gap messages second\n- publish one proof artifact from the sharpest repo gap third\n\nNo extra broad outreach before those anchors are set.\n\nThat is what makes tomorrow count as real progress instead of another “busy but unclear” day."
   }
 }

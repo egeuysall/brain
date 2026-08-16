@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-05",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-05-05",
     "url": "https://egeuysal.com/diary/2026-05-05/",
@@ -11,7 +11,12 @@
     "date": "2026-05-05",
     "summary": "Another heavy study day",
     "image": null,
-    "tags": ["school", "study", "exam-prep", "daily"],
+    "tags": [
+      "school",
+      "study",
+      "exam-prep",
+      "daily"
+    ],
     "body": "Same story as yesterday: heavy studying because the school year is almost over.\n\n## IBX parsed snapshot for 2026-05-05\n\nPulled from IBX CLI:\n\n- done tasks: **0**\n- open tasks due today: **2**\n- done priority split: **0** priority-1, **0** priority-2, **0** priority-3\n- estimated effort completed: **0 hours**\n- open effort still on board: **0.75 hours**\n\nRemaining open tasks were lightweight but still necessary:\n\n- run dental monitoring scan\n- handle monthly money follow-up\n\n## Takeaway\n\nNo room for distractions right now. Final stretch mode is active, and school prep is the priority."
   }
 }

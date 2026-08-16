@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-17",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-04-17",
     "url": "https://egeuysal.com/diary/2026-04-17/",
@@ -11,7 +11,12 @@
     "date": "2026-04-17",
     "summary": "Kept the loop alive, but focus narrowed",
     "image": "https://cdn.egeuysal.com/content/2026/04/17/asset-01.png",
-    "tags": ["ibx", "execution", "product", "daily"],
+    "tags": [
+      "ibx",
+      "execution",
+      "product",
+      "daily"
+    ],
     "body": "Today was not a broad-output day.\n\nIt felt more like consolidation than expansion.\n\n![\"April 17 proof card\"](https://cdn.egeuysal.com/content/2026/04/17/asset-01.png)\n\nThe visible work center shifted toward IBX product hardening: sign-in flow, CLI reliability, sidebar cleanup, and the idea of a read-only public view on `www`.\n\nThose are real tasks and they matter, but they are also the kind of tasks that can quietly consume a day without changing the main scoreboard.\n\n## What is true today\n\n- the diary loop stayed alive\n- current board pressure is more product-heavy than outbound-heavy\n- school load and recovery tasks are still shaping how much clean execution I can get in one day\n\n## Where the risk is\n\nYesterday's entry closed with six unresolved execution items and no checked boxes in the file layer.\n\nThat matters because continuity can look intact while leverage stays flat.\n\nThe main risk is still the same:\n\nIf I keep cleaning surfaces before forcing the sharpest thread into a binary outcome, I create motion but not compounding.\n\n## What today clarified\n\nIBX is becoming a serious product thread, not just a side utility. The open tasks are specific enough to matter:\n\n- improve sign-in flow\n- harden CLI reliability\n- clean up sidebar and navigation\n- build a read-only IBX page on `www`\n\nThat is a coherent direction.\n\nBut direction alone is not enough. I need to be careful not to let product cleanup become a socially acceptable way to avoid harder closure on the highest-signal work.\n\n## Rule for tomorrow\n\nTomorrow should stay simple:\n\n- close the sharpest open thread before adding more surface area\n- ship one concrete IBX improvement that changes usability, not just polish\n- keep the diary and evidence trail updated so the file layer matches reality\n\nToday was narrower than I wanted, but not empty.\n\nKeeping the loop alive still counts, as long as tomorrow turns that continuity into leverage."
   }
 }

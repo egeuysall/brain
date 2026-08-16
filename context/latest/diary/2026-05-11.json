@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-11",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-05-11",
     "url": "https://egeuysal.com/diary/2026-05-11/",
@@ -11,7 +11,12 @@
     "date": "2026-05-11",
     "summary": "Study-heavy with carry-over",
     "image": null,
-    "tags": ["study", "school", "exam-prep", "daily"],
+    "tags": [
+      "study",
+      "school",
+      "exam-prep",
+      "daily"
+    ],
     "body": "Another study-heavy day.\n\n## IBX snapshot for 2026-05-11\n\n- done tasks: **4**\n- open tasks due today: **9**\n- done priority split: **2** priority-1, **2** priority-2, **0** priority-3\n- estimated effort completed: **4 hours**\n- open effort still on board: **9 hours**\n\n## What moved\n\n- math formative prep progressed\n- CP2 game work shipped (collision + health + HUD)\n- workout/conditioning block completed\n- Silway meeting handled\n\n## Takeaway\n\nStill in heavy study mode. Progress is real, but the queue is still dense and needs another focused pass."
   }
 }

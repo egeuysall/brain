@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-13",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-05-13",
     "url": "https://egeuysal.com/diary/2026-05-13/",
@@ -11,7 +11,12 @@
     "date": "2026-05-13",
     "summary": "Study-heavy with school admin tasks",
     "image": null,
-    "tags": ["study", "school", "exam-prep", "daily"],
+    "tags": [
+      "study",
+      "school",
+      "exam-prep",
+      "daily"
+    ],
     "body": "Still study-heavy, mostly focused on school execution and quick fixes.\n\n## IBX snapshot for 2026-05-13\n\n- done tasks: **5**\n- open tasks due that day: **0**\n- done priority split: **2** priority-1, **2** priority-2, **1** priority-3\n- estimated effort completed: **1.75 hours**\n\n## What moved\n\n- CP2 obstacle collision logic fixed and pushed\n- dental monitoring handled\n- core school/admin follow-ups completed\n- nutrition consistency task maintained\n\n## Takeaway\n\nNot the biggest output day, but still clean progress in a heavy school phase."
   }
 }

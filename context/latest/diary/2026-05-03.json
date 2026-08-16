@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-03",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-05-03",
     "url": "https://egeuysal.com/diary/2026-05-03/",
@@ -11,7 +11,13 @@
     "date": "2026-05-03",
     "summary": "Meetings, integration, and study",
     "image": null,
-    "tags": ["silway", "integration", "meetings", "study", "daily"],
+    "tags": [
+      "silway",
+      "integration",
+      "meetings",
+      "study",
+      "daily"
+    ],
     "body": "Today was a mixed execution day with meetings, integration work, and school prep.\n\n## IBX parsed snapshot for 2026-05-03\n\nPulled from IBX CLI:\n\n- done tasks: **13**\n- open tasks due today: **8**\n- done priority split: **8** priority-1, **4** priority-2, **1** priority-3\n- estimated effort completed: **15.25 hours**\n- open effort still on board: **5 hours**\n\n## What moved\n\nMain outcomes:\n\n- Omer is back\n- shipped Slack integration for Silway with Omer\n- pushed meeting-heavy coordination work across active projects\n\nSecondary completed work from IBX:\n\n- Ryva demo prep and evidence work\n- AP CSP prep blocks\n- blog and progress tasks\n\n## School context\n\nThe rest is heavy studying because school is in the final stretch.\n\n## Takeaway\n\nHigh activity day with real collaboration and shipped integration. Even with meetings taking time, execution stayed strong and study momentum stayed in place."
   }
 }

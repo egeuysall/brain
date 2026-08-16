@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-20",
-  "generatedAt": "2026-08-01",
+  "generatedAt": "2026-08-15",
   "entry": {
     "id": "2026-05-20",
     "url": "https://egeuysal.com/diary/2026-05-20/",
@@ -11,7 +11,13 @@
     "date": "2026-05-20",
     "summary": "SF hackathon trip is locked",
     "image": null,
-    "tags": ["daily", "hackathon", "travel", "school", "build"],
+    "tags": [
+      "daily",
+      "hackathon",
+      "travel",
+      "school",
+      "build"
+    ],
     "body": "Big highlight today: I got accepted into the Google I/O hackathon and I’m going to San Francisco this weekend.\n\n## IBX snapshot for 2026-05-20\n\n- done tasks: **3**\n- open tasks due today: **8**\n- done priority split: **2** priority-1, **1** priority-2, **0** priority-3\n- estimated effort completed: **3 hours**\n- open effort still on board: **6.5 hours**\n\n## What moved\n\n- school prep/interpersonal-writing tasks progressed\n- Silway planning + build tasks moved\n- fitness/training routine tasks were still in focus\n\n## San Francisco plan\n\nThis trip is more than just the hackathon:\n\n- Google I/O hackathon\n- seeing San Francisco spots like Golden Gate\n- school visits, especially UC Berkeley and Stanford\n\n## Takeaway\n\nToday set up a high-signal weekend. The opportunity is real, and now it is execution time."
   }
 }
