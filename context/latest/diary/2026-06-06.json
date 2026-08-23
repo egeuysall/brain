@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-06-06",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-06-06",
     "url": "https://egeuysal.com/diary/2026-06-06/",
@@ -11,7 +11,12 @@
     "date": "2026-06-06",
     "summary": "Routine weekend reset",
     "image": null,
-    "tags": ["daily", "routine", "school", "health"],
+    "tags": [
+      "daily",
+      "routine",
+      "school",
+      "health"
+    ],
     "body": "Today was more of a weekend reset than a deep work day.\n\n## IBX snapshot for 2026-06-06\n\n- done tasks: **6**\n- open tasks due that day: **0**\n- done priority split: **0** priority-1, **5** priority-2, **1** priority-3\n- estimated effort completed: **2.5 hours**\n\n## What moved\n\n- checked Congressional App Challenge registration\n- bought crunchy almond butter\n- omega-3, hydration, and breakfast prep stayed handled\n- got a light bike ride in for fun\n\n## Context\n\nThe main thing was keeping the baseline clean after a school-heavy week.\nNothing huge shipped, but the day still had the small pieces that make the next day easier.\n\n## Takeaway\n\nA simple reset day. Handle the basics, keep the body moving, and make the next build block less messy."
   }
 }

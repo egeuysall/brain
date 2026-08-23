@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-06",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-05-06",
     "url": "https://egeuysal.com/diary/2026-05-06/",
@@ -11,7 +11,13 @@
     "date": "2026-05-06",
     "summary": "Lighter study day",
     "image": "https://cdn.egeuysal.com/content/2026/05/06/asset-01.png",
-    "tags": ["study", "blog", "bri", "school", "daily"],
+    "tags": [
+      "study",
+      "blog",
+      "bri",
+      "school",
+      "daily"
+    ],
     "body": "Mainly a study day again, but lighter now that the main tests are mostly behind me.\n\n## What I did today\n\n- Studied heavily for AP CSP and Spanish.\n- Finished multiple school prep items and review blocks.\n- Wrote and published [Subagents in Codex: Planning vs Execution](/blog/subagents-in-codex-planning-vs-execution).\n- Added math blocks to Bri because I needed them.\n- Shipped IBX work around command center flow and keyboard/accessibility behavior.\n\n## Pace\n\nI still have open items, but the day was productive overall with a lot of meaningful work completed.\n\nThis phase is still study-first, just less panic-heavy than before.\n\n## Takeaway\n\nKeep the same structure: study first, ship one useful thing, improve tooling only where it directly helps."
   }
 }

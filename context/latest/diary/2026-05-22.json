@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-22",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-05-22",
     "url": "https://egeuysal.com/diary/2026-05-22/",
@@ -11,7 +11,12 @@
     "date": "2026-05-22",
     "summary": "Flew to San Francisco. The trip finally started.",
     "image": null,
-    "tags": ["daily", "travel", "san-francisco", "hackathon"],
+    "tags": [
+      "daily",
+      "travel",
+      "san-francisco",
+      "hackathon"
+    ],
     "body": "Travel day. Got everything packed, made the 6:20 PM flight, and touched down in SF. The internet city I had consumed for years was about to become physical.\n\n## IBX snapshot for 2026-05-22\n\n- done tasks: **2**\n- open tasks due today: **0**\n- done priority split: **0** priority-1, **2** priority-2, **0** priority-3\n- estimated effort completed: **1.75 hours**\n- open effort still on board: **0 hours**\n\n## What moved\n\n- prepped and packed for the trip\n- Silway quick check before leaving\n- everything else was travel itself\n\n## Takeaway\n\nBoarded the plane with no open tasks. That never happens. The trip starts clean."
   }
 }

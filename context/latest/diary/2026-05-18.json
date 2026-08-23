@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-18",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-05-18",
     "url": "https://egeuysal.com/diary/2026-05-18/",
@@ -11,7 +11,12 @@
     "date": "2026-05-18",
     "summary": "Study-heavy with clean closure",
     "image": null,
-    "tags": ["daily", "study", "school", "saas"],
+    "tags": [
+      "daily",
+      "study",
+      "school",
+      "saas"
+    ],
     "body": "Study-heavy day again, but with solid closure on the queue.\n\n## IBX snapshot for 2026-05-18\n\n- done tasks: **8**\n- open tasks due that day: **0**\n- done priority split: **4** priority-1, **1** priority-2, **3** priority-3\n- estimated effort completed: **7.25 hours**\n\n## What moved\n\n- locked a SaaS idea/problem direction\n- handled weekly school/admin tasks\n- closed support tasks around routine and nutrition\n- made progress on planning work tied to hackathon + execution\n\n## Takeaway\n\nThis was a structured prep day: less chaos, better closure, and clearer next steps."
   }
 }

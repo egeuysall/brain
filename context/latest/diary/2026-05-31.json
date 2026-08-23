@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-05-31",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-05-31",
     "url": "https://egeuysal.com/diary/2026-05-31/",
@@ -11,7 +11,12 @@
     "date": "2026-05-31",
     "summary": "Cooking became real",
     "image": null,
-    "tags": ["daily", "cooking", "nutrition", "writing"],
+    "tags": [
+      "daily",
+      "cooking",
+      "nutrition",
+      "writing"
+    ],
     "body": "Cooking stayed the main thing today.\n\n## IBX snapshot for 2026-05-31\n\n- done tasks: **9**\n- open tasks due that day: **0**\n- done priority split: **3** priority-1, **4** priority-2, **2** priority-3\n- estimated effort completed: **8 hours**\n\n## What moved\n\n- cooked and ate around the pull-day plan\n- bought cottage cheese for recipes\n- kept hydration, omega-3, breakfast prep, and light biking in the routine\n- wrote [Cooking](/blog/cooking/)\n\n## Cooking note\n\nThe main realization from the post is that cooking is not as hard as I made it in my head.\nIt is mostly patience, willingness to get messy, and repeating simple dishes until they get better.\n\nIt also made food feel less like macros only and more like independence.\n\n## Takeaway\n\nCooking is becoming a real hobby, not just a nutrition tool. It gives me something physical and useful while I am between bigger startup ideas."
   }
 }

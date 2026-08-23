@@ -3,7 +3,7 @@
   "kind": "ryva-knowledge-item",
   "source": "diary",
   "id": "2026-04-24",
-  "generatedAt": "2026-08-15",
+  "generatedAt": "2026-08-22",
   "entry": {
     "id": "2026-04-24",
     "url": "https://egeuysal.com/diary/2026-04-24/",
@@ -11,7 +11,13 @@
     "date": "2026-04-24",
     "summary": "Ready-to-go fitness week",
     "image": null,
-    "tags": ["fitness", "saas", "validation", "ryva", "daily"],
+    "tags": [
+      "fitness",
+      "saas",
+      "validation",
+      "ryva",
+      "daily"
+    ],
     "body": "Today was a full commitment day. The fitness direction is fully ready to execute.\n\n## IBX parsed snapshot for 2026-04-24\n\nPulled from IBX CLI:\n\n- done tasks: **22**\n- open tasks due today: **0**\n- done priority split: **9** priority-1, **10** priority-2, **3** priority-3\n- estimated effort completed: **18.75 hours**\n\nHigh-signal completed work included:\n\n- validating Bri Reddit posts\n- drafting and sending product-style outputs\n- discovery conversations for the problem\n- explicit tracking setup for \"who returns later\"\n\n## Bridge notes pulled with Bri CLI\n\nPulled from `bri notes`:\n\n- [fitness-app-idea](https://bri.egeuysal.com/egeuysall/fitness-app-idea): core wedge is fast, context-aware \"what now\" decisions\n- [fitness-idea-validation-summary](https://bri.egeuysal.com/egeuysall/fitness-idea-validation-summary): pain is validated across Reddit + app review datasets\n- [build-something](https://bri.egeuysal.com/egeuysall/build-something): keep scope tight, trust-first GTM, and judge PMF by repeat behavior\n\n## Commitment window\n\nI will test this fitness idea until **Sunday, May 3, 2026** and see what happens.\n\nIf there is no real signal by then, I will go back to Ryva hard.\n\nSignal bar is clear:\n\n- repeat usage/replies\n- users returning with real situations\n- proof of behavior change, not just curiosity\n\n## Takeaway\n\nThis was not a maybe day. It was a locked direction day with a real test window and a clear fallback."
   }
 }
